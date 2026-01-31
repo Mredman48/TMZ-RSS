@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[TMZ – Top 5 (Unofficial)]]></title>
+        <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
+        <link>https://www.tmz.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 31 Jan 2026 03:00:12 GMT</lastBuildDate>
+        <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[en]]></language>
+        <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Catherine O'Hara Dead at 71]]></title>
+            <link>https://www.tmz.com/2026/01/30/catherine-ohara-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/catherine-ohara-dead/</guid>
+            <pubDate>Sat, 31 Jan 2026 03:00:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Grammys -- Beyoncé, Kendrick Win Big In 2025, Who Could Take It in 2026?!]]></title>
+            <link>https://www.tmz.com/photos/2026/01/30/grammy-2026-nominations-who-will-win/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/30/grammy-2026-nominations-who-will-win/</guid>
+            <pubDate>Sat, 31 Jan 2026 03:00:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/01/29/a618ced09a0b4fab84ce4298c677f169_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/01/29/a618ced09a0b4fab84ce4298c677f169_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/01/29/a618ced09a0b4fab84ce4298c677f169_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Former CNN Anchor Don Lemon Arrested by Federal Agents]]></title>
+            <link>https://www.tmz.com/2026/01/30/don-lemon-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/don-lemon-arrested/</guid>
+            <pubDate>Sat, 31 Jan 2026 03:00:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/01/30/514357ae77e94d278c528f117ecf3a5f_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/01/30/514357ae77e94d278c528f117ecf3a5f_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/01/30/514357ae77e94d278c528f117ecf3a5f_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tap-In: Saweetie's Lil' Brown Bikini, Kylie Jenner's Smokin' Hot Shot!]]></title>
+            <link>https://www.tmz.com/photos/2026/01/30/tmz-tap-in-week-1-26-26/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/30/tmz-tap-in-week-1-26-26/</guid>
+            <pubDate>Sat, 31 Jan 2026 03:00:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/01/30/8e05147cf5f745e1879ae61f33d13d03_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/01/30/8e05147cf5f745e1879ae61f33d13d03_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/01/30/8e05147cf5f745e1879ae61f33d13d03_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Trump Accused In Epstein Files of Forcing Underage Girl To Perform Oral Sex]]></title>
+            <link>https://www.tmz.com/2026/01/30/trump-accused-of-forcing-underage-girl-to-perform-oral-sex/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/trump-accused-of-forcing-underage-girl-to-perform-oral-sex/</guid>
+            <pubDate>Sat, 31 Jan 2026 03:00:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg">
+            </media:thumbnail>
+        </item>
+    </channel>
+</rss>
