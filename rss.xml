@@ -4,7 +4,7 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jan 2026 22:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 23:57:10 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
@@ -12,7 +12,7 @@
             <title><![CDATA['Sanford and Son' Star Grady Demond Wilson Dead at 79]]></title>
             <link>https://www.tmz.com/2026/01/31/grady-demond-wilson-dead-sanford-and-son/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/01/31/grady-demond-wilson-dead-sanford-and-son/</guid>
-            <pubDate>Sat, 31 Jan 2026 22:59:11 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 23:57:10 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/01/31/33d6aff344cd47cdac43ecb8b281582b_xs.png" length="0" type="image/png"/>
             <media:content url="https://imagez.tmz.com/image/33/16by9/2026/01/31/33d6aff344cd47cdac43ecb8b281582b_xs.png" medium="image">
             </media:content>
@@ -23,7 +23,7 @@
             <title><![CDATA[The Grammys’ Biggest Fashion Flexes ... So Iconic?!]]></title>
             <link>https://www.tmz.com/photos/2026/01/31/wtf-fashion-from-the-grammys-through-the-years-kim-kardashian-bianca-censori/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/31/wtf-fashion-from-the-grammys-through-the-years-kim-kardashian-bianca-censori/</guid>
-            <pubDate>Sat, 31 Jan 2026 22:59:11 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 23:57:10 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/01/30/1450510b3c01422da1125f578abfeaa0_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/14/16by9/2026/01/30/1450510b3c01422da1125f578abfeaa0_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ghislaine Maxwell Channels Jeffrey Epstein in Defiant Video Deposition]]></title>
-            <link>https://www.tmz.com/2026/01/31/ghislaine-maxwell-video-deposition-jeffrey-epstein-files/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/01/31/ghislaine-maxwell-video-deposition-jeffrey-epstein-files/</guid>
-            <pubDate>Sat, 31 Jan 2026 22:59:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/01/31/5873b3e767634452ab2519b3622b55ad_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/01/31/5873b3e767634452ab2519b3622b55ad_xs.png" medium="image">
+            <title><![CDATA[Jeffrey Epstein Claims Friend of the Trumps Had Sex with Marla Maples' Shoes]]></title>
+            <link>https://www.tmz.com/2026/01/31/jeffrey-epstein-trump-friend-sex-with-marla-maple-shoe/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/31/jeffrey-epstein-trump-friend-sex-with-marla-maple-shoe/</guid>
+            <pubDate>Sat, 31 Jan 2026 23:57:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/01/31/9b6509b581824249af7e352f2900f6cd_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/01/31/9b6509b581824249af7e352f2900f6cd_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/01/31/5873b3e767634452ab2519b3622b55ad_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/01/31/9b6509b581824249af7e352f2900f6cd_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[January 2026 Hot Shots ... Too Hot For Winter!]]></title>
             <link>https://www.tmz.com/photos/2026/01/31/january-2026-hot-shots/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/31/january-2026-hot-shots/</guid>
-            <pubDate>Sat, 31 Jan 2026 22:59:11 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 23:57:10 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/01/30/eb5f69ced5dc4946b3b45ebb9863b3fd_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/01/30/eb5f69ced5dc4946b3b45ebb9863b3fd_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Catherine O'Hara Dead at 71]]></title>
-            <link>https://www.tmz.com/2026/01/30/catherine-ohara-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/catherine-ohara-dead/</guid>
-            <pubDate>Sat, 31 Jan 2026 22:59:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" medium="image">
+            <title><![CDATA[Bella Hadid's Ex Adan Banuelos Arrested for Public Intoxication]]></title>
+            <link>https://www.tmz.com/2026/01/31/bella-hadid-ex-boyfriend-arrest-adan-banuelos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/31/bella-hadid-ex-boyfriend-arrest-adan-banuelos/</guid>
+            <pubDate>Sat, 31 Jan 2026 23:57:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/01/31/2034d293e88847c3ac5b7d8032c49af5_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/01/31/2034d293e88847c3ac5b7d8032c49af5_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/01/31/2034d293e88847c3ac5b7d8032c49af5_xs.png">
             </media:thumbnail>
         </item>
     </channel>
