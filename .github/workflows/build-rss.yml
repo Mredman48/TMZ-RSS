@@ -1,0 +1,34 @@
+name: Build RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 * * * *" # hourly at :15 (UTC)
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Use npm install (not npm ci) since you won't have a package-lock.json
+      - name: Install
+        run: npm install
+
+      - name: Build RSS
+        run: npm run build:rss
+
+      - name: Commit rss.xml
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update rss.xml"
+          file_pattern: rss.xml
