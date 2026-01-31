@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jan 2026 07:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 09:48:45 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Catherine O'Hara Dead at 71]]></title>
-            <link>https://www.tmz.com/2026/01/30/catherine-ohara-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/catherine-ohara-dead/</guid>
-            <pubDate>Sat, 31 Jan 2026 07:58:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" medium="image">
+            <title><![CDATA[Ellen DeGeneres Goes Mansion Shopping Despite Nationwide Protest Call]]></title>
+            <link>https://www.tmz.com/2026/01/30/ellen-degeneres-mansion-shopping-montecito/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/ellen-degeneres-mansion-shopping-montecito/</guid>
+            <pubDate>Sat, 31 Jan 2026 09:48:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/01/30/345042d5933b4d4a86ec16215f0b177b_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/01/30/345042d5933b4d4a86ec16215f0b177b_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/01/30/345042d5933b4d4a86ec16215f0b177b_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Grammys -- Beyoncé, Kendrick Win Big In 2025, Who Could Take It in 2026?!]]></title>
-            <link>https://www.tmz.com/photos/2026/01/30/grammy-2026-nominations-who-will-win/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/30/grammy-2026-nominations-who-will-win/</guid>
-            <pubDate>Sat, 31 Jan 2026 07:58:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/01/29/a618ced09a0b4fab84ce4298c677f169_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/01/29/a618ced09a0b4fab84ce4298c677f169_xs.jpg" medium="image">
+            <title><![CDATA[The Grammys’ Biggest Fashion Flexes ... So Iconic?!]]></title>
+            <link>https://www.tmz.com/photos/2026/01/31/wtf-fashion-from-the-grammys-through-the-years-kim-kardashian-bianca-censori/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/31/wtf-fashion-from-the-grammys-through-the-years-kim-kardashian-bianca-censori/</guid>
+            <pubDate>Sat, 31 Jan 2026 09:48:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/01/30/1450510b3c01422da1125f578abfeaa0_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/14/16by9/2026/01/30/1450510b3c01422da1125f578abfeaa0_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/01/29/a618ced09a0b4fab84ce4298c677f169_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/14/16by9/2026/01/30/1450510b3c01422da1125f578abfeaa0_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Former CNN Anchor Don Lemon Arrested by Federal Agents]]></title>
-            <link>https://www.tmz.com/2026/01/30/don-lemon-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/don-lemon-arrested/</guid>
-            <pubDate>Sat, 31 Jan 2026 07:58:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/01/30/514357ae77e94d278c528f117ecf3a5f_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/01/30/514357ae77e94d278c528f117ecf3a5f_xs.jpg" medium="image">
+            <title><![CDATA[Don Lemon Released Without Bail After Church Protest Arrest]]></title>
+            <link>https://www.tmz.com/2026/01/30/don-lemon-released-without-bail/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/don-lemon-released-without-bail/</guid>
+            <pubDate>Sat, 31 Jan 2026 09:48:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/01/30/b40e24b42c6643bc9489663f04da4121_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/01/30/b40e24b42c6643bc9489663f04da4121_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/01/30/514357ae77e94d278c528f117ecf3a5f_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/01/30/b40e24b42c6643bc9489663f04da4121_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Tap-In: Saweetie's Lil' Brown Bikini, Kylie Jenner's Smokin' Hot Shot!]]></title>
-            <link>https://www.tmz.com/photos/2026/01/30/tmz-tap-in-week-1-26-26/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/30/tmz-tap-in-week-1-26-26/</guid>
-            <pubDate>Sat, 31 Jan 2026 07:58:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/01/30/8e05147cf5f745e1879ae61f33d13d03_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/01/30/8e05147cf5f745e1879ae61f33d13d03_xs.jpg" medium="image">
+            <title><![CDATA[January 2026 Hot Shots ... Too Hot For Winter!]]></title>
+            <link>https://www.tmz.com/photos/2026/01/31/january-2026-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/31/january-2026-hot-shots/</guid>
+            <pubDate>Sat, 31 Jan 2026 09:48:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/01/30/eb5f69ced5dc4946b3b45ebb9863b3fd_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/01/30/eb5f69ced5dc4946b3b45ebb9863b3fd_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/01/30/8e05147cf5f745e1879ae61f33d13d03_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/01/30/eb5f69ced5dc4946b3b45ebb9863b3fd_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Trump Accused In Epstein Files of Forcing Underage Girl To Perform Oral Sex]]></title>
-            <link>https://www.tmz.com/2026/01/30/trump-accused-of-forcing-underage-girl-to-perform-oral-sex/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/trump-accused-of-forcing-underage-girl-to-perform-oral-sex/</guid>
-            <pubDate>Sat, 31 Jan 2026 07:58:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg" medium="image">
+            <title><![CDATA[CNN Reporter Veronica Miracle Hit With Tear Gas Reporting From ICE Protest]]></title>
+            <link>https://www.tmz.com/2026/01/30/cnn-reporter-tear-gassed-shot-rubber-bullets-ice-protest-los-angeles/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/cnn-reporter-tear-gassed-shot-rubber-bullets-ice-protest-los-angeles/</guid>
+            <pubDate>Sat, 31 Jan 2026 09:48:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/01/31/b7e25b09585c49ee95f39b99fda9ee60_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/01/31/b7e25b09585c49ee95f39b99fda9ee60_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/01/31/b7e25b09585c49ee95f39b99fda9ee60_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
