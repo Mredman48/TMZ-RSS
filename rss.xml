@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jan 2026 15:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 17:44:51 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Trump Accused In Epstein Files of Forcing Underage Girl To Perform Oral Sex]]></title>
-            <link>https://www.tmz.com/2026/01/30/trump-accused-of-forcing-underage-girl-to-perform-oral-sex/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/trump-accused-of-forcing-underage-girl-to-perform-oral-sex/</guid>
-            <pubDate>Sat, 31 Jan 2026 15:59:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg" medium="image">
+            <title><![CDATA['Sanford and Son' Star Grady Demond Wilson Dead at 79]]></title>
+            <link>https://www.tmz.com/2026/01/31/grady-demond-wilson-dead-sanford-and-son/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/31/grady-demond-wilson-dead-sanford-and-son/</guid>
+            <pubDate>Sat, 31 Jan 2026 17:44:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/01/31/33d6aff344cd47cdac43ecb8b281582b_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/33/16by9/2026/01/31/33d6aff344cd47cdac43ecb8b281582b_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/01/30/56b3b0f6270b410b96ed49939b58ad25_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/01/31/33d6aff344cd47cdac43ecb8b281582b_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[The Grammys’ Biggest Fashion Flexes ... So Iconic?!]]></title>
             <link>https://www.tmz.com/photos/2026/01/31/wtf-fashion-from-the-grammys-through-the-years-kim-kardashian-bianca-censori/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/31/wtf-fashion-from-the-grammys-through-the-years-kim-kardashian-bianca-censori/</guid>
-            <pubDate>Sat, 31 Jan 2026 15:59:40 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 17:44:51 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/01/30/1450510b3c01422da1125f578abfeaa0_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/14/16by9/2026/01/30/1450510b3c01422da1125f578abfeaa0_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Don Lemon Released Without Bail After Church Protest Arrest]]></title>
-            <link>https://www.tmz.com/2026/01/30/don-lemon-released-without-bail/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/01/30/don-lemon-released-without-bail/</guid>
-            <pubDate>Sat, 31 Jan 2026 15:59:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/01/30/b40e24b42c6643bc9489663f04da4121_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/01/30/b40e24b42c6643bc9489663f04da4121_xs.jpg" medium="image">
+            <title><![CDATA[Ghislaine Maxwell Channels Jeffrey Epstein in Defiant Video Deposition]]></title>
+            <link>https://www.tmz.com/2026/01/31/ghislaine-maxwell-video-deposition-jeffrey-epstein-files/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/01/31/ghislaine-maxwell-video-deposition-jeffrey-epstein-files/</guid>
+            <pubDate>Sat, 31 Jan 2026 17:44:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/01/31/5873b3e767634452ab2519b3622b55ad_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/01/31/5873b3e767634452ab2519b3622b55ad_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/01/30/b40e24b42c6643bc9489663f04da4121_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/01/31/5873b3e767634452ab2519b3622b55ad_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[January 2026 Hot Shots ... Too Hot For Winter!]]></title>
             <link>https://www.tmz.com/photos/2026/01/31/january-2026-hot-shots/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/31/january-2026-hot-shots/</guid>
-            <pubDate>Sat, 31 Jan 2026 15:59:40 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 17:44:51 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/01/30/eb5f69ced5dc4946b3b45ebb9863b3fd_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/01/30/eb5f69ced5dc4946b3b45ebb9863b3fd_xs.jpg" medium="image">
             </media:content>
@@ -56,7 +56,7 @@
             <title><![CDATA[Catherine O'Hara Dead at 71]]></title>
             <link>https://www.tmz.com/2026/01/30/catherine-ohara-dead/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/01/30/catherine-ohara-dead/</guid>
-            <pubDate>Sat, 31 Jan 2026 15:59:40 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 17:44:51 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/01/30/a37a27f2b3c044978987bbd2f536bd53_xs.jpg" medium="image">
             </media:content>
