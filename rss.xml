@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 07:59:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 11:11:56 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Former Prince Andrew Photographed Crouched Over Woman in Epstein Files]]></title>
-            <link>https://www.tmz.com/2026/02/01/prince-andrew-photographed-over-woman-epstein-files/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/prince-andrew-photographed-over-woman-epstein-files/</guid>
-            <pubDate>Mon, 02 Feb 2026 07:59:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/02/01/eb21751bd1194a6c82fb596cd34164d5_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/02/01/eb21751bd1194a6c82fb596cd34164d5_xs.jpg" medium="image">
+            <title><![CDATA[5-Year-Old Liam Ramos Released From ICE, Heads Home to Minneapolis]]></title>
+            <link>https://www.tmz.com/2026/02/01/liam-ramos-released-from-ice-heads-to-minneapolis/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/liam-ramos-released-from-ice-heads-to-minneapolis/</guid>
+            <pubDate>Mon, 02 Feb 2026 11:11:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/02/01/1d59c3eb344a48a489d2afce1a461aa8_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/02/01/1d59c3eb344a48a489d2afce1a461aa8_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/02/01/eb21751bd1194a6c82fb596cd34164d5_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/02/01/1d59c3eb344a48a489d2afce1a461aa8_xs.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[The Best Of The Grammys Who'd You Rather?!]]></title>
-            <link>https://www.tmz.com/photos/2025/02/02/best-grammys-whod-you-rather/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2025/02/02/best-grammys-whod-you-rather/</guid>
-            <pubDate>Mon, 02 Feb 2026 07:59:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2025/01/31/c1ed7651762e4690822599f1e32e094c_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c1/16by9/2025/01/31/c1ed7651762e4690822599f1e32e094c_xs.jpg" medium="image">
+            <title><![CDATA[Francesca Farago vs. Meredith Duxbury Who'd You Rather?! (Hotties In Faux Fur Edition)]]></title>
+            <link>https://www.tmz.com/photos/2017/09/11/whod-you-rather-part-3/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2017/09/11/whod-you-rather-part-3/</guid>
+            <pubDate>Mon, 02 Feb 2026 11:11:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2025/01/31/c1ed7651762e4690822599f1e32e094c_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Snoop Dogg Shows Love for Daughter After Granddaughter's Death]]></title>
-            <link>https://www.tmz.com/2026/02/01/snoop-dogg-supports-daughter-after-granddaughter-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/snoop-dogg-supports-daughter-after-granddaughter-death/</guid>
-            <pubDate>Mon, 02 Feb 2026 07:59:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/02/01/c62d84e7a728479c89986c52eb3b380c_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/02/01/c62d84e7a728479c89986c52eb3b380c_xs.jpg" medium="image">
+            <title><![CDATA[Sydney Sweeney and Scooter Braun Step Out For a Walk in L.A.]]></title>
+            <link>https://www.tmz.com/2026/02/01/sydney-sweeney-scooter-braun-seen-walking-together/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/sydney-sweeney-scooter-braun-seen-walking-together/</guid>
+            <pubDate>Mon, 02 Feb 2026 11:11:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/02/01/0e67b77869d748898e00a73a9709fafa_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/02/01/0e67b77869d748898e00a73a9709fafa_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/02/01/c62d84e7a728479c89986c52eb3b380c_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/02/01/0e67b77869d748898e00a73a9709fafa_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Grammy Scramble -- Guess The Mixed-Up Celebrity!]]></title>
-            <link>https://www.tmz.com/photos/2017/03/13/celebrity-scramble-guess-who-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2017/03/13/celebrity-scramble-guess-who-photos/</guid>
-            <pubDate>Mon, 02 Feb 2026 07:59:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/01/30/1f31088b096f4207a2a2aa8b4dcc72a7_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/01/30/1f31088b096f4207a2a2aa8b4dcc72a7_xs.jpg" medium="image">
+            <title><![CDATA[Grammy Awards 2026 -- The Arrivals That Shut Down the Red Carpet!]]></title>
+            <link>https://www.tmz.com/photos/2026/02/01/grammy-awards-2026-all-the-best-of-the-arrivals/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/01/grammy-awards-2026-all-the-best-of-the-arrivals/</guid>
+            <pubDate>Mon, 02 Feb 2026 11:11:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/01/30/1f31088b096f4207a2a2aa8b4dcc72a7_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Dave Grohl and Wife Make Rare Appearance After Affair Scandal]]></title>
-            <link>https://www.tmz.com/2026/02/01/dave-grohl-and-wife-rare-appearance-after-affair-scandal/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/dave-grohl-and-wife-rare-appearance-after-affair-scandal/</guid>
-            <pubDate>Mon, 02 Feb 2026 07:59:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/02/01/2792ce9d537d4f62bb43cd4ab995fadf_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/02/01/2792ce9d537d4f62bb43cd4ab995fadf_xs.jpg" medium="image">
+            <title><![CDATA[Guess Who This Lil' Musician In Yellow Turned Into!]]></title>
+            <link>https://www.tmz.com/photos/2021/09/27/guess-who-these-cute-kids-turned-into-part-18/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2021/09/27/guess-who-these-cute-kids-turned-into-part-18/</guid>
+            <pubDate>Mon, 02 Feb 2026 11:11:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/02/01/2792ce9d537d4f62bb43cd4ab995fadf_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
