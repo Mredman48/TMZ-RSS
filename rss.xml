@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 18:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 23:53:10 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA['TODAY' Anchor Savannah Guthrie’s Mom Missing]]></title>
-            <link>https://www.tmz.com/2026/02/01/today-anchor-savannah-guthrie-s-mom-missing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/today-anchor-savannah-guthrie-s-mom-missing/</guid>
-            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/02/02/03280d87ec65424cbad48a2f7201e7e1_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/02/02/03280d87ec65424cbad48a2f7201e7e1_xs.png" medium="image">
+            <title><![CDATA[Alex Pretti's Shooting Death Officially Ruled Homicide]]></title>
+            <link>https://www.tmz.com/2026/02/02/alex-pretti-shooting-death-ruled-homicide/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/alex-pretti-shooting-death-ruled-homicide/</guid>
+            <pubDate>Mon, 02 Feb 2026 23:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/02/02/0ab19f378c7f4f17b2ec3e3ef03cd534_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/02/02/0ab19f378c7f4f17b2ec3e3ef03cd534_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/02/02/03280d87ec65424cbad48a2f7201e7e1_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/02/02/0ab19f378c7f4f17b2ec3e3ef03cd534_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Guess Who This Lil' Musician In Yellow Turned Into!]]></title>
-            <link>https://www.tmz.com/photos/2021/09/27/guess-who-these-cute-kids-turned-into-part-18/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2021/09/27/guess-who-these-cute-kids-turned-into-part-18/</guid>
-            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg" medium="image">
+            <title><![CDATA[Rubi Rose Snatched In Revealing Thong Swimsuit ... See The Pics!]]></title>
+            <link>https://www.tmz.com/photos/2026/02/02/rubi-rose-lookin-snatched-in-silver-swimwear/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/02/rubi-rose-lookin-snatched-in-silver-swimwear/</guid>
+            <pubDate>Mon, 02 Feb 2026 23:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7c5986e6eec84f9baf87136e5090e70b_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7c5986e6eec84f9baf87136e5090e70b_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7c5986e6eec84f9baf87136e5090e70b_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[President Trump Threatens to Sue Trevor Noah For Epstein Joke at Grammys]]></title>
-            <link>https://www.tmz.com/2026/02/02/trump-threatens-sue-trevor-noah-epstein-grammys/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/trump-threatens-sue-trevor-noah-epstein-grammys/</guid>
-            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/02/02/cb40aebb91774fb79a6d579e4e4f4520_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/02/02/cb40aebb91774fb79a6d579e4e4f4520_xs.jpg" medium="image">
+            <title><![CDATA['TODAY' Anchor Savannah Guthrie’s Mom's Disappearance Considered a Crime]]></title>
+            <link>https://www.tmz.com/2026/02/02/today-anchor-savannah-guthrie-missing-mom-crime-scene/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/today-anchor-savannah-guthrie-missing-mom-crime-scene/</guid>
+            <pubDate>Mon, 02 Feb 2026 23:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/02/02/a161a61be65743f0a1ae33ba3863379f_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/02/02/a161a61be65743f0a1ae33ba3863379f_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/02/02/cb40aebb91774fb79a6d579e4e4f4520_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/02/02/a161a61be65743f0a1ae33ba3863379f_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Grammy Awards 2026 -- The Arrivals That Shut Down the Red Carpet!]]></title>
-            <link>https://www.tmz.com/photos/2026/02/01/grammy-awards-2026-all-the-best-of-the-arrivals/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/01/grammy-awards-2026-all-the-best-of-the-arrivals/</guid>
-            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg" medium="image">
+            <title><![CDATA[Francesca Farago vs. Meredith Duxbury Who'd You Rather?! (Hotties In Faux Fur Edition)]]></title>
+            <link>https://www.tmz.com/photos/2017/09/11/whod-you-rather-part-3/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2017/09/11/whod-you-rather-part-3/</guid>
+            <pubDate>Mon, 02 Feb 2026 23:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jelly Roll Avoids ICE Question at Grammys, Says He's a 'Dumb Redneck']]></title>
-            <link>https://www.tmz.com/2026/02/02/jelly-roll-ice-politics-dumb-redneck-grammys/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/jelly-roll-ice-politics-dumb-redneck-grammys/</guid>
-            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7cb1ba65b1b94f8a9531df710d5d685a_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7cb1ba65b1b94f8a9531df710d5d685a_xs.jpg" medium="image">
+            <title><![CDATA[David Del Rio Wants Results of New 'Matlock' Investigation]]></title>
+            <link>https://www.tmz.com/2026/02/02/david-del-rio-matlock-cbs-investigation-results/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/david-del-rio-matlock-cbs-investigation-results/</guid>
+            <pubDate>Mon, 02 Feb 2026 23:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2025/10/15/8d58114f90474eb09b1c2e26c50c2354_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8d/16by9/2025/10/15/8d58114f90474eb09b1c2e26c50c2354_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7cb1ba65b1b94f8a9531df710d5d685a_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2025/10/15/8d58114f90474eb09b1c2e26c50c2354_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
