@@ -4,7 +4,7 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 16:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 18:07:14 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
@@ -12,7 +12,7 @@
             <title><![CDATA['TODAY' Anchor Savannah Guthrie’s Mom Missing]]></title>
             <link>https://www.tmz.com/2026/02/01/today-anchor-savannah-guthrie-s-mom-missing/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/01/today-anchor-savannah-guthrie-s-mom-missing/</guid>
-            <pubDate>Mon, 02 Feb 2026 16:03:41 GMT</pubDate>
+            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/02/02/03280d87ec65424cbad48a2f7201e7e1_xs.png" length="0" type="image/png"/>
             <media:content url="https://imagez.tmz.com/image/03/16by9/2026/02/02/03280d87ec65424cbad48a2f7201e7e1_xs.png" medium="image">
             </media:content>
@@ -23,7 +23,7 @@
             <title><![CDATA[Guess Who This Lil' Musician In Yellow Turned Into!]]></title>
             <link>https://www.tmz.com/photos/2021/09/27/guess-who-these-cute-kids-turned-into-part-18/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2021/09/27/guess-who-these-cute-kids-turned-into-part-18/</guid>
-            <pubDate>Mon, 02 Feb 2026 16:03:41 GMT</pubDate>
+            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/94/16by9/2026/01/30/940691a413e841a7b531b4bc8bfa4188_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bad Bunny Wins Grammy For Album of the Year!!!]]></title>
-            <link>https://www.tmz.com/2026/02/01/bad-bunny-wins-album-of-the-year-grammy/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/bad-bunny-wins-album-of-the-year-grammy/</guid>
-            <pubDate>Mon, 02 Feb 2026 16:03:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/02/02/1eec5070ac4d4b1693b80067d02648ca_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/02/02/1eec5070ac4d4b1693b80067d02648ca_xs.png" medium="image">
+            <title><![CDATA[President Trump Threatens to Sue Trevor Noah For Epstein Joke at Grammys]]></title>
+            <link>https://www.tmz.com/2026/02/02/trump-threatens-sue-trevor-noah-epstein-grammys/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/trump-threatens-sue-trevor-noah-epstein-grammys/</guid>
+            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/02/02/cb40aebb91774fb79a6d579e4e4f4520_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/02/02/cb40aebb91774fb79a6d579e4e4f4520_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/02/02/1eec5070ac4d4b1693b80067d02648ca_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/02/02/cb40aebb91774fb79a6d579e4e4f4520_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Grammy Awards 2026 -- The Arrivals That Shut Down the Red Carpet!]]></title>
             <link>https://www.tmz.com/photos/2026/02/01/grammy-awards-2026-all-the-best-of-the-arrivals/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/01/grammy-awards-2026-all-the-best-of-the-arrivals/</guid>
-            <pubDate>Mon, 02 Feb 2026 16:03:41 GMT</pubDate>
+            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/02/02/3b267c6745014096b56bef8a69ae2262_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Justin Bieber Performs in Undies At Grammy Awards]]></title>
-            <link>https://www.tmz.com/2026/02/01/justin-bieber-performs-at-grammy-awards-underwear/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/01/justin-bieber-performs-at-grammy-awards-underwear/</guid>
-            <pubDate>Mon, 02 Feb 2026 16:03:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/02/02/d38686c1b4b7494fac9899918efa8d04_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/02/02/d38686c1b4b7494fac9899918efa8d04_xs.png" medium="image">
+            <title><![CDATA[Jelly Roll Avoids ICE Question at Grammys, Says He's a 'Dumb Redneck']]></title>
+            <link>https://www.tmz.com/2026/02/02/jelly-roll-ice-politics-dumb-redneck-grammys/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/jelly-roll-ice-politics-dumb-redneck-grammys/</guid>
+            <pubDate>Mon, 02 Feb 2026 18:07:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7cb1ba65b1b94f8a9531df710d5d685a_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7cb1ba65b1b94f8a9531df710d5d685a_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/02/02/d38686c1b4b7494fac9899918efa8d04_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7cb1ba65b1b94f8a9531df710d5d685a_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
