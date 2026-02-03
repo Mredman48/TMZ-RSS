@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 14:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 17:40:27 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Charlie Kirk's Widow Erika Wants Transparency in Alleged Murderer's Trial]]></title>
-            <link>https://www.tmz.com/2026/02/02/erika-kirk-wants-transparency-alleged-murderer-trial/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/erika-kirk-wants-transparency-alleged-murderer-trial/</guid>
-            <pubDate>Tue, 03 Feb 2026 14:28:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/02/03/427c779dd7b243f58d2654acd8210957_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/02/03/427c779dd7b243f58d2654acd8210957_xs.jpg" medium="image">
+            <title><![CDATA[Jeffrey Epstein's Porn Stash Revealed in Epstein Files]]></title>
+            <link>https://www.tmz.com/2026/02/03/jeffrey-epstein-porn-stash-revealed-in-files/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/jeffrey-epstein-porn-stash-revealed-in-files/</guid>
+            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c4/16by9/2026/02/02/c4eecd52202944ffb32225ef33180c4e_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/02/02/c4eecd52202944ffb32225ef33180c4e_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/02/03/427c779dd7b243f58d2654acd8210957_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2026/02/02/c4eecd52202944ffb32225ef33180c4e_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[White-Hot Bikini -- Can You Guess The Sexy Star?!]]></title>
             <link>https://www.tmz.com/photos/2023/06/28/alix-earle-hot-shots/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2023/06/28/alix-earle-hot-shots/</guid>
-            <pubDate>Tue, 03 Feb 2026 14:28:22 GMT</pubDate>
+            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA['TODAY' Anchor Savannah Guthrie's Mom Abducted From Her Home]]></title>
-            <link>https://www.tmz.com/2026/02/02/savannah-guthrie-mom-investigation-possible-abduction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/savannah-guthrie-mom-investigation-possible-abduction/</guid>
-            <pubDate>Tue, 03 Feb 2026 14:28:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/02/02/e6bddfe92a4b4acc891f989abc4101ad_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/02/02/e6bddfe92a4b4acc891f989abc4101ad_xs.jpg" medium="image">
+            <title><![CDATA[Usher's Ex-Wife Tameka Foster Arrest Body Cam Shows Calm Police Interaction]]></title>
+            <link>https://www.tmz.com/2026/02/03/tameka-foster-bodycam-arrest-police/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/tameka-foster-bodycam-arrest-police/</guid>
+            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/02/02/e6bddfe92a4b4acc891f989abc4101ad_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Rufus In 'Gossip Girl' 'Memba Him?!]]></title>
             <link>https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</guid>
-            <pubDate>Tue, 03 Feb 2026 14:28:22 GMT</pubDate>
+            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bad Bunny Not Engaged, Despite Ring Buzz at Grammys]]></title>
-            <link>https://www.tmz.com/2026/02/02/bad-bunny-not-engaged-rumors-grammys-ring/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/bad-bunny-not-engaged-rumors-grammys-ring/</guid>
-            <pubDate>Tue, 03 Feb 2026 14:28:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/02/02/da7f45f45f764023bd7da99ee3b41bcd_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/02/02/da7f45f45f764023bd7da99ee3b41bcd_xs.jpg" medium="image">
+            <title><![CDATA[Sharon Osbourne Says Ozzy Was in the Building During Grammys Tribute]]></title>
+            <link>https://www.tmz.com/2026/02/03/sharon-osbourne-ozzy-in-grammys-building-tribute/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/sharon-osbourne-ozzy-in-grammys-building-tribute/</guid>
+            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/02/03/5d89f6f41a7949868cedd6b72ead720c_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/02/03/5d89f6f41a7949868cedd6b72ead720c_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/02/02/da7f45f45f764023bd7da99ee3b41bcd_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/02/03/5d89f6f41a7949868cedd6b72ead720c_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
