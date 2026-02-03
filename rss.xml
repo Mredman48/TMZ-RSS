@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 07:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 11:03:15 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Alex Pretti's Shooting Death Officially Ruled Homicide]]></title>
-            <link>https://www.tmz.com/2026/02/02/alex-pretti-shooting-death-ruled-homicide/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/alex-pretti-shooting-death-ruled-homicide/</guid>
-            <pubDate>Tue, 03 Feb 2026 07:56:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/02/02/0ab19f378c7f4f17b2ec3e3ef03cd534_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/02/02/0ab19f378c7f4f17b2ec3e3ef03cd534_xs.jpg" medium="image">
+            <title><![CDATA[Charlie Kirk's Widow Erika Wants Transparency in Alleged Murderer's Trial]]></title>
+            <link>https://www.tmz.com/2026/02/02/erika-kirk-wants-transparency-alleged-murderer-trial/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/erika-kirk-wants-transparency-alleged-murderer-trial/</guid>
+            <pubDate>Tue, 03 Feb 2026 11:03:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/02/03/427c779dd7b243f58d2654acd8210957_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/02/03/427c779dd7b243f58d2654acd8210957_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/02/02/0ab19f378c7f4f17b2ec3e3ef03cd534_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/02/03/427c779dd7b243f58d2654acd8210957_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rubi Rose Snatched In Revealing Thong Swimsuit ... See The Pics!]]></title>
-            <link>https://www.tmz.com/photos/2026/02/02/rubi-rose-lookin-snatched-in-silver-swimwear/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/02/rubi-rose-lookin-snatched-in-silver-swimwear/</guid>
-            <pubDate>Tue, 03 Feb 2026 07:56:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7c5986e6eec84f9baf87136e5090e70b_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7c5986e6eec84f9baf87136e5090e70b_xs.jpg" medium="image">
+            <title><![CDATA[White-Hot Bikini -- Can You Guess The Sexy Star?!]]></title>
+            <link>https://www.tmz.com/photos/2023/06/28/alix-earle-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2023/06/28/alix-earle-hot-shots/</guid>
+            <pubDate>Tue, 03 Feb 2026 11:03:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/02/02/7c5986e6eec84f9baf87136e5090e70b_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA['TODAY' Anchor Savannah Guthrie’s Mom's Disappearance Considered a Crime]]></title>
-            <link>https://www.tmz.com/2026/02/02/today-anchor-savannah-guthrie-missing-mom-crime-scene/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/today-anchor-savannah-guthrie-missing-mom-crime-scene/</guid>
-            <pubDate>Tue, 03 Feb 2026 07:56:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/02/02/a161a61be65743f0a1ae33ba3863379f_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/02/02/a161a61be65743f0a1ae33ba3863379f_xs.jpg" medium="image">
+            <title><![CDATA['TODAY' Anchor Savannah Guthrie's Mom Abducted From Her Bed]]></title>
+            <link>https://www.tmz.com/2026/02/02/savannah-guthrie-mom-investigation-possible-abduction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/savannah-guthrie-mom-investigation-possible-abduction/</guid>
+            <pubDate>Tue, 03 Feb 2026 11:03:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/02/02/e6bddfe92a4b4acc891f989abc4101ad_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/02/02/e6bddfe92a4b4acc891f989abc4101ad_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/02/02/a161a61be65743f0a1ae33ba3863379f_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/02/02/e6bddfe92a4b4acc891f989abc4101ad_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Francesca Farago vs. Meredith Duxbury Who'd You Rather?! (Hotties In Faux Fur Edition)]]></title>
-            <link>https://www.tmz.com/photos/2017/09/11/whod-you-rather-part-3/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2017/09/11/whod-you-rather-part-3/</guid>
-            <pubDate>Tue, 03 Feb 2026 07:56:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg" medium="image">
+            <title><![CDATA[Rufus In 'Gossip Girl' 'Memba Him?!]]></title>
+            <link>https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</guid>
+            <pubDate>Tue, 03 Feb 2026 11:03:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/01/30/d9bef3c7e5114bd29426b966586198f4_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[David Del Rio Wants Results of New 'Matlock' Investigation]]></title>
-            <link>https://www.tmz.com/2026/02/02/david-del-rio-matlock-cbs-investigation-results/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/david-del-rio-matlock-cbs-investigation-results/</guid>
-            <pubDate>Tue, 03 Feb 2026 07:56:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2025/10/15/8d58114f90474eb09b1c2e26c50c2354_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8d/16by9/2025/10/15/8d58114f90474eb09b1c2e26c50c2354_xs.jpg" medium="image">
+            <title><![CDATA[Bad Bunny Not Engaged, Despite Ring Buzz at Grammys]]></title>
+            <link>https://www.tmz.com/2026/02/02/bad-bunny-not-engaged-rumors-grammys-ring/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/02/bad-bunny-not-engaged-rumors-grammys-ring/</guid>
+            <pubDate>Tue, 03 Feb 2026 11:03:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/02/02/da7f45f45f764023bd7da99ee3b41bcd_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/02/02/da7f45f45f764023bd7da99ee3b41bcd_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2025/10/15/8d58114f90474eb09b1c2e26c50c2354_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/02/02/da7f45f45f764023bd7da99ee3b41bcd_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
