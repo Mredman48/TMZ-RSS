@@ -4,7 +4,7 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 17:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 19:51:44 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
@@ -12,7 +12,7 @@
             <title><![CDATA[Jeffrey Epstein's Porn Stash Revealed in Epstein Files]]></title>
             <link>https://www.tmz.com/2026/02/03/jeffrey-epstein-porn-stash-revealed-in-files/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/03/jeffrey-epstein-porn-stash-revealed-in-files/</guid>
-            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
+            <pubDate>Tue, 03 Feb 2026 19:51:44 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/c4/16by9/2026/02/02/c4eecd52202944ffb32225ef33180c4e_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/02/02/c4eecd52202944ffb32225ef33180c4e_xs.jpg" medium="image">
             </media:content>
@@ -20,21 +20,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[White-Hot Bikini -- Can You Guess The Sexy Star?!]]></title>
-            <link>https://www.tmz.com/photos/2023/06/28/alix-earle-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2023/06/28/alix-earle-hot-shots/</guid>
-            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg" medium="image">
+            <title><![CDATA[Celebrity Hot Dog Legs Guess Who!]]></title>
+            <link>https://www.tmz.com/photos/2015/07/02/celebrity-hot-dog-legs-guess-whose/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2015/07/02/celebrity-hot-dog-legs-guess-whose/</guid>
+            <pubDate>Tue, 03 Feb 2026 19:51:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/02/03/43cec4c34154479f865cab4fbc46d924_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/02/03/43cec4c34154479f865cab4fbc46d924_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/02/65887db7de624187bc8cb7b986e6fd0d_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/02/03/43cec4c34154479f865cab4fbc46d924_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Usher's Ex-Wife Tameka Foster Arrest Body Cam Shows Calm Police Interaction]]></title>
             <link>https://www.tmz.com/2026/02/03/tameka-foster-bodycam-arrest-police/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/03/tameka-foster-bodycam-arrest-police/</guid>
-            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
+            <pubDate>Tue, 03 Feb 2026 19:51:44 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg" medium="image">
             </media:content>
@@ -42,21 +42,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rufus In 'Gossip Girl' 'Memba Him?!]]></title>
-            <link>https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</guid>
-            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg" medium="image">
+            <title><![CDATA[Bruno Mars vs. Rosé Who'd You Rather?! (Pizza Pals Edition)]]></title>
+            <link>https://www.tmz.com/photos/2018/03/01/whod-you-rather-part-4-photos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2018/03/01/whod-you-rather-part-4-photos/</guid>
+            <pubDate>Tue, 03 Feb 2026 19:51:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/02/03/a1b6cafa453e4acd95416ca09abc53e1_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/02/03/a1b6cafa453e4acd95416ca09abc53e1_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/02/02/717b266ab35c4c739081899ff87cdc44_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/02/03/a1b6cafa453e4acd95416ca09abc53e1_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Sharon Osbourne Says Ozzy Was in the Building During Grammys Tribute]]></title>
             <link>https://www.tmz.com/2026/02/03/sharon-osbourne-ozzy-in-grammys-building-tribute/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/03/sharon-osbourne-ozzy-in-grammys-building-tribute/</guid>
-            <pubDate>Tue, 03 Feb 2026 17:40:27 GMT</pubDate>
+            <pubDate>Tue, 03 Feb 2026 19:51:44 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/02/03/5d89f6f41a7949868cedd6b72ead720c_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/02/03/5d89f6f41a7949868cedd6b72ead720c_xs.jpg" medium="image">
             </media:content>
