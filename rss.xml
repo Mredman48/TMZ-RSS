@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Feb 2026 07:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 11:04:11 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
+            <title><![CDATA[Rep. Jasmine Crockett Chastises Nicki Minaj for 'Selling Out' to Trump Administration]]></title>
+            <link>https://www.tmz.com/2026/02/03/jasmine-crockett-nicki-minaj-trump-alignment/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/jasmine-crockett-nicki-minaj-trump-alignment/</guid>
+            <pubDate>Wed, 04 Feb 2026 11:04:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ae/16by9/2026/02/03/ae6967dbde5b4bff88495659133fa4b3_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ae/16by9/2026/02/03/ae6967dbde5b4bff88495659133fa4b3_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ae/16by9/2026/02/03/ae6967dbde5b4bff88495659133fa4b3_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Stock Up On Hannah Stocking's Hot Shots For Her 33rd Birthday!]]></title>
+            <link>https://www.tmz.com/photos/2025/02/04/hannah-stocking-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2025/02/04/hannah-stocking-hot-shots/</guid>
+            <pubDate>Wed, 04 Feb 2026 11:04:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/10/16by9/2025/02/03/106037f7a2a54e24b84254fd9b3c4fb4_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/10/16by9/2025/02/03/106037f7a2a54e24b84254fd9b3c4fb4_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2025/02/03/106037f7a2a54e24b84254fd9b3c4fb4_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dog the Bounty Hunter's Stepson Arrested for Fatally Shooting Teenage Son]]></title>
+            <link>https://www.tmz.com/2026/02/03/dog-the-bounty-hunter-stepson-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/dog-the-bounty-hunter-stepson-arrested/</guid>
+            <pubDate>Wed, 04 Feb 2026 11:04:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/02/03/0df6e1dd1b454728a86e5ecf3c7cefaf_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/02/03/0df6e1dd1b454728a86e5ecf3c7cefaf_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/02/03/0df6e1dd1b454728a86e5ecf3c7cefaf_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Quinton Aaron's Family Says His Wife Isn't Legit, She Claims Spiritual Marriage]]></title>
+            <link>https://www.tmz.com/2026/02/03/quinton-aaron-margarita-marriage-spiritual/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/quinton-aaron-margarita-marriage-spiritual/</guid>
+            <pubDate>Wed, 04 Feb 2026 11:04:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/01/30/d6b25f33d93345fbb13e224dfcd326e0_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/01/30/d6b25f33d93345fbb13e224dfcd326e0_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/01/30/d6b25f33d93345fbb13e224dfcd326e0_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
             <title><![CDATA[Pima County Sheriff Gives Update on Search for Savannah Guthrie's Mom]]></title>
             <link>https://www.tmz.com/2026/02/03/nancy-guthrie-missing-arizona-pima-county-sheriff-update-live-stream/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/03/nancy-guthrie-missing-arizona-pima-county-sheriff-update-live-stream/</guid>
-            <pubDate>Wed, 04 Feb 2026 07:58:40 GMT</pubDate>
+            <pubDate>Wed, 04 Feb 2026 11:04:11 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/02/03/8d6a52d7aad24f8ea1fcf74fa4eb6ff9_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/02/03/8d6a52d7aad24f8ea1fcf74fa4eb6ff9_xs.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/02/03/8d6a52d7aad24f8ea1fcf74fa4eb6ff9_xs.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrity Hot Dog Legs Guess Who!]]></title>
-            <link>https://www.tmz.com/photos/2015/07/02/celebrity-hot-dog-legs-guess-whose/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2015/07/02/celebrity-hot-dog-legs-guess-whose/</guid>
-            <pubDate>Wed, 04 Feb 2026 07:58:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/02/03/43cec4c34154479f865cab4fbc46d924_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/02/03/43cec4c34154479f865cab4fbc46d924_xs.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/02/03/43cec4c34154479f865cab4fbc46d924_xs.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Usher's Ex-Wife Tameka Foster Arrest Body Cam Shows Calm Police Interaction]]></title>
-            <link>https://www.tmz.com/2026/02/03/tameka-foster-bodycam-arrest-police/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/tameka-foster-bodycam-arrest-police/</guid>
-            <pubDate>Wed, 04 Feb 2026 07:58:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/af/16by9/2026/02/03/af5df20c9f31431fa730c76634d284c7_xs.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars vs. Rosé Who'd You Rather?! (Pizza Pals Edition)]]></title>
-            <link>https://www.tmz.com/photos/2018/03/01/whod-you-rather-part-4-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2018/03/01/whod-you-rather-part-4-photos/</guid>
-            <pubDate>Wed, 04 Feb 2026 07:58:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/02/03/a1b6cafa453e4acd95416ca09abc53e1_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/02/03/a1b6cafa453e4acd95416ca09abc53e1_xs.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/02/03/a1b6cafa453e4acd95416ca09abc53e1_xs.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA['Breaking Bad' House Listing Price Slashed From $4M to Shockingly Low $400K]]></title>
-            <link>https://www.tmz.com/2026/02/03/breaking-bad-house-hits-market-for-lower-price/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/03/breaking-bad-house-hits-market-for-lower-price/</guid>
-            <pubDate>Wed, 04 Feb 2026 07:58:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/02/03/2c7bd849c29343d8b01e3020d0437866_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/02/03/2c7bd849c29343d8b01e3020d0437866_xs.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/02/03/2c7bd849c29343d8b01e3020d0437866_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
