@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 14:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 17:33:20 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[SZA and Shaboozey Are Not Dating, Despite Ongoing Rumors]]></title>
-            <link>https://www.tmz.com/2026/02/04/sza-not-dating-shaboozey/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/04/sza-not-dating-shaboozey/</guid>
-            <pubDate>Thu, 05 Feb 2026 14:30:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/02/04/58b08c4bfe084338a691706d531f458e_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/02/04/58b08c4bfe084338a691706d531f458e_xs.jpg" medium="image">
+            <title><![CDATA[Jeffrey Epstein Pled Guilty to Soliciting a Minor Whose Name He Never Knew]]></title>
+            <link>https://www.tmz.com/2026/02/05/jeffrey-epstein-deposition-pled-guilty-minor-prostitution/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/05/jeffrey-epstein-deposition-pled-guilty-minor-prostitution/</guid>
+            <pubDate>Thu, 05 Feb 2026 17:33:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/02/04/3011553fee9e489388e154ebbae302fa_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/04/3011553fee9e489388e154ebbae302fa_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/02/04/58b08c4bfe084338a691706d531f458e_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/04/3011553fee9e489388e154ebbae302fa_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Cheek of the Week: Guess Whose Assets!]]></title>
             <link>https://www.tmz.com/photos/2022/05/13/corinna-kopf-hot-shots/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2022/05/13/corinna-kopf-hot-shots/</guid>
-            <pubDate>Thu, 05 Feb 2026 14:30:33 GMT</pubDate>
+            <pubDate>Thu, 05 Feb 2026 17:33:20 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/cf/16by9/2026/02/04/cf6cf60274a140cdb3f0a6cdcfd48a50_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/02/04/cf6cf60274a140cdb3f0a6cdcfd48a50_xs.jpg" medium="image">
             </media:content>
@@ -34,7 +34,7 @@
             <title><![CDATA['Outer Banks' Director Jonas Pate Grabs Production Assistant on Video]]></title>
             <link>https://www.tmz.com/2026/02/04/outer-banks-director-jonas-pate-video-grab-production-assistant/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/04/outer-banks-director-jonas-pate-video-grab-production-assistant/</guid>
-            <pubDate>Thu, 05 Feb 2026 14:30:33 GMT</pubDate>
+            <pubDate>Thu, 05 Feb 2026 17:33:20 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/02/03/348b57f759064166a271725da184711f_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/34/16by9/2026/02/03/348b57f759064166a271725da184711f_xs.jpg" medium="image">
             </media:content>
@@ -45,7 +45,7 @@
             <title><![CDATA['Memba These Iconic Stars?!]]></title>
             <link>https://www.tmz.com/photos/2026/02/05/memba-them-part-25/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/05/memba-them-part-25/</guid>
-            <pubDate>Thu, 05 Feb 2026 14:30:33 GMT</pubDate>
+            <pubDate>Thu, 05 Feb 2026 17:33:20 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/02/04/62a25c3561f74b639cf07191129a3826_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/62/16by9/2026/02/04/62a25c3561f74b639cf07191129a3826_xs.jpg" medium="image">
             </media:content>
@@ -56,7 +56,7 @@
             <title><![CDATA[Co-Founder Says She Helped Build Hollywood Celeb Hotspots, But Got Cut Out]]></title>
             <link>https://www.tmz.com/2026/02/04/h-wood-group-sued-by-marsha-molinari/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/04/h-wood-group-sued-by-marsha-molinari/</guid>
-            <pubDate>Thu, 05 Feb 2026 14:30:33 GMT</pubDate>
+            <pubDate>Thu, 05 Feb 2026 17:33:20 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/39/16by9/2026/02/04/39622b318dbd42fcaf11b498afed5676_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/39/16by9/2026/02/04/39622b318dbd42fcaf11b498afed5676_xs.jpg" medium="image">
             </media:content>
