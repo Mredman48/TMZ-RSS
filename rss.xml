@@ -4,7 +4,7 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 23:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 05:19:14 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
@@ -12,7 +12,7 @@
             <title><![CDATA[FBI Confirms Two Deadlines in Nancy Guthrie Ransom Letter]]></title>
             <link>https://www.tmz.com/2026/02/05/nancy-guthrie-ransom-letter-deadlines-confirmed-by-fbi/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/05/nancy-guthrie-ransom-letter-deadlines-confirmed-by-fbi/</guid>
-            <pubDate>Thu, 05 Feb 2026 23:59:31 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 05:19:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/81/16by9/2026/02/05/8132d627dd074a00be89b8e3b8755c84_xs.png" length="0" type="image/png"/>
             <media:content url="https://imagez.tmz.com/image/81/16by9/2026/02/05/8132d627dd074a00be89b8e3b8755c84_xs.png" medium="image">
             </media:content>
@@ -23,7 +23,7 @@
             <title><![CDATA[Sza vs. Tammy Hembrow Who'd You Rather?! (Bikini Babes In Stripes Edition)]]></title>
             <link>https://www.tmz.com/photos/2014/09/25/whod-you-rather-celebrity-photos-part-1/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2014/09/25/whod-you-rather-celebrity-photos-part-1/</guid>
-            <pubDate>Thu, 05 Feb 2026 23:59:31 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 05:19:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/02/04/ccb71829aae14606b5c5a30c9929ea81_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/02/04/ccb71829aae14606b5c5a30c9929ea81_xs.jpg" medium="image">
             </media:content>
@@ -34,7 +34,7 @@
             <title><![CDATA[Nancy Guthrie's Kidnapping Timeline Detailed By Officials]]></title>
             <link>https://www.tmz.com/2026/02/05/pima-county-sheriff-nancy-guthrie-update-live-stream/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/05/pima-county-sheriff-nancy-guthrie-update-live-stream/</guid>
-            <pubDate>Thu, 05 Feb 2026 23:59:31 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 05:19:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/02/05/2f0c5657c9ce4410b94f9319031fc9b5_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/02/05/2f0c5657c9ce4410b94f9319031fc9b5_xs.jpg" medium="image">
             </media:content>
@@ -45,7 +45,7 @@
             <title><![CDATA[Can You Score The Sexy Star Rockin' This Brown Bikini?!]]></title>
             <link>https://www.tmz.com/photos/2026/01/28/adelaine-morin-hot-shots/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/01/28/adelaine-morin-hot-shots/</guid>
-            <pubDate>Thu, 05 Feb 2026 23:59:31 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 05:19:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/02/05/ac3a6f4e2a234d02a02c667dbc050e4b_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/02/05/ac3a6f4e2a234d02a02c667dbc050e4b_xs.jpg" medium="image">
             </media:content>
@@ -56,7 +56,7 @@
             <title><![CDATA['Rush Hour 4' Production Revving Up on Heels of 'Melania' Success]]></title>
             <link>https://www.tmz.com/2026/02/05/rush-hour-4-production-brett-ratner/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/05/rush-hour-4-production-brett-ratner/</guid>
-            <pubDate>Thu, 05 Feb 2026 23:59:31 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 05:19:14 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/02/05/640b04b45cb641759fbe6d44df04fcca_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/64/16by9/2026/02/05/640b04b45cb641759fbe6d44df04fcca_xs.jpg" medium="image">
             </media:content>
