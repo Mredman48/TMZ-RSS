@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 19:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 21:52:51 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Luigi Mangione Speaks for First Time in Court, Claims 'Double Jeopardy']]></title>
-            <link>https://www.tmz.com/2026/02/06/luigi-mangione-in-court-double-jeopardy/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/luigi-mangione-in-court-double-jeopardy/</guid>
-            <pubDate>Fri, 06 Feb 2026 19:48:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/02/06/e1b27e3d8e7c4a11907f47db3640b560_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/02/06/e1b27e3d8e7c4a11907f47db3640b560_xs.png" medium="image">
+            <title><![CDATA[Nancy Guthrie Alleged Ransom Letter Offers Clues to Geographic Area of Search]]></title>
+            <link>https://www.tmz.com/2026/02/06/nancy-guthrie-ransom-letter-search-radius-tucson/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/nancy-guthrie-ransom-letter-search-radius-tucson/</guid>
+            <pubDate>Fri, 06 Feb 2026 21:52:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4f/16by9/2026/02/06/4fc725901380450e98dd5deeb2c97faf_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/02/06/4fc725901380450e98dd5deeb2c97faf_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/02/06/e1b27e3d8e7c4a11907f47db3640b560_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/02/06/4fc725901380450e98dd5deeb2c97faf_xs.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Tinashe's Hot Shots To Kick Off Her 33rd Birthday!]]></title>
-            <link>https://www.tmz.com/photos/2018/03/08/tinashes-hot-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2018/03/08/tinashes-hot-photos/</guid>
-            <pubDate>Fri, 06 Feb 2026 19:48:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/02/05/cc792845a78c4dcb9591a03f9bd349b0_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/02/05/cc792845a78c4dcb9591a03f9bd349b0_xs.jpg" medium="image">
+            <title><![CDATA[Tap-In Gabby McCarthy's Bodacious Selfies, Gen-Z Super Bowl Ads, More!]]></title>
+            <link>https://www.tmz.com/photos/2026/02/06/tmz-tap-in-week-2-2-26-chappell-super-bowl-stars-kylie-and-kourtney-and-more/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/06/tmz-tap-in-week-2-2-26-chappell-super-bowl-stars-kylie-and-kourtney-and-more/</guid>
+            <pubDate>Fri, 06 Feb 2026 21:52:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/02/06/7a1714bd17d84906862d8d2781c845ff_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/02/06/7a1714bd17d84906862d8d2781c845ff_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/02/05/cc792845a78c4dcb9591a03f9bd349b0_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/02/06/7a1714bd17d84906862d8d2781c845ff_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bianca Censori Says Kanye West Came Into Her Life Before Kim Kardashian Divorce]]></title>
-            <link>https://www.tmz.com/2026/02/06/bianca-censori-kanye-west-kim-kardashian-divorce-relationship/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/bianca-censori-kanye-west-kim-kardashian-divorce-relationship/</guid>
-            <pubDate>Fri, 06 Feb 2026 19:48:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/02/06/4758004ac43d4c5aa33ce602a198e5f7_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/02/06/4758004ac43d4c5aa33ce602a198e5f7_xs.jpg" medium="image">
+            <title><![CDATA[Radio Host Tommy Sotomayor Says He's Not Offended by Trump's Racist Obama Post]]></title>
+            <link>https://www.tmz.com/2026/02/06/tommy-sotomayor-not-offended-trump-obama-post-racist/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/tommy-sotomayor-not-offended-trump-obama-post-racist/</guid>
+            <pubDate>Fri, 06 Feb 2026 21:52:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/02/06/4e8d14d8465540f4952b1b280c090bd8_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/02/06/4e8d14d8465540f4952b1b280c090bd8_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/02/06/4758004ac43d4c5aa33ce602a198e5f7_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/02/06/4e8d14d8465540f4952b1b280c090bd8_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Guess Who These Brothers Turned Into!]]></title>
-            <link>https://www.tmz.com/photos/2015/03/19/guess-who-these-cute-kids-turned-into-part-6/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2015/03/19/guess-who-these-cute-kids-turned-into-part-6/</guid>
-            <pubDate>Fri, 06 Feb 2026 19:48:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/02/05/bfd16c662fa64e859b4389d0f99e04b5_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/02/05/bfd16c662fa64e859b4389d0f99e04b5_xs.jpg" medium="image">
+            <title><![CDATA[Celebs Channel the Olympics With Winter Sports Shenanigans ... See Pics!]]></title>
+            <link>https://www.tmz.com/photos/2023/02/18/snow-stars-playing-winter-sports/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2023/02/18/snow-stars-playing-winter-sports/</guid>
+            <pubDate>Fri, 06 Feb 2026 21:52:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/02/06/169ac33ee80f4a259c894b5a8b303ac1_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/02/06/169ac33ee80f4a259c894b5a8b303ac1_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/02/05/bfd16c662fa64e859b4389d0f99e04b5_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/02/06/169ac33ee80f4a259c894b5a8b303ac1_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[International Runway Model Cristina Pérez Galcenco Dead at 21]]></title>
-            <link>https://www.tmz.com/2026/02/06/runway-model-cristina-perez-galcenco-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/runway-model-cristina-perez-galcenco-dead/</guid>
-            <pubDate>Fri, 06 Feb 2026 19:48:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/02/06/d2f21842827b4ac1afcf4fbdbce363ee_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/02/06/d2f21842827b4ac1afcf4fbdbce363ee_xs.png" medium="image">
+            <title><![CDATA[Actor Timothy Busfield Indicted on Child Sex Abuse Charges, Lawyer Cites 'Fatal Weaknesses' in Evidence]]></title>
+            <link>https://www.tmz.com/2026/02/06/actor-timothy-busfield-indicted-on-child-sex-abuse-charges/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/actor-timothy-busfield-indicted-on-child-sex-abuse-charges/</guid>
+            <pubDate>Fri, 06 Feb 2026 21:52:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/02/06/8422044d2c0a45ef96c2bf750d915e29_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/02/06/8422044d2c0a45ef96c2bf750d915e29_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/02/06/d2f21842827b4ac1afcf4fbdbce363ee_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/02/06/8422044d2c0a45ef96c2bf750d915e29_xs.png">
             </media:thumbnail>
         </item>
     </channel>
