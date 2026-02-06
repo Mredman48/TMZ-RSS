@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 14:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 17:10:03 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Florida Teen Sets Friend on Fire, Shocking Video Shows]]></title>
-            <link>https://www.tmz.com/2026/02/05/teen-sets-friend-on-fire-video-florida/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/05/teen-sets-friend-on-fire-video-florida/</guid>
-            <pubDate>Fri, 06 Feb 2026 14:11:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/05/650125a2395e406dbebe500de9d3c240_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/05/650125a2395e406dbebe500de9d3c240_xs.jpg" medium="image">
+            <title><![CDATA[International Runway Model Cristina Pérez Galcenco Dead at 21]]></title>
+            <link>https://www.tmz.com/2026/02/06/runway-model-cristina-perez-galcenco-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/runway-model-cristina-perez-galcenco-dead/</guid>
+            <pubDate>Fri, 06 Feb 2026 17:10:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/02/06/d2f21842827b4ac1afcf4fbdbce363ee_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/02/06/d2f21842827b4ac1afcf4fbdbce363ee_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/05/650125a2395e406dbebe500de9d3c240_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/02/06/d2f21842827b4ac1afcf4fbdbce363ee_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Tinashe's Hot Shots To Kick Off Her 33rd Birthday!]]></title>
             <link>https://www.tmz.com/photos/2018/03/08/tinashes-hot-photos/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2018/03/08/tinashes-hot-photos/</guid>
-            <pubDate>Fri, 06 Feb 2026 14:11:45 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 17:10:03 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/02/05/cc792845a78c4dcb9591a03f9bd349b0_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/02/05/cc792845a78c4dcb9591a03f9bd349b0_xs.jpg" medium="image">
             </media:content>
@@ -34,7 +34,7 @@
             <title><![CDATA[GloRilla's Sister Claims the Rapper Won't Help Provide for Their Family]]></title>
             <link>https://www.tmz.com/2026/02/05/glorilla-not-providing-for-family-says-sister-scar-face/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/02/05/glorilla-not-providing-for-family-says-sister-scar-face/</guid>
-            <pubDate>Fri, 06 Feb 2026 14:11:45 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 17:10:03 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/02/05/5e5a04157f484972a1d4ccf830d2406b_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/02/05/5e5a04157f484972a1d4ccf830d2406b_xs.jpg" medium="image">
             </media:content>
@@ -45,7 +45,7 @@
             <title><![CDATA[Guess Who These Brothers Turned Into!]]></title>
             <link>https://www.tmz.com/photos/2015/03/19/guess-who-these-cute-kids-turned-into-part-6/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2015/03/19/guess-who-these-cute-kids-turned-into-part-6/</guid>
-            <pubDate>Fri, 06 Feb 2026 14:11:45 GMT</pubDate>
+            <pubDate>Fri, 06 Feb 2026 17:10:03 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/02/05/bfd16c662fa64e859b4389d0f99e04b5_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/02/05/bfd16c662fa64e859b4389d0f99e04b5_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Cancer Survivor Dave Coulier Stresses Early Detection Is Everything]]></title>
-            <link>https://www.tmz.com/2026/02/05/dave-coulier-cancer-early-detection/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/05/dave-coulier-cancer-early-detection/</guid>
-            <pubDate>Fri, 06 Feb 2026 14:11:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ad/16by9/2026/02/05/ad5ba3813df84f5587c45ad98cbaba69_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ad/16by9/2026/02/05/ad5ba3813df84f5587c45ad98cbaba69_xs.jpg" medium="image">
+            <title><![CDATA[U.S. Marshal Kicks Small Dog Twice in Shocking Video Taken During Arrest]]></title>
+            <link>https://www.tmz.com/2026/02/06/u-s-marshal-kicks-dog-video-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/u-s-marshal-kicks-dog-video-arrest/</guid>
+            <pubDate>Fri, 06 Feb 2026 17:10:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/02/06/d0eecad3dc5046cf915f6f7a55017a91_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/02/06/d0eecad3dc5046cf915f6f7a55017a91_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ad/16by9/2026/02/05/ad5ba3813df84f5587c45ad98cbaba69_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/02/06/d0eecad3dc5046cf915f6f7a55017a91_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
