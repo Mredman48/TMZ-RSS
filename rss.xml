@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 16:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 17:50:42 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Anna Kepner's Stepbrother Arrested Following Her Death on Cruise Ship]]></title>
-            <link>https://www.tmz.com/2026/02/06/stepbrother-arrested-charged-anna-kepner-death-carnival-cruise/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/stepbrother-arrested-charged-anna-kepner-death-carnival-cruise/</guid>
-            <pubDate>Sat, 07 Feb 2026 16:01:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/02/07/697ff5b266da44f6aa5c9785093013e3_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/02/07/697ff5b266da44f6aa5c9785093013e3_xs.jpg" medium="image">
+            <title><![CDATA[President Trump Says Suspect Possibly ID'd in Nancy Guthrie Case]]></title>
+            <link>https://www.tmz.com/2026/02/07/trump-says-nancy-guthrie-suspect-possibly-identified/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/07/trump-says-nancy-guthrie-suspect-possibly-identified/</guid>
+            <pubDate>Sat, 07 Feb 2026 17:50:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/02/07/2b87dd21fc544044b5832388a710681c_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/02/07/2b87dd21fc544044b5832388a710681c_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/02/07/697ff5b266da44f6aa5c9785093013e3_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/02/07/2b87dd21fc544044b5832388a710681c_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Patriots vs. Seahawks Super Bowl LX Shredded NFL Abs Guess Who!]]></title>
             <link>https://www.tmz.com/photos/2026/02/07/super-bowl-lx-shredded-nfl-abs-guess-who/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/07/super-bowl-lx-shredded-nfl-abs-guess-who/</guid>
-            <pubDate>Sat, 07 Feb 2026 16:01:45 GMT</pubDate>
+            <pubDate>Sat, 07 Feb 2026 17:50:42 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/02/05/0563f16240bf435eac02db07318ddd21_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/05/16by9/2026/02/05/0563f16240bf435eac02db07318ddd21_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Trump Washes Hands of Racist Obama Video, Refuses to Apologize]]></title>
-            <link>https://www.tmz.com/2026/02/06/trump-responds-racist-video-obamas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/trump-responds-racist-video-obamas/</guid>
-            <pubDate>Sat, 07 Feb 2026 16:01:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/02/07/3524a2ce9f6b46e6a94c57ed48a0fd53_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/02/07/3524a2ce9f6b46e6a94c57ed48a0fd53_xs.jpg" medium="image">
+            <title><![CDATA[Green Day Calls Out ICE, Donald Trump in Pre-Super Bowl Performance]]></title>
+            <link>https://www.tmz.com/2026/02/07/green-day-blasts-ice-trump-in-pre-super-bowl-concert/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/07/green-day-blasts-ice-trump-in-pre-super-bowl-concert/</guid>
+            <pubDate>Sat, 07 Feb 2026 17:50:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/02/07/430787e7c329441c8d5de21a65b1020a_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/02/07/430787e7c329441c8d5de21a65b1020a_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/02/07/3524a2ce9f6b46e6a94c57ed48a0fd53_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/02/07/430787e7c329441c8d5de21a65b1020a_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Jacob Elordi & Margot Robbie What's The Big Frigin' Difference?!]]></title>
             <link>https://www.tmz.com/photos/2019/07/16/whats-the-big-frigin-difference/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2019/07/16/whats-the-big-frigin-difference/</guid>
-            <pubDate>Sat, 07 Feb 2026 16:01:45 GMT</pubDate>
+            <pubDate>Sat, 07 Feb 2026 17:50:42 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/02/05/69ced05e498541ac858d3e71f35fb8ae_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/69/16by9/2026/02/05/69ced05e498541ac858d3e71f35fb8ae_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Lil Jon's Son DJ Young Slade Dead at 27]]></title>
-            <link>https://www.tmz.com/2026/02/06/lil-jon-son-dj-young-slade-nathan-smith-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/lil-jon-son-dj-young-slade-nathan-smith-dead/</guid>
-            <pubDate>Sat, 07 Feb 2026 16:01:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/02/06/6c723ba595e74ea18578a561267094ff_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/02/06/6c723ba595e74ea18578a561267094ff_xs.jpg" medium="image">
+            <title><![CDATA[Super Bowl LX Triggers Major Spike In Sex Trafficking, Prostitution Arrests]]></title>
+            <link>https://www.tmz.com/2026/02/07/super-bowl-sex-trafficking-prostitute-arrest-santa-clara/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/07/super-bowl-sex-trafficking-prostitute-arrest-santa-clara/</guid>
+            <pubDate>Sat, 07 Feb 2026 17:50:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/02/07/379bfae8bfc54bca8dc758702355ea10_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/02/07/379bfae8bfc54bca8dc758702355ea10_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/02/06/6c723ba595e74ea18578a561267094ff_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/02/07/379bfae8bfc54bca8dc758702355ea10_xs.png">
             </media:thumbnail>
         </item>
     </channel>
