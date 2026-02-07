@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 08:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 09:54:40 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Nancy Guthrie Alleged Ransom Letter Offers Clues to Geographic Area of Search]]></title>
-            <link>https://www.tmz.com/2026/02/06/nancy-guthrie-ransom-letter-search-radius-tucson/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/nancy-guthrie-ransom-letter-search-radius-tucson/</guid>
-            <pubDate>Sat, 07 Feb 2026 08:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4f/16by9/2026/02/06/4fc725901380450e98dd5deeb2c97faf_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/02/06/4fc725901380450e98dd5deeb2c97faf_xs.png" medium="image">
+            <title><![CDATA[Anna Kepner's Stepbrother Arrested Following Her Death on Cruise Ship]]></title>
+            <link>https://www.tmz.com/2026/02/06/stepbrother-arrested-charged-anna-kepner-death-carnival-cruise/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/stepbrother-arrested-charged-anna-kepner-death-carnival-cruise/</guid>
+            <pubDate>Sat, 07 Feb 2026 09:54:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/02/07/697ff5b266da44f6aa5c9785093013e3_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/02/07/697ff5b266da44f6aa5c9785093013e3_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/02/06/4fc725901380450e98dd5deeb2c97faf_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/02/07/697ff5b266da44f6aa5c9785093013e3_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Tap-In Gabby McCarthy's Bodacious Selfies, Gen-Z Super Bowl Ads, More!]]></title>
-            <link>https://www.tmz.com/photos/2026/02/06/tmz-tap-in-week-2-2-26-chappell-super-bowl-stars-kylie-and-kourtney-and-more/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/06/tmz-tap-in-week-2-2-26-chappell-super-bowl-stars-kylie-and-kourtney-and-more/</guid>
-            <pubDate>Sat, 07 Feb 2026 08:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/02/06/7a1714bd17d84906862d8d2781c845ff_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/02/06/7a1714bd17d84906862d8d2781c845ff_xs.jpg" medium="image">
+            <title><![CDATA[Patriots vs. Seahawks Super Bowl LX Shredded NFL Abs Guess Who!]]></title>
+            <link>https://www.tmz.com/photos/2026/02/07/super-bowl-lx-shredded-nfl-abs-guess-who/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/07/super-bowl-lx-shredded-nfl-abs-guess-who/</guid>
+            <pubDate>Sat, 07 Feb 2026 09:54:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/02/05/0563f16240bf435eac02db07318ddd21_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/02/05/0563f16240bf435eac02db07318ddd21_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/02/06/7a1714bd17d84906862d8d2781c845ff_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/02/05/0563f16240bf435eac02db07318ddd21_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Radio Host Tommy Sotomayor Says He's Not Offended by Trump's Racist Obama Post]]></title>
-            <link>https://www.tmz.com/2026/02/06/tommy-sotomayor-not-offended-trump-obama-post-racist/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/tommy-sotomayor-not-offended-trump-obama-post-racist/</guid>
-            <pubDate>Sat, 07 Feb 2026 08:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/02/06/4e8d14d8465540f4952b1b280c090bd8_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/02/06/4e8d14d8465540f4952b1b280c090bd8_xs.jpg" medium="image">
+            <title><![CDATA[Trump Washes Hands of Racist Obama Video, Refuses to Apologize]]></title>
+            <link>https://www.tmz.com/2026/02/06/trump-responds-racist-video-obamas/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/trump-responds-racist-video-obamas/</guid>
+            <pubDate>Sat, 07 Feb 2026 09:54:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/02/07/3524a2ce9f6b46e6a94c57ed48a0fd53_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/02/07/3524a2ce9f6b46e6a94c57ed48a0fd53_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/02/06/4e8d14d8465540f4952b1b280c090bd8_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/02/07/3524a2ce9f6b46e6a94c57ed48a0fd53_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Celebs Channel the Olympics With Winter Sports Shenanigans ... See Pics!]]></title>
-            <link>https://www.tmz.com/photos/2023/02/18/snow-stars-playing-winter-sports/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2023/02/18/snow-stars-playing-winter-sports/</guid>
-            <pubDate>Sat, 07 Feb 2026 08:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/02/06/169ac33ee80f4a259c894b5a8b303ac1_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/02/06/169ac33ee80f4a259c894b5a8b303ac1_xs.jpg" medium="image">
+            <title><![CDATA[Jacob Elordi & Margot Robbie What's The Big Frigin' Difference?!]]></title>
+            <link>https://www.tmz.com/photos/2019/07/16/whats-the-big-frigin-difference/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2019/07/16/whats-the-big-frigin-difference/</guid>
+            <pubDate>Sat, 07 Feb 2026 09:54:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/02/05/69ced05e498541ac858d3e71f35fb8ae_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/02/05/69ced05e498541ac858d3e71f35fb8ae_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/02/06/169ac33ee80f4a259c894b5a8b303ac1_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/02/05/69ced05e498541ac858d3e71f35fb8ae_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Actor Timothy Busfield Indicted on Child Sex Abuse Charges, Lawyer Cites 'Fatal Weaknesses' in Evidence]]></title>
-            <link>https://www.tmz.com/2026/02/06/actor-timothy-busfield-indicted-on-child-sex-abuse-charges/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/actor-timothy-busfield-indicted-on-child-sex-abuse-charges/</guid>
-            <pubDate>Sat, 07 Feb 2026 08:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/02/06/8422044d2c0a45ef96c2bf750d915e29_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/02/06/8422044d2c0a45ef96c2bf750d915e29_xs.png" medium="image">
+            <title><![CDATA[Lil Jon's Son DJ Young Slade Dead at 27]]></title>
+            <link>https://www.tmz.com/2026/02/06/lil-jon-son-dj-young-slade-nathan-smith-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/06/lil-jon-son-dj-young-slade-nathan-smith-dead/</guid>
+            <pubDate>Sat, 07 Feb 2026 09:54:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/02/06/6c723ba595e74ea18578a561267094ff_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/02/06/6c723ba595e74ea18578a561267094ff_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/02/06/8422044d2c0a45ef96c2bf750d915e29_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/02/06/6c723ba595e74ea18578a561267094ff_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
