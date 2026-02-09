@@ -4,15 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Feb 2026 11:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 15:40:24 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
+            <title><![CDATA[Kid In Bad Bunny Halftime Show Not 5-Year-Old Detained By ICE]]></title>
+            <link>https://www.tmz.com/2026/02/08/liam-ramos-not-in-bad-bunny-halftime-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/08/liam-ramos-not-in-bad-bunny-halftime-show/</guid>
+            <pubDate>Mon, 09 Feb 2026 15:40:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/02/09/c5ab361d27ee4659a4a5e7573106ddd0_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/02/09/c5ab361d27ee4659a4a5e7573106ddd0_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/02/09/c5ab361d27ee4659a4a5e7573106ddd0_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
             <title><![CDATA[Bella Poarch Hot Shots To Kick Off Her 29th Bday!]]></title>
             <link>https://www.tmz.com/photos/2022/11/04/bella-poarch-hot-shots-photos/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2022/11/04/bella-poarch-hot-shots-photos/</guid>
-            <pubDate>Mon, 09 Feb 2026 11:59:05 GMT</pubDate>
+            <pubDate>Mon, 09 Feb 2026 15:40:24 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/02/05/6df8d4e55f4b4c9ca7d3476c51f4a6a0_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/02/05/6df8d4e55f4b4c9ca7d3476c51f4a6a0_xs.jpg" medium="image">
             </media:content>
@@ -20,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bill Belichick's Girlfriend Wears Shirt Tied to Robert Kraft Prostitution Bust]]></title>
-            <link>https://www.tmz.com/2026/02/08/jordon-hudson-robert-kraft-prostitution-bust-t-shirt/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/08/jordon-hudson-robert-kraft-prostitution-bust-t-shirt/</guid>
-            <pubDate>Mon, 09 Feb 2026 11:59:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/02/08/899b938e23994907b4ffca20dd14185b_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/02/08/899b938e23994907b4ffca20dd14185b_xs.jpg" medium="image">
+            <title><![CDATA[Kim Kardashian & Lewis Hamilton Confirm Relationship at Super Bowl]]></title>
+            <link>https://www.tmz.com/2026/02/08/kim-kardashian-lewis-hamilton-dating-super-bowl/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/08/kim-kardashian-lewis-hamilton-dating-super-bowl/</guid>
+            <pubDate>Mon, 09 Feb 2026 15:40:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/02/09/71f12f34a97e446da366c2286eac2d17_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/02/09/71f12f34a97e446da366c2286eac2d17_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/02/08/899b938e23994907b4ffca20dd14185b_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/02/09/71f12f34a97e446da366c2286eac2d17_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Olympic Champion Picabo Street 'Memba Her?!]]></title>
             <link>https://www.tmz.com/photos/2024/03/19/memba-them-part-24/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2024/03/19/memba-them-part-24/</guid>
-            <pubDate>Mon, 09 Feb 2026 11:59:05 GMT</pubDate>
+            <pubDate>Mon, 09 Feb 2026 15:40:24 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/02/05/a3c3612ea1f64665b8983b47c64c424a_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/02/05/a3c3612ea1f64665b8983b47c64c424a_xs.jpg" medium="image">
             </media:content>
@@ -42,25 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Lindsey Vonn In Stable Condition After Surgery Following Olympic Crash]]></title>
-            <link>https://www.tmz.com/2026/02/08/lindsey-vonn-surgery-stable-condition-after-olympic-crash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/08/lindsey-vonn-surgery-stable-condition-after-olympic-crash/</guid>
-            <pubDate>Mon, 09 Feb 2026 11:59:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/02/08/d635ba44888f46518bc0ab32eae1f810_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/02/08/d635ba44888f46518bc0ab32eae1f810_xs.jpg" medium="image">
+            <title><![CDATA[Wendy Williams' Dad Dead at 94]]></title>
+            <link>https://www.tmz.com/2026/02/08/wendy-williams-dad-dead-at-94/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/08/wendy-williams-dad-dead-at-94/</guid>
+            <pubDate>Mon, 09 Feb 2026 15:40:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/02/09/bc983d6e1e6d43b88cfa431d88d56933_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/02/09/bc983d6e1e6d43b88cfa431d88d56933_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/02/08/d635ba44888f46518bc0ab32eae1f810_xs.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Travis Scott Pulverizes Sign on Video During Pre-Super Bowl Performance]]></title>
-            <link>https://www.tmz.com/2026/02/08/travis-scott-pulverizes-sign-pre-super-bowl-performance/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/08/travis-scott-pulverizes-sign-pre-super-bowl-performance/</guid>
-            <pubDate>Mon, 09 Feb 2026 11:59:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/02/08/ca2f3ae7bb2f4cf794a8882d685a4961_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/02/08/ca2f3ae7bb2f4cf794a8882d685a4961_xs.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/02/08/ca2f3ae7bb2f4cf794a8882d685a4961_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/02/09/bc983d6e1e6d43b88cfa431d88d56933_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
