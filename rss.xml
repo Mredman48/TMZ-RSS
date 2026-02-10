@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Feb 2026 11:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 15:46:02 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Catherine O'Hara Cause of Death Revealed]]></title>
-            <link>https://www.tmz.com/2026/02/09/catherine-ohara-cause-of-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/09/catherine-ohara-cause-of-death/</guid>
-            <pubDate>Tue, 10 Feb 2026 11:38:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/02/09/ff21bd3bb6ca44b9a9b3b32018bd77a9_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/02/09/ff21bd3bb6ca44b9a9b3b32018bd77a9_xs.jpg" medium="image">
+            <title><![CDATA[Epstein Files Include Provocative Videos, DOJ Says No Crimes on Camera]]></title>
+            <link>https://www.tmz.com/2026/02/10/epstein-files-provocative-videos-doj-says-no-crimes-captured/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/10/epstein-files-provocative-videos-doj-says-no-crimes-captured/</guid>
+            <pubDate>Tue, 10 Feb 2026 15:46:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b2/16by9/2026/02/09/b2c37dcbc7c544b889031a2fdb4ec4d3_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b2/16by9/2026/02/09/b2c37dcbc7c544b889031a2fdb4ec4d3_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/02/09/ff21bd3bb6ca44b9a9b3b32018bd77a9_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b2/16by9/2026/02/09/b2c37dcbc7c544b889031a2fdb4ec4d3_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Hollywood On Thin Ice ... See The Fun Ice Skating Pics!]]></title>
             <link>https://www.tmz.com/photos/2017/12/17/ice-skating-stars-photos/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2017/12/17/ice-skating-stars-photos/</guid>
-            <pubDate>Tue, 10 Feb 2026 11:38:54 GMT</pubDate>
+            <pubDate>Tue, 10 Feb 2026 15:46:02 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/02/09/1bd0985b7b064313aa7b5340f1408b2b_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/02/09/1bd0985b7b064313aa7b5340f1408b2b_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Nancy Guthrie Abduction Ransom Deadline Expires]]></title>
-            <link>https://www.tmz.com/2026/02/09/nancy-guthrie-abduction-ransom-second-deadline/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/09/nancy-guthrie-abduction-ransom-second-deadline/</guid>
-            <pubDate>Tue, 10 Feb 2026 11:38:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/02/09/2f68dd94b6e4422d8830f7136fda906c_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/02/09/2f68dd94b6e4422d8830f7136fda906c_xs.jpg" medium="image">
+            <title><![CDATA[Catherine O'Hara Cause of Death Revealed]]></title>
+            <link>https://www.tmz.com/2026/02/09/catherine-ohara-cause-of-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/09/catherine-ohara-cause-of-death/</guid>
+            <pubDate>Tue, 10 Feb 2026 15:46:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/02/09/ff21bd3bb6ca44b9a9b3b32018bd77a9_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/02/09/ff21bd3bb6ca44b9a9b3b32018bd77a9_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/02/09/2f68dd94b6e4422d8830f7136fda906c_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/02/09/ff21bd3bb6ca44b9a9b3b32018bd77a9_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Guess Who This Supergirl Turned Into!]]></title>
             <link>https://www.tmz.com/photos/2018/09/04/guess-who-these-cute-kids-turned-into-part-15-photos/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2018/09/04/guess-who-these-cute-kids-turned-into-part-15-photos/</guid>
-            <pubDate>Tue, 10 Feb 2026 11:38:54 GMT</pubDate>
+            <pubDate>Tue, 10 Feb 2026 15:46:02 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/02/09/f3e51c26db8b43a39c12c7b40af64b8c_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/02/09/f3e51c26db8b43a39c12c7b40af64b8c_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Tracy Scroggins, Longtime NFL Player, Dead At 56]]></title>
-            <link>https://www.tmz.com/2026/02/09/tracy-scroggins-dead-nfl-player-detroit-lions/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/09/tracy-scroggins-dead-nfl-player-detroit-lions/</guid>
-            <pubDate>Tue, 10 Feb 2026 11:38:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/88/16by9/2026/02/09/88a64c86bd324587a4ac3b4ea8fad8a8_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/88/16by9/2026/02/09/88a64c86bd324587a4ac3b4ea8fad8a8_xs.jpg" medium="image">
+            <title><![CDATA[FBI Unaware of Continued Contact Between Guthries and Suspected Kidnappers]]></title>
+            <link>https://www.tmz.com/2026/02/09/fbi-unaware-contact-between-guthrie-family-and-suspected-kidnappers/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/09/fbi-unaware-contact-between-guthrie-family-and-suspected-kidnappers/</guid>
+            <pubDate>Tue, 10 Feb 2026 15:46:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/02/10/78851e513f4444669a675cc9e8683cc7_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/02/10/78851e513f4444669a675cc9e8683cc7_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/88/16by9/2026/02/09/88a64c86bd324587a4ac3b4ea8fad8a8_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/02/10/78851e513f4444669a675cc9e8683cc7_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
