@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Feb 2026 20:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 22:01:31 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Deliveryman Declares Innocence After Being Questioned, Released in Nancy Guthrie Kidnapping]]></title>
-            <link>https://www.tmz.com/2026/02/11/man-detained-in-nancy-guthrie-investigation-speaks-out/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/man-detained-in-nancy-guthrie-investigation-speaks-out/</guid>
-            <pubDate>Wed, 11 Feb 2026 20:04:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/02/11/b5dec1fb68a941fdb2ff94adde26aa05_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/02/11/b5dec1fb68a941fdb2ff94adde26aa05_xs.png" medium="image">
+            <title><![CDATA[Bijou Phillips Hospitalized, In Desperate Need of Kidney Transplant]]></title>
+            <link>https://www.tmz.com/2026/02/11/bijou-phillips-in-hospital-for-kidney/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/bijou-phillips-in-hospital-for-kidney/</guid>
+            <pubDate>Wed, 11 Feb 2026 22:01:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/02/11/20d3c84d48114da8b200b5e2be682a73_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/02/11/20d3c84d48114da8b200b5e2be682a73_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/02/11/b5dec1fb68a941fdb2ff94adde26aa05_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/02/11/20d3c84d48114da8b200b5e2be682a73_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Laura-Leigh On 'Vanderpump Rules' 'Memba Her?!]]></title>
             <link>https://www.tmz.com/photos/2014/05/14/memba-them-part-6/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2014/05/14/memba-them-part-6/</guid>
-            <pubDate>Wed, 11 Feb 2026 20:04:52 GMT</pubDate>
+            <pubDate>Wed, 11 Feb 2026 22:01:31 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/50/16by9/2022/06/20/502f911aa0d44733a8185cc55cfe9567_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/50/16by9/2022/06/20/502f911aa0d44733a8185cc55cfe9567_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bodybuilder Jayne Trcka, Miss Mann in 'Scary Movie,' Cause Of Death Released]]></title>
-            <link>https://www.tmz.com/2026/02/11/jayne-trcka-cause-of-death-revealed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/jayne-trcka-cause-of-death-revealed/</guid>
-            <pubDate>Wed, 11 Feb 2026 20:04:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/02/10/b8605395e69247bfb4aadb097a73e1b4_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/02/10/b8605395e69247bfb4aadb097a73e1b4_xs.png" medium="image">
+            <title><![CDATA[New Nancy Guthrie Note, Sender Demands 1 Bitcoin for Info On Kidnapping Suspect]]></title>
+            <link>https://www.tmz.com/2026/02/11/new-nancy-guthrie-note-demands-bitcoin-for-suspect-information/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/new-nancy-guthrie-note-demands-bitcoin-for-suspect-information/</guid>
+            <pubDate>Wed, 11 Feb 2026 22:01:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/02/11/0ef2c068899d447582efb021968b66e1_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/02/11/0ef2c068899d447582efb021968b66e1_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/02/10/b8605395e69247bfb4aadb097a73e1b4_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/02/11/0ef2c068899d447582efb021968b66e1_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Victoria Justice’s Thailand Bikini Pics Do Her Justice ... Check 'Em Out!]]></title>
             <link>https://www.tmz.com/photos/2017/12/13/stars-in-thailand-photos/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2017/12/13/stars-in-thailand-photos/</guid>
-            <pubDate>Wed, 11 Feb 2026 20:04:52 GMT</pubDate>
+            <pubDate>Wed, 11 Feb 2026 22:01:31 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/02/11/61b3b58457ae47b080d640655ddea83f_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/61/16by9/2026/02/11/61b3b58457ae47b080d640655ddea83f_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jill Zarin Stunned Over Sudden Firing From E! Over Halftime Show Opinion]]></title>
-            <link>https://www.tmz.com/2026/02/10/jill-zarin-feels-wrongly-fired-from-e-show/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/10/jill-zarin-feels-wrongly-fired-from-e-show/</guid>
-            <pubDate>Wed, 11 Feb 2026 20:04:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/02/10/e7bf517ae7c54a48bef583f559462e2a_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/02/10/e7bf517ae7c54a48bef583f559462e2a_xs.png" medium="image">
+            <title><![CDATA[David Archuleta Scouted Locations For Suicide Before Faith Intervened]]></title>
+            <link>https://www.tmz.com/2026/02/11/david-archuleta-scouted-suicide-locations/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/david-archuleta-scouted-suicide-locations/</guid>
+            <pubDate>Wed, 11 Feb 2026 22:01:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/02/11/325c31f2f7f14fefae77eebb1ccfa13d_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/02/11/325c31f2f7f14fefae77eebb1ccfa13d_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/02/10/e7bf517ae7c54a48bef583f559462e2a_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/02/11/325c31f2f7f14fefae77eebb1ccfa13d_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
