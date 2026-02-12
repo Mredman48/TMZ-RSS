@@ -4,63 +4,63 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 08:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 11:12:28 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Bijou Phillips Hospitalized, In Desperate Need of Kidney Transplant]]></title>
-            <link>https://www.tmz.com/2026/02/11/bijou-phillips-in-hospital-for-kidney/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/bijou-phillips-in-hospital-for-kidney/</guid>
-            <pubDate>Thu, 12 Feb 2026 08:02:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/02/11/20d3c84d48114da8b200b5e2be682a73_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/02/11/20d3c84d48114da8b200b5e2be682a73_xs.jpg" medium="image">
+            <title><![CDATA[Lewis Pullman Says It Feels Good to Carve His Own Path in Hollywood]]></title>
+            <link>https://www.tmz.com/2026/02/11/lewis-pullman-hollywood-success-bill-pullman-son/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/lewis-pullman-hollywood-success-bill-pullman-son/</guid>
+            <pubDate>Thu, 12 Feb 2026 11:12:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/02/11/289cf46339cc472cab66428bc0ef6885_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/02/11/289cf46339cc472cab66428bc0ef6885_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/02/11/20d3c84d48114da8b200b5e2be682a73_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/02/11/289cf46339cc472cab66428bc0ef6885_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Laura-Leigh On 'Vanderpump Rules' 'Memba Her?!]]></title>
-            <link>https://www.tmz.com/photos/2014/05/14/memba-them-part-6/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2014/05/14/memba-them-part-6/</guid>
-            <pubDate>Thu, 12 Feb 2026 08:02:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/50/16by9/2022/06/20/502f911aa0d44733a8185cc55cfe9567_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/50/16by9/2022/06/20/502f911aa0d44733a8185cc55cfe9567_xs.jpg" medium="image">
+            <title><![CDATA[TMZ's Last Minute Valentine's Day Cards ... Take A Look!]]></title>
+            <link>https://www.tmz.com/photos/2011/02/10/3413-last-minute-valentines-day-cards/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2011/02/10/3413-last-minute-valentines-day-cards/</guid>
+            <pubDate>Thu, 12 Feb 2026 11:12:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/80/16by9/2026/02/11/8076868d287a4340960ad915d5c4c9c6_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/80/16by9/2026/02/11/8076868d287a4340960ad915d5c4c9c6_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2022/06/20/502f911aa0d44733a8185cc55cfe9567_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/80/16by9/2026/02/11/8076868d287a4340960ad915d5c4c9c6_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[New Nancy Guthrie Note, Sender Demands 1 Bitcoin for Info On Kidnapping Suspect]]></title>
-            <link>https://www.tmz.com/2026/02/11/new-nancy-guthrie-note-demands-bitcoin-for-suspect-information/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/new-nancy-guthrie-note-demands-bitcoin-for-suspect-information/</guid>
-            <pubDate>Thu, 12 Feb 2026 08:02:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/02/11/0ef2c068899d447582efb021968b66e1_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/02/11/0ef2c068899d447582efb021968b66e1_xs.png" medium="image">
+            <title><![CDATA['Dawson's Creek' Star James Van Der Beek Dead at 48]]></title>
+            <link>https://www.tmz.com/2026/02/11/james-van-der-beek-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/james-van-der-beek-dead/</guid>
+            <pubDate>Thu, 12 Feb 2026 11:12:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/02/11/d74bf60f3bd14618a831fc8f43372104_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/02/11/d74bf60f3bd14618a831fc8f43372104_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/02/11/0ef2c068899d447582efb021968b66e1_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/02/11/d74bf60f3bd14618a831fc8f43372104_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Victoria Justice’s Thailand Bikini Pics Do Her Justice ... Check 'Em Out!]]></title>
-            <link>https://www.tmz.com/photos/2017/12/13/stars-in-thailand-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2017/12/13/stars-in-thailand-photos/</guid>
-            <pubDate>Thu, 12 Feb 2026 08:02:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/02/11/61b3b58457ae47b080d640655ddea83f_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/02/11/61b3b58457ae47b080d640655ddea83f_xs.jpg" medium="image">
+            <title><![CDATA[Cheek of the Week: Coi Leray's Scroll-Stopping Booty!]]></title>
+            <link>https://www.tmz.com/photos/2023/10/09/coi-leray-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2023/10/09/coi-leray-hot-shots/</guid>
+            <pubDate>Thu, 12 Feb 2026 11:12:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/02/11/27c0bc7d89564efba35c488b8b38d4c1_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/02/11/27c0bc7d89564efba35c488b8b38d4c1_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/02/11/61b3b58457ae47b080d640655ddea83f_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/02/11/27c0bc7d89564efba35c488b8b38d4c1_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[David Archuleta Scouted Locations For Suicide Before Faith Intervened]]></title>
-            <link>https://www.tmz.com/2026/02/11/david-archuleta-scouted-suicide-locations/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/david-archuleta-scouted-suicide-locations/</guid>
-            <pubDate>Thu, 12 Feb 2026 08:02:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/02/11/325c31f2f7f14fefae77eebb1ccfa13d_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/02/11/325c31f2f7f14fefae77eebb1ccfa13d_xs.jpg" medium="image">
+            <title><![CDATA[Chanel West Coast Gushes Over Her New Genre-Busting Single 'Giddy Up']]></title>
+            <link>https://www.tmz.com/2026/02/11/chanel-west-coast-loves-new-song-giddy-up/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/chanel-west-coast-loves-new-song-giddy-up/</guid>
+            <pubDate>Thu, 12 Feb 2026 11:12:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/02/11/1a5b09d50bea4b35ba18f46df50236de_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/02/11/1a5b09d50bea4b35ba18f46df50236de_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/02/11/325c31f2f7f14fefae77eebb1ccfa13d_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/02/11/1a5b09d50bea4b35ba18f46df50236de_xs.png">
             </media:thumbnail>
         </item>
     </channel>
