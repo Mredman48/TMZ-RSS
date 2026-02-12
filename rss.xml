@@ -4,26 +4,26 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 14:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 18:06:41 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Lewis Pullman Says It Feels Good to Carve His Own Path in Hollywood]]></title>
-            <link>https://www.tmz.com/2026/02/11/lewis-pullman-hollywood-success-bill-pullman-son/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/lewis-pullman-hollywood-success-bill-pullman-son/</guid>
-            <pubDate>Thu, 12 Feb 2026 14:38:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/02/11/289cf46339cc472cab66428bc0ef6885_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/02/11/289cf46339cc472cab66428bc0ef6885_xs.jpg" medium="image">
+            <title><![CDATA[Kylie Kelce Reveals Boob Job Plans After She's Done Having Kids]]></title>
+            <link>https://www.tmz.com/2026/02/12/kylie-kelce-jason-boob-job-kids/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/12/kylie-kelce-jason-boob-job-kids/</guid>
+            <pubDate>Thu, 12 Feb 2026 18:06:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/02/12/c5f01b521e4b40c4b7e4b0df66257ff3_xs.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/02/12/c5f01b521e4b40c4b7e4b0df66257ff3_xs.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/02/11/289cf46339cc472cab66428bc0ef6885_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/02/12/c5f01b521e4b40c4b7e4b0df66257ff3_xs.png">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[TMZ's Last Minute Valentine's Day Cards ... Take A Look!]]></title>
             <link>https://www.tmz.com/photos/2011/02/10/3413-last-minute-valentines-day-cards/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2011/02/10/3413-last-minute-valentines-day-cards/</guid>
-            <pubDate>Thu, 12 Feb 2026 14:38:33 GMT</pubDate>
+            <pubDate>Thu, 12 Feb 2026 18:06:41 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/80/16by9/2026/02/11/8076868d287a4340960ad915d5c4c9c6_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/80/16by9/2026/02/11/8076868d287a4340960ad915d5c4c9c6_xs.jpg" medium="image">
             </media:content>
@@ -31,21 +31,21 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA['Dawson's Creek' Star James Van Der Beek Dead at 48]]></title>
-            <link>https://www.tmz.com/2026/02/11/james-van-der-beek-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/james-van-der-beek-dead/</guid>
-            <pubDate>Thu, 12 Feb 2026 14:38:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/02/11/d74bf60f3bd14618a831fc8f43372104_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/02/11/d74bf60f3bd14618a831fc8f43372104_xs.jpg" medium="image">
+            <title><![CDATA[White House Rips Rep. Ilhan Omar Over Alleged Trump Execution Threat]]></title>
+            <link>https://www.tmz.com/2026/02/12/white-house-responds-ilhan-omar-attack-on-trump/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/12/white-house-responds-ilhan-omar-attack-on-trump/</guid>
+            <pubDate>Thu, 12 Feb 2026 18:06:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/02/11/fa5bfa00aa8a4df98a5f4cc528d0bef8_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/02/11/fa5bfa00aa8a4df98a5f4cc528d0bef8_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/02/11/d74bf60f3bd14618a831fc8f43372104_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/02/11/fa5bfa00aa8a4df98a5f4cc528d0bef8_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Cheek of the Week: Coi Leray's Scroll-Stopping Booty!]]></title>
             <link>https://www.tmz.com/photos/2023/10/09/coi-leray-hot-shots/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2023/10/09/coi-leray-hot-shots/</guid>
-            <pubDate>Thu, 12 Feb 2026 14:38:33 GMT</pubDate>
+            <pubDate>Thu, 12 Feb 2026 18:06:41 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/02/11/27c0bc7d89564efba35c488b8b38d4c1_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/27/16by9/2026/02/11/27c0bc7d89564efba35c488b8b38d4c1_xs.jpg" medium="image">
             </media:content>
@@ -53,14 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Chanel West Coast Gushes Over Her New Genre-Busting Single 'Giddy Up']]></title>
-            <link>https://www.tmz.com/2026/02/11/chanel-west-coast-loves-new-song-giddy-up/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/11/chanel-west-coast-loves-new-song-giddy-up/</guid>
-            <pubDate>Thu, 12 Feb 2026 14:38:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/02/11/1a5b09d50bea4b35ba18f46df50236de_xs.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/02/11/1a5b09d50bea4b35ba18f46df50236de_xs.png" medium="image">
+            <title><![CDATA[Taylor Armstrong Apologizes for Comments About Bad Bunny’s Super Bowl Show]]></title>
+            <link>https://www.tmz.com/2026/02/12/taylor-armstrong-bad-bunny-embarrassed-super-bowl-show-apology/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/12/taylor-armstrong-bad-bunny-embarrassed-super-bowl-show-apology/</guid>
+            <pubDate>Thu, 12 Feb 2026 18:06:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/02/12/5d300e48e48c401cb4cc742e112976ef_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/02/12/5d300e48e48c401cb4cc742e112976ef_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/02/11/1a5b09d50bea4b35ba18f46df50236de_xs.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/02/12/5d300e48e48c401cb4cc742e112976ef_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
