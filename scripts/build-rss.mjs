@@ -1,16 +1,22 @@
 import { fetch } from "undici";
-import * as cheerio from "cheerio";
 import RSS from "rss";
 import fs from "node:fs/promises";
+import { XMLParser } from "fast-xml-parser";
 
 const OUT_FILE = "rss.xml";
 const MAX_ITEMS = 5;
 
-// TMZ publishes these XML endpoints (linked in footer + robots)
-const UPDATED_ARTICLE_SITEMAP_INDEX = "https://www.tmz.com/sitemaps/article/updated/index.xml";
-const FALLBACK_ARTICLE_SITEMAP_INDEX = "https://www.tmz.com/sitemaps/article/index.xml";
+const NEWS_SITEMAP = "https://www.tmz.com/sitemaps/news.xml";
+const IMAGE_SITEMAP_INDEX = "https://www.tmz.com/sitemaps/image/index.xml";
 
-const UA = "tmz-top5-rss/1.1 (GitHub Actions; personal use)";
+const UA = "tmz-top5-rss/1.2 (GitHub Actions; personal use)";
+
+const parser = new XMLParser({
+  ignoreAttributes: false,
+  attributeNamePrefix: "@_",
+  // Preserve namespaced tags like news:title, image:image
+  removeNSPrefix: false
+});
 
 async function fetchText(url) {
   const res = await fetch(url, {
@@ -19,47 +25,95 @@ async function fetchText(url) {
       "accept": "application/xml,text/xml;q=0.9,*/*;q=0.8"
     }
   });
-
-  if (!res.ok) {
-    throw new Error(`Fetch failed ${res.status} for ${url}`);
-  }
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
   return await res.text();
 }
 
-function parseSitemapIndex(xml) {
-  const $ = cheerio.load(xml, { xmlMode: true });
-  const sitemaps = [];
-
-  $("sitemap").each((_, el) => {
-    const loc = $(el).find("loc").text().trim();
-    const lastmod = $(el).find("lastmod").text().trim();
-    if (loc) sitemaps.push({ loc, lastmod });
-  });
-
-  // Sort newest first by lastmod if present, otherwise keep original order.
-  sitemaps.sort((a, b) => (b.lastmod || "").localeCompare(a.lastmod || ""));
-  return sitemaps.map(s => s.loc);
+function asArray(v) {
+  if (!v) return [];
+  return Array.isArray(v) ? v : [v];
 }
 
-function parseArticleSitemap(xml) {
-  const $ = cheerio.load(xml, { xmlMode: true });
+function pickFirstImageLoc(imageNode) {
+  // imageNode can be:
+  // - { "image:loc": "..." }
+  // - { "image:loc": { "#text": "..." } }
+  // - etc.
+  const loc = imageNode?.["image:loc"];
+  if (!loc) return null;
+  if (typeof loc === "string") return loc;
+  if (typeof loc === "object" && typeof loc["#text"] === "string") return loc["#text"];
+  return null;
+}
+
+async function buildImageMapFromLatestSitemaps() {
+  const indexXml = await fetchText(IMAGE_SITEMAP_INDEX);
+  const indexObj = parser.parse(indexXml);
+
+  const sitemapIndex = indexObj?.sitemapindex?.sitemap;
+  const sitemaps = asArray(sitemapIndex)
+    .map((s) => ({
+      loc: s?.loc,
+      lastmod: s?.lastmod || ""
+    }))
+    .filter((s) => typeof s.loc === "string" && s.loc.startsWith("http"));
+
+  if (!sitemaps.length) throw new Error("No image sitemaps found in image index.");
+
+  // Newest first (string compare works for ISO-ish)
+  sitemaps.sort((a, b) => (b.lastmod || "").localeCompare(a.lastmod || ""));
+
+  // Pull the newest 2 image sitemaps to increase chance of covering the latest news URLs
+  const toFetch = sitemaps.slice(0, 2).map((s) => s.loc);
+
+  const map = new Map(); // url -> image url
+
+  for (const sitemapUrl of toFetch) {
+    const xml = await fetchText(sitemapUrl);
+    const obj = parser.parse(xml);
+
+    const urlset = obj?.urlset?.url;
+    for (const u of asArray(urlset)) {
+      const pageUrl = u?.loc;
+      if (typeof pageUrl !== "string") continue;
+
+      // image:image can be a single object or array
+      const imageNodes = asArray(u?.["image:image"]);
+      if (!imageNodes.length) continue;
+
+      const firstLoc = pickFirstImageLoc(imageNodes[0]);
+      if (!firstLoc) continue;
+
+      // only set if not already set (keep the first seen)
+      if (!map.has(pageUrl)) map.set(pageUrl, firstLoc);
+    }
+  }
+
+  return map;
+}
+
+async function getLatestNewsItems() {
+  const newsXml = await fetchText(NEWS_SITEMAP);
+  const newsObj = parser.parse(newsXml);
+
+  const urlset = newsObj?.urlset?.url;
   const items = [];
 
-  $("url").each((_, el) => {
-    const loc = $(el).find("loc").first().text().trim();
-    if (!loc) return;
+  for (const u of asArray(urlset)) {
+    const loc = u?.loc;
+    const news = u?.["news:news"];
+    const title = news?.["news:title"];
+    const pubDate = news?.["news:publication_date"];
 
-    // Image namespaces often appear as image:image / image:loc (Google image sitemap format)
-    // Cheerio in xmlMode still finds them by tag name.
-    const imageLoc =
-      $(el).find("image\\:image image\\:loc").first().text().trim() ||
-      $(el).find("image\\:loc").first().text().trim() ||
-      "";
+    if (typeof loc !== "string") continue;
+    if (typeof title !== "string") continue;
 
-    if (imageLoc) {
-      items.push({ url: loc, image: imageLoc });
-    }
-  });
+    items.push({
+      url: loc,
+      title: title.trim(),
+      pubDate: typeof pubDate === "string" ? pubDate : null
+    });
+  }
 
   return items;
 }
@@ -72,51 +126,44 @@ function guessImageType(url) {
 }
 
 async function main() {
-  let indexXml;
-  try {
-    indexXml = await fetchText(UPDATED_ARTICLE_SITEMAP_INDEX);
-  } catch (e) {
-    // Fallback if updated index is unavailable
-    indexXml = await fetchText(FALLBACK_ARTICLE_SITEMAP_INDEX);
+  const [newsItems, imageMap] = await Promise.all([
+    getLatestNewsItems(),
+    buildImageMapFromLatestSitemaps()
+  ]);
+
+  // Select the first MAX_ITEMS news URLs that have an image in the map
+  const chosen = [];
+  for (const n of newsItems) {
+    const img = imageMap.get(n.url);
+    if (!img) continue;
+    chosen.push({ ...n, image: img });
+    if (chosen.length >= MAX_ITEMS) break;
   }
 
-  const sitemapUrls = parseSitemapIndex(indexXml);
-  if (!sitemapUrls.length) throw new Error("No sitemaps found in sitemap index.");
-
-  // Grab the newest sitemap file
-  const newestSitemapUrl = sitemapUrls[0];
-  const articleXml = await fetchText(newestSitemapUrl);
-
-  const articleItems = parseArticleSitemap(articleXml);
-
-  // Need top 5 with images (your requirement)
-  const top = articleItems.slice(0, MAX_ITEMS);
-  if (top.length < MAX_ITEMS) {
-    throw new Error(`Only found ${top.length}/${MAX_ITEMS} items with images in sitemap.`);
+  if (chosen.length < MAX_ITEMS) {
+    throw new Error(
+      `Only found ${chosen.length}/${MAX_ITEMS} latest news items with images via image sitemap.`
+    );
   }
 
   const feed = new RSS({
     title: "TMZ – Top 5 (Unofficial)",
-    description: "Top 5 TMZ articles with photos (built from TMZ sitemap XML).",
-    feed_url: "https://example.com/rss.xml",
+    description:
+      "Top 5 TMZ items (title + link + photo) built from TMZ news + image sitemaps.",
     site_url: "https://www.tmz.com/",
     language: "en",
     ttl: 30,
-    custom_namespaces: {
-      media: "http://search.yahoo.com/mrss/"
-    }
+    custom_namespaces: { media: "http://search.yahoo.com/mrss/" }
   });
 
-  for (const item of top) {
-    // Title isn’t in the sitemap, so use a clean fallback:
-    // You can optionally fetch each article page later (may 403) to get real titles.
-    const fallbackTitle = item.url.split("/").filter(Boolean).slice(-1)[0].replace(/-/g, " ");
+  for (const item of chosen) {
+    const date = item.pubDate ? new Date(item.pubDate) : new Date();
 
     feed.item({
-      title: fallbackTitle,
+      title: item.title,
       url: item.url,
       guid: item.url,
-      date: new Date(),
+      date,
       enclosure: { url: item.image, type: guessImageType(item.image) },
       custom_elements: [
         { "media:content": [{ _attr: { url: item.image, medium: "image" } }] },
@@ -126,7 +173,7 @@ async function main() {
   }
 
   await fs.writeFile(OUT_FILE, feed.xml({ indent: true }), "utf8");
-  console.log(`Wrote ${OUT_FILE} with ${top.length} items from ${newestSitemapUrl}`);
+  console.log(`Wrote ${OUT_FILE} with ${chosen.length} items.`);
 }
 
 main().catch((err) => {
