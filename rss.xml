@@ -4,26 +4,48 @@
         <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 17:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 19:53:10 GMT</lastBuildDate>
         <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[HGTV's Nicole Curtis Is a Bad Person, But She's Not a Racist, Ex Says]]></title>
-            <link>https://www.tmz.com/2026/02/12/hgtv-nicole-curtis-ex-boyfriend-says-she-is-not-racist/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/12/hgtv-nicole-curtis-ex-boyfriend-says-she-is-not-racist/</guid>
-            <pubDate>Fri, 13 Feb 2026 17:28:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e0/16by9/2026/02/12/e07c4a248d314e6b90c9bc16588a4ba7_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/02/12/e07c4a248d314e6b90c9bc16588a4ba7_xs.jpg" medium="image">
+            <title><![CDATA[Cops Investigating New Video, Suspicious Man Near Nancy Guthrie's Home 1 Week Before Abduction]]></title>
+            <link>https://www.tmz.com/2026/02/13/new-video-of-intruder-near-nancy-guthrie-home-week-before-abduction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/new-video-of-intruder-near-nancy-guthrie-home-week-before-abduction/</guid>
+            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/02/13/3025ae371a47464bb4d2a841f380a1de_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/13/3025ae371a47464bb4d2a841f380a1de_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/02/12/e07c4a248d314e6b90c9bc16588a4ba7_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/13/3025ae371a47464bb4d2a841f380a1de_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[TAP-IN Alabama Barker's Busty Black Bikini, Britney Sells Her Music!]]></title>
+            <link>https://www.tmz.com/photos/2026/02/13/tmz-tap-in-week-2-9-26-mrbeast-doechii-xx-britney-spears-alabama-barker/</link>
+            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/13/tmz-tap-in-week-2-9-26-mrbeast-doechii-xx-britney-spears-alabama-barker/</guid>
+            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/02/13/10c185c3d9d04d87ba4fec425f66a6db_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/02/13/10c185c3d9d04d87ba4fec425f66a6db_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/02/13/10c185c3d9d04d87ba4fec425f66a6db_xs.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Texas A&M Student's Death Ruled Suicide by Medical Examiner, Family Calls BS]]></title>
+            <link>https://www.tmz.com/2026/02/13/brianna-aguilera-family-disagrees-with-official-cause-of-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/brianna-aguilera-family-disagrees-with-official-cause-of-death/</guid>
+            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/02/13/a944032984604ab6aaccc02d8c5a3c33_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/02/13/a944032984604ab6aaccc02d8c5a3c33_xs.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/02/13/a944032984604ab6aaccc02d8c5a3c33_xs.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[PINK VS. RED ... Ladies in Lacy-Hot Lingerie Who'd You Rather?!]]></title>
             <link>https://www.tmz.com/photos/2026/02/13/pink-vs-red-lingerie-ladies-whod-you-rather/</link>
             <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/13/pink-vs-red-lingerie-ladies-whod-you-rather/</guid>
-            <pubDate>Fri, 13 Feb 2026 17:28:12 GMT</pubDate>
+            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/02/12/6e36a86620f5424f98446d40fae62eb5_xs.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/02/12/6e36a86620f5424f98446d40fae62eb5_xs.jpg" medium="image">
             </media:content>
@@ -31,36 +53,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[FBI Releases Description of Suspect in Nancy Guthrie's Abduction, Increases Reward]]></title>
-            <link>https://www.tmz.com/2026/02/12/fbi-releases-description-of-suspect-in-nancy-guthrie-abduction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/12/fbi-releases-description-of-suspect-in-nancy-guthrie-abduction/</guid>
-            <pubDate>Fri, 13 Feb 2026 17:28:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/02/12/a1b497cc822d4ec9811ba153c877eb68_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/02/12/a1b497cc822d4ec9811ba153c877eb68_xs.jpg" medium="image">
+            <title><![CDATA[Britney Spears Seen Out for First Time Since Selling Music Catalog]]></title>
+            <link>https://www.tmz.com/2026/02/13/first-sighting-of-britney-spears-since-selling-music-catalog/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/first-sighting-of-britney-spears-since-selling-music-catalog/</guid>
+            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/02/13/41180cfe199a4dcb909172038fa1c440_xs.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/02/13/41180cfe199a4dcb909172038fa1c440_xs.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/02/12/a1b497cc822d4ec9811ba153c877eb68_xs.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Spike In 'Notting Hill' 'Memba Him?!]]></title>
-            <link>https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2021/10/05/memba-them-part-20/</guid>
-            <pubDate>Fri, 13 Feb 2026 17:28:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/02/12/36f98b8b4af24841a28a273be952e59c_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/02/12/36f98b8b4af24841a28a273be952e59c_xs.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/02/12/36f98b8b4af24841a28a273be952e59c_xs.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Too $hort Says Rappers Should Keep Politics to Themselves]]></title>
-            <link>https://www.tmz.com/2026/02/12/too-short-advises-rappers-away-from-politics/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/12/too-short-advises-rappers-away-from-politics/</guid>
-            <pubDate>Fri, 13 Feb 2026 17:28:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/02/13/b7114adab5774c2db2b99b14125504f6_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/02/13/b7114adab5774c2db2b99b14125504f6_xs.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/02/13/b7114adab5774c2db2b99b14125504f6_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/02/13/41180cfe199a4dcb909172038fa1c440_xs.jpg">
             </media:thumbnail>
         </item>
     </channel>
