@@ -3,79 +3,65 @@ import * as cheerio from "cheerio";
 import RSS from "rss";
 import fs from "node:fs/promises";
 
-const SITE_URL = "https://www.tmz.com/";
 const OUT_FILE = "rss.xml";
 const MAX_ITEMS = 5;
 
-const UA = "tmz-top5-rss/1.0 (GitHub Actions; personal use)";
+// TMZ publishes these XML endpoints (linked in footer + robots)
+const UPDATED_ARTICLE_SITEMAP_INDEX = "https://www.tmz.com/sitemaps/article/updated/index.xml";
+const FALLBACK_ARTICLE_SITEMAP_INDEX = "https://www.tmz.com/sitemaps/article/index.xml";
 
-function pickImageUrl($img) {
-  const src = $img.attr("src");
-  const dataSrc = $img.attr("data-src");
-  const srcSet = $img.attr("srcset");
+const UA = "tmz-top5-rss/1.1 (GitHub Actions; personal use)";
 
-  const candidate = dataSrc || src;
-  if (candidate && candidate.startsWith("http")) return candidate;
-
-  if (srcSet) {
-    const first = srcSet.split(",")[0]?.trim()?.split(" ")[0];
-    if (first && first.startsWith("http")) return first;
-  }
-  return null;
-}
-
-function isLikelyStoryUrl(url) {
-  return (
-    url.startsWith("https://www.tmz.com/") &&
-    (/\/\d{4}\/\d{2}\/\d{2}\//.test(url) || url.includes("/categories/"))
-  );
-}
-
-async function getHomepageHtml() {
-  const res = await fetch(SITE_URL, {
-    headers: { "user-agent": UA, accept: "text/html,*/*" }
+async function fetchText(url) {
+  const res = await fetch(url, {
+    headers: {
+      "user-agent": UA,
+      "accept": "application/xml,text/xml;q=0.9,*/*;q=0.8"
+    }
   });
-  if (!res.ok) throw new Error(`Homepage fetch failed: ${res.status}`);
+
+  if (!res.ok) {
+    throw new Error(`Fetch failed ${res.status} for ${url}`);
+  }
   return await res.text();
 }
 
-function extractTopStories(html) {
-  const $ = cheerio.load(html);
+function parseSitemapIndex(xml) {
+  const $ = cheerio.load(xml, { xmlMode: true });
+  const sitemaps = [];
 
-  const seen = new Set();
-  const items = [];
-
-  $("a[href]").each((_, a) => {
-    if (items.length >= MAX_ITEMS) return;
-
-    const href = $(a).attr("href");
-    if (!href) return;
-
-    const absUrl = href.startsWith("http") ? href : `https://www.tmz.com${href}`;
-    if (!isLikelyStoryUrl(absUrl)) return;
-    if (seen.has(absUrl)) return;
-
-    const title = $(a).text().trim().replace(/\s+/g, " ");
-    if (!title || title.length < 8) return;
-
-    let imgUrl = null;
-
-    const nestedImg = $(a).find("img").first();
-    if (nestedImg.length) imgUrl = pickImageUrl(nestedImg);
-
-    if (!imgUrl) {
-      const container = $(a).closest("article, li, div");
-      const nearImg = container.find("img").first();
-      if (nearImg.length) imgUrl = pickImageUrl(nearImg);
-    }
-
-    if (!imgUrl) return;
-
-    seen.add(absUrl);
-    items.push({ title, url: absUrl, image: imgUrl });
+  $("sitemap").each((_, el) => {
+    const loc = $(el).find("loc").text().trim();
+    const lastmod = $(el).find("lastmod").text().trim();
+    if (loc) sitemaps.push({ loc, lastmod });
   });
 
-  return items.slice(0, MAX_ITEMS);
+  // Sort newest first by lastmod if present, otherwise keep original order.
+  sitemaps.sort((a, b) => (b.lastmod || "").localeCompare(a.lastmod || ""));
+  return sitemaps.map(s => s.loc);
+}
+
+function parseArticleSitemap(xml) {
+  const $ = cheerio.load(xml, { xmlMode: true });
+  const items = [];
+
+  $("url").each((_, el) => {
+    const loc = $(el).find("loc").first().text().trim();
+    if (!loc) return;
+
+    // Image namespaces often appear as image:image / image:loc (Google image sitemap format)
+    // Cheerio in xmlMode still finds them by tag name.
+    const imageLoc =
+      $(el).find("image\\:image image\\:loc").first().text().trim() ||
+      $(el).find("image\\:loc").first().text().trim() ||
+      "";
+
+    if (imageLoc) {
+      items.push({ url: loc, image: imageLoc });
+    }
+  });
+
+  return items;
 }
 
 function guessImageType(url) {
@@ -86,28 +72,48 @@ function guessImageType(url) {
 }
 
 async function main() {
-  const html = await getHomepageHtml();
-  const items = extractTopStories(html);
+  let indexXml;
+  try {
+    indexXml = await fetchText(UPDATED_ARTICLE_SITEMAP_INDEX);
+  } catch (e) {
+    // Fallback if updated index is unavailable
+    indexXml = await fetchText(FALLBACK_ARTICLE_SITEMAP_INDEX);
+  }
 
-  if (items.length < MAX_ITEMS) {
-    throw new Error(
-      `Only found ${items.length}/${MAX_ITEMS} items with images. TMZ markup likely changed—adjust heuristics.`
-    );
+  const sitemapUrls = parseSitemapIndex(indexXml);
+  if (!sitemapUrls.length) throw new Error("No sitemaps found in sitemap index.");
+
+  // Grab the newest sitemap file
+  const newestSitemapUrl = sitemapUrls[0];
+  const articleXml = await fetchText(newestSitemapUrl);
+
+  const articleItems = parseArticleSitemap(articleXml);
+
+  // Need top 5 with images (your requirement)
+  const top = articleItems.slice(0, MAX_ITEMS);
+  if (top.length < MAX_ITEMS) {
+    throw new Error(`Only found ${top.length}/${MAX_ITEMS} items with images in sitemap.`);
   }
 
   const feed = new RSS({
     title: "TMZ – Top 5 (Unofficial)",
-    description: "Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.",
-    feed_url: `${SITE_URL}rss.xml`,
-    site_url: SITE_URL,
+    description: "Top 5 TMZ articles with photos (built from TMZ sitemap XML).",
+    feed_url: "https://example.com/rss.xml",
+    site_url: "https://www.tmz.com/",
     language: "en",
     ttl: 30,
-    custom_namespaces: { media: "http://search.yahoo.com/mrss/" }
+    custom_namespaces: {
+      media: "http://search.yahoo.com/mrss/"
+    }
   });
 
-  for (const item of items) {
+  for (const item of top) {
+    // Title isn’t in the sitemap, so use a clean fallback:
+    // You can optionally fetch each article page later (may 403) to get real titles.
+    const fallbackTitle = item.url.split("/").filter(Boolean).slice(-1)[0].replace(/-/g, " ");
+
     feed.item({
-      title: item.title,
+      title: fallbackTitle,
       url: item.url,
       guid: item.url,
       date: new Date(),
@@ -120,7 +126,7 @@ async function main() {
   }
 
   await fs.writeFile(OUT_FILE, feed.xml({ indent: true }), "utf8");
-  console.log(`Wrote ${OUT_FILE} with ${items.length} items.`);
+  console.log(`Wrote ${OUT_FILE} with ${top.length} items from ${newestSitemapUrl}`);
 }
 
 main().catch((err) => {
