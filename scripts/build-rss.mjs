@@ -2,101 +2,43 @@ import { fetch } from "undici";
 import RSS from "rss";
 import fs from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
+import * as cheerio from "cheerio";
 
 const OUT_FILE = "rss.xml";
 const MAX_ITEMS = 5;
 
+// Google News sitemap (latest ~2 days)
 const NEWS_SITEMAP = "https://www.tmz.com/sitemaps/news.xml";
-const IMAGE_SITEMAP_INDEX = "https://www.tmz.com/sitemaps/image/index.xml";
 
-const UA = "tmz-top5-rss/1.2 (GitHub Actions; personal use)";
-
+const UA = "tmz-top5-rss/1.3 (GitHub Actions; personal use)";
 const parser = new XMLParser({
   ignoreAttributes: false,
   attributeNamePrefix: "@_",
-  // Preserve namespaced tags like news:title, image:image
   removeNSPrefix: false
 });
-
-async function fetchText(url) {
-  const res = await fetch(url, {
-    headers: {
-      "user-agent": UA,
-      "accept": "application/xml,text/xml;q=0.9,*/*;q=0.8"
-    }
-  });
-  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
-  return await res.text();
-}
 
 function asArray(v) {
   if (!v) return [];
   return Array.isArray(v) ? v : [v];
 }
 
-function pickFirstImageLoc(imageNode) {
-  // imageNode can be:
-  // - { "image:loc": "..." }
-  // - { "image:loc": { "#text": "..." } }
-  // - etc.
-  const loc = imageNode?.["image:loc"];
-  if (!loc) return null;
-  if (typeof loc === "string") return loc;
-  if (typeof loc === "object" && typeof loc["#text"] === "string") return loc["#text"];
-  return null;
-}
-
-async function buildImageMapFromLatestSitemaps() {
-  const indexXml = await fetchText(IMAGE_SITEMAP_INDEX);
-  const indexObj = parser.parse(indexXml);
-
-  const sitemapIndex = indexObj?.sitemapindex?.sitemap;
-  const sitemaps = asArray(sitemapIndex)
-    .map((s) => ({
-      loc: s?.loc,
-      lastmod: s?.lastmod || ""
-    }))
-    .filter((s) => typeof s.loc === "string" && s.loc.startsWith("http"));
-
-  if (!sitemaps.length) throw new Error("No image sitemaps found in image index.");
-
-  // Newest first (string compare works for ISO-ish)
-  sitemaps.sort((a, b) => (b.lastmod || "").localeCompare(a.lastmod || ""));
-
-  // Pull the newest 2 image sitemaps to increase chance of covering the latest news URLs
-  const toFetch = sitemaps.slice(0, 2).map((s) => s.loc);
-
-  const map = new Map(); // url -> image url
-
-  for (const sitemapUrl of toFetch) {
-    const xml = await fetchText(sitemapUrl);
-    const obj = parser.parse(xml);
-
-    const urlset = obj?.urlset?.url;
-    for (const u of asArray(urlset)) {
-      const pageUrl = u?.loc;
-      if (typeof pageUrl !== "string") continue;
-
-      // image:image can be a single object or array
-      const imageNodes = asArray(u?.["image:image"]);
-      if (!imageNodes.length) continue;
-
-      const firstLoc = pickFirstImageLoc(imageNodes[0]);
-      if (!firstLoc) continue;
-
-      // only set if not already set (keep the first seen)
-      if (!map.has(pageUrl)) map.set(pageUrl, firstLoc);
+async function fetchText(url) {
+  const res = await fetch(url, {
+    headers: {
+      "user-agent": UA,
+      "accept": "text/html,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.9"
     }
-  }
-
-  return map;
+  });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return await res.text();
 }
 
 async function getLatestNewsItems() {
-  const newsXml = await fetchText(NEWS_SITEMAP);
-  const newsObj = parser.parse(newsXml);
+  const xml = await fetchText(NEWS_SITEMAP);
+  const obj = parser.parse(xml);
 
-  const urlset = newsObj?.urlset?.url;
+  const urlset = obj?.urlset?.url;
   const items = [];
 
   for (const u of asArray(urlset)) {
@@ -109,13 +51,38 @@ async function getLatestNewsItems() {
     if (typeof title !== "string") continue;
 
     items.push({
-      url: loc,
+      url: loc.trim(),
       title: title.trim(),
       pubDate: typeof pubDate === "string" ? pubDate : null
     });
   }
 
   return items;
+}
+
+function normalizeImageUrl(url) {
+  if (!url) return null;
+  // Some og:image values can be protocol-relative
+  if (url.startsWith("//")) return `https:${url}`;
+  return url;
+}
+
+async function getOgImage(articleUrl) {
+  const html = await fetchText(articleUrl);
+  const $ = cheerio.load(html);
+
+  // Best: OpenGraph
+  let img =
+    $('meta[property="og:image"]').attr("content") ||
+    $('meta[name="twitter:image"]').attr("content") ||
+    $('meta[property="og:image:secure_url"]').attr("content");
+
+  img = normalizeImageUrl(img);
+  if (img) return img;
+
+  // Fallback: first big-looking img
+  const firstImg = $("img").first().attr("src");
+  return normalizeImageUrl(firstImg);
 }
 
 function guessImageType(url) {
@@ -126,30 +93,36 @@ function guessImageType(url) {
 }
 
 async function main() {
-  const [newsItems, imageMap] = await Promise.all([
-    getLatestNewsItems(),
-    buildImageMapFromLatestSitemaps()
-  ]);
+  const newsItems = await getLatestNewsItems();
 
-  // Select the first MAX_ITEMS news URLs that have an image in the map
+  // We’ll try up to 25 recent items to find 5 that successfully return an og:image
   const chosen = [];
-  for (const n of newsItems) {
-    const img = imageMap.get(n.url);
-    if (!img) continue;
-    chosen.push({ ...n, image: img });
-    if (chosen.length >= MAX_ITEMS) break;
+  const toTry = newsItems.slice(0, 25);
+
+  for (const item of toTry) {
+    try {
+      const image = await getOgImage(item.url);
+      if (!image) continue;
+
+      chosen.push({ ...item, image });
+      if (chosen.length >= MAX_ITEMS) break;
+
+      // small delay to be polite (and reduce bot flags)
+      await new Promise((r) => setTimeout(r, 400));
+    } catch {
+      // Skip items that fail (403/timeout/etc.)
+    }
   }
 
   if (chosen.length < MAX_ITEMS) {
     throw new Error(
-      `Only found ${chosen.length}/${MAX_ITEMS} latest news items with images via image sitemap.`
+      `Only found ${chosen.length}/${MAX_ITEMS} items with images. TMZ may be blocking article-page fetches from GitHub Actions.`
     );
   }
 
   const feed = new RSS({
     title: "TMZ – Top 5 (Unofficial)",
-    description:
-      "Top 5 TMZ items (title + link + photo) built from TMZ news + image sitemaps.",
+    description: "Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.",
     site_url: "https://www.tmz.com/",
     language: "en",
     ttl: 30,
