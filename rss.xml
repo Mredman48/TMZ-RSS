@@ -1,66 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title><![CDATA[TMZ – Top 5 (Unofficial)]]></title>
-        <description><![CDATA[Top 5 TMZ homepage stories (title + link + photo). Unofficial feed.]]></description>
+        <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 19:53:10 GMT</lastBuildDate>
-        <atom:link href="https://www.tmz.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 Feb 2026 05:01:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Cops Investigating New Video, Suspicious Man Near Nancy Guthrie's Home 1 Week Before Abduction]]></title>
-            <link>https://www.tmz.com/2026/02/13/new-video-of-intruder-near-nancy-guthrie-home-week-before-abduction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/new-video-of-intruder-near-nancy-guthrie-home-week-before-abduction/</guid>
-            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/02/13/3025ae371a47464bb4d2a841f380a1de_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/13/3025ae371a47464bb4d2a841f380a1de_xs.jpg" medium="image">
+            <title><![CDATA[Tucson SWAT Conducting Raid in Nancy Guthrie Case]]></title>
+            <link>https://www.tmz.com/2026/02/13/nancy-guthrie-kidnapping-swat-raid-tucson/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/nancy-guthrie-kidnapping-swat-raid-tucson/</guid>
+            <pubDate>Sat, 14 Feb 2026 04:05:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/02/14/9ae23388bb9045bf98938a1544551d11_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/02/14/9ae23388bb9045bf98938a1544551d11_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/13/3025ae371a47464bb4d2a841f380a1de_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/02/14/9ae23388bb9045bf98938a1544551d11_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[TAP-IN Alabama Barker's Busty Black Bikini, Britney Sells Her Music!]]></title>
-            <link>https://www.tmz.com/photos/2026/02/13/tmz-tap-in-week-2-9-26-mrbeast-doechii-xx-britney-spears-alabama-barker/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/13/tmz-tap-in-week-2-9-26-mrbeast-doechii-xx-britney-spears-alabama-barker/</guid>
-            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/02/13/10c185c3d9d04d87ba4fec425f66a6db_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/02/13/10c185c3d9d04d87ba4fec425f66a6db_xs.jpg" medium="image">
+            <title><![CDATA[Amber Heard All Smiles as Johnny Depp Films Hollywood Return]]></title>
+            <link>https://www.tmz.com/2026/02/13/amber-heard-is-smiling-amid-johnny-depp-filming/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/amber-heard-is-smiling-amid-johnny-depp-filming/</guid>
+            <pubDate>Sat, 14 Feb 2026 02:00:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/02/14/6062b960b5b24e33975389e4836d78e7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/02/14/6062b960b5b24e33975389e4836d78e7_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/02/13/10c185c3d9d04d87ba4fec425f66a6db_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/02/14/6062b960b5b24e33975389e4836d78e7_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Texas A&M Student's Death Ruled Suicide by Medical Examiner, Family Calls BS]]></title>
-            <link>https://www.tmz.com/2026/02/13/brianna-aguilera-family-disagrees-with-official-cause-of-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/brianna-aguilera-family-disagrees-with-official-cause-of-death/</guid>
-            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/02/13/a944032984604ab6aaccc02d8c5a3c33_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/02/13/a944032984604ab6aaccc02d8c5a3c33_xs.jpg" medium="image">
+            <title><![CDATA[James Van Der Beek Bought $4.7M Texas Ranch 1 Month Prior To Death]]></title>
+            <link>https://www.tmz.com/2026/02/13/james-van-der-beek-purchased-texas-ranch-before-dying/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/james-van-der-beek-purchased-texas-ranch-before-dying/</guid>
+            <pubDate>Sat, 14 Feb 2026 01:30:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/92/16by9/2026/02/14/92dde98044ff43e8bbb39a56ac141d7c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/92/16by9/2026/02/14/92dde98044ff43e8bbb39a56ac141d7c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/02/13/a944032984604ab6aaccc02d8c5a3c33_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/92/16by9/2026/02/14/92dde98044ff43e8bbb39a56ac141d7c_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[PINK VS. RED ... Ladies in Lacy-Hot Lingerie Who'd You Rather?!]]></title>
-            <link>https://www.tmz.com/photos/2026/02/13/pink-vs-red-lingerie-ladies-whod-you-rather/</link>
-            <guid isPermaLink="false">https://www.tmz.com/photos/2026/02/13/pink-vs-red-lingerie-ladies-whod-you-rather/</guid>
-            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/02/12/6e36a86620f5424f98446d40fae62eb5_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/02/12/6e36a86620f5424f98446d40fae62eb5_xs.jpg" medium="image">
+            <title><![CDATA[Nancy Guthrie Abduction: Third Reward Demand Says Kidnapper Is &#039;International&#039;]]></title>
+            <link>https://www.tmz.com/2026/02/13/third-nancy-guthrie-demand-email-says-kidnapper-international/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/third-nancy-guthrie-demand-email-says-kidnapper-international/</guid>
+            <pubDate>Sat, 14 Feb 2026 01:20:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/02/14/2e6f4c14a4eb49389bbf5da2ec379e94_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/02/14/2e6f4c14a4eb49389bbf5da2ec379e94_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/02/12/6e36a86620f5424f98446d40fae62eb5_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/02/14/2e6f4c14a4eb49389bbf5da2ec379e94_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Britney Spears Seen Out for First Time Since Selling Music Catalog]]></title>
-            <link>https://www.tmz.com/2026/02/13/first-sighting-of-britney-spears-since-selling-music-catalog/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/first-sighting-of-britney-spears-since-selling-music-catalog/</guid>
-            <pubDate>Fri, 13 Feb 2026 19:53:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/02/13/41180cfe199a4dcb909172038fa1c440_xs.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/02/13/41180cfe199a4dcb909172038fa1c440_xs.jpg" medium="image">
+            <title><![CDATA[Cari Champion Shoots Shot At Bad Bunny After Super Bowl Show, Let&#039;s Talk!]]></title>
+            <link>https://www.tmz.com/2026/02/13/cari-champion-bad-bunny-super-bowl-halftime-jemele-hill/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/13/cari-champion-bad-bunny-super-bowl-halftime-jemele-hill/</guid>
+            <pubDate>Sat, 14 Feb 2026 00:57:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/02/09/e4756c01ae664f65b5629d9821926625_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/02/09/e4756c01ae664f65b5629d9821926625_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/02/13/41180cfe199a4dcb909172038fa1c440_xs.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/02/09/e4756c01ae664f65b5629d9821926625_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
