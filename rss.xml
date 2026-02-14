@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 14:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 15:45:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Cardi B Falls on Stage During &#039;Little Miss Drama&#039; Tour]]></title>
+            <link>https://www.tmz.com/2026/02/14/cardi-b-falls-little-miss-drama-tour/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/cardi-b-falls-little-miss-drama-tour/</guid>
+            <pubDate>Sat, 14 Feb 2026 15:25:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/02/14/72683d4151ff414ab3871ca9c9c17915_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/02/14/72683d4151ff414ab3871ca9c9c17915_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/02/14/72683d4151ff414ab3871ca9c9c17915_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Laguna Beach&#039; Star Lauren Conrad Celebrates 40th Birthday with HS-Themed Bash]]></title>
+            <link>https://www.tmz.com/2026/02/14/lauren-conrad-throwback-birthday-party/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/lauren-conrad-throwback-birthday-party/</guid>
+            <pubDate>Sat, 14 Feb 2026 14:54:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/01/16by9/2026/02/14/01cfc7467a1c4e8cbf5d30266e26686f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/01/16by9/2026/02/14/01cfc7467a1c4e8cbf5d30266e26686f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/02/14/01cfc7467a1c4e8cbf5d30266e26686f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Nancy Guthrie Case: First Photo of Man Detained During Traffic Stop]]></title>
+            <link>https://www.tmz.com/2026/02/14/nancy-guthrie-photo-of-man-detained-in-arizona/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/nancy-guthrie-photo-of-man-detained-in-arizona/</guid>
+            <pubDate>Sat, 14 Feb 2026 14:44:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/02/14/e58781673c604148badce50014c1ba65_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/02/14/e58781673c604148badce50014c1ba65_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/02/14/e58781673c604148badce50014c1ba65_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[SWAT Makes Its Move in the Nancy Guthrie Kidnapping -- The Latest]]></title>
+            <link>https://www.tmz.com/2026/02/14/swat-detains-in-guthrie-investigation-harvey-levin-cnn-interview/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/swat-detains-in-guthrie-investigation-harvey-levin-cnn-interview/</guid>
+            <pubDate>Sat, 14 Feb 2026 14:29:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/02/14/87cb79cc53cd440082817d5086cd5e30_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/02/14/87cb79cc53cd440082817d5086cd5e30_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/02/14/87cb79cc53cd440082817d5086cd5e30_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Good Mythical Morning&#039; Exec Stevie Wynne Levine Leaving Company After 13 Years]]></title>
             <link>https://www.tmz.com/2026/02/14/stevie-wynne-levine-leaving-good-mythical-morning/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/02/14/7a9105a8b92742cbbab7e6e1b6f503dd_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/02/14/7a9105a8b92742cbbab7e6e1b6f503dd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[FBI Investigates Possible Vehicle of Interest in Nancy Guthrie Search]]></title>
-            <link>https://www.tmz.com/2026/02/14/fbi-investigates-possible-vehicle-of-interest-in-nancy-guthrie-search/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/fbi-investigates-possible-vehicle-of-interest-in-nancy-guthrie-search/</guid>
-            <pubDate>Sat, 14 Feb 2026 10:27:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/02/13/89a81bd0e8f94f40b229c58a602e2efa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/02/13/89a81bd0e8f94f40b229c58a602e2efa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/02/13/89a81bd0e8f94f40b229c58a602e2efa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Karol G Hot Shots for Her 35th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/02/14/karol-g-hot-shots-happy-35th-birthday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/karol-g-hot-shots-happy-35th-birthday/</guid>
-            <pubDate>Sat, 14 Feb 2026 09:00:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/01/19/cea9a41e694248d8aa7abea00351d4bf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/01/19/cea9a41e694248d8aa7abea00351d4bf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/01/19/cea9a41e694248d8aa7abea00351d4bf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Astrologer Predicts the Futures of the Biggest Celebrity Super Bowl Romances]]></title>
-            <link>https://www.tmz.com/2026/02/14/richard-james-predicts-celebrity-super-bowl-romances/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/richard-james-predicts-celebrity-super-bowl-romances/</guid>
-            <pubDate>Sat, 14 Feb 2026 09:00:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/02/12/f56c844ce93b48ababb50de66daa7389_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/02/12/f56c844ce93b48ababb50de66daa7389_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/02/12/f56c844ce93b48ababb50de66daa7389_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrity Heart Hands For Valentine&#039;s Day]]></title>
-            <link>https://www.tmz.com/2026/02/14/celebrity-heart-hands-valentines-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/celebrity-heart-hands-valentines-day/</guid>
-            <pubDate>Sat, 14 Feb 2026 08:45:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2a/16by9/2026/02/13/2a8592bc6737438cbf77cf8b9d35753f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/02/13/2a8592bc6737438cbf77cf8b9d35753f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/02/13/2a8592bc6737438cbf77cf8b9d35753f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
