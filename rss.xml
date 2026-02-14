@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 11:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 14:02:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Good Mythical Morning&#039; Exec Stevie Wynne Levine Leaving Company After 13 Years]]></title>
+            <link>https://www.tmz.com/2026/02/14/stevie-wynne-levine-leaving-good-mythical-morning/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/stevie-wynne-levine-leaving-good-mythical-morning/</guid>
+            <pubDate>Sat, 14 Feb 2026 13:33:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/02/14/7a9105a8b92742cbbab7e6e1b6f503dd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/02/14/7a9105a8b92742cbbab7e6e1b6f503dd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/02/14/7a9105a8b92742cbbab7e6e1b6f503dd_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[FBI Investigates Possible Vehicle of Interest in Nancy Guthrie Search]]></title>
             <link>https://www.tmz.com/2026/02/14/fbi-investigates-possible-vehicle-of-interest-in-nancy-guthrie-search/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/02/13/2a8592bc6737438cbf77cf8b9d35753f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/02/13/2a8592bc6737438cbf77cf8b9d35753f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Drew Brees Says Eli Manning, Philip Rivers Will Be Hall of Famers]]></title>
-            <link>https://www.tmz.com/2026/02/14/drew-brees-thinks-eli-manning-philip-rivers-hall-of-fame/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/drew-brees-thinks-eli-manning-philip-rivers-hall-of-fame/</guid>
-            <pubDate>Sat, 14 Feb 2026 08:30:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/02/10/dda3a16a8d6545d39a640bf1858dbae4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/02/10/dda3a16a8d6545d39a640bf1858dbae4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/02/10/dda3a16a8d6545d39a640bf1858dbae4_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
