@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 10:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 11:40:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[FBI Investigates Possible Vehicle of Interest in Nancy Guthrie Search]]></title>
+            <link>https://www.tmz.com/2026/02/14/fbi-investigates-possible-vehicle-of-interest-in-nancy-guthrie-search/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/fbi-investigates-possible-vehicle-of-interest-in-nancy-guthrie-search/</guid>
+            <pubDate>Sat, 14 Feb 2026 10:27:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/02/13/89a81bd0e8f94f40b229c58a602e2efa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/02/13/89a81bd0e8f94f40b229c58a602e2efa_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/02/13/89a81bd0e8f94f40b229c58a602e2efa_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Karol G Hot Shots for Her 35th Birthday!]]></title>
             <link>https://www.tmz.com/2026/02/14/karol-g-hot-shots-happy-35th-birthday/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/02/10/dda3a16a8d6545d39a640bf1858dbae4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/02/10/dda3a16a8d6545d39a640bf1858dbae4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[‘Varsity Blues’ Actor Reached Out To James Van Der Beek Weeks Before Death]]></title>
-            <link>https://www.tmz.com/2026/02/14/varsity-blues-eliel-swinton-reacts-james-van-der-beek-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/varsity-blues-eliel-swinton-reacts-james-van-der-beek-death/</guid>
-            <pubDate>Sat, 14 Feb 2026 08:25:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/02/12/b548667fc7a64299936db2b83f4ccef0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/02/12/b548667fc7a64299936db2b83f4ccef0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/02/12/b548667fc7a64299936db2b83f4ccef0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
