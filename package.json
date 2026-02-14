@@ -6,6 +6,7 @@
     "build:rss": "node scripts/build-rss.mjs"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "fast-xml-parser": "^4.4.1",
     "rss": "^1.2.2",
     "undici": "^6.19.8"
