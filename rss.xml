@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 19:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 21:42:52 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Rihanna Accidentally Flashes Butt While Walking into A$AP Rocky&#039;s Fashion Show]]></title>
+            <link>https://www.tmz.com/2026/02/14/rihanna-wardrobe-malfunction-at-asap-rocky-fashion-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/rihanna-wardrobe-malfunction-at-asap-rocky-fashion-show/</guid>
+            <pubDate>Sat, 14 Feb 2026 21:03:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/02/14/e85f3fab6ade4a3c8d168ce733888b0b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/02/14/e85f3fab6ade4a3c8d168ce733888b0b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/02/14/e85f3fab6ade4a3c8d168ce733888b0b_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Travis Kelce&#039;s Podcast Account Posts Valentine&#039;s Day Card Referencing Taylor Swift&#039;s &#039;Wood&#039;]]></title>
+            <link>https://www.tmz.com/2026/02/14/travis-kelce-new-heights-posts-redwood-valentines-day-card/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/travis-kelce-new-heights-posts-redwood-valentines-day-card/</guid>
+            <pubDate>Sat, 14 Feb 2026 20:06:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/02/14/31ace710e67b4fc4b293ab2dc24e7dca_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/02/14/31ace710e67b4fc4b293ab2dc24e7dca_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/02/14/31ace710e67b4fc4b293ab2dc24e7dca_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Justina Valentine Fire-Hot Snaps to Celebrate Her 39th Birthday]]></title>
+            <link>https://www.tmz.com/2026/02/14/justina-valentine-birthday-photos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/justina-valentine-birthday-photos/</guid>
+            <pubDate>Sat, 14 Feb 2026 20:00:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/02/03/189725df65da491c84780c4859ff801b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/02/03/189725df65da491c84780c4859ff801b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/02/03/189725df65da491c84780c4859ff801b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Canadian Curler Cusses Out Swedish Opponent After Cheating Accusations, Video]]></title>
+            <link>https://www.tmz.com/2026/02/14/olympic-curlers-fighting-over-cheating-canada-sweden/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/olympic-curlers-fighting-over-cheating-canada-sweden/</guid>
+            <pubDate>Sat, 14 Feb 2026 19:56:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/02/14/d4e6c22eeebc4bc3b617f20d690b3ec1_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/02/14/d4e6c22eeebc4bc3b617f20d690b3ec1_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/02/14/d4e6c22eeebc4bc3b617f20d690b3ec1_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bianca Censori Heads to Spa Ahead of Valentine&#039;s Day]]></title>
             <link>https://www.tmz.com/2026/02/14/bianca-censori-going-to-spa-in-los-angeles/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/49/16by9/2026/02/14/4966248dc89d414796260aba841917f7_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/02/14/4966248dc89d414796260aba841917f7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Harvey Levin and Mark Geragos Connect Dots in Nancy Guthrie Kidnapping]]></title>
-            <link>https://www.tmz.com/2026/02/14/nancy-guthrie-case-harvey-levin-mark-geragos-connect-dots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/nancy-guthrie-case-harvey-levin-mark-geragos-connect-dots/</guid>
-            <pubDate>Sat, 14 Feb 2026 18:01:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/02/14/f85c6cb0abe245a7b65a065f0c6f995b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/02/14/f85c6cb0abe245a7b65a065f0c6f995b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/02/14/f85c6cb0abe245a7b65a065f0c6f995b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Wiz Khalifa&#039;s Father Dead at 63]]></title>
-            <link>https://www.tmz.com/2026/02/14/wiz-khalifa-dad-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/wiz-khalifa-dad-dead/</guid>
-            <pubDate>Sat, 14 Feb 2026 17:04:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/02/14/0fe34b8c40d3476f83f4f9a737e3f142_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/02/14/0fe34b8c40d3476f83f4f9a737e3f142_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/02/14/0fe34b8c40d3476f83f4f9a737e3f142_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[White House Celebrates Valentine&#039;s Day with Cards Featuring Nicolás Maduro, Greenland]]></title>
-            <link>https://www.tmz.com/2026/02/14/white-house-valentines-day-cards-maduro-trump-greenland/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/white-house-valentines-day-cards-maduro-trump-greenland/</guid>
-            <pubDate>Sat, 14 Feb 2026 15:55:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/02/14/40be57d7c7e7497db47b1203879d272e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/02/14/40be57d7c7e7497db47b1203879d272e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/02/14/40be57d7c7e7497db47b1203879d272e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cardi B Falls on Stage During &#039;Little Miss Drama&#039; Tour]]></title>
-            <link>https://www.tmz.com/2026/02/14/cardi-b-falls-little-miss-drama-tour/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/14/cardi-b-falls-little-miss-drama-tour/</guid>
-            <pubDate>Sat, 14 Feb 2026 15:25:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/02/14/72683d4151ff414ab3871ca9c9c17915_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/02/14/72683d4151ff414ab3871ca9c9c17915_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/02/14/72683d4151ff414ab3871ca9c9c17915_xl.png">
             </media:thumbnail>
         </item>
     </channel>
