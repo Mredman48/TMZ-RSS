@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 14:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 15:44:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Days of Our Lives&#039; Alum Charlotte Ross Sells Los Angeles Estate for $3.4 Million]]></title>
+            <link>https://www.tmz.com/2026/02/15/charlotte-ross-sells-los-angeles-estate/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/charlotte-ross-sells-los-angeles-estate/</guid>
+            <pubDate>Sun, 15 Feb 2026 15:38:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/02/13/a47d087c40a8497ca50b9b66f5c76c4f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/02/13/a47d087c40a8497ca50b9b66f5c76c4f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/02/13/a47d087c40a8497ca50b9b66f5c76c4f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Irina Shayk Shows Off Bikini Body During Beach Day With Daughter in Miami]]></title>
+            <link>https://www.tmz.com/2026/02/15/irina-shayk-shows-off-bikini-miami-beach-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/irina-shayk-shows-off-bikini-miami-beach-day/</guid>
+            <pubDate>Sun, 15 Feb 2026 14:57:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/02/15/70299223f2344dd7a9bf7adfbfaa90a0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/02/15/70299223f2344dd7a9bf7adfbfaa90a0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/02/15/70299223f2344dd7a9bf7adfbfaa90a0_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lindsey Vonn Details Recovery After Fourth Surgery for Olympic Leg Fracture]]></title>
+            <link>https://www.tmz.com/2026/02/15/lindsey-vonn-details-fourth-surgery-recovery/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/lindsey-vonn-details-fourth-surgery-recovery/</guid>
+            <pubDate>Sun, 15 Feb 2026 14:11:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4c/16by9/2026/02/15/4cdf718b81664417a2d429438c073d54_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/02/15/4cdf718b81664417a2d429438c073d54_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/02/15/4cdf718b81664417a2d429438c073d54_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Amy Schumer Marks Valentine&#039;s Day With &#039;Crying Corner&#039; Post Amid Divorce]]></title>
             <link>https://www.tmz.com/2026/02/15/amy-schumer-crying-corner-post-valentines-day/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/02/15/d20cfe80f90c4ab38716d769a1236d51_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/02/15/d20cfe80f90c4ab38716d769a1236d51_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Megan Thee Stallion&#039;s Hot Shots to Kick Off Her 31st Birthday!]]></title>
-            <link>https://www.tmz.com/2026/02/15/megan-thee-stallion-hot-shots-birthday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/megan-thee-stallion-hot-shots-birthday/</guid>
-            <pubDate>Sun, 15 Feb 2026 09:00:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/52/16by9/2024/10/31/528bf1ab462f4c268347f83ceb28733d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/52/16by9/2024/10/31/528bf1ab462f4c268347f83ceb28733d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2024/10/31/528bf1ab462f4c268347f83ceb28733d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Margot Robbie Good Genes or Good Docs?!]]></title>
-            <link>https://www.tmz.com/2026/02/15/margot-robbie-good-genes-or-good-docs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/margot-robbie-good-genes-or-good-docs/</guid>
-            <pubDate>Sun, 15 Feb 2026 08:45:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/02/10/1a166646556744179a7ae6f6ccea4f9a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/02/10/1a166646556744179a7ae6f6ccea4f9a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/02/10/1a166646556744179a7ae6f6ccea4f9a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jerry Jones Says He Wouldn&#039;t Be Hall of Famer Without Michael Irvin]]></title>
-            <link>https://www.tmz.com/2026/02/15/jerry-jones-michael-irvin-hall-of-fame/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/jerry-jones-michael-irvin-hall-of-fame/</guid>
-            <pubDate>Sun, 15 Feb 2026 08:30:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/02/10/9dc4ff8f300940e183a8b6ae10e479b2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/02/10/9dc4ff8f300940e183a8b6ae10e479b2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/02/10/9dc4ff8f300940e183a8b6ae10e479b2_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
