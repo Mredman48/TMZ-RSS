@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 11:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 14:03:19 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Amy Schumer Marks Valentine&#039;s Day With &#039;Crying Corner&#039; Post Amid Divorce]]></title>
+            <link>https://www.tmz.com/2026/02/15/amy-schumer-crying-corner-post-valentines-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/amy-schumer-crying-corner-post-valentines-day/</guid>
+            <pubDate>Sun, 15 Feb 2026 13:50:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/02/15/19ccddb9b52841e594ba83026653ce7c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/02/15/19ccddb9b52841e594ba83026653ce7c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/02/15/19ccddb9b52841e594ba83026653ce7c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Nancy Guthrie Kidnapping: Sheriff Says It Could Take Years to Find Her]]></title>
+            <link>https://www.tmz.com/2026/02/15/nancy-guthrie-case-could-take-years-says-sheriff/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/nancy-guthrie-case-could-take-years-says-sheriff/</guid>
+            <pubDate>Sun, 15 Feb 2026 13:15:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/02/15/d20cfe80f90c4ab38716d769a1236d51_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/02/15/d20cfe80f90c4ab38716d769a1236d51_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/02/15/d20cfe80f90c4ab38716d769a1236d51_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Megan Thee Stallion&#039;s Hot Shots to Kick Off Her 31st Birthday!]]></title>
             <link>https://www.tmz.com/2026/02/15/megan-thee-stallion-hot-shots-birthday/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/02/10/9dc4ff8f300940e183a8b6ae10e479b2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/02/10/9dc4ff8f300940e183a8b6ae10e479b2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Livvy Dunne Says She Has Full Trust In Paul Skenes After &#039;Scary&#039; Batting Practice]]></title>
-            <link>https://www.tmz.com/2026/02/15/livvy-dunne-paul-skenes-batting-practice/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/livvy-dunne-paul-skenes-batting-practice/</guid>
-            <pubDate>Sun, 15 Feb 2026 08:20:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/02/09/6c20636f7fb54ff9900aa29407d34d50_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/02/09/6c20636f7fb54ff9900aa29407d34d50_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/02/09/6c20636f7fb54ff9900aa29407d34d50_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Super Bowl Champ T.J. Ward Says Broncos Have Title Blueprint]]></title>
-            <link>https://www.tmz.com/2026/02/15/tj-ward-predicts-broncos-super-bowl-return-2027/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/tj-ward-predicts-broncos-super-bowl-return-2027/</guid>
-            <pubDate>Sun, 15 Feb 2026 08:10:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/02/10/00833c356f5b4864b7fd1639c5666134_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/02/10/00833c356f5b4864b7fd1639c5666134_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/02/10/00833c356f5b4864b7fd1639c5666134_xl.png">
             </media:thumbnail>
         </item>
     </channel>
