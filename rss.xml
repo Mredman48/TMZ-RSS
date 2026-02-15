@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 19:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 21:43:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Investigators Deploy High-Tech Signal Sniffer in Search for Nancy Guthrie]]></title>
+            <link>https://www.tmz.com/2026/02/15/investigators-deploying-signal-sniffer-nancy-guthrie-search/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/investigators-deploying-signal-sniffer-nancy-guthrie-search/</guid>
+            <pubDate>Sun, 15 Feb 2026 21:17:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/02/15/e215402f302341e79fc731cedb752ed8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/02/15/e215402f302341e79fc731cedb752ed8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/02/15/e215402f302341e79fc731cedb752ed8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[David Harbour Out With Mystery Woman As He Skips Maya Hawke&#039;s Wedding]]></title>
+            <link>https://www.tmz.com/2026/02/15/david-harbour-with-mystery-woman-skips-maya-hawke-wedding/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/david-harbour-with-mystery-woman-skips-maya-hawke-wedding/</guid>
+            <pubDate>Sun, 15 Feb 2026 21:12:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/15/6560d35db432437598c4c258ef520956_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/15/6560d35db432437598c4c258ef520956_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/15/6560d35db432437598c4c258ef520956_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Manchester Orchestra Drummer, Timothy Very, Dead at 42]]></title>
+            <link>https://www.tmz.com/2026/02/15/timothy-very-manchester-orchestra-drummer-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/timothy-very-manchester-orchestra-drummer-dead/</guid>
+            <pubDate>Sun, 15 Feb 2026 20:35:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/02/15/62b4981bbc584777a8b1a4d3182cdb36_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/02/15/62b4981bbc584777a8b1a4d3182cdb36_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/02/15/62b4981bbc584777a8b1a4d3182cdb36_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Selling Sunset&#039;s Jason Oppenheim and Girlfriend Jessica Vargas Breakup]]></title>
+            <link>https://www.tmz.com/2026/02/15/jason-oppenheim-jessica-vargas-breakup/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/jason-oppenheim-jessica-vargas-breakup/</guid>
+            <pubDate>Sun, 15 Feb 2026 19:55:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/02/15/8756e9749baa4f9b923f8c679df54ff7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/02/15/8756e9749baa4f9b923f8c679df54ff7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/02/15/8756e9749baa4f9b923f8c679df54ff7_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[FBI Says DNA on Glove Matches Subject Seen in Nancy Guthrie Security Video]]></title>
             <link>https://www.tmz.com/2026/02/15/nancy-guthrie-surveillance-subject-dna-matches-glove/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/02/15/ce2de9f68e704ab28c502cd99d46b078_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/02/15/ce2de9f68e704ab28c502cd99d46b078_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cynthia Erivo Addresses Rumors She and Ariana Grande Were &#039;Lovers&#039;]]></title>
-            <link>https://www.tmz.com/2026/02/15/cynthia-erivo-addresses-ariana-grande-romance-rumors/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/cynthia-erivo-addresses-ariana-grande-romance-rumors/</guid>
-            <pubDate>Sun, 15 Feb 2026 18:20:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/02/15/f79f998cd53343169ac3660154a8eb83_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/02/15/f79f998cd53343169ac3660154a8eb83_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/02/15/f79f998cd53343169ac3660154a8eb83_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Harper Beckham Shows Love to Brothers Amid Family Feud]]></title>
-            <link>https://www.tmz.com/2026/02/15/harper-beckham-shows-love-to-brothers/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/harper-beckham-shows-love-to-brothers/</guid>
-            <pubDate>Sun, 15 Feb 2026 16:30:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/02/15/71a588aeefac4c1e9de0f57930c436a4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/02/15/71a588aeefac4c1e9de0f57930c436a4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/02/15/71a588aeefac4c1e9de0f57930c436a4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Days of Our Lives&#039; Alum Charlotte Ross Sells Los Angeles Estate for $3.4 Million]]></title>
-            <link>https://www.tmz.com/2026/02/15/charlotte-ross-sells-los-angeles-estate/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/charlotte-ross-sells-los-angeles-estate/</guid>
-            <pubDate>Sun, 15 Feb 2026 15:38:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/02/13/a47d087c40a8497ca50b9b66f5c76c4f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/02/13/a47d087c40a8497ca50b9b66f5c76c4f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/02/13/a47d087c40a8497ca50b9b66f5c76c4f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Irina Shayk Shows Off Bikini Body During Beach Day With Daughter in Miami]]></title>
-            <link>https://www.tmz.com/2026/02/15/irina-shayk-shows-off-bikini-miami-beach-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/irina-shayk-shows-off-bikini-miami-beach-day/</guid>
-            <pubDate>Sun, 15 Feb 2026 14:57:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/02/15/70299223f2344dd7a9bf7adfbfaa90a0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/02/15/70299223f2344dd7a9bf7adfbfaa90a0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/02/15/70299223f2344dd7a9bf7adfbfaa90a0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
