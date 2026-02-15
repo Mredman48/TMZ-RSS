@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 21:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 23:46:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Late NASCAR Driver Greg Biffle Remembered During Daytona 500 in Emotional Tribute]]></title>
+            <link>https://www.tmz.com/2026/02/15/late-nascar-driver-greg-biffle-remembered-during-daytona-500-in-emotional-tribute/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/late-nascar-driver-greg-biffle-remembered-during-daytona-500-in-emotional-tribute/</guid>
+            <pubDate>Sun, 15 Feb 2026 23:33:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7d/16by9/2026/02/15/7d3f477653f04064abc93c2d4cad0ab4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7d/16by9/2026/02/15/7d3f477653f04064abc93c2d4cad0ab4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7d/16by9/2026/02/15/7d3f477653f04064abc93c2d4cad0ab4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brooklyn Beckham&#039;s Love Note to Nicola Peltz Amid Family Feud]]></title>
+            <link>https://www.tmz.com/2026/02/15/brooklyn-beckham-shows-love-to-nicola-on-valentines-day-amid-family-feud/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/brooklyn-beckham-shows-love-to-nicola-on-valentines-day-amid-family-feud/</guid>
+            <pubDate>Sun, 15 Feb 2026 23:28:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/02/15/f2d881dd89404e899bb5f511b82dd391_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/02/15/f2d881dd89404e899bb5f511b82dd391_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/02/15/f2d881dd89404e899bb5f511b82dd391_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay Couple&#039;s Kristin Cabot Hits The Beach in Miami]]></title>
+            <link>https://www.tmz.com/2026/02/15/kristin-cabot-hits-beach/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/kristin-cabot-hits-beach/</guid>
+            <pubDate>Sun, 15 Feb 2026 23:03:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/02/15/d05a861423754d62b2b80a5fd326d726_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/02/15/d05a861423754d62b2b80a5fd326d726_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/02/15/d05a861423754d62b2b80a5fd326d726_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Former UFC Champ Cain Velasquez Released From Prison on Parole]]></title>
+            <link>https://www.tmz.com/2026/02/15/cain-velasquez-reportedly-released-from-prison/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/cain-velasquez-reportedly-released-from-prison/</guid>
+            <pubDate>Sun, 15 Feb 2026 22:40:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/02/15/56b36ea20ab04a74a9d56000db6e0a09_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/02/15/56b36ea20ab04a74a9d56000db6e0a09_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/02/15/56b36ea20ab04a74a9d56000db6e0a09_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Investigators Deploy High-Tech Signal Sniffer in Search for Nancy Guthrie]]></title>
             <link>https://www.tmz.com/2026/02/15/investigators-deploying-signal-sniffer-nancy-guthrie-search/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/02/15/e215402f302341e79fc731cedb752ed8_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/02/15/e215402f302341e79fc731cedb752ed8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[David Harbour Out With Mystery Woman As He Skips Maya Hawke&#039;s Wedding]]></title>
-            <link>https://www.tmz.com/2026/02/15/david-harbour-with-mystery-woman-skips-maya-hawke-wedding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/david-harbour-with-mystery-woman-skips-maya-hawke-wedding/</guid>
-            <pubDate>Sun, 15 Feb 2026 21:12:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/15/6560d35db432437598c4c258ef520956_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/15/6560d35db432437598c4c258ef520956_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/15/6560d35db432437598c4c258ef520956_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Manchester Orchestra Drummer, Timothy Very, Dead at 42]]></title>
-            <link>https://www.tmz.com/2026/02/15/timothy-very-manchester-orchestra-drummer-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/timothy-very-manchester-orchestra-drummer-dead/</guid>
-            <pubDate>Sun, 15 Feb 2026 20:35:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/02/15/62b4981bbc584777a8b1a4d3182cdb36_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/02/15/62b4981bbc584777a8b1a4d3182cdb36_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/02/15/62b4981bbc584777a8b1a4d3182cdb36_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Selling Sunset&#039;s Jason Oppenheim and Girlfriend Jessica Vargas Breakup]]></title>
-            <link>https://www.tmz.com/2026/02/15/jason-oppenheim-jessica-vargas-breakup/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/jason-oppenheim-jessica-vargas-breakup/</guid>
-            <pubDate>Sun, 15 Feb 2026 19:55:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/02/15/8756e9749baa4f9b923f8c679df54ff7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/02/15/8756e9749baa4f9b923f8c679df54ff7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/02/15/8756e9749baa4f9b923f8c679df54ff7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[FBI Says DNA on Glove Matches Subject Seen in Nancy Guthrie Security Video]]></title>
-            <link>https://www.tmz.com/2026/02/15/nancy-guthrie-surveillance-subject-dna-matches-glove/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/nancy-guthrie-surveillance-subject-dna-matches-glove/</guid>
-            <pubDate>Sun, 15 Feb 2026 19:28:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/02/15/ce2de9f68e704ab28c502cd99d46b078_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/02/15/ce2de9f68e704ab28c502cd99d46b078_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/02/15/ce2de9f68e704ab28c502cd99d46b078_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
