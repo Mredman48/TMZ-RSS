@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 19:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 21:53:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Jada Pinkett Smith Fighting $3 Million Demand From Will Smith’s Ex-Friend]]></title>
-            <link>https://www.tmz.com/2026/02/16/jada-pinkett-smith-fighting-will-ex-friend-monetary-demand/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/jada-pinkett-smith-fighting-will-ex-friend-monetary-demand/</guid>
-            <pubDate>Mon, 16 Feb 2026 19:23:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/88/16by9/2026/02/16/884e67d4cda7462f981c105c7dc2e81a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/88/16by9/2026/02/16/884e67d4cda7462f981c105c7dc2e81a_xl.jpg" medium="image">
+            <title><![CDATA[Tyra Banks & Ken Mok on Why &#039;ANTM&#039; Didn&#039;t Interrupt Shandi&#039;s Traumatic Shower Scene]]></title>
+            <link>https://www.tmz.com/2026/02/16/tyra-banks-ken-mok-on-shandi-sullivan-top-model-trauma/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/tyra-banks-ken-mok-on-shandi-sullivan-top-model-trauma/</guid>
+            <pubDate>Mon, 16 Feb 2026 21:46:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/02/16/dadb02a29ba94b499c40ea40fb5702a2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/02/16/dadb02a29ba94b499c40ea40fb5702a2_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/88/16by9/2026/02/16/884e67d4cda7462f981c105c7dc2e81a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/02/16/dadb02a29ba94b499c40ea40fb5702a2_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Melissa Gilbert Returns to Work After Timothy Busfield Indictment]]></title>
-            <link>https://www.tmz.com/2026/02/16/melissa-gilbert-returns-work-timothy-busfield-indictment/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/melissa-gilbert-returns-work-timothy-busfield-indictment/</guid>
-            <pubDate>Mon, 16 Feb 2026 18:59:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/02/16/7cba4894daf74695bd19b179952123fe_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/02/16/7cba4894daf74695bd19b179952123fe_xl.jpg" medium="image">
+            <title><![CDATA[Nicole Kidman Being Romantically Pursued by MGM Resorts Chairman]]></title>
+            <link>https://www.tmz.com/2026/02/16/paul-salem-wants-to-date-nicole-kidman/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/paul-salem-wants-to-date-nicole-kidman/</guid>
+            <pubDate>Mon, 16 Feb 2026 21:40:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/02/16/dd7dea6265b04ddfb3c5caae1d95762f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/02/16/dd7dea6265b04ddfb3c5caae1d95762f_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/02/16/7cba4894daf74695bd19b179952123fe_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/02/16/dd7dea6265b04ddfb3c5caae1d95762f_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jessica Alba Hits Miami Beach in Bikini After Divorce From Cash Warren Is Finalized]]></title>
-            <link>https://www.tmz.com/2026/02/16/jessica-alba-in-miami-beach-after-cash-warren-divorce-finalized/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/jessica-alba-in-miami-beach-after-cash-warren-divorce-finalized/</guid>
-            <pubDate>Mon, 16 Feb 2026 18:58:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/02/16by9/2026/02/16/020442de1aa640c2a0d10d36d0a35bcd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/02/16by9/2026/02/16/020442de1aa640c2a0d10d36d0a35bcd_xl.jpg" medium="image">
+            <title><![CDATA[Lindsey Vonn ‘Super Strong&#039; After Brutal Olympic Crash, Sister Karin Says]]></title>
+            <link>https://www.tmz.com/2026/02/16/karin-kidlow-lindsey-vonn-after-olympic-crash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/karin-kidlow-lindsey-vonn-after-olympic-crash/</guid>
+            <pubDate>Mon, 16 Feb 2026 21:30:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/02/16/be929fb52c1d4afea0e1719c2397d5e3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/02/16/be929fb52c1d4afea0e1719c2397d5e3_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/02/16by9/2026/02/16/020442de1aa640c2a0d10d36d0a35bcd_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/02/16/be929fb52c1d4afea0e1719c2397d5e3_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Donald Trump Warns Nancy Guthrie Abductors Will Face Death Penalty If She Dies]]></title>
-            <link>https://www.tmz.com/2026/02/16/trump-wants-death-penalty-if-nancy-guthrie-is-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/trump-wants-death-penalty-if-nancy-guthrie-is-dead/</guid>
-            <pubDate>Mon, 16 Feb 2026 18:51:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/02/16/d24721f91281467fadf94968a23cd672_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/02/16/d24721f91281467fadf94968a23cd672_xl.jpg" medium="image">
+            <title><![CDATA[Landscaper Arrives at Nancy Guthrie&#039;s Home Amid Ongoing Investigation]]></title>
+            <link>https://www.tmz.com/2026/02/16/landscaper-arrives-at-nancy-guthrie-tuscon-arizona-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/landscaper-arrives-at-nancy-guthrie-tuscon-arizona-home/</guid>
+            <pubDate>Mon, 16 Feb 2026 21:26:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/02/16/917b40911169403ca9437e1410151f9c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/02/16/917b40911169403ca9437e1410151f9c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/02/16/d24721f91281467fadf94968a23cd672_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/02/16/917b40911169403ca9437e1410151f9c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Cardi B Acknowledges Split From Stefon Diggs, Defends NFL Star Against Rapper BIA]]></title>
-            <link>https://www.tmz.com/2026/02/16/cardi-b-confirms-stefon-diggs-break-up/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/cardi-b-confirms-stefon-diggs-break-up/</guid>
-            <pubDate>Mon, 16 Feb 2026 18:40:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/02/16/a536f6560e0c49e59b6390a90123d13e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/02/16/a536f6560e0c49e59b6390a90123d13e_xl.jpg" medium="image">
+            <title><![CDATA[Sheriff Says All Family Members Cleared of Suspicion in Nancy Guthrie Case]]></title>
+            <link>https://www.tmz.com/2026/02/16/sheriff-says-guthrie-family-members-cleared-in-case/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/sheriff-says-guthrie-family-members-cleared-in-case/</guid>
+            <pubDate>Mon, 16 Feb 2026 21:06:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/02/16/bcc18d5145cd4f758784fffeecf64c25_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/02/16/bcc18d5145cd4f758784fffeecf64c25_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/02/16/a536f6560e0c49e59b6390a90123d13e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/02/16/bcc18d5145cd4f758784fffeecf64c25_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
