@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 05:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 09:37:17 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Nate Diaz Hoping For UFC Return, Wants White House Card]]></title>
+            <link>https://www.tmz.com/2026/02/16/nate-diaz-hopes-for-ufc-return-wants-white-house-card/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/nate-diaz-hopes-for-ufc-return-wants-white-house-card/</guid>
+            <pubDate>Mon, 16 Feb 2026 08:30:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/02/09/290168a8757f48268e6f418df76fe7c3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/02/09/290168a8757f48268e6f418df76fe7c3_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/02/09/290168a8757f48268e6f418df76fe7c3_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[President&#039;s Day Deals on Women&#039;s Athleisure]]></title>
+            <link>https://www.tmz.com/2026/02/16/presidents-day-deals-on-women-athleisure/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/presidents-day-deals-on-women-athleisure/</guid>
+            <pubDate>Mon, 16 Feb 2026 08:05:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/02/10/590e7f30b1f442b3b7894617137a53b4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/02/10/590e7f30b1f442b3b7894617137a53b4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/02/10/590e7f30b1f442b3b7894617137a53b4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[J.P. Shay in &#039;Dumb and Dumber&#039; &#039;Memba Her?!]]></title>
+            <link>https://www.tmz.com/2026/02/16/jp-shay-dumb-and-dumber-memba-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/jp-shay-dumb-and-dumber-memba-her/</guid>
+            <pubDate>Mon, 16 Feb 2026 08:01:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/02/06/fd9e072bfccb4bafb5267628b29c088b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/02/06/fd9e072bfccb4bafb5267628b29c088b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/02/06/fd9e072bfccb4bafb5267628b29c088b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Selena Gomez and Benny Blanco Dine at L.A. Hotspot Max and Helen&#039;s]]></title>
             <link>https://www.tmz.com/2026/02/15/selena-gomez-benny-blanco-max-and-helens/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/15/30381465aff34208af321a1fe9c56ebf_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/15/30381465aff34208af321a1fe9c56ebf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Savannah Guthrie Begs Kidnapper to Bring Her Mom Nancy Back in Tearful Video]]></title>
-            <link>https://www.tmz.com/2026/02/15/savannah-guthrie-begs-kidnapper-bring-back-mom-nancy/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/savannah-guthrie-begs-kidnapper-bring-back-mom-nancy/</guid>
-            <pubDate>Mon, 16 Feb 2026 01:30:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/02/16/6132f4f1f96f45dd853fee7ebfb5f1b5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/02/16/6132f4f1f96f45dd853fee7ebfb5f1b5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/02/16/6132f4f1f96f45dd853fee7ebfb5f1b5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bianca Censori Called to Testify as Witness in Kanye West&#039;s Legal Battle]]></title>
-            <link>https://www.tmz.com/2026/02/15/bianca-censori-called-to-testify-as-witness-in-kanye-wests-legal-battle/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/bianca-censori-called-to-testify-as-witness-in-kanye-wests-legal-battle/</guid>
-            <pubDate>Mon, 16 Feb 2026 00:24:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/53/16by9/2026/02/15/537e7d3e0aa7411e88377a625e229e02_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/53/16by9/2026/02/15/537e7d3e0aa7411e88377a625e229e02_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/53/16by9/2026/02/15/537e7d3e0aa7411e88377a625e229e02_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Barack Obama Makes First Public Appearance Since Trump Ape Video]]></title>
-            <link>https://www.tmz.com/2026/02/15/barack-obama-loose-ball-nba-all-star-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/barack-obama-loose-ball-nba-all-star-game/</guid>
-            <pubDate>Mon, 16 Feb 2026 00:11:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/02/15/4e5f831f241248b7ae2d321e2b77e347_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/02/15/4e5f831f241248b7ae2d321e2b77e347_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/02/15/4e5f831f241248b7ae2d321e2b77e347_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
