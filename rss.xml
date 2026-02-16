@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 15:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 17:57:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Brooks Nader Suffers Food Poisoning Mid-Flight, Ambulance Waiting on Arrival]]></title>
-            <link>https://www.tmz.com/2026/02/16/brooks-nader-got-food-poisoning-on-plane/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/brooks-nader-got-food-poisoning-on-plane/</guid>
-            <pubDate>Mon, 16 Feb 2026 15:01:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/02/16/ca5e2cae362a42ac9c6e6ee259082efa_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/02/16/ca5e2cae362a42ac9c6e6ee259082efa_xl.png" medium="image">
+            <title><![CDATA[Legendary Actor Robert Duvall Dead at 95]]></title>
+            <link>https://www.tmz.com/2026/02/16/robert-duvall-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/robert-duvall-dead/</guid>
+            <pubDate>Mon, 16 Feb 2026 17:55:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c9/16by9/2026/02/16/c9402f70888a40ed9e8abdc61dec14a3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c9/16by9/2026/02/16/c9402f70888a40ed9e8abdc61dec14a3_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/02/16/ca5e2cae362a42ac9c6e6ee259082efa_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/c9/16by9/2026/02/16/c9402f70888a40ed9e8abdc61dec14a3_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Former NFL Star Tre Johnson Dies On Family Vacation At 54 Years Old]]></title>
-            <link>https://www.tmz.com/2026/02/16/tre-johnson-dead-family-vacation-washington-nfl/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/tre-johnson-dead-family-vacation-washington-nfl/</guid>
-            <pubDate>Mon, 16 Feb 2026 14:53:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8a145d7458443a49de52e89020ddd5a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8a145d7458443a49de52e89020ddd5a_xl.jpg" medium="image">
+            <title><![CDATA[David Archuleta Says He Found Peace After His Dad Accepted His Sexuality]]></title>
+            <link>https://www.tmz.com/2026/02/16/david-archuleta-says-dad-accepted-his-sexuality/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/david-archuleta-says-dad-accepted-his-sexuality/</guid>
+            <pubDate>Mon, 16 Feb 2026 17:48:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/02/16/f0ab7c1f234b4589adc4e0ecd75190a4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/02/16/f0ab7c1f234b4589adc4e0ecd75190a4_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8a145d7458443a49de52e89020ddd5a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/02/16/f0ab7c1f234b4589adc4e0ecd75190a4_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Scott Peterson&#039;s Attacker Won&#039;t Be Prosecuted for Pickleball Assault in Prison]]></title>
-            <link>https://www.tmz.com/2026/02/16/scott-peterson-pickleball-attacker-will-not-be-charged/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/scott-peterson-pickleball-attacker-will-not-be-charged/</guid>
-            <pubDate>Mon, 16 Feb 2026 14:41:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/02/16/9ca8ac6f2f27437fb4fd159f825b4b04_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/02/16/9ca8ac6f2f27437fb4fd159f825b4b04_xl.jpg" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/02/16/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/watch-tmz-live-today/</guid>
+            <pubDate>Mon, 16 Feb 2026 17:46:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/02/16/8e4aff4948eb4bc889442b5485689ab6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/02/16/8e4aff4948eb4bc889442b5485689ab6_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/02/16/9ca8ac6f2f27437fb4fd159f825b4b04_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/02/16/8e4aff4948eb4bc889442b5485689ab6_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Miss Universe Fatima Bosch Suddenly Collapses on Parade Float, on Video]]></title>
-            <link>https://www.tmz.com/2026/02/16/miss-universe-falls-on-parade-float-ecuador/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/miss-universe-falls-on-parade-float-ecuador/</guid>
-            <pubDate>Mon, 16 Feb 2026 14:19:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/02/16/28ef6d1a074145778aa85b21eb4dc511_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/02/16/28ef6d1a074145778aa85b21eb4dc511_xl.png" medium="image">
+            <title><![CDATA[Aviva Drescher Defends Jill Zarin, Says Halftime Rant Was Stupid, Not Racist]]></title>
+            <link>https://www.tmz.com/2026/02/16/aviva-drescher-defends-jill-zarin-halftime-show-comments/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/aviva-drescher-defends-jill-zarin-halftime-show-comments/</guid>
+            <pubDate>Mon, 16 Feb 2026 17:36:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8d3ee1a508b4ebea509f38d9b895c3d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8d3ee1a508b4ebea509f38d9b895c3d_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/02/16/28ef6d1a074145778aa85b21eb4dc511_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8d3ee1a508b4ebea509f38d9b895c3d_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Nancy Guthrie Case: Sheriff Defends His Officers Amid Criticism]]></title>
-            <link>https://www.tmz.com/2026/02/16/nancy-guthrie-sheriff-supports-officers-amid-hate/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/nancy-guthrie-sheriff-supports-officers-amid-hate/</guid>
-            <pubDate>Mon, 16 Feb 2026 14:00:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/02/16/629fb9bab134481c99f42a3821f8c5a1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/02/16/629fb9bab134481c99f42a3821f8c5a1_xl.jpg" medium="image">
+            <title><![CDATA[Michael Jordan Catches Heat After Victory Lane Celebration With Tyler Reddick’s Son]]></title>
+            <link>https://www.tmz.com/2026/02/16/michael-jordan-under-fire-victory-lane-moment-beau-reddick-son/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/michael-jordan-under-fire-victory-lane-moment-beau-reddick-son/</guid>
+            <pubDate>Mon, 16 Feb 2026 17:31:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/02/16/09cab73ec66247dea5e0fd23dc939b99_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/02/16/09cab73ec66247dea5e0fd23dc939b99_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/02/16/629fb9bab134481c99f42a3821f8c5a1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/02/16/09cab73ec66247dea5e0fd23dc939b99_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
