@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 11:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 15:05:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Nate Diaz Hoping For UFC Return, Wants White House Card]]></title>
-            <link>https://www.tmz.com/2026/02/16/nate-diaz-hopes-for-ufc-return-wants-white-house-card/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/nate-diaz-hopes-for-ufc-return-wants-white-house-card/</guid>
-            <pubDate>Mon, 16 Feb 2026 08:30:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/02/09/290168a8757f48268e6f418df76fe7c3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/02/09/290168a8757f48268e6f418df76fe7c3_xl.png" medium="image">
+            <title><![CDATA[Brooks Nader Suffers Food Poisoning Mid-Flight, Ambulance Waiting on Arrival]]></title>
+            <link>https://www.tmz.com/2026/02/16/brooks-nader-got-food-poisoning-on-plane/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/brooks-nader-got-food-poisoning-on-plane/</guid>
+            <pubDate>Mon, 16 Feb 2026 15:01:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/02/16/ca5e2cae362a42ac9c6e6ee259082efa_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/02/16/ca5e2cae362a42ac9c6e6ee259082efa_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/02/09/290168a8757f48268e6f418df76fe7c3_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/02/16/ca5e2cae362a42ac9c6e6ee259082efa_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[President&#039;s Day Deals on Women&#039;s Athleisure]]></title>
-            <link>https://www.tmz.com/2026/02/16/presidents-day-deals-on-women-athleisure/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/presidents-day-deals-on-women-athleisure/</guid>
-            <pubDate>Mon, 16 Feb 2026 08:05:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/02/10/590e7f30b1f442b3b7894617137a53b4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/02/10/590e7f30b1f442b3b7894617137a53b4_xl.jpg" medium="image">
+            <title><![CDATA[Former NFL Star Tre Johnson Dies On Family Vacation At 54 Years Old]]></title>
+            <link>https://www.tmz.com/2026/02/16/tre-johnson-dead-family-vacation-washington-nfl/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/tre-johnson-dead-family-vacation-washington-nfl/</guid>
+            <pubDate>Mon, 16 Feb 2026 14:53:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8a145d7458443a49de52e89020ddd5a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8a145d7458443a49de52e89020ddd5a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/02/10/590e7f30b1f442b3b7894617137a53b4_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/02/16/c8a145d7458443a49de52e89020ddd5a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[J.P. Shay in &#039;Dumb and Dumber&#039; &#039;Memba Her?!]]></title>
-            <link>https://www.tmz.com/2026/02/16/jp-shay-dumb-and-dumber-memba-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/jp-shay-dumb-and-dumber-memba-her/</guid>
-            <pubDate>Mon, 16 Feb 2026 08:01:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/02/06/fd9e072bfccb4bafb5267628b29c088b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/02/06/fd9e072bfccb4bafb5267628b29c088b_xl.jpg" medium="image">
+            <title><![CDATA[Scott Peterson&#039;s Attacker Won&#039;t Be Prosecuted for Pickleball Assault in Prison]]></title>
+            <link>https://www.tmz.com/2026/02/16/scott-peterson-pickleball-attacker-will-not-be-charged/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/scott-peterson-pickleball-attacker-will-not-be-charged/</guid>
+            <pubDate>Mon, 16 Feb 2026 14:41:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/02/16/9ca8ac6f2f27437fb4fd159f825b4b04_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/02/16/9ca8ac6f2f27437fb4fd159f825b4b04_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/02/06/fd9e072bfccb4bafb5267628b29c088b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/02/16/9ca8ac6f2f27437fb4fd159f825b4b04_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Selena Gomez and Benny Blanco Dine at L.A. Hotspot Max and Helen&#039;s]]></title>
-            <link>https://www.tmz.com/2026/02/15/selena-gomez-benny-blanco-max-and-helens/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/selena-gomez-benny-blanco-max-and-helens/</guid>
-            <pubDate>Mon, 16 Feb 2026 05:25:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/02/16/89520831fdfe40a18fa980d7d06bfbba_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/02/16/89520831fdfe40a18fa980d7d06bfbba_xl.jpg" medium="image">
+            <title><![CDATA[Miss Universe Fatima Bosch Suddenly Collapses on Parade Float, on Video]]></title>
+            <link>https://www.tmz.com/2026/02/16/miss-universe-falls-on-parade-float-ecuador/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/miss-universe-falls-on-parade-float-ecuador/</guid>
+            <pubDate>Mon, 16 Feb 2026 14:19:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/02/16/28ef6d1a074145778aa85b21eb4dc511_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/02/16/28ef6d1a074145778aa85b21eb4dc511_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/02/16/89520831fdfe40a18fa980d7d06bfbba_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/02/16/28ef6d1a074145778aa85b21eb4dc511_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[North West&#039;s Neon Takeover With Friends at Alexander Wang in NYC]]></title>
-            <link>https://www.tmz.com/2026/02/15/north-west-shops-alexander-wang-nyc/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/15/north-west-shops-alexander-wang-nyc/</guid>
-            <pubDate>Mon, 16 Feb 2026 01:56:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/02/15/30381465aff34208af321a1fe9c56ebf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/15/30381465aff34208af321a1fe9c56ebf_xl.jpg" medium="image">
+            <title><![CDATA[Nancy Guthrie Case: Sheriff Defends His Officers Amid Criticism]]></title>
+            <link>https://www.tmz.com/2026/02/16/nancy-guthrie-sheriff-supports-officers-amid-hate/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/16/nancy-guthrie-sheriff-supports-officers-amid-hate/</guid>
+            <pubDate>Mon, 16 Feb 2026 14:00:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/02/16/629fb9bab134481c99f42a3821f8c5a1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/02/16/629fb9bab134481c99f42a3821f8c5a1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/15/30381465aff34208af321a1fe9c56ebf_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/02/16/629fb9bab134481c99f42a3821f8c5a1_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
