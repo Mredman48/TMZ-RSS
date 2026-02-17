@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Feb 2026 19:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 21:57:40 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Tyler Reddick&#039;s Rep Shuts Down Question On Viral Moment With Michael Jordan, Son]]></title>
-            <link>https://www.tmz.com/2026/02/17/tyler-reddick-shuts-down-question-about-michael-jordan-incident/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/tyler-reddick-shuts-down-question-about-michael-jordan-incident/</guid>
-            <pubDate>Tue, 17 Feb 2026 19:28:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/02/17/a8a44124df96476b9ee35775d4f66f70_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/02/17/a8a44124df96476b9ee35775d4f66f70_xl.png" medium="image">
+            <title><![CDATA[Addison Rae&#039;s Father Arrested for Exposing Himself]]></title>
+            <link>https://www.tmz.com/2026/02/17/addison-raes-father-monty-lopez-arrested-in-louisiana/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/addison-raes-father-monty-lopez-arrested-in-louisiana/</guid>
+            <pubDate>Tue, 17 Feb 2026 21:00:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/02/16/1c1d303ac7ca4a629fa82f0f4621162d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/02/16/1c1d303ac7ca4a629fa82f0f4621162d_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/02/17/a8a44124df96476b9ee35775d4f66f70_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/02/16/1c1d303ac7ca4a629fa82f0f4621162d_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[James Van Der Beek Renewed Wedding Vows With Wife Days Before Death]]></title>
-            <link>https://www.tmz.com/2026/02/17/james-van-der-beek-and-wife-kimberly-renewed-vows/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/james-van-der-beek-and-wife-kimberly-renewed-vows/</guid>
-            <pubDate>Tue, 17 Feb 2026 19:21:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/02/17/8521f82dc557409889948d16e4fd6f27_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/02/17/8521f82dc557409889948d16e4fd6f27_xl.jpg" medium="image">
+            <title><![CDATA[Jason Oppenheim & Jessica Vargas Breakup Was Not About Having Kids]]></title>
+            <link>https://www.tmz.com/2026/02/17/jason-oppenheim-jessica-vargas-breakup-not-about-having-kids/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/jason-oppenheim-jessica-vargas-breakup-not-about-having-kids/</guid>
+            <pubDate>Tue, 17 Feb 2026 20:56:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/02/16/43d453b388544e2ca4f52709eb261250_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/02/16/43d453b388544e2ca4f52709eb261250_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/02/17/8521f82dc557409889948d16e4fd6f27_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/02/16/43d453b388544e2ca4f52709eb261250_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ladies In Leather Guess Who!]]></title>
-            <link>https://www.tmz.com/2026/02/17/ladies-in-leather-guess-who/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/ladies-in-leather-guess-who/</guid>
-            <pubDate>Tue, 17 Feb 2026 19:12:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/02/17/7b12286e7ff4491daf2ec9154031b9e5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/02/17/7b12286e7ff4491daf2ec9154031b9e5_xl.jpg" medium="image">
+            <title><![CDATA[&#039;TMZ After Dark&#039; Valentine&#039;s Day Tour Hosted by &#039;Love Island&#039;s Jaden & Vanna]]></title>
+            <link>https://www.tmz.com/2026/02/17/after-dark-tour-valentines-day-with-love-island-stars/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/after-dark-tour-valentines-day-with-love-island-stars/</guid>
+            <pubDate>Tue, 17 Feb 2026 20:52:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/02/16/520867a8c5cb46c6b8d0f8b70c33128e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/02/16/520867a8c5cb46c6b8d0f8b70c33128e_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/02/17/7b12286e7ff4491daf2ec9154031b9e5_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/02/16/520867a8c5cb46c6b8d0f8b70c33128e_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Disso Queen&#039; Laura Wasser Becomes Face of Reformation&#039;s &#039;Divorce Collection&#039;]]></title>
-            <link>https://www.tmz.com/2026/02/17/laura-wasser-is-new-face-of-reformation-divorce-collection/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/laura-wasser-is-new-face-of-reformation-divorce-collection/</guid>
-            <pubDate>Tue, 17 Feb 2026 19:06:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/02/17/89c22daf78cb4dd186325617205f322b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/02/17/89c22daf78cb4dd186325617205f322b_xl.jpg" medium="image">
+            <title><![CDATA[Hilary Duff Says New Album Explores Complicated Family Life Amid Haylie Beef]]></title>
+            <link>https://www.tmz.com/2026/02/17/hilary-duff-new-album-explores-family-drama/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/hilary-duff-new-album-explores-family-drama/</guid>
+            <pubDate>Tue, 17 Feb 2026 20:46:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/02/17/47f728920a7e4accb315357fe335115a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/02/17/47f728920a7e4accb315357fe335115a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/02/17/89c22daf78cb4dd186325617205f322b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/02/17/47f728920a7e4accb315357fe335115a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rhode Island League Suspends All Games After Fatal Hockey Shooting]]></title>
-            <link>https://www.tmz.com/2026/02/17/hockey-game-shooting-games-suspended-rhode-island/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/hockey-game-shooting-games-suspended-rhode-island/</guid>
-            <pubDate>Tue, 17 Feb 2026 18:59:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ae/16by9/2026/02/17/ae5bc0b945644760bf1f5a604ac36f78_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ae/16by9/2026/02/17/ae5bc0b945644760bf1f5a604ac36f78_xl.jpg" medium="image">
+            <title><![CDATA[Shia LaBeouf and Wife Mia Goth Separated About a Year Ago]]></title>
+            <link>https://www.tmz.com/2026/02/17/shia-labeouf-and-mia-goth-are-separated/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/shia-labeouf-and-mia-goth-are-separated/</guid>
+            <pubDate>Tue, 17 Feb 2026 20:42:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/02/17/f7b9a25204c041d6a99ba8d955a427ae_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/02/17/f7b9a25204c041d6a99ba8d955a427ae_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ae/16by9/2026/02/17/ae5bc0b945644760bf1f5a604ac36f78_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/02/17/f7b9a25204c041d6a99ba8d955a427ae_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
