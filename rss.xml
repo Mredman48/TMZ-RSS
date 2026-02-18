@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Feb 2026 11:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 14:31:20 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tyler Reddick Addresses Backlash After Michael Jordan Touches His Son]]></title>
+            <link>https://www.tmz.com/2026/02/18/tyler-reddick-addresses-backlash-michael-jordan-touches-his-son/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/tyler-reddick-addresses-backlash-michael-jordan-touches-his-son/</guid>
+            <pubDate>Wed, 18 Feb 2026 13:40:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/07/16by9/2026/02/18/07c51264dea447dd8686b641551eed52_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/07/16by9/2026/02/18/07c51264dea447dd8686b641551eed52_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/02/18/07c51264dea447dd8686b641551eed52_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shia LaBeouf Shows Off Jail Release Papers on Bourbon Street After Arrest]]></title>
+            <link>https://www.tmz.com/2026/02/18/shia-labeouf-shows-off-jail-release-papers-on-bourbon-street-after-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/shia-labeouf-shows-off-jail-release-papers-on-bourbon-street-after-arrest/</guid>
+            <pubDate>Wed, 18 Feb 2026 13:31:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/02/18/307827c372194187ba689b83bfee2d98_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/18/307827c372194187ba689b83bfee2d98_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/18/307827c372194187ba689b83bfee2d98_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Brandi Glanville Says Breast Implants Caused Face Parasite]]></title>
             <link>https://www.tmz.com/2026/02/18/brandi-glanville-breast-implants-caused-face-parasite/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a7/16by9/2026/02/05/a78cb7ef8e3647738f042d03f4704f6b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a7/16by9/2026/02/05/a78cb7ef8e3647738f042d03f4704f6b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Todd Gurley Explains Why Matthew Stafford Won&#039;t Get Statue at SoFi Stadium]]></title>
-            <link>https://www.tmz.com/2026/02/18/todd-gurley-explains-no-matthew-stafford-sofi-statue/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/todd-gurley-explains-no-matthew-stafford-sofi-statue/</guid>
-            <pubDate>Wed, 18 Feb 2026 08:30:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/02/10/5c0994313da84c3ead338d7ef67351e2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/02/10/5c0994313da84c3ead338d7ef67351e2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/02/10/5c0994313da84c3ead338d7ef67351e2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pimple, Spot Patches: Acne Treatments]]></title>
-            <link>https://www.tmz.com/2026/02/18/pimple-spot-patches-acne-treatments/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/pimple-spot-patches-acne-treatments/</guid>
-            <pubDate>Wed, 18 Feb 2026 08:01:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/02/13/0d034eca145e48929bf85b5e9b280a1c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/02/13/0d034eca145e48929bf85b5e9b280a1c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/02/13/0d034eca145e48929bf85b5e9b280a1c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
