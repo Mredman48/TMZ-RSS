@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Feb 2026 08:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 11:11:42 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Bryan Kohberger&#039;s Bloody Murder Spree Seen In New Photo Dump]]></title>
-            <link>https://www.tmz.com/2026/02/17/bryan-kohberger-crime-scene-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/bryan-kohberger-crime-scene-photos/</guid>
-            <pubDate>Wed, 18 Feb 2026 03:04:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/02/18/4a5495e002a64ae5b211ed1f996bb32e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/02/18/4a5495e002a64ae5b211ed1f996bb32e_xl.jpg" medium="image">
+            <title><![CDATA[Brandi Glanville Says Breast Implants Caused Face Parasite]]></title>
+            <link>https://www.tmz.com/2026/02/18/brandi-glanville-breast-implants-caused-face-parasite/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/brandi-glanville-breast-implants-caused-face-parasite/</guid>
+            <pubDate>Wed, 18 Feb 2026 09:00:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/02/17/6f042f227c604cd484cadc3376dc6e3e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/02/17/6f042f227c604cd484cadc3376dc6e3e_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/02/18/4a5495e002a64ae5b211ed1f996bb32e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/02/17/6f042f227c604cd484cadc3376dc6e3e_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Deandre Ayton Detained, Searched For Weed At Bahamas Airport, No Charges Filed]]></title>
-            <link>https://www.tmz.com/2026/02/17/deandre-ayton-detained-alleged-marijuana-possession-bahamas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/deandre-ayton-detained-alleged-marijuana-possession-bahamas/</guid>
-            <pubDate>Wed, 18 Feb 2026 02:31:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/02/17/2188167dde6f4881b4b262e1130ddc0e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/02/17/2188167dde6f4881b4b262e1130ddc0e_xl.jpg" medium="image">
+            <title><![CDATA[&#039;My Strange Addiction&#039; Abigail Loves to Eat Wet Cat Food]]></title>
+            <link>https://www.tmz.com/2026/02/18/my-strange-addiction-woman-eats-wet-cat-food/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/my-strange-addiction-woman-eats-wet-cat-food/</guid>
+            <pubDate>Wed, 18 Feb 2026 09:00:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/44/16by9/2026/02/17/4461945a80324c8db15107da1bdcb88c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/44/16by9/2026/02/17/4461945a80324c8db15107da1bdcb88c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/02/17/2188167dde6f4881b4b262e1130ddc0e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/44/16by9/2026/02/17/4461945a80324c8db15107da1bdcb88c_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Zach Bryan&#039;s Ex Brianna Lapaglia Says His Marriage Was Dig at Her]]></title>
-            <link>https://www.tmz.com/2026/02/17/brianna-lapaglia-slams-zach-bryan-wedding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/brianna-lapaglia-slams-zach-bryan-wedding/</guid>
-            <pubDate>Wed, 18 Feb 2026 02:30:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cd/16by9/2026/02/17/cd5fa73705b74f778537afff1d3b4daa_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/cd/16by9/2026/02/17/cd5fa73705b74f778537afff1d3b4daa_xl.png" medium="image">
+            <title><![CDATA[Olympic Gold Medalist Kristi Yamaguchi &#039;Memba Her?!]]></title>
+            <link>https://www.tmz.com/2026/02/18/kristi-yamaguchi-olympic-gold-medalist-memba-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/kristi-yamaguchi-olympic-gold-medalist-memba-her/</guid>
+            <pubDate>Wed, 18 Feb 2026 08:45:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a7/16by9/2026/02/05/a78cb7ef8e3647738f042d03f4704f6b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a7/16by9/2026/02/05/a78cb7ef8e3647738f042d03f4704f6b_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cd/16by9/2026/02/17/cd5fa73705b74f778537afff1d3b4daa_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/a7/16by9/2026/02/05/a78cb7ef8e3647738f042d03f4704f6b_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Shia LaBeouf Hits Pub For Burger After New Orleans Jail Release]]></title>
-            <link>https://www.tmz.com/2026/02/17/shia-labeouf-grabs-dinner-after-jail-release/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/shia-labeouf-grabs-dinner-after-jail-release/</guid>
-            <pubDate>Wed, 18 Feb 2026 02:11:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/02/18/8dd31e9794824dd8bb32f27b163f2515_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/02/18/8dd31e9794824dd8bb32f27b163f2515_xl.jpg" medium="image">
+            <title><![CDATA[Todd Gurley Explains Why Matthew Stafford Won&#039;t Get Statue at SoFi Stadium]]></title>
+            <link>https://www.tmz.com/2026/02/18/todd-gurley-explains-no-matthew-stafford-sofi-statue/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/todd-gurley-explains-no-matthew-stafford-sofi-statue/</guid>
+            <pubDate>Wed, 18 Feb 2026 08:30:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/02/10/5c0994313da84c3ead338d7ef67351e2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/02/10/5c0994313da84c3ead338d7ef67351e2_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/02/18/8dd31e9794824dd8bb32f27b163f2515_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/02/10/5c0994313da84c3ead338d7ef67351e2_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Sydney Sweeney and Scooter Braun Sing Karaoke]]></title>
-            <link>https://www.tmz.com/2026/02/17/sydney-sweeney-scooter-braun-karaoke-date/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/17/sydney-sweeney-scooter-braun-karaoke-date/</guid>
-            <pubDate>Wed, 18 Feb 2026 00:54:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/02/18/4174f473a46941efa23b08e2efe93aa4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/02/18/4174f473a46941efa23b08e2efe93aa4_xl.jpg" medium="image">
+            <title><![CDATA[Pimple, Spot Patches: Acne Treatments]]></title>
+            <link>https://www.tmz.com/2026/02/18/pimple-spot-patches-acne-treatments/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/18/pimple-spot-patches-acne-treatments/</guid>
+            <pubDate>Wed, 18 Feb 2026 08:01:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/02/13/0d034eca145e48929bf85b5e9b280a1c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/02/13/0d034eca145e48929bf85b5e9b280a1c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/02/18/4174f473a46941efa23b08e2efe93aa4_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/02/13/0d034eca145e48929bf85b5e9b280a1c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
