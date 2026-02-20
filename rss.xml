@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 11:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 15:03:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Rob Lowe Jokingly Demands Credit For Role in 1995 Film &#039;Tommy Boy&#039;]]></title>
-            <link>https://www.tmz.com/2026/02/20/rob-lowe-tommy-boy-david-ellison-chris-farley-david-spade/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/rob-lowe-tommy-boy-david-ellison-chris-farley-david-spade/</guid>
-            <pubDate>Fri, 20 Feb 2026 09:30:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2025/10/01/aa624d21b877439683235c58ff671080_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/aa/16by9/2025/10/01/aa624d21b877439683235c58ff671080_xl.jpg" medium="image">
+            <title><![CDATA[Jaylen Brown Mulling Lawsuit After &#039;Half-Ass&#039; Apology From Beverly Hills]]></title>
+            <link>https://www.tmz.com/2026/02/20/jaylen-brown-gets-apology-beverly-hills-cancel-event-considering-lawsuit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/jaylen-brown-gets-apology-beverly-hills-cancel-event-considering-lawsuit/</guid>
+            <pubDate>Fri, 20 Feb 2026 14:55:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/02/20/c827789475454bcf9ea5f19a7c49c7e7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/02/20/c827789475454bcf9ea5f19a7c49c7e7_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2025/10/01/aa624d21b877439683235c58ff671080_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/02/20/c827789475454bcf9ea5f19a7c49c7e7_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Paula On &#039;Jersey Shore&#039; &#039;Memba Her?!]]></title>
-            <link>https://www.tmz.com/2026/02/20/paula-jersey-shore-memba-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/paula-jersey-shore-memba-her/</guid>
-            <pubDate>Fri, 20 Feb 2026 08:45:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/45/16by9/2022/11/07/4527cd7c45d34e2a9fd1cc495bb0fccf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/45/16by9/2022/11/07/4527cd7c45d34e2a9fd1cc495bb0fccf_xl.jpg" medium="image">
+            <title><![CDATA[&#039;American Idol&#039; Alum Caleb Flynn Arrested for Allegedly Murdering Wife]]></title>
+            <link>https://www.tmz.com/2026/02/20/american-idol-caleb-flynn-arrested-in-wife-murder-case/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/american-idol-caleb-flynn-arrested-in-wife-murder-case/</guid>
+            <pubDate>Fri, 20 Feb 2026 14:51:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/02/20/e103b2d6b9f34a0980d2367e113dcead_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/02/20/e103b2d6b9f34a0980d2367e113dcead_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2022/11/07/4527cd7c45d34e2a9fd1cc495bb0fccf_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/02/20/e103b2d6b9f34a0980d2367e113dcead_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[LaMelo Ball’s Hummer Needs Extensive Repairs After Crash, Motorsports Owner Says]]></title>
-            <link>https://www.tmz.com/2026/02/20/lamelo-ball-hummer-needs-repairs-says-motorsports-owner/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/lamelo-ball-hummer-needs-repairs-says-motorsports-owner/</guid>
-            <pubDate>Fri, 20 Feb 2026 08:30:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/02/19/306d36fa51f54eba9187cd793c631ca8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/19/306d36fa51f54eba9187cd793c631ca8_xl.jpg" medium="image">
+            <title><![CDATA[Donald Trump Directing Feds to Release Information on Aliens and UFOs]]></title>
+            <link>https://www.tmz.com/2026/02/20/donald-trump-releasing-alien-ufo-information/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/donald-trump-releasing-alien-ufo-information/</guid>
+            <pubDate>Fri, 20 Feb 2026 14:23:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/02/20/b1820f1a9c1a4c098118739d1b12d427_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/02/20/b1820f1a9c1a4c098118739d1b12d427_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/19/306d36fa51f54eba9187cd793c631ca8_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/02/20/b1820f1a9c1a4c098118739d1b12d427_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rihanna&#039;s Birthday: Celebrate Her Turning 38 with Fenty Skincare]]></title>
-            <link>https://www.tmz.com/2026/02/20/rihanna-birthday-skincare-products/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/rihanna-birthday-skincare-products/</guid>
-            <pubDate>Fri, 20 Feb 2026 08:05:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/02/16/461ac3a1515448328e84978f678e9427_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/02/16/461ac3a1515448328e84978f678e9427_xl.jpg" medium="image">
+            <title><![CDATA[Kylie Jenner Helps Launch Friends&#039; &#039;Better Half&#039; Podcast at Premiere Party]]></title>
+            <link>https://www.tmz.com/2026/02/20/kylie-jenner-anastasia-stassie-karanikolaou-victoria-villarroel-podcast-launch/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/kylie-jenner-anastasia-stassie-karanikolaou-victoria-villarroel-podcast-launch/</guid>
+            <pubDate>Fri, 20 Feb 2026 14:23:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/02/20/da2dd02eba664358b3237d89035fbf72_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/02/20/da2dd02eba664358b3237d89035fbf72_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/02/16/461ac3a1515448328e84978f678e9427_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/02/20/da2dd02eba664358b3237d89035fbf72_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rihanna&#039;s Hot Shots To Kick Off Her 38th Bday!]]></title>
-            <link>https://www.tmz.com/2026/02/20/rihanna-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/rihanna-birthday-hot-shots/</guid>
-            <pubDate>Fri, 20 Feb 2026 08:01:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ad/16by9/2026/02/16/ad395edd7d904bda84673dc57e5d30fc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ad/16by9/2026/02/16/ad395edd7d904bda84673dc57e5d30fc_xl.jpg" medium="image">
+            <title><![CDATA[Eric Dane Filmed &#039;Euphoria&#039; Season 3 Before Death]]></title>
+            <link>https://www.tmz.com/2026/02/20/eric-dane-filmed-new-euphoria-season/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/eric-dane-filmed-new-euphoria-season/</guid>
+            <pubDate>Fri, 20 Feb 2026 14:09:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/02/20/1ca14198602d4399ad20f0b2003c6bd0_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/02/20/1ca14198602d4399ad20f0b2003c6bd0_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ad/16by9/2026/02/16/ad395edd7d904bda84673dc57e5d30fc_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/02/20/1ca14198602d4399ad20f0b2003c6bd0_xl.png">
             </media:thumbnail>
         </item>
     </channel>
