@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 15:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 17:56:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Jaylen Brown Mulling Lawsuit After &#039;Half-Ass&#039; Apology From Beverly Hills]]></title>
-            <link>https://www.tmz.com/2026/02/20/jaylen-brown-gets-apology-beverly-hills-cancel-event-considering-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/jaylen-brown-gets-apology-beverly-hills-cancel-event-considering-lawsuit/</guid>
-            <pubDate>Fri, 20 Feb 2026 14:55:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/02/20/c827789475454bcf9ea5f19a7c49c7e7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/02/20/c827789475454bcf9ea5f19a7c49c7e7_xl.png" medium="image">
+            <title><![CDATA[Darius McCrary&#039;s Son in Court to Show Support for Dad, Judge Delays Sentencing]]></title>
+            <link>https://www.tmz.com/2026/02/20/darius-mccrary-sentencing-delayed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/darius-mccrary-sentencing-delayed/</guid>
+            <pubDate>Fri, 20 Feb 2026 17:53:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/02/18/19c3c34a13884a61b60ef077686615a7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/02/18/19c3c34a13884a61b60ef077686615a7_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/02/20/c827789475454bcf9ea5f19a7c49c7e7_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/02/18/19c3c34a13884a61b60ef077686615a7_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;American Idol&#039; Alum Caleb Flynn Arrested for Allegedly Murdering Wife]]></title>
-            <link>https://www.tmz.com/2026/02/20/american-idol-caleb-flynn-arrested-in-wife-murder-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/american-idol-caleb-flynn-arrested-in-wife-murder-case/</guid>
-            <pubDate>Fri, 20 Feb 2026 14:51:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/02/20/e103b2d6b9f34a0980d2367e113dcead_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/02/20/e103b2d6b9f34a0980d2367e113dcead_xl.png" medium="image">
+            <title><![CDATA[Tap-In Eileen Gu&#039;s Icy Hot Shots, Tyra Banks Under Fire?!]]></title>
+            <link>https://www.tmz.com/2026/02/20/tap-in-olympian-eileen-gu-hot-shots-tyra-banks/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/tap-in-olympian-eileen-gu-hot-shots-tyra-banks/</guid>
+            <pubDate>Fri, 20 Feb 2026 17:30:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/02/19/155407e1dc6c432ca97850083021ef86_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/02/19/155407e1dc6c432ca97850083021ef86_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/02/20/e103b2d6b9f34a0980d2367e113dcead_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/02/19/155407e1dc6c432ca97850083021ef86_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Donald Trump Directing Feds to Release Information on Aliens and UFOs]]></title>
-            <link>https://www.tmz.com/2026/02/20/donald-trump-releasing-alien-ufo-information/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/donald-trump-releasing-alien-ufo-information/</guid>
-            <pubDate>Fri, 20 Feb 2026 14:23:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/02/20/b1820f1a9c1a4c098118739d1b12d427_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/02/20/b1820f1a9c1a4c098118739d1b12d427_xl.png" medium="image">
+            <title><![CDATA[Lindsey Vonn &#039;Struggling&#039; After Last Surgery, Remains Hospitalized in U.S.]]></title>
+            <link>https://www.tmz.com/2026/02/20/lindsey-vonn-undergoes-final-surgery-remains-hospitalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/lindsey-vonn-undergoes-final-surgery-remains-hospitalized/</guid>
+            <pubDate>Fri, 20 Feb 2026 16:57:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/02/20/3174f28d59de4b9c88de629fe7977028_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/02/20/3174f28d59de4b9c88de629fe7977028_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/02/20/b1820f1a9c1a4c098118739d1b12d427_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/02/20/3174f28d59de4b9c88de629fe7977028_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kylie Jenner Helps Launch Friends&#039; &#039;Better Half&#039; Podcast at Premiere Party]]></title>
-            <link>https://www.tmz.com/2026/02/20/kylie-jenner-anastasia-stassie-karanikolaou-victoria-villarroel-podcast-launch/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/kylie-jenner-anastasia-stassie-karanikolaou-victoria-villarroel-podcast-launch/</guid>
-            <pubDate>Fri, 20 Feb 2026 14:23:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/02/20/da2dd02eba664358b3237d89035fbf72_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/02/20/da2dd02eba664358b3237d89035fbf72_xl.png" medium="image">
+            <title><![CDATA[Hilary Duff Gets Emotional Discussing Estrangement From Sister Haylie]]></title>
+            <link>https://www.tmz.com/2026/02/20/hilary-duff-talks-about-relationship-with-sister-haylie/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/hilary-duff-talks-about-relationship-with-sister-haylie/</guid>
+            <pubDate>Fri, 20 Feb 2026 16:53:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/02/20/7ac4f4a2eb4d4142bfab705906a3ac00_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/02/20/7ac4f4a2eb4d4142bfab705906a3ac00_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/02/20/da2dd02eba664358b3237d89035fbf72_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/02/20/7ac4f4a2eb4d4142bfab705906a3ac00_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Eric Dane Filmed &#039;Euphoria&#039; Season 3 Before Death]]></title>
-            <link>https://www.tmz.com/2026/02/20/eric-dane-filmed-new-euphoria-season/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/eric-dane-filmed-new-euphoria-season/</guid>
-            <pubDate>Fri, 20 Feb 2026 14:09:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/02/20/1ca14198602d4399ad20f0b2003c6bd0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/02/20/1ca14198602d4399ad20f0b2003c6bd0_xl.png" medium="image">
+            <title><![CDATA[Kayla Nicole Appears to Reflect on Dating Travis Kelce, &#039;Right Person, Wrong Time&#039;]]></title>
+            <link>https://www.tmz.com/2026/02/20/kayla-nicole-travis-kelce-taylor-swift-dating/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/20/kayla-nicole-travis-kelce-taylor-swift-dating/</guid>
+            <pubDate>Fri, 20 Feb 2026 16:52:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3f/16by9/2026/02/20/3fb537d3642d4ca797ff1f6a69fe51a1_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/3f/16by9/2026/02/20/3fb537d3642d4ca797ff1f6a69fe51a1_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/02/20/1ca14198602d4399ad20f0b2003c6bd0_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/3f/16by9/2026/02/20/3fb537d3642d4ca797ff1f6a69fe51a1_xl.png">
             </media:thumbnail>
         </item>
     </channel>
