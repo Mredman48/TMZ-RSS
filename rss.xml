@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 11:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 15:44:13 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Baseball Hall of Famer Bill Mazeroski Dead at 89]]></title>
+            <link>https://www.tmz.com/2026/02/21/bill-mazeroski-dead-pittsburgh-pirates/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/bill-mazeroski-dead-pittsburgh-pirates/</guid>
+            <pubDate>Sat, 21 Feb 2026 15:05:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/02/21/5890c1f770df424ba149c53f147cdf4f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/02/21/5890c1f770df424ba149c53f147cdf4f_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/02/21/5890c1f770df424ba149c53f147cdf4f_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Gabourey Sidibe’s Husband Reveals Thyroid Cancer Diagnosis]]></title>
+            <link>https://www.tmz.com/2026/02/21/gabourey-sidibe-husband-has-thyroid-cancer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/gabourey-sidibe-husband-has-thyroid-cancer/</guid>
+            <pubDate>Sat, 21 Feb 2026 14:25:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/02/21/9d4939480a3a4520a9a73c1b2e3c3298_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/02/21/9d4939480a3a4520a9a73c1b2e3c3298_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/02/21/9d4939480a3a4520a9a73c1b2e3c3298_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Nancy Guthrie Abduction: Timeline of Events]]></title>
+            <link>https://www.tmz.com/2026/02/21/nancy-guthrie-timeline/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/nancy-guthrie-timeline/</guid>
+            <pubDate>Sat, 21 Feb 2026 14:00:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;American Idol&#039; Alum Caleb Flynn Allegedly Killed Wife While Kids Slept Nearby]]></title>
+            <link>https://www.tmz.com/2026/02/21/american-idol-caleb-flynn-kids-nearby-when-wife-killed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/american-idol-caleb-flynn-kids-nearby-when-wife-killed/</guid>
+            <pubDate>Sat, 21 Feb 2026 13:07:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/02/21/09e2bb318b7d4bed91cd08d907cafbd1_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/02/21/09e2bb318b7d4bed91cd08d907cafbd1_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/02/21/09e2bb318b7d4bed91cd08d907cafbd1_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;RHOC&#039;s Meghan King Accuses Jim Edmonds of Leaking Her Number to Sex Workers]]></title>
             <link>https://www.tmz.com/2026/02/21/meghan-king-claims-jim-edmonds-gave-her-number-to-sex-workers/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/02/20/0f307cc16cfe47a1ae2791b20eb39245_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/02/20/0f307cc16cfe47a1ae2791b20eb39245_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Astrologer Breaks Down Jessica Alba & Danny Ramirez&#039;s Compatibility]]></title>
-            <link>https://www.tmz.com/2026/02/21/astrologer-talks-about-jessica-alba-danny-danny-ramirez-relationship/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/astrologer-talks-about-jessica-alba-danny-danny-ramirez-relationship/</guid>
-            <pubDate>Sat, 21 Feb 2026 09:00:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a0/16by9/2026/02/20/a0f35d58c3ad40a59cb04a8fd1c17dbf_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a0/16by9/2026/02/20/a0f35d58c3ad40a59cb04a8fd1c17dbf_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a0/16by9/2026/02/20/a0f35d58c3ad40a59cb04a8fd1c17dbf_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sky Bri Hot Shots to Celebrate Her 27th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/02/21/sky-bri-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/sky-bri-birthday-hot-shots/</guid>
-            <pubDate>Sat, 21 Feb 2026 09:00:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/02/16/7f713983069f4ff3a798c46ac4d2dddd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/02/16/7f713983069f4ff3a798c46ac4d2dddd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/02/16/7f713983069f4ff3a798c46ac4d2dddd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hot Babes In Cold Snow Guess Who!]]></title>
-            <link>https://www.tmz.com/2026/02/21/hot-babes-in-cold-snow-guess-who/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/hot-babes-in-cold-snow-guess-who/</guid>
-            <pubDate>Sat, 21 Feb 2026 08:45:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/02/10/c83ff974415f4ce097c9235621a81e2a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/02/10/c83ff974415f4ce097c9235621a81e2a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/02/10/c83ff974415f4ce097c9235621a81e2a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Keeta Vaccaro Asks Court To Make Tyreek Hill Pay For Bathroom Repairs In Home]]></title>
-            <link>https://www.tmz.com/2026/02/21/keeta-vaccaro-wants-tyreek-hill-to-fix-bathroom-in-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/keeta-vaccaro-wants-tyreek-hill-to-fix-bathroom-in-divorce/</guid>
-            <pubDate>Sat, 21 Feb 2026 08:30:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/02/16by9/2026/02/19/021f99f66985497194df03efff3b7c44_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/02/16by9/2026/02/19/021f99f66985497194df03efff3b7c44_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/02/16by9/2026/02/19/021f99f66985497194df03efff3b7c44_xl.png">
             </media:thumbnail>
         </item>
     </channel>
