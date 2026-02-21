@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 19:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 21:00:26 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[James Van Der Beek’s Wife Reacts to Eric Dane’s Death]]></title>
+            <link>https://www.tmz.com/2026/02/21/james-van-der-beek-wife-honors-eric-dane/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/james-van-der-beek-wife-honors-eric-dane/</guid>
+            <pubDate>Sat, 21 Feb 2026 20:06:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/02/21/e74c7ffa2db34794b2e788dd59108653_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/02/21/e74c7ffa2db34794b2e788dd59108653_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/02/21/e74c7ffa2db34794b2e788dd59108653_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Furry Hat Hotties Bring the Heat in Sexy Snaps]]></title>
+            <link>https://www.tmz.com/2026/02/21/furry-hat-hotties-sexy-snaps/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/furry-hat-hotties-sexy-snaps/</guid>
+            <pubDate>Sat, 21 Feb 2026 20:00:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/02/19/1e5b91b2a2d34ebba05445e251d8ec28_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/02/19/1e5b91b2a2d34ebba05445e251d8ec28_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/02/19/1e5b91b2a2d34ebba05445e251d8ec28_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ghislaine Maxwell&#039;s Brother Defends Former Prince Andrew After Arrest]]></title>
             <link>https://www.tmz.com/2026/02/21/ghislaine-maxwell-brother-defends-prince-andrew/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Legendary Salsa Musician Willie Colón Dead at 75]]></title>
-            <link>https://www.tmz.com/2026/02/21/willie-colon-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/willie-colon-dead/</guid>
-            <pubDate>Sat, 21 Feb 2026 18:07:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/02/21/ed4f59b7a8ef454bad473ae88a1ab143_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/02/21/ed4f59b7a8ef454bad473ae88a1ab143_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/02/21/ed4f59b7a8ef454bad473ae88a1ab143_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;American Idol&#039; Alum Caleb Flynn Makes First Court Appearance, Video]]></title>
-            <link>https://www.tmz.com/2026/02/21/caleb-flynn-court-appearance-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/caleb-flynn-court-appearance-video/</guid>
-            <pubDate>Sat, 21 Feb 2026 17:30:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/02/21/3e77477919ce4f6dab5471d949897314_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/02/21/3e77477919ce4f6dab5471d949897314_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/02/21/3e77477919ce4f6dab5471d949897314_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
