@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 23:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 23:58:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[50 Cent Joins Eva Longoria&#039;s Netflix Film With Kim Kardashian, Nikki Glaser]]></title>
+            <link>https://www.tmz.com/2026/02/21/50-cent-joins-eva-longoria-netflix-movie-fifth-wheel/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/50-cent-joins-eva-longoria-netflix-movie-fifth-wheel/</guid>
+            <pubDate>Sat, 21 Feb 2026 23:45:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/02/21/bc3188f7347b49d59d8b7eec78212e51_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/02/21/bc3188f7347b49d59d8b7eec78212e51_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/02/21/bc3188f7347b49d59d8b7eec78212e51_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Eric Dane&#039;s Wife Posts Heartwarming Tribute Photos After His Death]]></title>
+            <link>https://www.tmz.com/2026/02/21/eric-dane-wife-rebecca-gayheart-posts-tribute/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/eric-dane-wife-rebecca-gayheart-posts-tribute/</guid>
+            <pubDate>Sat, 21 Feb 2026 23:15:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/02/21/83309998ede94d2cadab5bc6e75953f4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/02/21/83309998ede94d2cadab5bc6e75953f4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/02/21/83309998ede94d2cadab5bc6e75953f4_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Viral Monkey Named Punch Needs a Real Mom to Love Him, Expert Says]]></title>
             <link>https://www.tmz.com/2026/02/21/punch-viral-monkey-needs-a-mother-expert-claims/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/02/21/e74c7ffa2db34794b2e788dd59108653_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/02/21/e74c7ffa2db34794b2e788dd59108653_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Furry Hat Hotties Bring the Heat in Sexy Snaps]]></title>
-            <link>https://www.tmz.com/2026/02/21/furry-hat-hotties-sexy-snaps/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/furry-hat-hotties-sexy-snaps/</guid>
-            <pubDate>Sat, 21 Feb 2026 20:00:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/02/19/1e5b91b2a2d34ebba05445e251d8ec28_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/02/19/1e5b91b2a2d34ebba05445e251d8ec28_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/02/19/1e5b91b2a2d34ebba05445e251d8ec28_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ghislaine Maxwell&#039;s Brother Defends Former Prince Andrew After Arrest]]></title>
-            <link>https://www.tmz.com/2026/02/21/ghislaine-maxwell-brother-defends-prince-andrew/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/ghislaine-maxwell-brother-defends-prince-andrew/</guid>
-            <pubDate>Sat, 21 Feb 2026 19:41:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png">
             </media:thumbnail>
         </item>
     </channel>
