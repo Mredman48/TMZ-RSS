@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 21:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 23:01:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Viral Monkey Named Punch Needs a Real Mom to Love Him, Expert Says]]></title>
+            <link>https://www.tmz.com/2026/02/21/punch-viral-monkey-needs-a-mother-expert-claims/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/punch-viral-monkey-needs-a-mother-expert-claims/</guid>
+            <pubDate>Sat, 21 Feb 2026 22:36:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/02/20/8af5fd6487ae479aa55e0d00514ec96f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/02/20/8af5fd6487ae479aa55e0d00514ec96f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/02/20/8af5fd6487ae479aa55e0d00514ec96f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mexican Search Group Volunteers Say Pima County Won&#039;t Let Them Look For Nancy Guthrie]]></title>
             <link>https://www.tmz.com/2026/02/21/mexican-search-group-volunteers-say-pima-county-wont-let-them-look-for-nancy-guthrie/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Millie Bobby Brown Celebrated 22nd Birthday, David Harbour Attends]]></title>
-            <link>https://www.tmz.com/2026/02/21/millie-bobby-brown-spends-birthday-with-david-harbour/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/millie-bobby-brown-spends-birthday-with-david-harbour/</guid>
-            <pubDate>Sat, 21 Feb 2026 18:36:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png">
             </media:thumbnail>
         </item>
     </channel>
