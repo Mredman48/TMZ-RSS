@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 21:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 21:57:33 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Mexican Search Group Volunteers Say Pima County Won&#039;t Let Them Look For Nancy Guthrie]]></title>
+            <link>https://www.tmz.com/2026/02/21/mexican-search-group-volunteers-say-pima-county-wont-let-them-look-for-nancy-guthrie/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/mexican-search-group-volunteers-say-pima-county-wont-let-them-look-for-nancy-guthrie/</guid>
+            <pubDate>Sat, 21 Feb 2026 21:01:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/02/21/4aa085d976d34b43a6213c9440da5b53_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/02/21/4aa085d976d34b43a6213c9440da5b53_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/02/21/4aa085d976d34b43a6213c9440da5b53_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[James Van Der Beek’s Wife Reacts to Eric Dane’s Death]]></title>
             <link>https://www.tmz.com/2026/02/21/james-van-der-beek-wife-honors-eric-dane/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ryan Garcia Gets Pumped Up Backstage Before Weigh-In, On Video]]></title>
-            <link>https://www.tmz.com/2026/02/21/ryan-garcia-hyped-up-before-weigh-in/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/ryan-garcia-hyped-up-before-weigh-in/</guid>
-            <pubDate>Sat, 21 Feb 2026 18:21:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
