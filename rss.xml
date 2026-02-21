@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 19:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 19:57:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ghislaine Maxwell&#039;s Brother Defends Former Prince Andrew After Arrest]]></title>
+            <link>https://www.tmz.com/2026/02/21/ghislaine-maxwell-brother-defends-prince-andrew/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/ghislaine-maxwell-brother-defends-prince-andrew/</guid>
+            <pubDate>Sat, 21 Feb 2026 19:41:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/02/21/5eea399c3ca74a1098c90a09fc27deb9_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Millie Bobby Brown Celebrated 22nd Birthday, David Harbour Attends]]></title>
             <link>https://www.tmz.com/2026/02/21/millie-bobby-brown-spends-birthday-with-david-harbour/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/02/21/3e77477919ce4f6dab5471d949897314_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/02/21/3e77477919ce4f6dab5471d949897314_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lil Jon&#039;s Son DJ Young Slade Laid to Rest on First Day of Ramadan]]></title>
-            <link>https://www.tmz.com/2026/02/21/lil-jon-son-dj-young-slade-laid-to-rest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/lil-jon-son-dj-young-slade-laid-to-rest/</guid>
-            <pubDate>Sat, 21 Feb 2026 17:05:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/02/21/4e36f3d35c7348368b8dad5663b85ad6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/02/21/4e36f3d35c7348368b8dad5663b85ad6_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/02/21/4e36f3d35c7348368b8dad5663b85ad6_xl.png">
             </media:thumbnail>
         </item>
     </channel>
