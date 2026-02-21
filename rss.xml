@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 17:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 19:40:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Millie Bobby Brown Celebrated 22nd Birthday, David Harbour Attends]]></title>
+            <link>https://www.tmz.com/2026/02/21/millie-bobby-brown-spends-birthday-with-david-harbour/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/millie-bobby-brown-spends-birthday-with-david-harbour/</guid>
+            <pubDate>Sat, 21 Feb 2026 18:36:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/02/21/db28e2577dcb4b92a14df7d2074f3b65_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Garcia Gets Pumped Up Backstage Before Weigh-In, On Video]]></title>
+            <link>https://www.tmz.com/2026/02/21/ryan-garcia-hyped-up-before-weigh-in/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/ryan-garcia-hyped-up-before-weigh-in/</guid>
+            <pubDate>Sat, 21 Feb 2026 18:21:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/02/21/65355042f45f44eea7e7d7602c991601_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Legendary Salsa Musician Willie Colón Dead at 75]]></title>
+            <link>https://www.tmz.com/2026/02/21/willie-colon-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/willie-colon-dead/</guid>
+            <pubDate>Sat, 21 Feb 2026 18:07:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/02/21/ed4f59b7a8ef454bad473ae88a1ab143_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/02/21/ed4f59b7a8ef454bad473ae88a1ab143_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/02/21/ed4f59b7a8ef454bad473ae88a1ab143_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;American Idol&#039; Alum Caleb Flynn Makes First Court Appearance, Video]]></title>
             <link>https://www.tmz.com/2026/02/21/caleb-flynn-court-appearance-video/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/02/21/4e36f3d35c7348368b8dad5663b85ad6_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/02/21/4e36f3d35c7348368b8dad5663b85ad6_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Eric Dane&#039;s Girlfriend Breaks Silence After Actor&#039;s Death]]></title>
-            <link>https://www.tmz.com/2026/02/21/eric-dane-girlfriend-speaks-after-his-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/eric-dane-girlfriend-speaks-after-his-death/</guid>
-            <pubDate>Sat, 21 Feb 2026 16:37:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/02/21/75b596b9630c4d7d9f47a7f57a4af732_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/02/21/75b596b9630c4d7d9f47a7f57a4af732_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/02/21/75b596b9630c4d7d9f47a7f57a4af732_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Baseball Hall of Famer Bill Mazeroski Dead at 89]]></title>
-            <link>https://www.tmz.com/2026/02/21/bill-mazeroski-dead-pittsburgh-pirates/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/bill-mazeroski-dead-pittsburgh-pirates/</guid>
-            <pubDate>Sat, 21 Feb 2026 15:05:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/02/21/5890c1f770df424ba149c53f147cdf4f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/02/21/5890c1f770df424ba149c53f147cdf4f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/02/21/5890c1f770df424ba149c53f147cdf4f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gabourey Sidibe’s Husband Reveals Thyroid Cancer Diagnosis]]></title>
-            <link>https://www.tmz.com/2026/02/21/gabourey-sidibe-husband-has-thyroid-cancer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/21/gabourey-sidibe-husband-has-thyroid-cancer/</guid>
-            <pubDate>Sat, 21 Feb 2026 14:25:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/02/21/9d4939480a3a4520a9a73c1b2e3c3298_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/02/21/9d4939480a3a4520a9a73c1b2e3c3298_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/02/21/9d4939480a3a4520a9a73c1b2e3c3298_xl.png">
             </media:thumbnail>
         </item>
     </channel>
