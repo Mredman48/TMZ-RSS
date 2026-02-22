@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Feb 2026 19:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 21:42:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Did Donald Trump Call Into C-Span Under a Made-Up Name?]]></title>
+            <link>https://www.tmz.com/2026/02/22/donald-trump-calling-into-c-span-incognito-debate/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/donald-trump-calling-into-c-span-incognito-debate/</guid>
+            <pubDate>Sun, 22 Feb 2026 21:03:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4d/16by9/2026/02/22/4de2e487fdfa436d801f807efe914f65_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/4d/16by9/2026/02/22/4de2e487fdfa436d801f807efe914f65_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4d/16by9/2026/02/22/4de2e487fdfa436d801f807efe914f65_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Movie Star-Turned-Talk Show Host Is!!!]]></title>
+            <link>https://www.tmz.com/2026/02/22/guess-who-movie-star-talk-show-host/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/guess-who-movie-star-talk-show-host/</guid>
+            <pubDate>Sun, 22 Feb 2026 20:00:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/02/17/f68b56540b3c4782af1f8b766a75f776_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/02/17/f68b56540b3c4782af1f8b766a75f776_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/02/17/f68b56540b3c4782af1f8b766a75f776_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Puerto Vallarta, Mexico Under Siege After Army Kills Major Cartel Leader]]></title>
             <link>https://www.tmz.com/2026/02/22/puerto-vallarta-mexico-under-siege-army-kills-major-cartel-leader/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/35/16by9/2026/02/22/35380cd964ba4c37b6f4aedc5a7960aa_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/02/22/35380cd964ba4c37b6f4aedc5a7960aa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rebecca Gayheart Reacts To Outpouring of Support After Eric Dane&#039;s Death]]></title>
-            <link>https://www.tmz.com/2026/02/22/rebecca-gayheart-reacts-to-outpouring-support-after-eric-dane-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/rebecca-gayheart-reacts-to-outpouring-support-after-eric-dane-death/</guid>
-            <pubDate>Sun, 22 Feb 2026 17:53:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/02/22/fe525f359d034ef8816f7682b8c6e991_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/02/22/fe525f359d034ef8816f7682b8c6e991_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/02/22/fe525f359d034ef8816f7682b8c6e991_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Viral Stuffed IKEA Monkey Sells for Hundreds on eBay]]></title>
-            <link>https://www.tmz.com/2026/02/22/viral-ikea-monkey-reselling-for-hundreds-ebay/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/viral-ikea-monkey-reselling-for-hundreds-ebay/</guid>
-            <pubDate>Sun, 22 Feb 2026 17:25:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/02/22/b91dd2f602794ca9bff57aa287edc949_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/02/22/b91dd2f602794ca9bff57aa287edc949_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/02/22/b91dd2f602794ca9bff57aa287edc949_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
