@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 11:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 15:31:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Cam Jordan Believes Tyler Shough Can Be Saints&#039; Franchise QB]]></title>
-            <link>https://www.tmz.com/2026/02/23/cam-jordan-sees-tyler-shough-as-saints-franchise-quarterback/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/cam-jordan-sees-tyler-shough-as-saints-franchise-quarterback/</guid>
-            <pubDate>Mon, 23 Feb 2026 08:30:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/02/13/f8fe27a9e4534c518055466825dcc6ca_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/02/13/f8fe27a9e4534c518055466825dcc6ca_xl.png" medium="image">
+            <title><![CDATA[Boxer Joseph George Collapses In Ring, Taken To Hospital In &#039;Stable Condition&#039;]]></title>
+            <link>https://www.tmz.com/2026/02/23/boxer-joseph-george-collapses-between-rounds-during-claressa-shields-co-main-event/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/boxer-joseph-george-collapses-between-rounds-during-claressa-shields-co-main-event/</guid>
+            <pubDate>Mon, 23 Feb 2026 15:24:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/02/23/43b62bb7122d40ddafc4b4796b72f57c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/02/23/43b62bb7122d40ddafc4b4796b72f57c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/02/13/f8fe27a9e4534c518055466825dcc6ca_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/02/23/43b62bb7122d40ddafc4b4796b72f57c_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Apartment Updates: Simple Hacks To Improve Your Space]]></title>
-            <link>https://www.tmz.com/2026/02/23/update-your-apartment-simple-items/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/update-your-apartment-simple-items/</guid>
-            <pubDate>Mon, 23 Feb 2026 08:05:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/02/11/29caf010ae45441dbeb0d44378f81c6d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/02/11/29caf010ae45441dbeb0d44378f81c6d_xl.jpg" medium="image">
+            <title><![CDATA[LeBron James Addresses Jaylen Brown&#039;s Past Bronny Comments]]></title>
+            <link>https://www.tmz.com/2026/02/23/lebron-james-jaylen-brown-bronny-comments/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/lebron-james-jaylen-brown-bronny-comments/</guid>
+            <pubDate>Mon, 23 Feb 2026 15:13:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/02/23/a3822a373c6b4df2bb998a00fc5f4e4e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/02/23/a3822a373c6b4df2bb998a00fc5f4e4e_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/02/11/29caf010ae45441dbeb0d44378f81c6d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/02/23/a3822a373c6b4df2bb998a00fc5f4e4e_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Guess Which Iconic Model This Precious Baby Turned Into!]]></title>
-            <link>https://www.tmz.com/2026/02/23/guess-which-iconic-model-this-precious-baby-turned-into/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/guess-which-iconic-model-this-precious-baby-turned-into/</guid>
-            <pubDate>Mon, 23 Feb 2026 08:01:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/01/19/126ce2ef8bfb4afd92852de882f488f7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/01/19/126ce2ef8bfb4afd92852de882f488f7_xl.jpg" medium="image">
+            <title><![CDATA[Jamie Foxx Says Man Who Shouted N-Word at BAFTAs &#039;Meant That S**t&#039;]]></title>
+            <link>https://www.tmz.com/2026/02/23/jamie-foxx-baftas-tourettes-outburst/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/jamie-foxx-baftas-tourettes-outburst/</guid>
+            <pubDate>Mon, 23 Feb 2026 14:55:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/02/23/fb7292ea4dd84395bbbf7ecec9c2a8de_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/02/23/fb7292ea4dd84395bbbf7ecec9c2a8de_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/01/19/126ce2ef8bfb4afd92852de882f488f7_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/02/23/fb7292ea4dd84395bbbf7ecec9c2a8de_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[FBI Director Kash Patel Parties With U.S. Men&#039;s Olympic Hockey Team After Gold Medal Win]]></title>
-            <link>https://www.tmz.com/2026/02/22/fbi-director-kash-patel-parties-with-us-mens-olympic-hockey-team-after-gold-win/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/fbi-director-kash-patel-parties-with-us-mens-olympic-hockey-team-after-gold-win/</guid>
-            <pubDate>Mon, 23 Feb 2026 01:49:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/02/23/36356cc9b1814adfb2d2c0a7cba5e66e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/02/23/36356cc9b1814adfb2d2c0a7cba5e66e_xl.jpg" medium="image">
+            <title><![CDATA[WNBA Champ Kara Braxton Dead At 43]]></title>
+            <link>https://www.tmz.com/2026/02/23/wnba-kara-braxton-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/wnba-kara-braxton-dead/</guid>
+            <pubDate>Mon, 23 Feb 2026 14:34:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/02/23/8a43b3061edb42099c7c19021ac6d711_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/02/23/8a43b3061edb42099c7c19021ac6d711_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/02/23/36356cc9b1814adfb2d2c0a7cba5e66e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/02/23/8a43b3061edb42099c7c19021ac6d711_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jennifer Lopez Celebrates Twins Turning 18 With Emotional Post]]></title>
-            <link>https://www.tmz.com/2026/02/22/jennifer-lopez-twins-turn-18/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/jennifer-lopez-twins-turn-18/</guid>
-            <pubDate>Mon, 23 Feb 2026 01:30:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/02/22/b1366b6d11c7463dbb6df933a1c9ee09_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/02/22/b1366b6d11c7463dbb6df933a1c9ee09_xl.jpg" medium="image">
+            <title><![CDATA[Scared American Tourists Stranded In Chaotic Mexico After Drug Kingpin&#039;s Assassination]]></title>
+            <link>https://www.tmz.com/2026/02/23/american-tourists-stuck-in-mexico/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/american-tourists-stuck-in-mexico/</guid>
+            <pubDate>Mon, 23 Feb 2026 14:18:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/02/23/0b1f421b4d784fc2bfafac667113c0aa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/02/23/0b1f421b4d784fc2bfafac667113c0aa_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/02/22/b1366b6d11c7463dbb6df933a1c9ee09_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/02/23/0b1f421b4d784fc2bfafac667113c0aa_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
