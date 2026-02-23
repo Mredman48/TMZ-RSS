@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 05:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 09:38:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Cam Jordan Believes Tyler Shough Can Be Saints&#039; Franchise QB]]></title>
+            <link>https://www.tmz.com/2026/02/23/cam-jordan-sees-tyler-shough-as-saints-franchise-quarterback/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/cam-jordan-sees-tyler-shough-as-saints-franchise-quarterback/</guid>
+            <pubDate>Mon, 23 Feb 2026 08:30:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/02/13/f8fe27a9e4534c518055466825dcc6ca_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/02/13/f8fe27a9e4534c518055466825dcc6ca_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/02/13/f8fe27a9e4534c518055466825dcc6ca_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Apartment Updates: Simple Hacks To Improve Your Space]]></title>
+            <link>https://www.tmz.com/2026/02/23/update-your-apartment-simple-items/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/update-your-apartment-simple-items/</guid>
+            <pubDate>Mon, 23 Feb 2026 08:05:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/02/11/29caf010ae45441dbeb0d44378f81c6d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/02/11/29caf010ae45441dbeb0d44378f81c6d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/02/11/29caf010ae45441dbeb0d44378f81c6d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Which Iconic Model This Precious Baby Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/02/23/guess-which-iconic-model-this-precious-baby-turned-into/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/guess-which-iconic-model-this-precious-baby-turned-into/</guid>
+            <pubDate>Mon, 23 Feb 2026 08:01:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/01/19/126ce2ef8bfb4afd92852de882f488f7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/01/19/126ce2ef8bfb4afd92852de882f488f7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/01/19/126ce2ef8bfb4afd92852de882f488f7_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[FBI Director Kash Patel Parties With U.S. Men&#039;s Olympic Hockey Team After Gold Medal Win]]></title>
             <link>https://www.tmz.com/2026/02/22/fbi-director-kash-patel-parties-with-us-mens-olympic-hockey-team-after-gold-win/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/02/22/b1366b6d11c7463dbb6df933a1c9ee09_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/02/22/b1366b6d11c7463dbb6df933a1c9ee09_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NBA Youngboy Announces Birth of His 13th Child, 3rd With Wife Jazlyn Mychelle]]></title>
-            <link>https://www.tmz.com/2026/02/22/nba-youngboy-13th-baby/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/nba-youngboy-13th-baby/</guid>
-            <pubDate>Mon, 23 Feb 2026 00:45:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2026/02/22/c11e70d79a48444fa641e2d4e6a67dd2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c1/16by9/2026/02/22/c11e70d79a48444fa641e2d4e6a67dd2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2026/02/22/c11e70d79a48444fa641e2d4e6a67dd2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dog Caught in Crossfire of Massive Shootout in Puerto Vallarta, Mexico]]></title>
-            <link>https://www.tmz.com/2026/02/22/dog-caught-in-crossfire-puerto-vallarta-shootout/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/dog-caught-in-crossfire-puerto-vallarta-shootout/</guid>
-            <pubDate>Mon, 23 Feb 2026 00:29:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/77/16by9/2026/02/22/77727fb63ada491493ed6f9a3e573d50_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/77/16by9/2026/02/22/77727fb63ada491493ed6f9a3e573d50_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/77/16by9/2026/02/22/77727fb63ada491493ed6f9a3e573d50_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Men&#039;s Hockey Wins Gold At Winter Olympics, Enjoy Patriotic Postgame Celebration]]></title>
-            <link>https://www.tmz.com/2026/02/22/us-mens-hockey-wins-gold-winter-olympics-postgame-party/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/22/us-mens-hockey-wins-gold-winter-olympics-postgame-party/</guid>
-            <pubDate>Mon, 23 Feb 2026 00:03:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/02/22/04129cacaf7e46848b259924140b3753_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/02/22/04129cacaf7e46848b259924140b3753_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/02/22/04129cacaf7e46848b259924140b3753_xl.png">
             </media:thumbnail>
         </item>
     </channel>
