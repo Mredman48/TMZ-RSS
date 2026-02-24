@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 05:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 08:03:20 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Hilary Duff Mourns Death Of "Lizzie McGuire" Dad Robert Carradine]]></title>
+            <link>https://www.tmz.com/2026/02/23/hilary-duff-mourns-death-lizzie-mcguire-dad-robert-carradine/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/hilary-duff-mourns-death-lizzie-mcguire-dad-robert-carradine/</guid>
+            <pubDate>Tue, 24 Feb 2026 07:13:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/02/24/3ecc37a543f54084a18f27eab91acab2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/02/24/3ecc37a543f54084a18f27eab91acab2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/02/24/3ecc37a543f54084a18f27eab91acab2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Lizzie McGuire&#039; Star Robert Carradine Dead at 71]]></title>
+            <link>https://www.tmz.com/2026/02/23/lizzie-mcguire-star-robert-carradine-dead-at-71/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/lizzie-mcguire-star-robert-carradine-dead-at-71/</guid>
+            <pubDate>Tue, 24 Feb 2026 05:16:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/02/24/b00854d3bbe547a3b7b5dacf3b4db16a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/02/24/b00854d3bbe547a3b7b5dacf3b4db16a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/02/24/b00854d3bbe547a3b7b5dacf3b4db16a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[T.I. Unleashes at 50 Cent With Fiery New Diss Track "Right One"]]></title>
             <link>https://www.tmz.com/2026/02/23/ti-right-one-50-cent-diss-track/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5b/16by9/2026/02/23/5bcd012deabf4d79a3ad4106c48e10f8_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5b/16by9/2026/02/23/5bcd012deabf4d79a3ad4106c48e10f8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Home Improvement&#039; Star Zachery Ty Bryan Sentenced to Over A Year in Jail]]></title>
-            <link>https://www.tmz.com/2026/02/23/zachery-ty-bryan-sentenced-to-over-a-year-jail/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/zachery-ty-bryan-sentenced-to-over-a-year-jail/</guid>
-            <pubDate>Tue, 24 Feb 2026 00:02:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/02/23/dce642292ece4618b3ebb4a414f7d175_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/02/23/dce642292ece4618b3ebb4a414f7d175_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/02/23/dce642292ece4618b3ebb4a414f7d175_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-NBA Player Patrick Beverley Won&#039;t Face Charges In Assault Case]]></title>
-            <link>https://www.tmz.com/2026/02/23/patrick-beverley-assault-case-no-charges/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/23/patrick-beverley-assault-case-no-charges/</guid>
-            <pubDate>Mon, 23 Feb 2026 23:43:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/02/23/68223d7988024cf4be1d544a91b2740f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/02/23/68223d7988024cf4be1d544a91b2740f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/02/23/68223d7988024cf4be1d544a91b2740f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
