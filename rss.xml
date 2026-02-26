@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 11:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 14:38:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Andy Cohen Appears to Make Amends With Lisa Rinna After She Burns His Book]]></title>
+            <link>https://www.tmz.com/2026/02/26/andy-cohen-makes-amends-with-lisa-rinna-wwhl/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/26/andy-cohen-makes-amends-with-lisa-rinna-wwhl/</guid>
+            <pubDate>Thu, 26 Feb 2026 13:57:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/02/26/c259e1c0b000436db4169471e67ea8fa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/02/26/c259e1c0b000436db4169471e67ea8fa_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/02/26/c259e1c0b000436db4169471e67ea8fa_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ray J&#039;s Ex-Partner Says He&#039;s &#039;Suicidal&#039; After Domestic Violence Call to His Home]]></title>
+            <link>https://www.tmz.com/2026/02/26/ray-j-suicidal-ex-says/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/26/ray-j-suicidal-ex-says/</guid>
+            <pubDate>Thu, 26 Feb 2026 13:47:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e3/16by9/2026/02/26/e37ce66f57604e1e86daa5786b11b2b7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/02/26/e37ce66f57604e1e86daa5786b11b2b7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/02/26/e37ce66f57604e1e86daa5786b11b2b7_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Restraining Order Against Jada Pinkett Smith Denied, Filed by Will Smith&#039;s Alleged Pal]]></title>
             <link>https://www.tmz.com/2026/02/26/jada-pinkett-smith-restraining-order-dropped/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/02/25/d191215be0764a8189d00aa2111c813b_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/02/25/d191215be0764a8189d00aa2111c813b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Huang In &#039;Fresh Off The Boat&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/02/26/eddie-huang-fresh-off-the-boat-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/26/eddie-huang-fresh-off-the-boat-memba-him/</guid>
-            <pubDate>Thu, 26 Feb 2026 08:45:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/02/02/7481cd78a2664edbb2140c6ec7261938_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/02/02/7481cd78a2664edbb2140c6ec7261938_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/02/02/7481cd78a2664edbb2140c6ec7261938_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Miracle on Ice&#039; Captain Mike Eruzione Rips Critics Over Team USA Controversy]]></title>
-            <link>https://www.tmz.com/2026/02/26/mike-eruzione-blasts-critics-team-usa-controversy/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/26/mike-eruzione-blasts-critics-team-usa-controversy/</guid>
-            <pubDate>Thu, 26 Feb 2026 08:30:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/02/25/1f533d7c0b3e4b1490d93dcbdbe69619_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/02/25/1f533d7c0b3e4b1490d93dcbdbe69619_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/02/25/1f533d7c0b3e4b1490d93dcbdbe69619_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
