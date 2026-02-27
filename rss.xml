@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 10:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 11:54:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Grey&#039;s Anatomy&#039; Pays Tribute to Eric Dane in Latest Episode]]></title>
+            <link>https://www.tmz.com/2026/02/27/greys-anatomy-tribute-eric-dane-mcsteamy-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/27/greys-anatomy-tribute-eric-dane-mcsteamy-death/</guid>
+            <pubDate>Fri, 27 Feb 2026 11:34:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2025/12/29/f20c31b6f44a42a0a60a578175c6461e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f2/16by9/2025/12/29/f20c31b6f44a42a0a60a578175c6461e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2025/12/29/f20c31b6f44a42a0a60a578175c6461e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;1000-lb Sisters&#039; Star Amy Undergoes Surgery to Correct Lazy Eye, on Video]]></title>
+            <link>https://www.tmz.com/2026/02/27/amy-1000-lb-sisters-eye-surgery/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/27/amy-1000-lb-sisters-eye-surgery/</guid>
+            <pubDate>Fri, 27 Feb 2026 11:00:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/02/26/37a6d935027b4b4ebc6cb326b94f0a4c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/02/26/37a6d935027b4b4ebc6cb326b94f0a4c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/02/26/37a6d935027b4b4ebc6cb326b94f0a4c_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mary Cosby Plans to Film &#039;RHOSLC&#039; Season 7 Despite Son&#039;s Sudden Death]]></title>
             <link>https://www.tmz.com/2026/02/27/mary-cosby-still-plans-to-film-rhoslc-despite-sons-death/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5f/16by9/2025/12/30/5fc2cb92f7264af2940917712d230c62_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5f/16by9/2025/12/30/5fc2cb92f7264af2940917712d230c62_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Laila Edwards&#039; Dad Thanks Kelce Brothers For Unforgettable Olympic Experience]]></title>
-            <link>https://www.tmz.com/2026/02/27/laila-edwards-family-thanks-kelces-for-olympic-experience/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/27/laila-edwards-family-thanks-kelces-for-olympic-experience/</guid>
-            <pubDate>Fri, 27 Feb 2026 08:30:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/02/26/51621c8d400347e4998536a4ba986535_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/02/26/51621c8d400347e4998536a4ba986535_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/02/26/51621c8d400347e4998536a4ba986535_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK-Inspired Gifts: For BLINKs Only]]></title>
-            <link>https://www.tmz.com/2026/02/27/blackpink-inspired-products-for-superfans/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/27/blackpink-inspired-products-for-superfans/</guid>
-            <pubDate>Fri, 27 Feb 2026 08:05:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/02/16/895b85e60d6344b9b9c5eca70814ad0f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/02/16/895b85e60d6344b9b9c5eca70814ad0f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/02/16/895b85e60d6344b9b9c5eca70814ad0f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
