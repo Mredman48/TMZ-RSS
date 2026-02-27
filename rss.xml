@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 22:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 23:02:00 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[David Martinsson From Viral &#039;Being Ugly&#039; Video Only Cares About Wife&#039;s Opinion]]></title>
+            <link>https://www.tmz.com/2026/02/27/david-and-juli-martinsson-viral-video-being-ugly/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/27/david-and-juli-martinsson-viral-video-being-ugly/</guid>
+            <pubDate>Fri, 27 Feb 2026 22:24:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/02/27/b72283b6b8ba4aa287764ab6b9916720_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/02/27/b72283b6b8ba4aa287764ab6b9916720_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/02/27/b72283b6b8ba4aa287764ab6b9916720_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Legendary Singer Neil Sedaka Dead at 86]]></title>
             <link>https://www.tmz.com/2026/02/27/legendary-singer-neil-sedaka-dead-at-86/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/02/27/8b66190ad67245c6b1efafea56bc2d96_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/02/27/8b66190ad67245c6b1efafea56bc2d96_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Lizzie McGuire&#039; Dad Robert Carradine Died in Hospital]]></title>
-            <link>https://www.tmz.com/2026/02/27/robert-carradine-died-in-hospital/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/27/robert-carradine-died-in-hospital/</guid>
-            <pubDate>Fri, 27 Feb 2026 20:53:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/02/27/e40f1500bc4b491ea5aa5b6cda370baf_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/02/27/e40f1500bc4b491ea5aa5b6cda370baf_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/02/27/e40f1500bc4b491ea5aa5b6cda370baf_xl.png">
             </media:thumbnail>
         </item>
     </channel>
