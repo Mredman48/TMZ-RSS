@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 20:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 21:53:00 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Donald Trump Dances At Fundraiser Just Before Iran Airstrikes]]></title>
+            <link>https://www.tmz.com/2026/02/28/donald-trump-dancing-at-fundraiser-before-iran-attack/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/donald-trump-dancing-at-fundraiser-before-iran-attack/</guid>
+            <pubDate>Sat, 28 Feb 2026 21:32:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/02/28/b70eff94686f4a1592cdcdfbabc55588_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/02/28/b70eff94686f4a1592cdcdfbabc55588_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/02/28/b70eff94686f4a1592cdcdfbabc55588_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Iran&#039;s Supreme Leader Ali Khamenei Dead After U.S. & IDF Strike, Per Reports]]></title>
             <link>https://www.tmz.com/2026/02/28/iran-supreme-leader-ayatollah-ali-khamenei-dead-israeli-sources-say/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/37/16by9/2026/02/28/373032ef2e2d4b3eb8907335d451ef21_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/02/28/373032ef2e2d4b3eb8907335d451ef21_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shia LaBeouf Speaks Out on Arrest, Denies Drinking Problem]]></title>
-            <link>https://www.tmz.com/2026/02/28/shia-labeouf-talks-about-mardi-gras-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/shia-labeouf-talks-about-mardi-gras-arrest/</guid>
-            <pubDate>Sat, 28 Feb 2026 18:34:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/02/28/253c054dabd84301bd93d261b9b44cef_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/02/28/253c054dabd84301bd93d261b9b44cef_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/02/28/253c054dabd84301bd93d261b9b44cef_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
