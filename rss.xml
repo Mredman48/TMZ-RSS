@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 17:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 17:53:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Cher&#039;s Son Elijah Blue Allman Arrested on Assault, Trespassing Charges]]></title>
+            <link>https://www.tmz.com/2026/02/28/elijah-blue-allman-arrested-assault/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/elijah-blue-allman-arrested-assault/</guid>
+            <pubDate>Sat, 28 Feb 2026 16:59:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/06/16by9/2026/02/28/06330e6f690c4ffaa0de9877789207c1_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/06/16by9/2026/02/28/06330e6f690c4ffaa0de9877789207c1_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/06/16by9/2026/02/28/06330e6f690c4ffaa0de9877789207c1_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Missile Erupts in Qatar After Joint US-Israel Attack on Iran, on Video]]></title>
             <link>https://www.tmz.com/2026/02/28/explosion-in-qatar-video/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/32/16by9/2026/02/28/32d58e46e6e242339f0e03e19659225a_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/02/28/32d58e46e6e242339f0e03e19659225a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[U.S. and Israel Launch Military Strikes Against Iran, Video Shows]]></title>
-            <link>https://www.tmz.com/2026/02/28/united-states-israel-launch-attack-on-iran/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/united-states-israel-launch-attack-on-iran/</guid>
-            <pubDate>Sat, 28 Feb 2026 12:50:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png">
             </media:thumbnail>
         </item>
     </channel>
