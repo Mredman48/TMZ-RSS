@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 15:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 17:00:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Missile Erupts in Qatar After Joint US-Israel Attack on Iran, on Video]]></title>
+            <link>https://www.tmz.com/2026/02/28/explosion-in-qatar-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/explosion-in-qatar-video/</guid>
+            <pubDate>Sat, 28 Feb 2026 16:14:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/02/28/1b0d2630da9049fb88fe6786a05a6b00_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/02/28/1b0d2630da9049fb88fe6786a05a6b00_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/02/28/1b0d2630da9049fb88fe6786a05a6b00_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[New Warrant Reportedly Issued Related to Shia Labeouf&#039;s Mardi Gras Arrest]]></title>
             <link>https://www.tmz.com/2026/02/28/shia-labeouf-new-warrant-issued-mardi-gras-arrest/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Yungblud Talks About Getting DMs From Ladies, Says He&#039;s a Prude]]></title>
-            <link>https://www.tmz.com/2026/02/28/yungblud-says-hes-a-prude-when-it-comes-to-the-dms/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/yungblud-says-hes-a-prude-when-it-comes-to-the-dms/</guid>
-            <pubDate>Sat, 28 Feb 2026 11:00:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/02/27/f9f827890a1441458a8305447952200f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/02/27/f9f827890a1441458a8305447952200f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/02/27/f9f827890a1441458a8305447952200f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
