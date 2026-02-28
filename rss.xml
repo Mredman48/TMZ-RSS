@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 11:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 13:53:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[News Anchor, Meteorologist Get Into Viral On-Air Spat Over Weather]]></title>
+            <link>https://www.tmz.com/2026/02/28/texas-anchor-meteorologist-fight-over-weather/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/texas-anchor-meteorologist-fight-over-weather/</guid>
+            <pubDate>Sat, 28 Feb 2026 13:26:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/02/28/32d58e46e6e242339f0e03e19659225a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/02/28/32d58e46e6e242339f0e03e19659225a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/02/28/32d58e46e6e242339f0e03e19659225a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[U.S. and Israel Launch Military Strikes Against Iran, Video Shows]]></title>
+            <link>https://www.tmz.com/2026/02/28/united-states-israel-launch-attack-on-iran/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/united-states-israel-launch-attack-on-iran/</guid>
+            <pubDate>Sat, 28 Feb 2026 12:50:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/02/28/24da65c4d95b4cdfbd7b43de8f04a3fc_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Yungblud Talks About Getting DMs From Ladies, Says He&#039;s a Prude]]></title>
             <link>https://www.tmz.com/2026/02/28/yungblud-says-hes-a-prude-when-it-comes-to-the-dms/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/02/23/8cf4e3df45974f32b9d1b311ae18835b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/02/23/8cf4e3df45974f32b9d1b311ae18835b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[February 2026 Hot Shots -- Bodies, Booties & Boulders]]></title>
-            <link>https://www.tmz.com/2026/02/28/february-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/february-hot-shots/</guid>
-            <pubDate>Sat, 28 Feb 2026 08:55:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/79/16by9/2026/02/24/79e094e26e554aacb554e16dbc25490c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/79/16by9/2026/02/24/79e094e26e554aacb554e16dbc25490c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/02/24/79e094e26e554aacb554e16dbc25490c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/02/28/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 28 Feb 2026 08:45:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/02/27/6145817d052a49489375aea84f0bee4c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/02/27/6145817d052a49489375aea84f0bee4c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/02/27/6145817d052a49489375aea84f0bee4c_xl.png">
             </media:thumbnail>
         </item>
     </channel>
