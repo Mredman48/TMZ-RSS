@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 22:58:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 23:54:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bill Cosby Wants Janice Dickinson Barred From Testifying at Upcoming Trial]]></title>
+            <link>https://www.tmz.com/2026/02/28/bill-cosby-does-not-want-janice-dickinson-testifying/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/bill-cosby-does-not-want-janice-dickinson-testifying/</guid>
+            <pubDate>Sat, 28 Feb 2026 23:30:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/02/28/63a2afd8957b4371962676a2a6810d59_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/02/28/63a2afd8957b4371962676a2a6810d59_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/02/28/63a2afd8957b4371962676a2a6810d59_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;RHOBH&#039; Mauricio Umansky Out With Mystery Brunette and PK Kemsley]]></title>
+            <link>https://www.tmz.com/2026/02/28/mauricio-umansky-photo-with-new-woman/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/mauricio-umansky-photo-with-new-woman/</guid>
+            <pubDate>Sat, 28 Feb 2026 23:24:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/02/28/13746c74aad448e8995535154959e700_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/02/28/13746c74aad448e8995535154959e700_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/02/28/13746c74aad448e8995535154959e700_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Iranian American Sam Asghari Applauds U.S. Strike on Iran]]></title>
+            <link>https://www.tmz.com/2026/02/28/sam-asghari-praises-iran-attacks/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/sam-asghari-praises-iran-attacks/</guid>
+            <pubDate>Sat, 28 Feb 2026 23:04:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/02/28/5d0b2eb4a48e42718b58caaa2757015d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/02/28/5d0b2eb4a48e42718b58caaa2757015d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/02/28/5d0b2eb4a48e42718b58caaa2757015d_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ivanka Trump Heads to Synagogue In All Black Amid U.S. & Israel&#039;s Attack on Iran]]></title>
             <link>https://www.tmz.com/2026/02/28/ivanka-trump-at-synagogue-amid-iran-attacks/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/02/28/e8793c1511f34ab39612bb6087268f8e_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/02/28/e8793c1511f34ab39612bb6087268f8e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Dances At Fundraiser Just Before Iran Airstrikes]]></title>
-            <link>https://www.tmz.com/2026/02/28/donald-trump-dancing-at-fundraiser-before-iran-attack/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/donald-trump-dancing-at-fundraiser-before-iran-attack/</guid>
-            <pubDate>Sat, 28 Feb 2026 21:32:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/02/28/b70eff94686f4a1592cdcdfbabc55588_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/02/28/b70eff94686f4a1592cdcdfbabc55588_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/02/28/b70eff94686f4a1592cdcdfbabc55588_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Iran&#039;s Supreme Leader Ali Khamenei Dead After U.S. & IDF Strike, Trump Says]]></title>
-            <link>https://www.tmz.com/2026/02/28/iran-supreme-leader-ayatollah-ali-khamenei-dead-israeli-sources-say/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/iran-supreme-leader-ayatollah-ali-khamenei-dead-israeli-sources-say/</guid>
-            <pubDate>Sat, 28 Feb 2026 20:38:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/02/28/dfa363f7f16b4c85a53088ec42c5cf41_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/02/28/dfa363f7f16b4c85a53088ec42c5cf41_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/02/28/dfa363f7f16b4c85a53088ec42c5cf41_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bijou Phillips Says She Could Be &#039;Gone in a Few Days&#039; Amid Search For New Kidney]]></title>
-            <link>https://www.tmz.com/2026/02/28/bijou-phillips-could-be-dead-in-days/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/bijou-phillips-could-be-dead-in-days/</guid>
-            <pubDate>Sat, 28 Feb 2026 20:14:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/02/28/305afac64fe542738de01c523066bcc8_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/02/28/305afac64fe542738de01c523066bcc8_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/02/28/305afac64fe542738de01c523066bcc8_xl.png">
             </media:thumbnail>
         </item>
     </channel>
