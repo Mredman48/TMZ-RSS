@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 14:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 15:55:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[New Warrant Reportedly Issued Related to Shia Labeouf&#039;s Mardi Gras Arrest]]></title>
+            <link>https://www.tmz.com/2026/02/28/shia-labeouf-new-warrant-issued-mardi-gras-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/shia-labeouf-new-warrant-issued-mardi-gras-arrest/</guid>
+            <pubDate>Sat, 28 Feb 2026 15:14:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/02/28/0b146d930b914f7492f991e6de74acf9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/02/28/0b146d930b914f7492f991e6de74acf9_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/02/28/0b146d930b914f7492f991e6de74acf9_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mary Cosby Honors Son Robert Cosby Jr. With Throwback Pic Following Death]]></title>
             <link>https://www.tmz.com/2026/02/28/mary-cosby-posts-old-photo-with-son-robert-jr/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/02/27/f9f827890a1441458a8305447952200f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/02/27/f9f827890a1441458a8305447952200f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shia LaBeouf’s Inner Circle Believes Actor Tried to Save Mia Goth Relationship]]></title>
-            <link>https://www.tmz.com/2026/02/28/shia-labeoufs-inner-circle-believes-he-tried-to-save-relationship/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/shia-labeoufs-inner-circle-believes-he-tried-to-save-relationship/</guid>
-            <pubDate>Sat, 28 Feb 2026 09:00:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/02/27/0d3fd348de454cea843406f6642aa332_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/02/27/0d3fd348de454cea843406f6642aa332_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/02/27/0d3fd348de454cea843406f6642aa332_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
