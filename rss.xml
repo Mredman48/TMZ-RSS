@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 17:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 19:00:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Rapper J.I The Prince of N.Y Saves Nurse Stuck in Snowstorm]]></title>
+            <link>https://www.tmz.com/2026/03/01/ji-prince-of-ny-saves-nurse-in-snowstorm/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/ji-prince-of-ny-saves-nurse-in-snowstorm/</guid>
+            <pubDate>Sun, 01 Mar 2026 18:53:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/02/27/186e7d0257c64077bed03b6a33eec05e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/02/27/186e7d0257c64077bed03b6a33eec05e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/02/27/186e7d0257c64077bed03b6a33eec05e_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Alex Pretti&#039;s Mom Honors Him on His Birthday Weeks After Fatal Shooting]]></title>
+            <link>https://www.tmz.com/2026/03/01/alex-pretti-mom-honors-his-birthday-weeks-after-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/alex-pretti-mom-honors-his-birthday-weeks-after-shooting/</guid>
+            <pubDate>Sun, 01 Mar 2026 17:52:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/03/01/d7d12a15f5e34e39b2feca7fa691c8fc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/03/01/d7d12a15f5e34e39b2feca7fa691c8fc_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/03/01/d7d12a15f5e34e39b2feca7fa691c8fc_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Delroy Lindo Addresses BAFTA Slur Incident at NAACP Image Awards]]></title>
             <link>https://www.tmz.com/2026/03/01/delroy-lindo-addresses-bafta-slur-incident-naacp-image-awards/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/03/01/ce1bc00229a7446f98ffcda827c86ce9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/03/01/ce1bc00229a7446f98ffcda827c86ce9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kelly Osbourne Slams Critics Over BRIT&#039;s Appearance]]></title>
-            <link>https://www.tmz.com/2026/03/01/kelly-osbourne-slams-critics-brit-appearance-comments/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/kelly-osbourne-slams-critics-brit-appearance-comments/</guid>
-            <pubDate>Sun, 01 Mar 2026 15:52:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/03/01/7451b6d3e6414854b4a821d06b6cd397_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/03/01/7451b6d3e6414854b4a821d06b6cd397_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/03/01/7451b6d3e6414854b4a821d06b6cd397_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bhad Bhabie Spends Time With Daughter Amid Cancer Setback]]></title>
-            <link>https://www.tmz.com/2026/03/01/bhad-bhabie-with-daughter-amid-cancer-setback/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/bhad-bhabie-with-daughter-amid-cancer-setback/</guid>
-            <pubDate>Sun, 01 Mar 2026 15:41:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/03/01/102cee9c706043f6b54160dd93178da3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/03/01/102cee9c706043f6b54160dd93178da3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/03/01/102cee9c706043f6b54160dd93178da3_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
