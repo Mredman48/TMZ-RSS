@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 20:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 21:52:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jeffrey Epstein Withheld Medical Treatments, Used Loyal Doctors to Manipulate Women]]></title>
+            <link>https://www.tmz.com/2026/03/01/jeffrey-epstein-recruited-doctors-to-manipulate-women/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/jeffrey-epstein-recruited-doctors-to-manipulate-women/</guid>
+            <pubDate>Sun, 01 Mar 2026 21:08:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/01/48ea80573f0e40549e662db9b1e65288_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/01/48ea80573f0e40549e662db9b1e65288_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/01/48ea80573f0e40549e662db9b1e65288_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mia Goth Unbothered in L.A. After Ex Shia LaBeouf Gets Locked Up Again]]></title>
             <link>https://www.tmz.com/2026/03/01/mia-goth-unbothered-in-la-after-shia-labeouf-locked-up-again/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/02/24/3b310fb7adef4c2a8953cf30d36e1298_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/02/24/3b310fb7adef4c2a8953cf30d36e1298_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rapper J.I The Prince of N.Y Saves Nurse Stuck in Snowstorm]]></title>
-            <link>https://www.tmz.com/2026/03/01/ji-prince-of-ny-saves-nurse-in-snowstorm/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/ji-prince-of-ny-saves-nurse-in-snowstorm/</guid>
-            <pubDate>Sun, 01 Mar 2026 18:53:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/02/27/186e7d0257c64077bed03b6a33eec05e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/02/27/186e7d0257c64077bed03b6a33eec05e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/02/27/186e7d0257c64077bed03b6a33eec05e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
