@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 21:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 22:55:32 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Scott Disick Reunites With Ex Chloe Bartoli in Los Angeles]]></title>
+            <link>https://www.tmz.com/2026/03/01/scott-disick-chloe-bartoli-reunite-los-angeles/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/scott-disick-chloe-bartoli-reunite-los-angeles/</guid>
+            <pubDate>Sun, 01 Mar 2026 21:56:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4c/16by9/2026/03/01/4c4cee51f9c947c8aa9cd2c96b941bcd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/03/01/4c4cee51f9c947c8aa9cd2c96b941bcd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/03/01/4c4cee51f9c947c8aa9cd2c96b941bcd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Eugene Thomas King Jr.&#039;s, Who Held Paula Deen at Gunpoint, Cause of Death Revealed]]></title>
+            <link>https://www.tmz.com/2026/03/01/eugene-thomas-king-jr-cause-death-revealed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/eugene-thomas-king-jr-cause-death-revealed/</guid>
+            <pubDate>Sun, 01 Mar 2026 21:54:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/03/01/60937a3e47244cc1b72de2ea591d1a8b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/03/01/60937a3e47244cc1b72de2ea591d1a8b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/03/01/60937a3e47244cc1b72de2ea591d1a8b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jeffrey Epstein Withheld Medical Treatments, Used Loyal Doctors to Manipulate Women]]></title>
             <link>https://www.tmz.com/2026/03/01/jeffrey-epstein-recruited-doctors-to-manipulate-women/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/01/f7115494b2c04d58a04fd059eee8865d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/01/f7115494b2c04d58a04fd059eee8865d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Eugene Thomas King Jr., Who Held Gun to Paula Deen&#039;s Head, Found Dead]]></title>
-            <link>https://www.tmz.com/2026/03/01/paula-deen-robber-eugene-thomas-king-jr-found-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/paula-deen-robber-eugene-thomas-king-jr-found-dead/</guid>
-            <pubDate>Sun, 01 Mar 2026 20:10:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/03/01/d90c0ec95b7f40a9bc974358bdd8fa0d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/03/01/d90c0ec95b7f40a9bc974358bdd8fa0d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/03/01/d90c0ec95b7f40a9bc974358bdd8fa0d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebs Pigging Out For National Pig Day]]></title>
-            <link>https://www.tmz.com/2026/03/01/celebrities-national-pig-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/celebrities-national-pig-day/</guid>
-            <pubDate>Sun, 01 Mar 2026 20:00:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/02/24/3b310fb7adef4c2a8953cf30d36e1298_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/02/24/3b310fb7adef4c2a8953cf30d36e1298_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/02/24/3b310fb7adef4c2a8953cf30d36e1298_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
