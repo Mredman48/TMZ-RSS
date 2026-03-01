@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 23:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 05:21:29 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Joshua Jackson Works Out Shirtless at a Boxing Gym in LA, On Video]]></title>
+            <link>https://www.tmz.com/2026/02/28/joshua-jackson-shirtless-boxing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/joshua-jackson-shirtless-boxing/</guid>
+            <pubDate>Sun, 01 Mar 2026 01:45:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/02/28/7533da1ebd024706a9bb357c596bbb63_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/02/28/7533da1ebd024706a9bb357c596bbb63_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/02/28/7533da1ebd024706a9bb357c596bbb63_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lauren London&#039;s Emotional Tribute to Nipsey Hussle as LA Dedicates Intersection to Him]]></title>
+            <link>https://www.tmz.com/2026/02/28/nipsey-hussle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/nipsey-hussle/</guid>
+            <pubDate>Sun, 01 Mar 2026 00:50:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/03/01/d0d40285ddb9403298793e45843c42b5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/03/01/d0d40285ddb9403298793e45843c42b5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/03/01/d0d40285ddb9403298793e45843c42b5_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kodak Black Missed Concert Due to Flight Delay, Performed at Another Venue for Free]]></title>
+            <link>https://www.tmz.com/2026/02/28/kodak-black-misses-concert-does-another-one-instead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/kodak-black-misses-concert-does-another-one-instead/</guid>
+            <pubDate>Sun, 01 Mar 2026 00:07:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/01/16by9/2026/02/28/0148153238a34d358c9620a97e1b534e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/01/16by9/2026/02/28/0148153238a34d358c9620a97e1b534e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/02/28/0148153238a34d358c9620a97e1b534e_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bill Cosby Wants Janice Dickinson Barred From Testifying at Upcoming Trial]]></title>
             <link>https://www.tmz.com/2026/02/28/bill-cosby-does-not-want-janice-dickinson-testifying/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/13/16by9/2026/02/28/13746c74aad448e8995535154959e700_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/02/28/13746c74aad448e8995535154959e700_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Iranian American Sam Asghari Applauds U.S. Strike on Iran]]></title>
-            <link>https://www.tmz.com/2026/02/28/sam-asghari-praises-iran-attacks/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/sam-asghari-praises-iran-attacks/</guid>
-            <pubDate>Sat, 28 Feb 2026 23:04:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/02/28/5d0b2eb4a48e42718b58caaa2757015d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/02/28/5d0b2eb4a48e42718b58caaa2757015d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/02/28/5d0b2eb4a48e42718b58caaa2757015d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ivanka Trump Heads to Synagogue In All Black Amid U.S. & Israel&#039;s Attack on Iran]]></title>
-            <link>https://www.tmz.com/2026/02/28/ivanka-trump-at-synagogue-amid-iran-attacks/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/ivanka-trump-at-synagogue-amid-iran-attacks/</guid>
-            <pubDate>Sat, 28 Feb 2026 22:45:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/02/28/85555f830c604c0dbe41cb03b1836278_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/02/28/85555f830c604c0dbe41cb03b1836278_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/02/28/85555f830c604c0dbe41cb03b1836278_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shia LaBeouf Arrested Again on Battery Charge in New Orleans]]></title>
-            <link>https://www.tmz.com/2026/02/28/shia-labeouf-arrested-again-in-new-orleans/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/02/28/shia-labeouf-arrested-again-in-new-orleans/</guid>
-            <pubDate>Sat, 28 Feb 2026 22:14:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/02/28/e8793c1511f34ab39612bb6087268f8e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/02/28/e8793c1511f34ab39612bb6087268f8e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/02/28/e8793c1511f34ab39612bb6087268f8e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
