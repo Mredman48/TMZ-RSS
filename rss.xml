@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 11:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 13:57:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Iranians Party in the Streets After Assassination of Their Supreme Leader: Video]]></title>
+            <link>https://www.tmz.com/2026/03/01/iranians-celebrate-supreme-leader-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/iranians-celebrate-supreme-leader-death/</guid>
+            <pubDate>Sun, 01 Mar 2026 13:37:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/03/01/db66c20aa15740f88c28abc89d70ef62_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/03/01/db66c20aa15740f88c28abc89d70ef62_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/03/01/db66c20aa15740f88c28abc89d70ef62_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kesha&#039;s Hottest Shots for Her 39th Birthday]]></title>
             <link>https://www.tmz.com/2026/03/01/kesha-hot-shots-birthday/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/00/16by9/2026/02/10/0030e30b50da4b018765839cb06d1b9e_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/02/10/0030e30b50da4b018765839cb06d1b9e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Longtime MLB Ump Jim Joyce Weighs In On Computer-Called Balls & Strikes]]></title>
-            <link>https://www.tmz.com/2026/03/01/mlb-umpire-jim-joyce-reacts-abs-balls-strikes-baseball/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/mlb-umpire-jim-joyce-reacts-abs-balls-strikes-baseball/</guid>
-            <pubDate>Sun, 01 Mar 2026 08:10:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4f/16by9/2026/02/28/4faf36c19d334fa6b38a0de74ba1a06b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/02/28/4faf36c19d334fa6b38a0de74ba1a06b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/02/28/4faf36c19d334fa6b38a0de74ba1a06b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
