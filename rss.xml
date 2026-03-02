@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 17:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 18:07:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/03/02/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/watch-tmz-live-today/</guid>
+            <pubDate>Mon, 02 Mar 2026 17:53:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/03/02/3e2c48ef2ecf405c87242aabb18c1884_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/03/02/3e2c48ef2ecf405c87242aabb18c1884_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/03/02/3e2c48ef2ecf405c87242aabb18c1884_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bare-Bum Babe -- Guess Whose (Blurred) Tan Lines!]]></title>
+            <link>https://www.tmz.com/2026/03/02/bare-bum-babe-guess-whose-tan-lines/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/bare-bum-babe-guess-whose-tan-lines/</guid>
+            <pubDate>Mon, 02 Mar 2026 17:45:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/03/02/c6bdae3c55bb4ac28ec8e61fa4cc6bb6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/03/02/c6bdae3c55bb4ac28ec8e61fa4cc6bb6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/03/02/c6bdae3c55bb4ac28ec8e61fa4cc6bb6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Luka Doncic Celebrates Birthday With Novak Djokovic After Lakers Win]]></title>
+            <link>https://www.tmz.com/2026/03/02/luka-doncic-celebrates-birthday-with-novak-djokovic/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/luka-doncic-celebrates-birthday-with-novak-djokovic/</guid>
+            <pubDate>Mon, 02 Mar 2026 17:44:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/03/02/ebdd174094654cc589f669dbe8e8eed0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/03/02/ebdd174094654cc589f669dbe8e8eed0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/03/02/ebdd174094654cc589f669dbe8e8eed0_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Colorado Buffaloes Practice After QB Dominiq Ponder Tragically Dies in Car Crash]]></title>
             <link>https://www.tmz.com/2026/03/02/dominiq-ponder-dead-crash-colorado-team-practice/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/03/02/2dfe4cc898e64b1ea9417281e4817a86_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/03/02/2dfe4cc898e64b1ea9417281e4817a86_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[McDonald&#039;s CEO Mocked for Hilariously Viral &#039;Big Arch&#039; Burger Taste Test Video]]></title>
-            <link>https://www.tmz.com/2026/03/02/mcdonalds-ceo-teased-for-big-arch-burger-viral-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/mcdonalds-ceo-teased-for-big-arch-burger-viral-video/</guid>
-            <pubDate>Mon, 02 Mar 2026 17:14:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/03/02/3582a429d48d4a43bbafede514b33e7f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/03/02/3582a429d48d4a43bbafede514b33e7f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/03/02/3582a429d48d4a43bbafede514b33e7f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Spurs&#039; Luke Kornet Calls On Hawks To Cancel &#039;Magic City Night&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/02/spurs-luke-kornet-hawks-cancel-magic-city-night/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/spurs-luke-kornet-hawks-cancel-magic-city-night/</guid>
-            <pubDate>Mon, 02 Mar 2026 16:54:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/03/02/2fea993aacad4bf7885ab346c76978a8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/03/02/2fea993aacad4bf7885ab346c76978a8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/03/02/2fea993aacad4bf7885ab346c76978a8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bo Gritz, Former Green Beret Who Inspired &#039;Rambo,&#039; Dead at 87]]></title>
-            <link>https://www.tmz.com/2026/03/02/bo-gritz-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/bo-gritz-dead/</guid>
-            <pubDate>Mon, 02 Mar 2026 16:50:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/03/02/e1e2296aafb84d05b1ef1ca1fdb58ef3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/03/02/e1e2296aafb84d05b1ef1ca1fdb58ef3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/03/02/e1e2296aafb84d05b1ef1ca1fdb58ef3_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
