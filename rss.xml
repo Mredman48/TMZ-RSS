@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 15:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 16:06:52 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Sinners&#039; Star Omar Miller Gushes Over Michael B. Jordan&#039;s Actor Award Win]]></title>
+            <link>https://www.tmz.com/2026/03/02/omar-miller-sinners-michael-jordan-best-actor/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/omar-miller-sinners-michael-jordan-best-actor/</guid>
+            <pubDate>Mon, 02 Mar 2026 16:00:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/03/02/7846a1d5fb4f46939e58fb1e7550717c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/02/7846a1d5fb4f46939e58fb1e7550717c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/02/7846a1d5fb4f46939e58fb1e7550717c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[A Look Back at a Busy 2026 Awards Season Weekend]]></title>
+            <link>https://www.tmz.com/2026/03/02/look-back-at-a-busy-2026-awards-season-weekend/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/look-back-at-a-busy-2026-awards-season-weekend/</guid>
+            <pubDate>Mon, 02 Mar 2026 15:56:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/03/01/f7115494b2c04d58a04fd059eee8865d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/01/f7115494b2c04d58a04fd059eee8865d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/01/f7115494b2c04d58a04fd059eee8865d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sixers&#039; V.J. Edgecombe Hugs Woman After Courtside Collision]]></title>
+            <link>https://www.tmz.com/2026/03/02/76ers-vj-edgecombe-hugs-woman-courtside-dive/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/76ers-vj-edgecombe-hugs-woman-courtside-dive/</guid>
+            <pubDate>Mon, 02 Mar 2026 15:25:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/03/02/dcc258b4012a422b9f36b97c527afe12_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/03/02/dcc258b4012a422b9f36b97c527afe12_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/03/02/dcc258b4012a422b9f36b97c527afe12_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cardi B Appears to Diss Stefon Diggs at Concert, &#039;Who You Playin&#039; With Mothaf***a?&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/02/cardi-stefon-diggs-diss-concert-break-up/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/cardi-stefon-diggs-diss-concert-break-up/</guid>
+            <pubDate>Mon, 02 Mar 2026 15:21:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/03/02/25e7c8649352480296e79d83c7b6e384_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/03/02/25e7c8649352480296e79d83c7b6e384_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/03/02/25e7c8649352480296e79d83c7b6e384_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Michael B. Jordan Among Celebs Snapped at Actor Awards Netflix After-Party]]></title>
             <link>https://www.tmz.com/2026/03/02/actor-awards-netflix-after-party-photos/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/41/16by9/2026/03/02/414531db6cd54842b38d1f538d9b6358_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/03/02/414531db6cd54842b38d1f538d9b6358_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Floyd Mayweather Books Exhibition Fight Before Manny Pacquiao Rematch]]></title>
-            <link>https://www.tmz.com/2026/03/02/floyd-mayweather-exhibition-fight-greece/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/floyd-mayweather-exhibition-fight-greece/</guid>
-            <pubDate>Mon, 02 Mar 2026 14:59:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/03/02/198714380e99449f957e4fa6d7087a68_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/03/02/198714380e99449f957e4fa6d7087a68_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/03/02/198714380e99449f957e4fa6d7087a68_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Waymo Car Blocks Ambulance Responding to Austin Mass Shooting, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/02/waymo-taxi-stops-ambulance-texas-mass-shooting-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/waymo-taxi-stops-ambulance-texas-mass-shooting-video/</guid>
-            <pubDate>Mon, 02 Mar 2026 14:59:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/03/02/1e5baf63ebc946e38dc168081e88f157_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/02/1e5baf63ebc946e38dc168081e88f157_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/02/1e5baf63ebc946e38dc168081e88f157_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[USBL Defends Signing Banned NBA Player Jontay Porter]]></title>
-            <link>https://www.tmz.com/2026/03/02/usbl-defends-jontay-porter-signing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/usbl-defends-jontay-porter-signing/</guid>
-            <pubDate>Mon, 02 Mar 2026 14:59:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/03/02/05e09b0035274baa801323046f9ace27_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/03/02/05e09b0035274baa801323046f9ace27_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/03/02/05e09b0035274baa801323046f9ace27_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nipsey Hussle&#039;s Brother Takes Cover at Restaurant Opening Shooting, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/02/nipsey-hussles-brother-blacc-sam-at-restaurant-opening-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/nipsey-hussles-brother-blacc-sam-at-restaurant-opening-shooting/</guid>
-            <pubDate>Mon, 02 Mar 2026 14:40:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/03/02/953d19ec540841429b2c136beb16abf2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/02/953d19ec540841429b2c136beb16abf2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/02/953d19ec540841429b2c136beb16abf2_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
