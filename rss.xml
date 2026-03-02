@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 13:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 14:29:19 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Texas Mass Shooter May Have Terrorism Ties, Photographed With Long Gun]]></title>
+            <link>https://www.tmz.com/2026/03/02/texas-mass-shooter-ndiaga-diagne-possible-terror-connections/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/texas-mass-shooter-ndiaga-diagne-possible-terror-connections/</guid>
+            <pubDate>Mon, 02 Mar 2026 14:16:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/03/02/b98dcd7a22434b81b22b930327263770_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/03/02/b98dcd7a22434b81b22b930327263770_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/03/02/b98dcd7a22434b81b22b930327263770_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna Shows Love to Don Lemon on His Birthday Amid Nicki Minaj Feud]]></title>
+            <link>https://www.tmz.com/2026/03/02/rihanna-supports-don-lemon-on-birthday/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/rihanna-supports-don-lemon-on-birthday/</guid>
+            <pubDate>Mon, 02 Mar 2026 14:15:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/03/02/1e85aca0cd794f7ca2943a113d8382fb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/02/1e85aca0cd794f7ca2943a113d8382fb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/02/1e85aca0cd794f7ca2943a113d8382fb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Justin Bieber Celebrates 32nd Birthday With Wife Hailey by His Side]]></title>
             <link>https://www.tmz.com/2026/03/02/justin-bieber-turns-32-hailey-birthday-dinner-photos/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/76/16by9/2026/02/24/76b138a2dbf8453aafa7f9a4325e9176_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/02/24/76b138a2dbf8453aafa7f9a4325e9176_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Baby Gear Guide: Strollers, Car Seats]]></title>
-            <link>https://www.tmz.com/2026/03/02/baby-must-have-carseats-strollers/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/baby-must-have-carseats-strollers/</guid>
-            <pubDate>Mon, 02 Mar 2026 08:05:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/02/18/8bb98148808b4a0786ea249c5e0b4eb6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/02/18/8bb98148808b4a0786ea249c5e0b4eb6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/02/18/8bb98148808b4a0786ea249c5e0b4eb6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Silas On &#039;Weeds&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/03/02/silas-on-weeds-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/silas-on-weeds-memba-him/</guid>
-            <pubDate>Mon, 02 Mar 2026 08:01:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/02/23/1ecfe17bf5d64145880514f47098a144_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/02/23/1ecfe17bf5d64145880514f47098a144_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/02/23/1ecfe17bf5d64145880514f47098a144_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
