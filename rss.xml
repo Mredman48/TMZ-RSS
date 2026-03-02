@@ -4,11 +4,22 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 11:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 13:44:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Kimora Lee Simmons Wants To Drop Russell&#039;s Last Name (HOLD)]]></title>
+            <title><![CDATA[Justin Bieber Celebrates 32nd Birthday With Wife Hailey by His Side]]></title>
+            <link>https://www.tmz.com/2026/03/02/justin-bieber-turns-32-hailey-birthday-dinner-photos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/justin-bieber-turns-32-hailey-birthday-dinner-photos/</guid>
+            <pubDate>Mon, 02 Mar 2026 13:22:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/03/02/9427f675a2e34f7b847349ef1c7dc868_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/03/02/9427f675a2e34f7b847349ef1c7dc868_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/03/02/9427f675a2e34f7b847349ef1c7dc868_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kimora Lee Simmons Wants To Drop Russell&#039;s Last Name]]></title>
             <link>https://www.tmz.com/2026/03/02/kimora-lee-simmons-wants-russell-last-name-dropped/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/02/kimora-lee-simmons-wants-russell-last-name-dropped/</guid>
             <pubDate>Mon, 02 Mar 2026 09:00:40 GMT</pubDate>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/02/23/1ecfe17bf5d64145880514f47098a144_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/02/23/1ecfe17bf5d64145880514f47098a144_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lindsay Lohan, Family &#039;Safe&#039; Amid Escalating Conflict in Middle East]]></title>
-            <link>https://www.tmz.com/2026/03/01/lindsay-lohan-family-safe-after-dubai-bombings/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/lindsay-lohan-family-safe-after-dubai-bombings/</guid>
-            <pubDate>Mon, 02 Mar 2026 04:22:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/03/02/7bacb4286c814b878672b738f6f99b07_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/03/02/7bacb4286c814b878672b738f6f99b07_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/03/02/7bacb4286c814b878672b738f6f99b07_xl.png">
             </media:thumbnail>
         </item>
     </channel>
