@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 22:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 23:57:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Justin Timberlake Sues to Stop Release of DWI Arrest Footage]]></title>
+            <link>https://www.tmz.com/2026/03/02/justin-timberlake-sues-to-stop-dwi-arrest-footage-release/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/justin-timberlake-sues-to-stop-dwi-arrest-footage-release/</guid>
+            <pubDate>Mon, 02 Mar 2026 23:28:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/03/02/a1111b2689e2448fb3647c4d00498acd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/03/02/a1111b2689e2448fb3647c4d00498acd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/03/02/a1111b2689e2448fb3647c4d00498acd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Floyd Mayweather Training Every Day For Mike Tyson Fight In Spring]]></title>
+            <link>https://www.tmz.com/2026/03/02/floyd-mayweather-training-every-day-mike-tyson-fight-spring-congo/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/floyd-mayweather-training-every-day-mike-tyson-fight-spring-congo/</guid>
+            <pubDate>Mon, 02 Mar 2026 23:24:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/44/16by9/2026/03/02/440e5d9e399f4bf5be5d7700bae4a9a1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/44/16by9/2026/03/02/440e5d9e399f4bf5be5d7700bae4a9a1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/44/16by9/2026/03/02/440e5d9e399f4bf5be5d7700bae4a9a1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bill Clinton Says He Only Flew With Epstein, Was Friendly With Ghislaine Maxwell]]></title>
+            <link>https://www.tmz.com/2026/03/02/bill-clinton-says-he-flew-with-epstein-was-friends-with-ghislaine/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/bill-clinton-says-he-flew-with-epstein-was-friends-with-ghislaine/</guid>
+            <pubDate>Mon, 02 Mar 2026 23:18:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/03/02/625a41f8997a4ce3b514b288939da8ea_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/03/02/625a41f8997a4ce3b514b288939da8ea_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/03/02/625a41f8997a4ce3b514b288939da8ea_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Only Murders in the Building&#039; Production Not Impacted After Martin Short&#039;s Daughter’s Death]]></title>
+            <link>https://www.tmz.com/2026/03/02/only-murders-in-the-building-to-continue-production-after-katherine-short-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/only-murders-in-the-building-to-continue-production-after-katherine-short-death/</guid>
+            <pubDate>Mon, 02 Mar 2026 23:00:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/03/02/332649e545e54d04a3379d1fcc7e18c2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/33/16by9/2026/03/02/332649e545e54d04a3379d1fcc7e18c2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/03/02/332649e545e54d04a3379d1fcc7e18c2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Hillary Clinton Storms Out of Epstein Deposition After Photo Leaks, See Video]]></title>
             <link>https://www.tmz.com/2026/03/02/hillary-clinton-storms-out-of-epstein-deposition-on-video/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ba/16by9/2026/03/02/ba98dcea1f244b5aafd5001cf5e8e8d2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ba/16by9/2026/03/02/ba98dcea1f244b5aafd5001cf5e8e8d2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Carole Radziwill Rejoining &#039;RHONY&#039; as a &#039;Friend&#039; for Season 16]]></title>
-            <link>https://www.tmz.com/2026/03/02/carole-radziwill-returns-to-rhony-for-season-16/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/carole-radziwill-returns-to-rhony-for-season-16/</guid>
-            <pubDate>Mon, 02 Mar 2026 22:18:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/03/02/0ec44eda33324740855a2e5667a43ea1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/03/02/0ec44eda33324740855a2e5667a43ea1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/03/02/0ec44eda33324740855a2e5667a43ea1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bill Clinton Explains Viral Hot Tub Photo During Epstein Deposition]]></title>
-            <link>https://www.tmz.com/2026/03/02/bill-clinton-explains-hot-tub-photo-at-epstein-deposition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/bill-clinton-explains-hot-tub-photo-at-epstein-deposition/</guid>
-            <pubDate>Mon, 02 Mar 2026 22:10:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/03/02/837549663fa34ef98eca0257c2b3b900_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/03/02/837549663fa34ef98eca0257c2b3b900_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/03/02/837549663fa34ef98eca0257c2b3b900_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sean Astin Gushes Over Kristen Bell&#039;s Hosting Gig at the Actor Awards]]></title>
-            <link>https://www.tmz.com/2026/03/02/sean-astin-compliments-kristen-bell-hosting-actor-awards/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/sean-astin-compliments-kristen-bell-hosting-actor-awards/</guid>
-            <pubDate>Mon, 02 Mar 2026 22:00:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/03/02/58398f319ac142e89aa6b5ec9c29cbb2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/03/02/58398f319ac142e89aa6b5ec9c29cbb2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/03/02/58398f319ac142e89aa6b5ec9c29cbb2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Military Wife Calls Iran Strikes a Distraction, Fears for Her Husband&#039;s Life]]></title>
-            <link>https://www.tmz.com/2026/03/02/military-wife-says-iran-strikes-are-distraction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/military-wife-says-iran-strikes-are-distraction/</guid>
-            <pubDate>Mon, 02 Mar 2026 21:41:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/03/02/d1b4f090388e467b9cc84a632215fe0c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/03/02/d1b4f090388e467b9cc84a632215fe0c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/03/02/d1b4f090388e467b9cc84a632215fe0c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
