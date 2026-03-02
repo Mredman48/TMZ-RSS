@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 03:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 05:06:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Lindsay Lohan, Family &#039;Safe&#039; Amid Escalating Conflict in Middle East]]></title>
+            <link>https://www.tmz.com/2026/03/01/lindsay-lohan-family-safe-after-dubai-bombings/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/lindsay-lohan-family-safe-after-dubai-bombings/</guid>
+            <pubDate>Mon, 02 Mar 2026 04:22:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/03/02/58e4a68bf7b24b41bbb41708a1b43c04_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/03/02/58e4a68bf7b24b41bbb41708a1b43c04_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/03/02/58e4a68bf7b24b41bbb41708a1b43c04_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Actor and Musician Is!]]></title>
+            <link>https://www.tmz.com/2026/03/01/guess-who-the-actor-musician-is/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/guess-who-the-actor-musician-is/</guid>
+            <pubDate>Mon, 02 Mar 2026 04:00:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/02/25/31e2d5a34e3a46b6b4f8a9fb14b367ee_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/02/25/31e2d5a34e3a46b6b4f8a9fb14b367ee_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/02/25/31e2d5a34e3a46b6b4f8a9fb14b367ee_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shots Fired at Grand Opening of Nipsey Hussle&#039;s New Restaurant]]></title>
+            <link>https://www.tmz.com/2026/03/01/shots-fired-near-nipsey-hussle-new-restaurant/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/shots-fired-near-nipsey-hussle-new-restaurant/</guid>
+            <pubDate>Mon, 02 Mar 2026 03:22:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/50/16by9/2026/03/02/50294cef79414603b00ee04f08a2f4a6_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/50/16by9/2026/03/02/50294cef79414603b00ee04f08a2f4a6_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/03/02/50294cef79414603b00ee04f08a2f4a6_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kristen Bell, Connor Storrie and More Stars Inside the 32nd Actors Award]]></title>
             <link>https://www.tmz.com/2026/03/01/behind-the-scenes/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/71/16by9/2026/03/02/713d4e80d6204fb79341f0f2bba78f19_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/03/02/713d4e80d6204fb79341f0f2bba78f19_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Catherine O&#039;Hara Wins Posthumous Actors Award, Receives Standing Ovation]]></title>
-            <link>https://www.tmz.com/2026/03/01/catherine-ohara-wins-posthumous-actors-award-receives-standing-ovation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/catherine-ohara-wins-posthumous-actors-award-receives-standing-ovation/</guid>
-            <pubDate>Mon, 02 Mar 2026 02:08:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/03/02/32238dd80cc448be83353419939fbee0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/03/02/32238dd80cc448be83353419939fbee0_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/03/02/32238dd80cc448be83353419939fbee0_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Martin Short Skips Actors Awards Days After Daughter Katherine&#039;s Death]]></title>
-            <link>https://www.tmz.com/2026/03/01/martin-short-skips-actors-awards-days-after-daughter-katherines-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/martin-short-skips-actors-awards-days-after-daughter-katherines-death/</guid>
-            <pubDate>Mon, 02 Mar 2026 01:42:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/03/02/d4d86790f4084a54aaf798befc1759ba_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/03/02/d4d86790f4084a54aaf798befc1759ba_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/03/02/d4d86790f4084a54aaf798befc1759ba_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who the Popular Pop Star Is!!!]]></title>
-            <link>https://www.tmz.com/2026/03/01/guess-who-the-pop-star-is/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/01/guess-who-the-pop-star-is/</guid>
-            <pubDate>Mon, 02 Mar 2026 01:00:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/02/25/57e25027e5c24334afa0566f750f78ac_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/02/25/57e25027e5c24334afa0566f750f78ac_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/02/25/57e25027e5c24334afa0566f750f78ac_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
