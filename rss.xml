@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 07:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 08:04:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess Who This Silly Boy Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/03/03/guess-who-this-silly-boy-turned-into/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/guess-who-this-silly-boy-turned-into/</guid>
+            <pubDate>Tue, 03 Mar 2026 08:01:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f4/16by9/2026/02/17/f4950cc17a7243569daa43f8487538ec_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/02/17/f4950cc17a7243569daa43f8487538ec_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/02/17/f4950cc17a7243569daa43f8487538ec_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Evil Dead&#039; Star Bruce Campbell Reveals He Has Cancer]]></title>
             <link>https://www.tmz.com/2026/03/02/bruce-campbell-reveals-cancer-diagnosis/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/19/16by9/2026/03/03/191fc09d7764421c8260c494a16db6e1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/03/03/191fc09d7764421c8260c494a16db6e1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hillary Clinton Says Ghislaine Maxwell Was a &#039;Plus-One&#039; at Chelsea&#039;s Wedding]]></title>
-            <link>https://www.tmz.com/2026/03/02/hillary-clinton-says-ghislaine-maxwell-was-guest-at-chelseas-wedding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/02/hillary-clinton-says-ghislaine-maxwell-was-guest-at-chelseas-wedding/</guid>
-            <pubDate>Tue, 03 Mar 2026 00:20:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/03/02/7485d7d509ff4d338314d42c159ac679_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/03/02/7485d7d509ff4d338314d42c159ac679_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/03/02/7485d7d509ff4d338314d42c159ac679_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
