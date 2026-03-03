@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 21:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 22:57:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Bold and the Beautiful&#039; Darin Brooks & Kelly Kruger Split After 10 Years of Marriage]]></title>
+            <link>https://www.tmz.com/2026/03/03/bold-and-the-beautiful-stars-darin-brooks-kelly-kruger-marriage-split/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/bold-and-the-beautiful-stars-darin-brooks-kelly-kruger-marriage-split/</guid>
+            <pubDate>Tue, 03 Mar 2026 22:47:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/03/03/522fb02aad4b4306b0398c9a1caed2f4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/03/03/522fb02aad4b4306b0398c9a1caed2f4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/03/03/522fb02aad4b4306b0398c9a1caed2f4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Teen Who Created $50M App Might Quit College, Follow His Interests Elsewhere]]></title>
+            <link>https://www.tmz.com/2026/03/03/zach-yadegari-sells-app-to-myfitnesspal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/zach-yadegari-sells-app-to-myfitnesspal/</guid>
+            <pubDate>Tue, 03 Mar 2026 22:42:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/03/484e4eb139e947abb21e5940c22b794d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/03/484e4eb139e947abb21e5940c22b794d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/03/484e4eb139e947abb21e5940c22b794d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Zara Larsson Jokes on Fan&#039;s Post About Abortion After Concert]]></title>
+            <link>https://www.tmz.com/2026/03/03/zara-larsson-jokes-about-abortion-post/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/zara-larsson-jokes-about-abortion-post/</guid>
+            <pubDate>Tue, 03 Mar 2026 22:25:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/03/03/5187e86f44d64d45be98f54391ab9d0c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/03/03/5187e86f44d64d45be98f54391ab9d0c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/03/03/5187e86f44d64d45be98f54391ab9d0c_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kyler Murray Pens Goodbye Note To Arizona Cardinals Fans Ahead Of Release]]></title>
             <link>https://www.tmz.com/2026/03/03/arizona-cardinals-set-to-release-kyler-murray/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/03/02/1ff6154e45474ec39e4ecde47a4494c6_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/03/02/1ff6154e45474ec39e4ecde47a4494c6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Harvey Weinstein Praises Christina Applegate After She Wrote He&#039;s &#039;Afraid&#039; of Her]]></title>
-            <link>https://www.tmz.com/2026/03/03/harvey-weinstein-praises-christina-applegate/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/harvey-weinstein-praises-christina-applegate/</guid>
-            <pubDate>Tue, 03 Mar 2026 21:43:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/03/03/1dccec5ddfce4affaab35ad895775cb5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/03/03/1dccec5ddfce4affaab35ad895775cb5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/03/03/1dccec5ddfce4affaab35ad895775cb5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Drone Strikes Near U.S. Consulate in Dubai, Sparking Blaze, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/03/iran-drone-strikes-near-us-consulate-in-dubai/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/iran-drone-strikes-near-us-consulate-in-dubai/</guid>
-            <pubDate>Tue, 03 Mar 2026 21:24:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/03/03/222f90a2e0214e258cbd88b8830f35a6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/03/03/222f90a2e0214e258cbd88b8830f35a6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/03/03/222f90a2e0214e258cbd88b8830f35a6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Supacell&#039; in Production as Star Actor Ghetts Sentenced to 12 Years in Prison]]></title>
-            <link>https://www.tmz.com/2026/03/03/supacell-in-production-as-star-ghetts-goes-to-prison/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/supacell-in-production-as-star-ghetts-goes-to-prison/</guid>
-            <pubDate>Tue, 03 Mar 2026 21:21:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/03/03/3ea1afff8b444ce48d01f2612b0db621_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/03/03/3ea1afff8b444ce48d01f2612b0db621_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/03/03/3ea1afff8b444ce48d01f2612b0db621_xl.png">
             </media:thumbnail>
         </item>
     </channel>
