@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 13:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 14:28:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;American Idol&#039; Alum Caleb Flynn Sobs to Officer Over Wife&#039;s Murder, on Video]]></title>
+            <link>https://www.tmz.com/2026/03/03/american-idol-alum-caleb-flynn-new-bodycam-footage/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/american-idol-alum-caleb-flynn-new-bodycam-footage/</guid>
+            <pubDate>Tue, 03 Mar 2026 14:07:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/03/03/49d290c64b7d46caa9e2e9adea265cf6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/03/03/49d290c64b7d46caa9e2e9adea265cf6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/03/03/49d290c64b7d46caa9e2e9adea265cf6_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kim K & Lewis Hamilton Share Photos Of their Romantic Arizona Getaway]]></title>
             <link>https://www.tmz.com/2026/03/03/kim-k-and-lewis-hamilton-share-photos-arizona-getaway/</link>
@@ -23,10 +34,10 @@
             <link>https://www.tmz.com/2026/03/03/tyrese-gibson-raising-money-for-paul-walker-charity/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/03/tyrese-gibson-raising-money-for-paul-walker-charity/</guid>
             <pubDate>Tue, 03 Mar 2026 11:00:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/03/02/f9ceb8821f9344c9938797676c95a4f4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/03/02/f9ceb8821f9344c9938797676c95a4f4_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/03/02/aa25130398e045b199537b42771acab4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/03/02/aa25130398e045b199537b42771acab4_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/03/02/f9ceb8821f9344c9938797676c95a4f4_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/03/02/aa25130398e045b199537b42771acab4_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -34,21 +45,10 @@
             <link>https://www.tmz.com/2026/03/03/hillary-clinton-nancy-mace-epstein-lutnick-deposition/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/03/hillary-clinton-nancy-mace-epstein-lutnick-deposition/</guid>
             <pubDate>Tue, 03 Mar 2026 09:28:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/02/03/203f9adf3796403ba4b1bef0f073e7f3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/02/03/203f9adf3796403ba4b1bef0f073e7f3_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/03/4873fbe1df224564ba959039093dc86f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/03/4873fbe1df224564ba959039093dc86f_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/02/03/203f9adf3796403ba4b1bef0f073e7f3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;The Traitors&#039; Winner Rob Rausch Bought an Alabama Home Just Before His Win]]></title>
-            <link>https://www.tmz.com/2026/03/03/traitors-rob-rausch-bought-home-before-winning-220k-prize/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/traitors-rob-rausch-bought-home-before-winning-220k-prize/</guid>
-            <pubDate>Tue, 03 Mar 2026 09:00:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/03/02/13efec5657bd4b439b45f9206a225531_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/03/02/13efec5657bd4b439b45f9206a225531_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/03/02/13efec5657bd4b439b45f9206a225531_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/03/4873fbe1df224564ba959039093dc86f_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
