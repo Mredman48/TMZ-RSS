@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 19:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 20:01:06 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Katherine Short Cause of Death Released]]></title>
+            <link>https://www.tmz.com/2026/03/03/katherine-short-cause-of-death-released/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/katherine-short-cause-of-death-released/</guid>
+            <pubDate>Tue, 03 Mar 2026 19:46:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/03/03/a9bf0b74cf7f41638bbf3b363ef745e0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/03/03/a9bf0b74cf7f41638bbf3b363ef745e0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/03/03/a9bf0b74cf7f41638bbf3b363ef745e0_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Selena Gomez Kisses Benny Blanco&#039;s Dirty Feet After Backlash, on Video]]></title>
+            <link>https://www.tmz.com/2026/03/03/selena-gomez-kiss-benny-blanco-toes/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/selena-gomez-kiss-benny-blanco-toes/</guid>
+            <pubDate>Tue, 03 Mar 2026 19:42:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/03/03/ccc290b0e3a54e748f4cf7d71f3e6023_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/03/03/ccc290b0e3a54e748f4cf7d71f3e6023_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/03/03/ccc290b0e3a54e748f4cf7d71f3e6023_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dr. Phil Pulls Bhad Bhabie Clips From Infamous Episode After Mom Calls Him Out]]></title>
+            <link>https://www.tmz.com/2026/03/03/dr-phil-removes-bhad-bhabie-clips/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/dr-phil-removes-bhad-bhabie-clips/</guid>
+            <pubDate>Tue, 03 Mar 2026 19:40:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/03/03/b1650d933c5049d2ad26dd12fe292003_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/03/03/b1650d933c5049d2ad26dd12fe292003_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/03/03/b1650d933c5049d2ad26dd12fe292003_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Coast Guard Investigating &#039;Deadliest Catch&#039; Deckhand Todd Meadows&#039; Death]]></title>
+            <link>https://www.tmz.com/2026/03/03/coast-guard-investigating-todd-meadows-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/coast-guard-investigating-todd-meadows-death/</guid>
+            <pubDate>Tue, 03 Mar 2026 19:30:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/03/03/ed98ca99feec4a0f807d6dedb4e60363_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/03/03/ed98ca99feec4a0f807d6dedb4e60363_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/03/03/ed98ca99feec4a0f807d6dedb4e60363_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Braves&#039; Jurickson Profar Facing 162-Game Suspension Over PED Violation]]></title>
             <link>https://www.tmz.com/2026/03/03/atlanta-braves-jurickson-profar-facing-second-ped-suspension/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/75/16by9/2026/03/03/753487e969b84a1dab1a5f95f3479802_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/03/03/753487e969b84a1dab1a5f95f3479802_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Quinton Aaron Gives Health Update After Stroke, Speaking Again After Tubes Removed]]></title>
-            <link>https://www.tmz.com/2026/03/03/quinton-aaron-had-breathing-tubes-removed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/quinton-aaron-had-breathing-tubes-removed/</guid>
-            <pubDate>Tue, 03 Mar 2026 19:15:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/03/02/42b99f6bf7fb4fdbb7c9af0fc98968f3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/03/02/42b99f6bf7fb4fdbb7c9af0fc98968f3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/03/02/42b99f6bf7fb4fdbb7c9af0fc98968f3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Niall Horan Surprises Couples With Free Wine to Promote New Music]]></title>
-            <link>https://www.tmz.com/2026/03/03/niall-horan-surprises-couples-with-free-wine/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/niall-horan-surprises-couples-with-free-wine/</guid>
-            <pubDate>Tue, 03 Mar 2026 19:09:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/03/03/e5b97aec02e84d3aa6d584e7333d09c8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/03/03/e5b97aec02e84d3aa6d584e7333d09c8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/03/03/e5b97aec02e84d3aa6d584e7333d09c8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hayden Panettiere Lands at LAX on Crutches, Leaning on Ex Brian Hickerson]]></title>
-            <link>https://www.tmz.com/2026/03/03/hayden-panettiere-with-crutches-brian-hickerson-at-lax/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/hayden-panettiere-with-crutches-brian-hickerson-at-lax/</guid>
-            <pubDate>Tue, 03 Mar 2026 18:51:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/03/03/6549b1f8b1a54d88a0683b563f8783cd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/03/03/6549b1f8b1a54d88a0683b563f8783cd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/03/03/6549b1f8b1a54d88a0683b563f8783cd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hot Air Balloonists Rescued After Getting Tangled on 900-Foot-Tall Tower, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/03/hot-air-balloon-rescued-from-texas-tower/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/hot-air-balloon-rescued-from-texas-tower/</guid>
-            <pubDate>Tue, 03 Mar 2026 18:46:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/03/c837cd4aa7ab4951b2afe2c60be3a4cd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/03/c837cd4aa7ab4951b2afe2c60be3a4cd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/03/c837cd4aa7ab4951b2afe2c60be3a4cd_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
