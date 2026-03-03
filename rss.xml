@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 11:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 13:43:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kim K & Lewis Hamilton Share Photos Of their Romantic Arizona Getaway]]></title>
+            <link>https://www.tmz.com/2026/03/03/kim-k-and-lewis-hamilton-share-photos-arizona-getaway/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/kim-k-and-lewis-hamilton-share-photos-arizona-getaway/</guid>
+            <pubDate>Tue, 03 Mar 2026 13:29:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f5bb9a37bf2141aa82d2df3a26fc7356_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f5bb9a37bf2141aa82d2df3a26fc7356_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f5bb9a37bf2141aa82d2df3a26fc7356_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tyrese Gibson Announces Paul Walker&#039;s Charity Has Raised Nearly $1 Million]]></title>
             <link>https://www.tmz.com/2026/03/03/tyrese-gibson-raising-money-for-paul-walker-charity/</link>
@@ -23,10 +34,10 @@
             <link>https://www.tmz.com/2026/03/03/hillary-clinton-nancy-mace-epstein-lutnick-deposition/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/03/hillary-clinton-nancy-mace-epstein-lutnick-deposition/</guid>
             <pubDate>Tue, 03 Mar 2026 09:28:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/66/16by9/2015/11/01/668f51f5a19856b4936db2ea9f3b416c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/66/16by9/2015/11/01/668f51f5a19856b4936db2ea9f3b416c_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/02/03/203f9adf3796403ba4b1bef0f073e7f3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/02/03/203f9adf3796403ba4b1bef0f073e7f3_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2015/11/01/668f51f5a19856b4936db2ea9f3b416c_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/02/03/203f9adf3796403ba4b1bef0f073e7f3_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/23/16by9/2026/03/03/2334d42c9952408a89ca9a5e305789b6_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/03/03/2334d42c9952408a89ca9a5e305789b6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Camila Cabello&#039;s Sexiest Shots To Celebrate Her 29th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/03/03/camila-cabello-birthday-sexiest-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/camila-cabello-birthday-sexiest-shots/</guid>
-            <pubDate>Tue, 03 Mar 2026 08:45:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/03/02/854563a172614e26bc08c82fcfa0a404_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/03/02/854563a172614e26bc08c82fcfa0a404_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/03/02/854563a172614e26bc08c82fcfa0a404_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
