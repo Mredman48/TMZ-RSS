@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 14:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 15:31:26 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[&#039;American Idol&#039; Alum Caleb Flynn Sobs to Officer Over Wife&#039;s Murder, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/03/american-idol-alum-caleb-flynn-new-bodycam-footage/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/american-idol-alum-caleb-flynn-new-bodycam-footage/</guid>
-            <pubDate>Tue, 03 Mar 2026 14:07:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/03/03/49d290c64b7d46caa9e2e9adea265cf6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/03/03/49d290c64b7d46caa9e2e9adea265cf6_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Summer House&#039; Amanda Batula Talks Kyle Cooke&#039;s &#039;Protected&#039; Cheating]]></title>
+            <link>https://www.tmz.com/2026/03/03/amanda-batula-talks-kyle-cooke-breakup/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/amanda-batula-talks-kyle-cooke-breakup/</guid>
+            <pubDate>Tue, 03 Mar 2026 15:29:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/03/03/0a39e19b86874fafb5f1578cb13e78fc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/03/03/0a39e19b86874fafb5f1578cb13e78fc_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/03/03/49d290c64b7d46caa9e2e9adea265cf6_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/03/03/0a39e19b86874fafb5f1578cb13e78fc_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kim K & Lewis Hamilton Share Photos Of their Romantic Arizona Getaway]]></title>
-            <link>https://www.tmz.com/2026/03/03/kim-k-and-lewis-hamilton-share-photos-arizona-getaway/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/kim-k-and-lewis-hamilton-share-photos-arizona-getaway/</guid>
-            <pubDate>Tue, 03 Mar 2026 13:29:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f5bb9a37bf2141aa82d2df3a26fc7356_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f5bb9a37bf2141aa82d2df3a26fc7356_xl.jpg" medium="image">
+            <title><![CDATA[CM Punk Invokes Roman Reigns&#039; Dead Father During WWE &#039;RAW&#039; Promo]]></title>
+            <link>https://www.tmz.com/2026/03/03/cm-punk-roman-reigns-invokes-dead-father-monday-night-raw-promo-battle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/cm-punk-roman-reigns-invokes-dead-father-monday-night-raw-promo-battle/</guid>
+            <pubDate>Tue, 03 Mar 2026 15:20:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/03/03/70557349600849a691711b20e3d9eb84_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/03/70557349600849a691711b20e3d9eb84_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f5bb9a37bf2141aa82d2df3a26fc7356_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/03/70557349600849a691711b20e3d9eb84_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Tyrese Gibson Announces Paul Walker&#039;s Charity Has Raised Nearly $1 Million]]></title>
-            <link>https://www.tmz.com/2026/03/03/tyrese-gibson-raising-money-for-paul-walker-charity/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/tyrese-gibson-raising-money-for-paul-walker-charity/</guid>
-            <pubDate>Tue, 03 Mar 2026 11:00:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/03/02/aa25130398e045b199537b42771acab4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/03/02/aa25130398e045b199537b42771acab4_xl.jpg" medium="image">
+            <title><![CDATA[Hillary Clinton Points Finger at Donald Trump in Epstein Deposition]]></title>
+            <link>https://www.tmz.com/2026/03/03/hillary-clinton-cites-donald-trump-in-epstein-deposition/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/hillary-clinton-cites-donald-trump-in-epstein-deposition/</guid>
+            <pubDate>Tue, 03 Mar 2026 15:13:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/03/03/3d9f9cc6f13c4869ba58c1167743b411_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/03/03/3d9f9cc6f13c4869ba58c1167743b411_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/03/02/aa25130398e045b199537b42771acab4_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/03/03/3d9f9cc6f13c4869ba58c1167743b411_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Hillary Clinton Argues With Nancy Mace During Epstein Deposition, Video Shows]]></title>
-            <link>https://www.tmz.com/2026/03/03/hillary-clinton-nancy-mace-epstein-lutnick-deposition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/hillary-clinton-nancy-mace-epstein-lutnick-deposition/</guid>
-            <pubDate>Tue, 03 Mar 2026 09:28:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/03/4873fbe1df224564ba959039093dc86f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/03/4873fbe1df224564ba959039093dc86f_xl.jpg" medium="image">
+            <title><![CDATA[Jack Hughes Promises To Fix Teeth, &#039;This Won&#039;t Be My Thing&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/03/jack-hughes-will-fix-teeth-olympics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/jack-hughes-will-fix-teeth-olympics/</guid>
+            <pubDate>Tue, 03 Mar 2026 15:09:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/03/03/259ab5c0b4ee418a955852d57daf4f91_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/03/03/259ab5c0b4ee418a955852d57daf4f91_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/03/4873fbe1df224564ba959039093dc86f_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/03/03/259ab5c0b4ee418a955852d57daf4f91_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kelly Osbourne Friends Concerned Over Weight Loss, But Understand She&#039;s Grieving]]></title>
-            <link>https://www.tmz.com/2026/03/03/kelly-osbourne-weight-loss-friends-concerned-but-understand/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/kelly-osbourne-weight-loss-friends-concerned-but-understand/</guid>
-            <pubDate>Tue, 03 Mar 2026 09:00:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/03/03/2334d42c9952408a89ca9a5e305789b6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/03/03/2334d42c9952408a89ca9a5e305789b6_xl.jpg" medium="image">
+            <title><![CDATA[Max Holloway Says He&#039;d Be Open To Conor McGregor Fight At White House]]></title>
+            <link>https://www.tmz.com/2026/03/03/max-holloway-conor-mcgregor-fight-ufc-white-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/max-holloway-conor-mcgregor-fight-ufc-white-house/</guid>
+            <pubDate>Tue, 03 Mar 2026 14:59:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/03/02/12e979d097344d52b571e0172cc5fd59_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/03/02/12e979d097344d52b571e0172cc5fd59_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/03/03/2334d42c9952408a89ca9a5e305789b6_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/03/02/12e979d097344d52b571e0172cc5fd59_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
