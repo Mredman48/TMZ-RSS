@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 20:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 21:01:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[FIA Postpones Qatar Race Amid War In Middle East]]></title>
+            <link>https://www.tmz.com/2026/03/03/fia-postpones-qatar-race-america-israel-strikes-iran-middle-east-unrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/fia-postpones-qatar-race-america-israel-strikes-iran-middle-east-unrest/</guid>
+            <pubDate>Tue, 03 Mar 2026 20:54:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ad/16by9/2026/03/03/add3d171f3034e8e9fbacd9a881a348e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ad/16by9/2026/03/03/add3d171f3034e8e9fbacd9a881a348e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ad/16by9/2026/03/03/add3d171f3034e8e9fbacd9a881a348e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Adin Ross&#039; Sister Madeline Dead at 36]]></title>
+            <link>https://www.tmz.com/2026/03/03/adin-ross-sister-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/adin-ross-sister-dead/</guid>
+            <pubDate>Tue, 03 Mar 2026 20:30:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/66/16by9/2026/02/23/66737ec8eba54471ab5c8447d2f30e88_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/66/16by9/2026/02/23/66737ec8eba54471ab5c8447d2f30e88_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/02/23/66737ec8eba54471ab5c8447d2f30e88_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Botched&#039; Star Dr. Terry Dubrow Gives His Medical Take on Jim Carrey&#039;s Face]]></title>
+            <link>https://www.tmz.com/2026/03/03/terry-dubrow-talks-jim-carreys-face/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/terry-dubrow-talks-jim-carreys-face/</guid>
+            <pubDate>Tue, 03 Mar 2026 20:16:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/03/03/fa1c14418b7c4e72bd97a80c860db573_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/03/03/fa1c14418b7c4e72bd97a80c860db573_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/03/03/fa1c14418b7c4e72bd97a80c860db573_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Katherine Short Cause of Death Released]]></title>
             <link>https://www.tmz.com/2026/03/03/katherine-short-cause-of-death-released/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/03/03/ccc290b0e3a54e748f4cf7d71f3e6023_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/03/03/ccc290b0e3a54e748f4cf7d71f3e6023_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Phil Pulls Bhad Bhabie Clips From Infamous Episode After Mom Calls Him Out]]></title>
-            <link>https://www.tmz.com/2026/03/03/dr-phil-removes-bhad-bhabie-clips/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/dr-phil-removes-bhad-bhabie-clips/</guid>
-            <pubDate>Tue, 03 Mar 2026 19:40:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/03/03/b1650d933c5049d2ad26dd12fe292003_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/03/03/b1650d933c5049d2ad26dd12fe292003_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/03/03/b1650d933c5049d2ad26dd12fe292003_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Coast Guard Investigating &#039;Deadliest Catch&#039; Deckhand Todd Meadows&#039; Death]]></title>
-            <link>https://www.tmz.com/2026/03/03/coast-guard-investigating-todd-meadows-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/coast-guard-investigating-todd-meadows-death/</guid>
-            <pubDate>Tue, 03 Mar 2026 19:30:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/03/03/ed98ca99feec4a0f807d6dedb4e60363_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/03/03/ed98ca99feec4a0f807d6dedb4e60363_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/03/03/ed98ca99feec4a0f807d6dedb4e60363_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Braves&#039; Jurickson Profar Facing 162-Game Suspension Over PED Violation]]></title>
-            <link>https://www.tmz.com/2026/03/03/atlanta-braves-jurickson-profar-facing-second-ped-suspension/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/03/atlanta-braves-jurickson-profar-facing-second-ped-suspension/</guid>
-            <pubDate>Tue, 03 Mar 2026 19:17:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/03/03/753487e969b84a1dab1a5f95f3479802_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/03/03/753487e969b84a1dab1a5f95f3479802_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/03/03/753487e969b84a1dab1a5f95f3479802_xl.png">
             </media:thumbnail>
         </item>
     </channel>
