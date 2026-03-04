@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 09:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 10:07:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Rapper Quavo Hit With $3 Million Lien for Unpaid Taxes by IRS]]></title>
+            <link>https://www.tmz.com/2026/03/04/irs-wants-unpaid-back-taxes-from-quavo/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/irs-wants-unpaid-back-taxes-from-quavo/</guid>
+            <pubDate>Wed, 04 Mar 2026 10:00:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/03/03/7cd5b894b65e48828412284cfca56b0f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/03/03/7cd5b894b65e48828412284cfca56b0f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/03/03/7cd5b894b65e48828412284cfca56b0f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tucker Carlson&#039;s Multimillion-Dollar ALP Nicotine Shipment Hijacked]]></title>
             <link>https://www.tmz.com/2026/03/04/tucker-carlson-multimillion-dollar-nicotine-shipment-hijacked/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/03/03/e09535c5e2ac451183c9f452b3ba8201_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/03/03/e09535c5e2ac451183c9f452b3ba8201_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Garrett in &#039;Bad Teacher&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/03/04/garrett-bad-teacher-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/garrett-bad-teacher-memba-him/</guid>
-            <pubDate>Wed, 04 Mar 2026 08:01:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/02/24/67429f5a8fd94bda801c69c3d4b7b253_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/02/24/67429f5a8fd94bda801c69c3d4b7b253_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/02/24/67429f5a8fd94bda801c69c3d4b7b253_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
