@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 21:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 22:00:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Legendary Former Notre Dame Head Football Coach Lou Holtz Dead At 89]]></title>
+            <link>https://www.tmz.com/2026/03/04/lou-holtz-notre-dame-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/lou-holtz-notre-dame-dead/</guid>
+            <pubDate>Wed, 04 Mar 2026 21:44:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4b/16by9/2026/03/04/4b1fd590a5314dfd9a23c373ebeda6f4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/03/04/4b1fd590a5314dfd9a23c373ebeda6f4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/03/04/4b1fd590a5314dfd9a23c373ebeda6f4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Yvette Nicole Brown Says &#039;ICE Out&#039; Is Way More Important Than Nicki Minaj&#039;s Politics]]></title>
+            <link>https://www.tmz.com/2026/03/04/yvette-nicole-brown-prioritizes-ice-out-over-nicki-minaj/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/yvette-nicole-brown-prioritizes-ice-out-over-nicki-minaj/</guid>
+            <pubDate>Wed, 04 Mar 2026 21:30:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/03/04/d85f576cf9d84292a56bc3f4962a0881_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/03/04/d85f576cf9d84292a56bc3f4962a0881_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/03/04/d85f576cf9d84292a56bc3f4962a0881_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[David Del Rio Initiates Arbitration Against CBS Over &#039;Matlock&#039; Firing]]></title>
+            <link>https://www.tmz.com/2026/03/04/david-del-rio-starts-arbitration-over-matlock-firing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/david-del-rio-starts-arbitration-over-matlock-firing/</guid>
+            <pubDate>Wed, 04 Mar 2026 21:28:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/03/04/7fc530e6112a49fd932686f2201d19ed_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/03/04/7fc530e6112a49fd932686f2201d19ed_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/03/04/7fc530e6112a49fd932686f2201d19ed_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Todd Meadows&#039; Mom Says &#039;Deadliest Catch&#039; Should NOT Air Video of Fatal Incident]]></title>
             <link>https://www.tmz.com/2026/03/04/todd-meadows-mom-says-deadliest-catch-should-not-air-death/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/03/04/6dd96ed7c37e4a7d9f62ff0fbe6f59e4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/03/04/6dd96ed7c37e4a7d9f62ff0fbe6f59e4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Glove Found During Nancy Guthrie Search Linked to Restaurant Worker]]></title>
-            <link>https://www.tmz.com/2026/03/04/nancy-guthrie-glove-connected-to-restaurant-employee/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/nancy-guthrie-glove-connected-to-restaurant-employee/</guid>
-            <pubDate>Wed, 04 Mar 2026 20:23:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/03/04/7c31aaef8dc44b809e77e3ca3f2542d1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/03/04/7c31aaef8dc44b809e77e3ca3f2542d1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/03/04/7c31aaef8dc44b809e77e3ca3f2542d1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Rodgers Says He’s Staying in Shape So His Wife Will Have Sex With Him]]></title>
-            <link>https://www.tmz.com/2026/03/04/aaron-rodgers-wife-fitness-sex/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/aaron-rodgers-wife-fitness-sex/</guid>
-            <pubDate>Wed, 04 Mar 2026 20:16:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/03/04/68915ed427ac4afea11cb524d8fb2d47_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/03/04/68915ed427ac4afea11cb524d8fb2d47_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/03/04/68915ed427ac4afea11cb524d8fb2d47_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jon Gosselin and Hailey Are Cool, But He&#039;s a Hard Pass on Watching &#039;RHONY&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/04/jon-gosselin-wont-watch-real-housewives/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/jon-gosselin-wont-watch-real-housewives/</guid>
-            <pubDate>Wed, 04 Mar 2026 20:13:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/03/04/21e0625b674d40c0a810faeb96177cb3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/03/04/21e0625b674d40c0a810faeb96177cb3_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/03/04/21e0625b674d40c0a810faeb96177cb3_xl.png">
             </media:thumbnail>
         </item>
     </channel>
