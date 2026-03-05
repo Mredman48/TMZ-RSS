@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 08:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 09:25:51 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess Who This Ice Cream Kid Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/03/05/guess-who-this-ice-cream-kid-turned-into/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/guess-who-this-ice-cream-kid-turned-into/</guid>
+            <pubDate>Thu, 05 Mar 2026 08:45:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5f/16by9/2026/02/19/5fa60394b9804b48a9d97810acbe831e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5f/16by9/2026/02/19/5fa60394b9804b48a9d97810acbe831e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5f/16by9/2026/02/19/5fa60394b9804b48a9d97810acbe831e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Warren Moon Not Surprised Patriots Dumped Stefon Diggs, ‘He Brings Baggage’]]></title>
+            <link>https://www.tmz.com/2026/03/05/warren-moon-not-shocked-patriots-cut-stefon-diggs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/warren-moon-not-shocked-patriots-cut-stefon-diggs/</guid>
+            <pubDate>Thu, 05 Mar 2026 08:30:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/03/04/1b961c1623c84b6693062faa255dd404_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/03/04/1b961c1623c84b6693062faa255dd404_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/03/04/1b961c1623c84b6693062faa255dd404_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Guess The Tatted Up Musician In This Brown Bikini!]]></title>
             <link>https://www.tmz.com/2026/03/05/guess-tatted-up-musician-brown-bikini/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa7436cdcbd48bbae5f5d4fcb7c05df_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa7436cdcbd48bbae5f5d4fcb7c05df_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bhad Bhabie Posts New Thirst Traps Pumping Gas]]></title>
-            <link>https://www.tmz.com/2026/03/04/bhad-bhabie-thirst-trap-gas-station/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/bhad-bhabie-thirst-trap-gas-station/</guid>
-            <pubDate>Thu, 05 Mar 2026 01:41:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/03/04/d0f1c29b0e904ce6a71ac0cdaa1c6615_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/03/04/d0f1c29b0e904ce6a71ac0cdaa1c6615_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/03/04/d0f1c29b0e904ce6a71ac0cdaa1c6615_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Traitors&#039; Winner Rob Rausch Buys Maura Higgins&#039; Birkin Bag After Reunion Promise]]></title>
-            <link>https://www.tmz.com/2026/03/04/rob-rausch-seen-buying-promised-maura-higgins-bag/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/rob-rausch-seen-buying-promised-maura-higgins-bag/</guid>
-            <pubDate>Thu, 05 Mar 2026 01:17:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/03/05/ed16da70c1874d6494528766b09a0b63_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/03/05/ed16da70c1874d6494528766b09a0b63_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/03/05/ed16da70c1874d6494528766b09a0b63_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
