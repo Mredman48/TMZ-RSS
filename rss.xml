@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 21:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 22:00:43 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Patrick Beverley Details Arrest, &#039;Most Uncomfortable Experience I&#039;ve Ever Been In&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/05/patrick-beverley-details-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/patrick-beverley-details-arrest/</guid>
+            <pubDate>Thu, 05 Mar 2026 21:30:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/03/05/f007773aa2f54465bde35db7b01837e9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/03/05/f007773aa2f54465bde35db7b01837e9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/03/05/f007773aa2f54465bde35db7b01837e9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears Needs Another Conservatorship, Former &#039;Free Britney&#039; Advocate Says]]></title>
+            <link>https://www.tmz.com/2026/03/05/ex-free-britney-advocate-jessica-wants-new-conservatorship/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/ex-free-britney-advocate-jessica-wants-new-conservatorship/</guid>
+            <pubDate>Thu, 05 Mar 2026 21:07:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/03/05/1b3a58a26e114a2b9fe244cbf3890d22_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/03/05/1b3a58a26e114a2b9fe244cbf3890d22_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/03/05/1b3a58a26e114a2b9fe244cbf3890d22_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Renee Graziano Gives Update on Son AJ&#039;s Health After Sudden Hospitalization]]></title>
             <link>https://www.tmz.com/2026/03/05/renee-graziano-gives-update-about-sons-health/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ba/16by9/2026/03/05/baaab88d6a7f4426ae95d0d2869fa46b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ba/16by9/2026/03/05/baaab88d6a7f4426ae95d0d2869fa46b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cheek of the Week -- Guess Whose Stringy Bikini!]]></title>
-            <link>https://www.tmz.com/2026/03/05/cheek-of-the-week-guess-whose-stringy-bikini/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/cheek-of-the-week-guess-whose-stringy-bikini/</guid>
-            <pubDate>Thu, 05 Mar 2026 20:00:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/03/04/fe93ab93390f4f52b4aab2d4bd9004dc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/03/04/fe93ab93390f4f52b4aab2d4bd9004dc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/03/04/fe93ab93390f4f52b4aab2d4bd9004dc_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bianca Censori Arrives at Court for Kanye West&#039;s Case Fully Covered Up, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/05/bianca-censori-walks-into-dtla-court-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/bianca-censori-walks-into-dtla-court-house/</guid>
-            <pubDate>Thu, 05 Mar 2026 19:54:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/05/f6e79be9e5324eb49fdcfbc02b6c6e03_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/05/f6e79be9e5324eb49fdcfbc02b6c6e03_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/05/f6e79be9e5324eb49fdcfbc02b6c6e03_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
