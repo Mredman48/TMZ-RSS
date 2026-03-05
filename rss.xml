@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 10:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 11:20:04 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Below Deck&#039;s Emile Kotze Sues Network for $850M Over Alleged Sexual Harassment]]></title>
+            <link>https://www.tmz.com/2026/03/05/below-deck-star-emile-kotze-sues-nbc-universal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/below-deck-star-emile-kotze-sues-nbc-universal/</guid>
+            <pubDate>Thu, 05 Mar 2026 11:00:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/03/02/9027e4bf2d3046d78b4d70abe6d60ef7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/03/02/9027e4bf2d3046d78b4d70abe6d60ef7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/03/02/9027e4bf2d3046d78b4d70abe6d60ef7_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kylie Jenner&#039;s Sprinter Brand Looks to Be Pivoting From Booze Toward Health]]></title>
+            <link>https://www.tmz.com/2026/03/05/kylie-jenner-sprinter-healthy-change/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/kylie-jenner-sprinter-healthy-change/</guid>
+            <pubDate>Thu, 05 Mar 2026 10:30:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/03/04/36d4fe982f0f4728af8ec31accaa54b7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/03/04/36d4fe982f0f4728af8ec31accaa54b7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/03/04/36d4fe982f0f4728af8ec31accaa54b7_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Guess Who This Ice Cream Kid Turned Into!]]></title>
             <link>https://www.tmz.com/2026/03/05/guess-who-this-ice-cream-kid-turned-into/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/03/02/ca380e6ec8bc4bce8e8b85194daa3ad4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/03/02/ca380e6ec8bc4bce8e8b85194daa3ad4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bruce Johnston Retiring From The Beach Boys After 61 Years]]></title>
-            <link>https://www.tmz.com/2026/03/04/bruce-johnston-retiring-from-beach-boys/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/bruce-johnston-retiring-from-beach-boys/</guid>
-            <pubDate>Thu, 05 Mar 2026 02:28:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/03/05/03476a5827864ec6bd479d892b614816_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/03/05/03476a5827864ec6bd479d892b614816_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/03/05/03476a5827864ec6bd479d892b614816_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Emma Watson Looks Like She&#039;s Dating Mexican Businessman Gonzalo Hevia Baillères]]></title>
-            <link>https://www.tmz.com/2026/03/04/emma-watson-rumored-new-boyfriend-businessman-gonzalo-hevia-bailleres/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/04/emma-watson-rumored-new-boyfriend-businessman-gonzalo-hevia-bailleres/</guid>
-            <pubDate>Thu, 05 Mar 2026 02:04:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa7436cdcbd48bbae5f5d4fcb7c05df_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa7436cdcbd48bbae5f5d4fcb7c05df_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa7436cdcbd48bbae5f5d4fcb7c05df_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
