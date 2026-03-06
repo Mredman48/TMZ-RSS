@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 10:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 11:05:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kevin Federline Facing His Own Legal Issues Amid Britney Spears&#039; DUI Ordeal]]></title>
+            <link>https://www.tmz.com/2026/03/06/kevin-federline-facing-legal-problems/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/kevin-federline-facing-legal-problems/</guid>
+            <pubDate>Fri, 06 Mar 2026 11:00:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3acea83d6804464cbd67c8e7824b9e04_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3acea83d6804464cbd67c8e7824b9e04_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3acea83d6804464cbd67c8e7824b9e04_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tom Sandoval Teases Possibility of Engagement to Victoria Lee Robinson]]></title>
+            <link>https://www.tmz.com/2026/03/06/tom-sandoval-teases-victoria-lee-robinson-engagement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/tom-sandoval-teases-victoria-lee-robinson-engagement/</guid>
+            <pubDate>Fri, 06 Mar 2026 10:00:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/03/05/57f72cfad861414c986cff1e204719a4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/03/05/57f72cfad861414c986cff1e204719a4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/03/05/57f72cfad861414c986cff1e204719a4_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Britney Spears Fired Her Sobriety Coaches Weeks Before DUI Arrest]]></title>
             <link>https://www.tmz.com/2026/03/06/britney-spears-fired-sober-coaches/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/70/16by9/2026/02/18/70516410b35f4bb7994c7cd0a101eedb_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/02/18/70516410b35f4bb7994c7cd0a101eedb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lou Williams Backs Hawks’ Magic City Night, Lemon Pepper Wings And All]]></title>
-            <link>https://www.tmz.com/2026/03/06/lou-williams-backs-hawks-magic-city-night/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/lou-williams-backs-hawks-magic-city-night/</guid>
-            <pubDate>Fri, 06 Mar 2026 08:30:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/03/05/254fbb81a8ff4b78bca31ded26cb2e08_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/03/05/254fbb81a8ff4b78bca31ded26cb2e08_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/03/05/254fbb81a8ff4b78bca31ded26cb2e08_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[National Dentist Day: Brush & Floss With These Electric Options]]></title>
-            <link>https://www.tmz.com/2026/03/06/national-dentist-day-electric-flossers-brushes/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/national-dentist-day-electric-flossers-brushes/</guid>
-            <pubDate>Fri, 06 Mar 2026 08:05:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/02/27/ac551cfbcc314cb8974413254d029c6a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/02/27/ac551cfbcc314cb8974413254d029c6a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/02/27/ac551cfbcc314cb8974413254d029c6a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
