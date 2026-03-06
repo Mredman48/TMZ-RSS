@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 00:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 03:15:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Michael Bay Sues Women Who Allegedly Damaged His Home In Hit-and-Run]]></title>
+            <link>https://www.tmz.com/2026/03/05/michael-bay-sues-women-damaging-home-hit-and-run/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/michael-bay-sues-women-damaging-home-hit-and-run/</guid>
+            <pubDate>Fri, 06 Mar 2026 02:36:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/03/06/7376b2c5839a486bbe352ac9aaf9e411_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/03/06/7376b2c5839a486bbe352ac9aaf9e411_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/03/06/7376b2c5839a486bbe352ac9aaf9e411_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Gavin Newsom Trolls Kristi Noem Over Trump Firing]]></title>
+            <link>https://www.tmz.com/2026/03/05/gavin-newsom-trolls-kristi-noem-trump-firing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/gavin-newsom-trolls-kristi-noem-trump-firing/</guid>
+            <pubDate>Fri, 06 Mar 2026 00:38:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/82/16by9/2026/03/06/82af756fc78f468d89b0a797e5b64d2e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/82/16by9/2026/03/06/82af756fc78f468d89b0a797e5b64d2e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/82/16by9/2026/03/06/82af756fc78f468d89b0a797e5b64d2e_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Honey Boo Boo&#039;s Mother Mama June Says New Illness Is Not Cancer]]></title>
+            <link>https://www.tmz.com/2026/03/05/mama-june-illness-is-not-cancer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/mama-june-illness-is-not-cancer/</guid>
+            <pubDate>Fri, 06 Mar 2026 00:30:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/03/05/e81cdd72103b41b382afb3bef5a38528_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/03/05/e81cdd72103b41b382afb3bef5a38528_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/03/05/e81cdd72103b41b382afb3bef5a38528_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Lionel Messi, Inter Miami FC Gift Donald Trump Special Watch During White House Visit]]></title>
             <link>https://www.tmz.com/2026/03/05/lionel-messi-inter-miami-white-house-donald-trump-2025-mls-cup-watch-gift/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/85/16by9/2026/03/05/85ad431c2b9b45ba8a2fb5a8a91f5bf7_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/03/05/85ad431c2b9b45ba8a2fb5a8a91f5bf7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kristi Noem Blasted by Meghan McCain After President Trump Fires Her]]></title>
-            <link>https://www.tmz.com/2026/03/05/meghan-mccain-and-tomi-lahren-go-after-kristi-noem/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/meghan-mccain-and-tomi-lahren-go-after-kristi-noem/</guid>
-            <pubDate>Thu, 05 Mar 2026 23:25:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/03/05/8665350d6cd1421d96a6984807d728ca_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/03/05/8665350d6cd1421d96a6984807d728ca_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/03/05/8665350d6cd1421d96a6984807d728ca_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Terrence Howard Reflects on Losing Marvel Role After Threatening Producer]]></title>
-            <link>https://www.tmz.com/2026/03/05/terrence-howard-reveals-details-on-loss-of-iron-man-role/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/terrence-howard-reveals-details-on-loss-of-iron-man-role/</guid>
-            <pubDate>Thu, 05 Mar 2026 23:23:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/03/05/f3b9983887394dad9a1a26a4ce956025_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/03/05/f3b9983887394dad9a1a26a4ce956025_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/03/05/f3b9983887394dad9a1a26a4ce956025_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bengals Legend Willie Anderson Undergoes Successful Kidney Transplant]]></title>
-            <link>https://www.tmz.com/2026/03/05/willie-anderson-kidney-transplant/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/05/willie-anderson-kidney-transplant/</guid>
-            <pubDate>Thu, 05 Mar 2026 23:13:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/03/05/b987e348cfd140adb64821c1a037a277_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/03/05/b987e348cfd140adb64821c1a037a277_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/03/05/b987e348cfd140adb64821c1a037a277_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
