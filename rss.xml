@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 11:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 13:39:40 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Former Louisiana Mayor Misty Roberts Registers As Sex Offender]]></title>
+            <link>https://www.tmz.com/2026/03/06/former-louisiana-mayor-misty-roberts-registers-sex-offender/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/former-louisiana-mayor-misty-roberts-registers-sex-offender/</guid>
+            <pubDate>Fri, 06 Mar 2026 13:34:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/03/06/05245e7537b14835a6c256408a64e46b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/03/06/05245e7537b14835a6c256408a64e46b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/03/06/05245e7537b14835a6c256408a64e46b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Gosling & Eva Mendes Make First Official Public Appearance in Over 10 Years]]></title>
+            <link>https://www.tmz.com/2026/03/06/ryan-gosling-eva-mendes-jimmy-fallon-tonight-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/ryan-gosling-eva-mendes-jimmy-fallon-tonight-show/</guid>
+            <pubDate>Fri, 06 Mar 2026 12:07:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/03/06/8bb1a11ab7294a6c8ad1279e38b0216d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/03/06/8bb1a11ab7294a6c8ad1279e38b0216d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/03/06/8bb1a11ab7294a6c8ad1279e38b0216d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kathy Hilton Dragged to Court by House Guest Claiming Leg Injuries]]></title>
+            <link>https://www.tmz.com/2026/03/06/kathy-hilton-court-house-guest-injured/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/kathy-hilton-court-house-guest-injured/</guid>
+            <pubDate>Fri, 06 Mar 2026 12:00:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/03/05/ced4603d0cc341eeadb5bc24120b0ef0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/03/05/ced4603d0cc341eeadb5bc24120b0ef0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/03/05/ced4603d0cc341eeadb5bc24120b0ef0_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kevin Federline Facing His Own Legal Issues Amid Britney Spears&#039; DUI Ordeal]]></title>
             <link>https://www.tmz.com/2026/03/06/kevin-federline-facing-legal-problems/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/57/16by9/2026/03/05/57f72cfad861414c986cff1e204719a4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/03/05/57f72cfad861414c986cff1e204719a4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears Fired Her Sobriety Coaches Weeks Before DUI Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/06/britney-spears-fired-sober-coaches/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/britney-spears-fired-sober-coaches/</guid>
-            <pubDate>Fri, 06 Mar 2026 09:00:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/03/05/959df8789e28483fa5365b87e9e3307c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/05/959df8789e28483fa5365b87e9e3307c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/05/959df8789e28483fa5365b87e9e3307c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Congressman Tony Gonzales Pulls Plug on Re-Election After Aide&#039;s Death]]></title>
-            <link>https://www.tmz.com/2026/03/06/congressman-tony-gonzales-texas-regina-santos-aviles/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/congressman-tony-gonzales-texas-regina-santos-aviles/</guid>
-            <pubDate>Fri, 06 Mar 2026 08:53:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/03/05/e79fe525ff63495da87eb36cbc20d72c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/03/05/e79fe525ff63495da87eb36cbc20d72c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/03/05/e79fe525ff63495da87eb36cbc20d72c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bond Girl Kara in &#039;The Living Daylights&#039; &#039;Memba Her?!]]></title>
-            <link>https://www.tmz.com/2026/03/06/bond-girl-kara-in-the-living-daylights-memba-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/bond-girl-kara-in-the-living-daylights-memba-her/</guid>
-            <pubDate>Fri, 06 Mar 2026 08:45:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/02/18/70516410b35f4bb7994c7cd0a101eedb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/02/18/70516410b35f4bb7994c7cd0a101eedb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/02/18/70516410b35f4bb7994c7cd0a101eedb_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
