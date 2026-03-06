@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 23:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 23:55:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Killer Mike Says Poor Kids Should Stop Fighting America&#039;s Wars]]></title>
+            <link>https://www.tmz.com/2026/03/06/killer-mike-says-rich-kids-should-go-to-war/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/killer-mike-says-rich-kids-should-go-to-war/</guid>
+            <pubDate>Fri, 06 Mar 2026 23:23:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/03/05/c7380833128b4de991f9855fbc2e4c81_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/03/05/c7380833128b4de991f9855fbc2e4c81_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/03/05/c7380833128b4de991f9855fbc2e4c81_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Pawn Stars&#039; Rick Harrison Disputes Corey Harrison Medical Bills Claims]]></title>
             <link>https://www.tmz.com/2026/03/06/rick-harrison-denies-son-corey-medical-bills-claims/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/03/06/4f2680d6b7734964a37a89d41786e27c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/03/06/4f2680d6b7734964a37a89d41786e27c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sofia Franklyn Says She Smoked Meth]]></title>
-            <link>https://www.tmz.com/2026/03/06/sofia-franklyn-on-drug-experience-in-her-memoir/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/sofia-franklyn-on-drug-experience-in-her-memoir/</guid>
-            <pubDate>Fri, 06 Mar 2026 22:14:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/03/06/0974ed212f31417a9d343eb627dd99cd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/03/06/0974ed212f31417a9d343eb627dd99cd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/03/06/0974ed212f31417a9d343eb627dd99cd_xl.png">
             </media:thumbnail>
         </item>
     </channel>
