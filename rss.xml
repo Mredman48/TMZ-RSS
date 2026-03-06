@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 19:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 19:58:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Netflix Ends Meghan Markle Partnership]]></title>
+            <link>https://www.tmz.com/2026/03/06/netflix-ends-meghan-markle-affiliation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/netflix-ends-meghan-markle-affiliation/</guid>
+            <pubDate>Fri, 06 Mar 2026 19:47:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/03/06/786ac7640b574064b9a3c97e071e4050_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/06/786ac7640b574064b9a3c97e071e4050_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/06/786ac7640b574064b9a3c97e071e4050_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Pawn Stars&#039; Corey Harrison Says Dad Rick Isn&#039;t Made of Money Amid Medical Bills]]></title>
+            <link>https://www.tmz.com/2026/03/06/corey-harrison-owes-dad-for-medical-bills/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/corey-harrison-owes-dad-for-medical-bills/</guid>
+            <pubDate>Fri, 06 Mar 2026 19:45:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/03/06/974bcad4ba7e407faff410b0250b9712_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/03/06/974bcad4ba7e407faff410b0250b9712_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/03/06/974bcad4ba7e407faff410b0250b9712_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Federline Wishes Britney Spears Well After DUI Arrest, Hopes She Gets Help]]></title>
+            <link>https://www.tmz.com/2026/03/06/kevin-federline-wishes-britney-spears-well-after-dui-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/kevin-federline-wishes-britney-spears-well-after-dui-arrest/</guid>
+            <pubDate>Fri, 06 Mar 2026 19:24:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/03/06/43a9dc90e7d345cabff1885cd30a0e7e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/03/06/43a9dc90e7d345cabff1885cd30a0e7e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/03/06/43a9dc90e7d345cabff1885cd30a0e7e_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jayson Tatum Slated to Make Season Debut Nearly a Year After Achilles Injury]]></title>
             <link>https://www.tmz.com/2026/03/06/jayson-tatum-return-achilles-tear-celtics/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/03/06/c76298921e8b438281c6edb2c2ae1b6b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/03/06/c76298921e8b438281c6edb2c2ae1b6b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Producer James G. Robinson, Who Famously Berated Lindsay Lohan, Dead at 90]]></title>
-            <link>https://www.tmz.com/2026/03/06/james-robinson-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/james-robinson-dead/</guid>
-            <pubDate>Fri, 06 Mar 2026 19:01:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/03/06/541e8e2df64c45deb233e005c17e01ad_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/03/06/541e8e2df64c45deb233e005c17e01ad_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/03/06/541e8e2df64c45deb233e005c17e01ad_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jack Osbourne Recalls Final Conversation With Ozzy Before Death]]></title>
-            <link>https://www.tmz.com/2026/03/06/jack-osbourne-final-conversation-ozzy/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/jack-osbourne-final-conversation-ozzy/</guid>
-            <pubDate>Fri, 06 Mar 2026 18:52:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/03/06/26c73fe6d630425e8a101c5848eb40f3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/03/06/26c73fe6d630425e8a101c5848eb40f3_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/03/06/26c73fe6d630425e8a101c5848eb40f3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears Could Face Jail Time for Pills Found During DUI Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/06/britney-spears-pills-may-lead-to-jail-after-westlake-village-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/britney-spears-pills-may-lead-to-jail-after-westlake-village-arrest/</guid>
-            <pubDate>Fri, 06 Mar 2026 18:42:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/06/16by9/2026/03/06/0648aaf21b204b41a03ca2169b38e9d7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/06/16by9/2026/03/06/0648aaf21b204b41a03ca2169b38e9d7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/06/16by9/2026/03/06/0648aaf21b204b41a03ca2169b38e9d7_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
