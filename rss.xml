@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 16:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 17:20:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[WNBA Star Arike Ogunbowale Arrested For Allegedly Punching Man In Club]]></title>
+            <link>https://www.tmz.com/2026/03/06/arike-ogunbowale-arrested-for-battery/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/arike-ogunbowale-arrested-for-battery/</guid>
+            <pubDate>Fri, 06 Mar 2026 16:51:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e3/16by9/2026/03/06/e37cf6e50d1542a7a2b5bf4adf09f7b3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/03/06/e37cf6e50d1542a7a2b5bf4adf09f7b3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/03/06/e37cf6e50d1542a7a2b5bf4adf09f7b3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Daryl Hannah Blasts Her &#039;Love Story&#039; Portrayal as Not Even Remotely Accurate]]></title>
+            <link>https://www.tmz.com/2026/03/06/daryl-hannah-blasts-new-jfk-jr-love-story-series/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/daryl-hannah-blasts-new-jfk-jr-love-story-series/</guid>
+            <pubDate>Fri, 06 Mar 2026 16:51:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/03/06/97cdc336b08d43ffa71da8e252d44157_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/03/06/97cdc336b08d43ffa71da8e252d44157_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/03/06/97cdc336b08d43ffa71da8e252d44157_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sherrone Moore, Wife Arrive Hand-in-Hand To Court For Evidentiary Hearing]]></title>
+            <link>https://www.tmz.com/2026/03/06/sherrone-moore-wife-evidentiary-court-hearing-michigan/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/sherrone-moore-wife-evidentiary-court-hearing-michigan/</guid>
+            <pubDate>Fri, 06 Mar 2026 16:48:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/06/c8924ee88b9b4f7fbe5b3e3d7d3d5407_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/06/c8924ee88b9b4f7fbe5b3e3d7d3d5407_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/06/c8924ee88b9b4f7fbe5b3e3d7d3d5407_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Former NYC Mayor Eric Adams Wants Denzel Washington to Play Him in Movie]]></title>
+            <link>https://www.tmz.com/2026/03/06/eric-adams-wants-denzel-washington-movie-portrayal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/eric-adams-wants-denzel-washington-movie-portrayal/</guid>
+            <pubDate>Fri, 06 Mar 2026 16:08:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b3/16by9/2026/03/06/b3c43d61ea404aeb905a7ba3b79e158b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b3/16by9/2026/03/06/b3c43d61ea404aeb905a7ba3b79e158b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b3/16by9/2026/03/06/b3c43d61ea404aeb905a7ba3b79e158b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Logan Paul Wants NFL Opponent To Put Up $1 Million Before Boxing, Claims No One Will]]></title>
             <link>https://www.tmz.com/2026/03/06/logan-paul-wants-nfl-opponent-to-put-up-1-million-before-boxing/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/03/06/6d59783365a14b20bbdc33337712c315_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/03/06/6d59783365a14b20bbdc33337712c315_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Russell Westbrook Goes Off on Reporters After Teams&#039; 50th Loss of Season]]></title>
-            <link>https://www.tmz.com/2026/03/06/russell-westbrook-reporters-press-conference-kings/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/russell-westbrook-reporters-press-conference-kings/</guid>
-            <pubDate>Fri, 06 Mar 2026 15:44:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/06/5505b2d9a9df4c0aac4ee0581579f964_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/06/5505b2d9a9df4c0aac4ee0581579f964_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/06/5505b2d9a9df4c0aac4ee0581579f964_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears&#039; First Husband Jason Alexander Defends Her After DUI Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/06/britney-spears-jason-alexander-husband-defends-dui-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/britney-spears-jason-alexander-husband-defends-dui-arrest/</guid>
-            <pubDate>Fri, 06 Mar 2026 15:40:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/98/16by9/2022/08/12/986eecb9eb99456da5cbdaf1564908f8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/98/16by9/2022/08/12/986eecb9eb99456da5cbdaf1564908f8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2022/08/12/986eecb9eb99456da5cbdaf1564908f8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Francis Ngannou, PFL &#039;Part Ways&#039;, MMA Star Now A Free Agent]]></title>
-            <link>https://www.tmz.com/2026/03/06/francis-ngannou-pfl-part-ways-mma-star/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/francis-ngannou-pfl-part-ways-mma-star/</guid>
-            <pubDate>Fri, 06 Mar 2026 15:23:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/03/06/f8ebbbd2519748a1b72be6fba45f5caa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/03/06/f8ebbbd2519748a1b72be6fba45f5caa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/03/06/f8ebbbd2519748a1b72be6fba45f5caa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Herbert Sends Madison Beer Birthday Love, &#039;Luckiest Guy Alive&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/06/justin-herbert-wishes-madison-beer-happy-birthday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/justin-herbert-wishes-madison-beer-happy-birthday/</guid>
-            <pubDate>Fri, 06 Mar 2026 15:07:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/03/06/147aedd6bc52470fa9e1c8a4985edf3a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/14/16by9/2026/03/06/147aedd6bc52470fa9e1c8a4985edf3a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/14/16by9/2026/03/06/147aedd6bc52470fa9e1c8a4985edf3a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
