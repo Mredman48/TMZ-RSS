@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 14:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 15:07:40 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sam Asghari Breaks Silence Over Ex-Wife Britney Spears&#039; DUI Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/06/sam-asghari-comments-on-britney-spears-dui/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/sam-asghari-comments-on-britney-spears-dui/</guid>
+            <pubDate>Fri, 06 Mar 2026 15:03:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/03/06/59b2305272ed49fb9546a7145e8bea79_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/03/06/59b2305272ed49fb9546a7145e8bea79_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/03/06/59b2305272ed49fb9546a7145e8bea79_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shohei Ohtani&#039;s Grand Slam Powers Japan WBC Blowout, Chalamet and Bad Bunny Witness]]></title>
+            <link>https://www.tmz.com/2026/03/06/shohei-ohtani-blasts-grand-slam-wbc-opener/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/shohei-ohtani-blasts-grand-slam-wbc-opener/</guid>
+            <pubDate>Fri, 06 Mar 2026 14:51:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/03/06/c0de059ede2b461fa00f2fd05846b0c6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/03/06/c0de059ede2b461fa00f2fd05846b0c6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/03/06/c0de059ede2b461fa00f2fd05846b0c6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Phoenix Suns&#039; Dillon Brooks Arrested For DUI In Scottsdale]]></title>
+            <link>https://www.tmz.com/2026/03/06/dillon-brooks-arrested-dui/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/dillon-brooks-arrested-dui/</guid>
+            <pubDate>Fri, 06 Mar 2026 14:26:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/03/06/d873212f8f9e4c45aec9a61544c71618_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/03/06/d873212f8f9e4c45aec9a61544c71618_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/03/06/d873212f8f9e4c45aec9a61544c71618_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Today&#039; Anchors Reflect on Savannah Guthrie&#039;s Visit]]></title>
             <link>https://www.tmz.com/2026/03/06/today-anchors-talk-savannah-guthrie-visit/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/05/16by9/2026/03/06/05245e7537b14835a6c256408a64e46b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/03/06/05245e7537b14835a6c256408a64e46b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ryan Gosling & Eva Mendes Make First Official Public Appearance in Over 10 Years]]></title>
-            <link>https://www.tmz.com/2026/03/06/ryan-gosling-eva-mendes-jimmy-fallon-tonight-show/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/ryan-gosling-eva-mendes-jimmy-fallon-tonight-show/</guid>
-            <pubDate>Fri, 06 Mar 2026 12:07:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/03/06/8bb1a11ab7294a6c8ad1279e38b0216d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/03/06/8bb1a11ab7294a6c8ad1279e38b0216d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/03/06/8bb1a11ab7294a6c8ad1279e38b0216d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kathy Hilton Dragged to Court by House Guest Claiming Leg Injuries]]></title>
-            <link>https://www.tmz.com/2026/03/06/kathy-hilton-court-house-guest-injured/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/kathy-hilton-court-house-guest-injured/</guid>
-            <pubDate>Fri, 06 Mar 2026 12:00:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/03/05/ced4603d0cc341eeadb5bc24120b0ef0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/03/05/ced4603d0cc341eeadb5bc24120b0ef0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/03/05/ced4603d0cc341eeadb5bc24120b0ef0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Federline Facing His Own Legal Issues Amid Britney Spears&#039; DUI Ordeal]]></title>
-            <link>https://www.tmz.com/2026/03/06/kevin-federline-facing-legal-problems/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/kevin-federline-facing-legal-problems/</guid>
-            <pubDate>Fri, 06 Mar 2026 11:00:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3acea83d6804464cbd67c8e7824b9e04_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3acea83d6804464cbd67c8e7824b9e04_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3acea83d6804464cbd67c8e7824b9e04_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
