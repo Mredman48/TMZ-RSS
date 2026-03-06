@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 17:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 18:03:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Regina Santos-Aviles&#039; Husband &#039;Surprised&#039; Rep. Gonzales Fessed Up, Bowing Out]]></title>
+            <link>https://www.tmz.com/2026/03/06/regina-santos-aviles-husband-surprised-gonzales-confessed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/regina-santos-aviles-husband-surprised-gonzales-confessed/</guid>
+            <pubDate>Fri, 06 Mar 2026 17:57:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/03/06/e533ca712c194859bc8114471787abfc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/03/06/e533ca712c194859bc8114471787abfc_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/03/06/e533ca712c194859bc8114471787abfc_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bills’ Dion Dawkins Says He’d Drop Logan Paul, ‘Come Get Your Ass Kicked’]]></title>
+            <link>https://www.tmz.com/2026/03/06/dion-dawkins-accepts-logan-paul-boxing-match/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/dion-dawkins-accepts-logan-paul-boxing-match/</guid>
+            <pubDate>Fri, 06 Mar 2026 17:56:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/03/06/57f047bca37c4311b3f1bc57e2d431e2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/03/06/57f047bca37c4311b3f1bc57e2d431e2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/03/06/57f047bca37c4311b3f1bc57e2d431e2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shohei Ohtani and Decoy Impersonators Crash WBC]]></title>
+            <link>https://www.tmz.com/2026/03/06/shohei-ohtani-decoy-impersonators-crash-wbc/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/shohei-ohtani-decoy-impersonators-crash-wbc/</guid>
+            <pubDate>Fri, 06 Mar 2026 17:50:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/03/06/705c416c1ec64c0daeb05535a47eec96_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/06/705c416c1ec64c0daeb05535a47eec96_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/06/705c416c1ec64c0daeb05535a47eec96_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tap-In: Zara Larsson&#039;s &#039;Lush&#039; Hot Shots, Selena Kisses Benny&#039;s Feet & More!]]></title>
+            <link>https://www.tmz.com/2026/03/06/tap-in-zara-larssons-lush-hot-shots-selena-kisses-bennys-feet-and-more/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/tap-in-zara-larssons-lush-hot-shots-selena-kisses-bennys-feet-and-more/</guid>
+            <pubDate>Fri, 06 Mar 2026 17:30:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa45e5ce68c4a8982bfe066d2e565e5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa45e5ce68c4a8982bfe066d2e565e5_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/03/05/3aa45e5ce68c4a8982bfe066d2e565e5_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[WNBA Star Arike Ogunbowale Arrested For Allegedly Punching Man In Club]]></title>
             <link>https://www.tmz.com/2026/03/06/arike-ogunbowale-arrested-for-battery/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/06/arike-ogunbowale-arrested-for-battery/</guid>
             <pubDate>Fri, 06 Mar 2026 16:51:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e3/16by9/2026/03/06/e37cf6e50d1542a7a2b5bf4adf09f7b3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/03/06/e37cf6e50d1542a7a2b5bf4adf09f7b3_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/99/16by9/2026/03/06/998c2b6bb9c748478a5c79bcf874ea84_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/99/16by9/2026/03/06/998c2b6bb9c748478a5c79bcf874ea84_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/03/06/e37cf6e50d1542a7a2b5bf4adf09f7b3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Daryl Hannah Blasts Her &#039;Love Story&#039; Portrayal as Not Even Remotely Accurate]]></title>
-            <link>https://www.tmz.com/2026/03/06/daryl-hannah-blasts-new-jfk-jr-love-story-series/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/daryl-hannah-blasts-new-jfk-jr-love-story-series/</guid>
-            <pubDate>Fri, 06 Mar 2026 16:51:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/03/06/97cdc336b08d43ffa71da8e252d44157_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/03/06/97cdc336b08d43ffa71da8e252d44157_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/03/06/97cdc336b08d43ffa71da8e252d44157_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sherrone Moore, Wife Arrive Hand-in-Hand To Court For Evidentiary Hearing]]></title>
-            <link>https://www.tmz.com/2026/03/06/sherrone-moore-wife-evidentiary-court-hearing-michigan/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/sherrone-moore-wife-evidentiary-court-hearing-michigan/</guid>
-            <pubDate>Fri, 06 Mar 2026 16:48:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/06/c8924ee88b9b4f7fbe5b3e3d7d3d5407_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/06/c8924ee88b9b4f7fbe5b3e3d7d3d5407_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/06/c8924ee88b9b4f7fbe5b3e3d7d3d5407_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Former NYC Mayor Eric Adams Wants Denzel Washington to Play Him in Movie]]></title>
-            <link>https://www.tmz.com/2026/03/06/eric-adams-wants-denzel-washington-movie-portrayal/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/eric-adams-wants-denzel-washington-movie-portrayal/</guid>
-            <pubDate>Fri, 06 Mar 2026 16:08:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b3/16by9/2026/03/06/b3c43d61ea404aeb905a7ba3b79e158b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b3/16by9/2026/03/06/b3c43d61ea404aeb905a7ba3b79e158b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b3/16by9/2026/03/06/b3c43d61ea404aeb905a7ba3b79e158b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Logan Paul Wants NFL Opponent To Put Up $1 Million Before Boxing, Claims No One Will]]></title>
-            <link>https://www.tmz.com/2026/03/06/logan-paul-wants-nfl-opponent-to-put-up-1-million-before-boxing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/06/logan-paul-wants-nfl-opponent-to-put-up-1-million-before-boxing/</guid>
-            <pubDate>Fri, 06 Mar 2026 16:02:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/03/06/6d59783365a14b20bbdc33337712c315_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/03/06/6d59783365a14b20bbdc33337712c315_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/03/06/6d59783365a14b20bbdc33337712c315_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/03/06/998c2b6bb9c748478a5c79bcf874ea84_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
