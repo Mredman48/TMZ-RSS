@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 08:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 09:54:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Woah Vicky Hot Shots To Celebrate Her 26th Birthday!]]></title>
+            <link>https://www.tmz.com/2026/03/07/woah-vicky-birthday-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/woah-vicky-birthday-hot-shots/</guid>
+            <pubDate>Sat, 07 Mar 2026 09:00:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3f/16by9/2026/03/03/3f923763cf4c45adac8e05f1cc063671_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3f/16by9/2026/03/03/3f923763cf4c45adac8e05f1cc063671_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3f/16by9/2026/03/03/3f923763cf4c45adac8e05f1cc063671_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears Was Not Dating On-Again/Off-Again Boyfriend Before DUI Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/07/britney-spears-was-not-dating-paul-soliz-prior-to-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/britney-spears-was-not-dating-paul-soliz-prior-to-arrest/</guid>
+            <pubDate>Sat, 07 Mar 2026 09:00:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/03/06/5afbc004684d4f3f95854d15d90c4184_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/03/06/5afbc004684d4f3f95854d15d90c4184_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/03/06/5afbc004684d4f3f95854d15d90c4184_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Sexy Stars Leathered Up ... Leather Weather Has Never Looked Better!]]></title>
             <link>https://www.tmz.com/2026/03/07/sexy-stars-leathered-up/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/03/05/4a489772c5cc4d858b794e42fc7e481e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/03/05/4a489772c5cc4d858b794e42fc7e481e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Warren Moon Says Aaron Rodgers Will Return Next Season, And Here&#039;s Why!]]></title>
-            <link>https://www.tmz.com/2026/03/07/warren-moon-says-aaron-rodgers-will-return/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/warren-moon-says-aaron-rodgers-will-return/</guid>
-            <pubDate>Sat, 07 Mar 2026 08:15:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/de/16by9/2026/03/04/deaf91977b9f4716863c8452e6234c02_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/de/16by9/2026/03/04/deaf91977b9f4716863c8452e6234c02_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/03/04/deaf91977b9f4716863c8452e6234c02_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lymphatic Drainage Tools for Face]]></title>
-            <link>https://www.tmz.com/2026/03/07/lymphatic-face-drainage-products/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/lymphatic-face-drainage-products/</guid>
-            <pubDate>Sat, 07 Mar 2026 08:05:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/03/04/56e0538e10794c3fbc8d127ea03eded0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/03/04/56e0538e10794c3fbc8d127ea03eded0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/03/04/56e0538e10794c3fbc8d127ea03eded0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
