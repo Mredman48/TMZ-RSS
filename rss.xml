@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 16:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 17:52:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Lady Gaga Says She&#039;s Going to Get Married &#039;Soon&#039; to Michael Polansky]]></title>
+            <link>https://www.tmz.com/2026/03/07/lady-gaga-says-getting-married-soon/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/lady-gaga-says-getting-married-soon/</guid>
+            <pubDate>Sat, 07 Mar 2026 17:02:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/03/07/8aa291e645d6487ba336118ff22a1688_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/03/07/8aa291e645d6487ba336118ff22a1688_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/03/07/8aa291e645d6487ba336118ff22a1688_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Timothée Chalamet Shaded by Met Opera for His Ugly Comments, Watch The Video]]></title>
             <link>https://www.tmz.com/2026/03/07/timothee-chalamet-blasted-by-metropolitan-opera/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/03/06/0fc6dfbaa9004a53be5438ea81e600e4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/03/06/0fc6dfbaa9004a53be5438ea81e600e4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Travis & Jason Kelce’s Mom Donna Remodeling Her Modest Florida Home]]></title>
-            <link>https://www.tmz.com/2026/03/07/donna-kelce-is-remodeling-her-florida-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/donna-kelce-is-remodeling-her-florida-house/</guid>
-            <pubDate>Sat, 07 Mar 2026 10:00:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
