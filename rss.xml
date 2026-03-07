@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 14:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 15:52:28 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Timothée Chalamet Shaded by Met Opera for His Ugly Comments, Watch The Video]]></title>
+            <link>https://www.tmz.com/2026/03/07/timothee-chalamet-blasted-by-metropolitan-opera/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/timothee-chalamet-blasted-by-metropolitan-opera/</guid>
+            <pubDate>Sat, 07 Mar 2026 15:31:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/03/07/dc6c209019ce4abb84a47067c4e4cdb9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/03/07/dc6c209019ce4abb84a47067c4e4cdb9_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/03/07/dc6c209019ce4abb84a47067c4e4cdb9_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Blueface Denies AGAIN He&#039;s the Biological Dad of Chrisean&#039;s Son]]></title>
             <link>https://www.tmz.com/2026/03/07/blueface-again-denies-being-father-of-chrisean-rock-son/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Machine Gun Kelly Sees Fan Fall Through Stage During Concert, Video Shows]]></title>
-            <link>https://www.tmz.com/2026/03/07/machine-gun-kelly-mgk-london/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/machine-gun-kelly-mgk-london/</guid>
-            <pubDate>Sat, 07 Mar 2026 09:56:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/02/12/9c6253fd4b594a0eb7dc322677cbc79b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/02/12/9c6253fd4b594a0eb7dc322677cbc79b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/02/12/9c6253fd4b594a0eb7dc322677cbc79b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
