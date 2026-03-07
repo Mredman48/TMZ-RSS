@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 21:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 22:54:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kevin Costner and Brooks Nader Get Close While Chatting at Las Vegas Casino]]></title>
+            <link>https://www.tmz.com/2026/03/07/kevin-costner-with-brooks-nader-in-las-vegas/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/kevin-costner-with-brooks-nader-in-las-vegas/</guid>
+            <pubDate>Sat, 07 Mar 2026 22:12:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/03/07/eb20dab5c63141edbe45b1fce6b8d127_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/03/07/eb20dab5c63141edbe45b1fce6b8d127_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/03/07/eb20dab5c63141edbe45b1fce6b8d127_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Man Dies After Cutting Off Own Penis in Downtown Los Angeles]]></title>
+            <link>https://www.tmz.com/2026/03/07/man-dead-after-cutting-penis-off/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/man-dead-after-cutting-penis-off/</guid>
+            <pubDate>Sat, 07 Mar 2026 21:48:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/03/07/b4952e90c6b845989765cb20d0914f4f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/03/07/b4952e90c6b845989765cb20d0914f4f_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/03/07/b4952e90c6b845989765cb20d0914f4f_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jeffrey Epstein Guard Googled Him Less Than An Hour Before Death]]></title>
             <link>https://www.tmz.com/2026/03/07/jeffrey-epstein-cell-guard-looked-him-up-online-before-death/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2d/16by9/2025/02/25/2db844c12e3d47d99319b6cc0726b218_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2025/02/25/2db844c12e3d47d99319b6cc0726b218_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Southwest Flight Boarded by Cops with Guns Drawn, Video]]></title>
-            <link>https://www.tmz.com/2026/03/07/southwest-flight-swarmed-police-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/southwest-flight-swarmed-police-video/</guid>
-            <pubDate>Sat, 07 Mar 2026 19:55:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/03/07/1ffddea7b0ef447d8fc3433832e37a9f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/03/07/1ffddea7b0ef447d8fc3433832e37a9f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/03/07/1ffddea7b0ef447d8fc3433832e37a9f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dak Prescott, Sarah Jane Ramos Break Up Month Before Wedding]]></title>
-            <link>https://www.tmz.com/2026/03/07/dak-prescott-sarah-jane-ramos-breakup-before-wedding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/dak-prescott-sarah-jane-ramos-breakup-before-wedding/</guid>
-            <pubDate>Sat, 07 Mar 2026 19:47:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/03/07/ca8ed6c4d8de48738673e3d40908a7b2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/03/07/ca8ed6c4d8de48738673e3d40908a7b2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/03/07/ca8ed6c4d8de48738673e3d40908a7b2_xl.png">
             </media:thumbnail>
         </item>
     </channel>
