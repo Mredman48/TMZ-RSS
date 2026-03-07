@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 22:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 23:53:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Suspicious Devices&#039; Found Outside Zohran Mamdani&#039;s Residence]]></title>
+            <link>https://www.tmz.com/2026/03/07/proteter-outside-zohran-mamdani-mansion-throws-smoke-bomb/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/proteter-outside-zohran-mamdani-mansion-throws-smoke-bomb/</guid>
+            <pubDate>Sat, 07 Mar 2026 23:47:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/03/07/119388fe6b4d4e2d84fb248cc057a20d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/03/07/119388fe6b4d4e2d84fb248cc057a20d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/03/07/119388fe6b4d4e2d84fb248cc057a20d_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lori Harvey Makes Out with Damson Idris at Paris Fashion Week After Party, Video]]></title>
+            <link>https://www.tmz.com/2026/03/07/lori-harvey-kissing-damson-idris/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/lori-harvey-kissing-damson-idris/</guid>
+            <pubDate>Sat, 07 Mar 2026 23:09:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/03/07/33aedd9e1ef848128f55e286742027ac_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/33/16by9/2026/03/07/33aedd9e1ef848128f55e286742027ac_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/03/07/33aedd9e1ef848128f55e286742027ac_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kevin Costner and Brooks Nader Get Close While Chatting at Las Vegas Casino]]></title>
             <link>https://www.tmz.com/2026/03/07/kevin-costner-with-brooks-nader-in-las-vegas/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/07/78cc58ca5c94464387b8591db481cd05_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/07/78cc58ca5c94464387b8591db481cd05_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Will & Grace&#039; Star Corey Parker Dead at 60]]></title>
-            <link>https://www.tmz.com/2026/03/07/corey-parker-dead-actor/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/corey-parker-dead-actor/</guid>
-            <pubDate>Sat, 07 Mar 2026 21:14:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/03/07/74de81a531a34520a3faeca51476ab98_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/03/07/74de81a531a34520a3faeca51476ab98_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/03/07/74de81a531a34520a3faeca51476ab98_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Devon Windsor Hot Shots To Kick off Her 32nd Birthday!]]></title>
-            <link>https://www.tmz.com/2026/03/07/devon-windsor-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/devon-windsor-birthday-hot-shots/</guid>
-            <pubDate>Sat, 07 Mar 2026 20:00:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2025/02/25/2db844c12e3d47d99319b6cc0726b218_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2d/16by9/2025/02/25/2db844c12e3d47d99319b6cc0726b218_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2025/02/25/2db844c12e3d47d99319b6cc0726b218_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
