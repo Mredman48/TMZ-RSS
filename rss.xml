@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 09:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 10:54:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Travis & Jason Kelce’s Mom Donna Remodeling Her Modest Florida Home]]></title>
+            <link>https://www.tmz.com/2026/03/07/donna-kelce-is-remodeling-her-florida-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/donna-kelce-is-remodeling-her-florida-house/</guid>
+            <pubDate>Sat, 07 Mar 2026 10:00:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/03/d24720752c674d3883be177868d0ccae_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Machine Gun Kelly Sees Fan Fall Through Stage During Concert, Video Shows]]></title>
+            <link>https://www.tmz.com/2026/03/07/machine-gun-kelly-mgk-london/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/machine-gun-kelly-mgk-london/</guid>
+            <pubDate>Sat, 07 Mar 2026 09:56:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/02/12/9c6253fd4b594a0eb7dc322677cbc79b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/02/12/9c6253fd4b594a0eb7dc322677cbc79b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/02/12/9c6253fd4b594a0eb7dc322677cbc79b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Woah Vicky Hot Shots To Celebrate Her 26th Birthday!]]></title>
             <link>https://www.tmz.com/2026/03/07/woah-vicky-birthday-hot-shots/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/02/24/fbfa7018447d4b798e3e8b2f285d0ae8_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/02/24/fbfa7018447d4b798e3e8b2f285d0ae8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/03/07/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 07 Mar 2026 08:45:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/03/07/13da31f5453c475e9ec9ea2b076ed4bd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/03/07/13da31f5453c475e9ec9ea2b076ed4bd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/03/07/13da31f5453c475e9ec9ea2b076ed4bd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Killer Mike Defends Hawks’ Magic City Night, Tells Critics ‘Shut the F*** Up’]]></title>
-            <link>https://www.tmz.com/2026/03/07/killer-mike-defends-atlanta-hawks-magic-city-night/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/killer-mike-defends-atlanta-hawks-magic-city-night/</guid>
-            <pubDate>Sat, 07 Mar 2026 08:30:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/03/05/4a489772c5cc4d858b794e42fc7e481e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/03/05/4a489772c5cc4d858b794e42fc7e481e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/03/05/4a489772c5cc4d858b794e42fc7e481e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
