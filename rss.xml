@@ -4,11 +4,22 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 18:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 19:50:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Donald Trump Says He Refuses to Learn Spanish at Shield of the Americas Event]]></title>
+            <title><![CDATA[Britney Spears Did Not Lead Cops on Wild Chase Despite Reports]]></title>
+            <link>https://www.tmz.com/2026/03/07/britney-spears-was-not-in-police-chase/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/britney-spears-was-not-in-police-chase/</guid>
+            <pubDate>Sat, 07 Mar 2026 19:07:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/03/07/a938d1a1834f464bb32e9e5238cba1fb_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/03/07/a938d1a1834f464bb32e9e5238cba1fb_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/03/07/a938d1a1834f464bb32e9e5238cba1fb_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Refuses to Learn Spanish at Shield of the Americas Event]]></title>
             <link>https://www.tmz.com/2026/03/07/donald-trump-wont-learn-spanish/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/07/donald-trump-wont-learn-spanish/</guid>
             <pubDate>Sat, 07 Mar 2026 18:43:00 GMT</pubDate>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/84/16by9/2026/03/07/84c6d612e4c64364b5082fbc584f2ac4_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/03/07/84c6d612e4c64364b5082fbc584f2ac4_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bodybuilder Influencer Jeff Nippard&#039;s Fiancée Dead at 36]]></title>
-            <link>https://www.tmz.com/2026/03/07/bodybuilder-jeff-nippard-fiancee-stephanie-buttermore-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/bodybuilder-jeff-nippard-fiancee-stephanie-buttermore-dead/</guid>
-            <pubDate>Sat, 07 Mar 2026 12:47:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/03/07/04a80130465e479bb93a942473d3822b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/03/07/04a80130465e479bb93a942473d3822b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/03/07/04a80130465e479bb93a942473d3822b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
