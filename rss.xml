@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 19:51:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 20:56:11 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Nancy Guthrie Case Not Linked to Phoenix Canal Body, Sheriff Says]]></title>
+            <link>https://www.tmz.com/2026/03/08/nancy-guthrie-case-not-linked-phoenix-canal-body-says-sheriff/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/nancy-guthrie-case-not-linked-phoenix-canal-body-says-sheriff/</guid>
+            <pubDate>Sun, 08 Mar 2026 20:46:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b3/16by9/2026/03/08/b3db0b0d92604379ba9849a0ee3199b4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b3/16by9/2026/03/08/b3db0b0d92604379ba9849a0ee3199b4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b3/16by9/2026/03/08/b3db0b0d92604379ba9849a0ee3199b4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Logan Paul Says WWE Won&#039;t Let Him Box NFL Players]]></title>
+            <link>https://www.tmz.com/2026/03/08/logan-paul-says-he-cant-box-nfl-players-per-wwe/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/logan-paul-says-he-cant-box-nfl-players-per-wwe/</guid>
+            <pubDate>Sun, 08 Mar 2026 20:29:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Maxx Crosby Posts Emotional Farewell to Raiders After Trade to Ravens]]></title>
             <link>https://www.tmz.com/2026/03/08/maxx-crosby-emotional-raiders-farewell/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rachel Zoe&#039;s Los Angeles Home Broken Into]]></title>
-            <link>https://www.tmz.com/2026/03/08/rachel-zoe-home-broken-into/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/rachel-zoe-home-broken-into/</guid>
-            <pubDate>Sun, 08 Mar 2026 18:54:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/03/08/0e456d88bfbe4673a0c5ea1faea68c06_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/03/08/0e456d88bfbe4673a0c5ea1faea68c06_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/03/08/0e456d88bfbe4673a0c5ea1faea68c06_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kelsea Ballerini&#039;s Exes, Chase Stokes & Morgan Evans, Feud Over Divorce Comments]]></title>
-            <link>https://www.tmz.com/2026/03/08/chase-stokes-morgan-evans-feud-over-kelsea-ballerini-divorce-comments/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/chase-stokes-morgan-evans-feud-over-kelsea-ballerini-divorce-comments/</guid>
-            <pubDate>Sun, 08 Mar 2026 18:04:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/03/08/46f7eb5f16454135a6f9efd585c36dea_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/03/08/46f7eb5f16454135a6f9efd585c36dea_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/03/08/46f7eb5f16454135a6f9efd585c36dea_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
