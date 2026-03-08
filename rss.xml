@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 15:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 16:57:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Country Joe McDonald Dead at 84]]></title>
+            <link>https://www.tmz.com/2026/03/08/country-joe-mcdonald-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/country-joe-mcdonald-dead/</guid>
+            <pubDate>Sun, 08 Mar 2026 16:38:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/03/08/c2b5f0c214eb4ee6993b37ee013230fd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/03/08/c2b5f0c214eb4ee6993b37ee013230fd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/03/08/c2b5f0c214eb4ee6993b37ee013230fd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[James Van Der Beek Honored by Wife In Emotional Birthday Post]]></title>
+            <link>https://www.tmz.com/2026/03/08/james-van-der-beek-honored-by-wife-birthday-post/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/james-van-der-beek-honored-by-wife-birthday-post/</guid>
+            <pubDate>Sun, 08 Mar 2026 16:14:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/66/16by9/2026/03/08/666b656b5e804bf6b3b16bcf4983edd7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/66/16by9/2026/03/08/666b656b5e804bf6b3b16bcf4983edd7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/03/08/666b656b5e804bf6b3b16bcf4983edd7_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Brody Jenner Expecting Second Baby With Tia Blanco]]></title>
             <link>https://www.tmz.com/2026/03/08/brody-jenner-tia-blanco-expecting-second-baby/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/03/04/0b06737f42344698a5e93797e90dc68f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/03/04/0b06737f42344698a5e93797e90dc68f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;SNL&#039; Roasts Kristi Noem After Trump Fired Her as DHS Secretary]]></title>
-            <link>https://www.tmz.com/2026/03/08/kristi-noem-roasted-by-snl-trump-firing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/kristi-noem-roasted-by-snl-trump-firing/</guid>
-            <pubDate>Sun, 08 Mar 2026 13:08:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/03/08/4ae6ff4f5e4a401fb6b36e742f1cd245_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/03/08/4ae6ff4f5e4a401fb6b36e742f1cd245_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/03/08/4ae6ff4f5e4a401fb6b36e742f1cd245_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mary Cosby’s Son Robert Jr. Remembered as Devoted &#039;First Son&#039; in Obituary]]></title>
-            <link>https://www.tmz.com/2026/03/08/robert-cosby-jr-remembered-as-devoted-first-son-obituary/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/robert-cosby-jr-remembered-as-devoted-first-son-obituary/</guid>
-            <pubDate>Sun, 08 Mar 2026 12:50:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
