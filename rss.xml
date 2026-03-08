@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 11:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 13:26:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;SNL&#039; Roasts Kristi Noem After Trump Fired Her as DHS Secretary]]></title>
+            <link>https://www.tmz.com/2026/03/08/kristi-noem-roasted-by-snl-trump-firing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/kristi-noem-roasted-by-snl-trump-firing/</guid>
+            <pubDate>Sun, 08 Mar 2026 13:08:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/03/08/4ae6ff4f5e4a401fb6b36e742f1cd245_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/03/08/4ae6ff4f5e4a401fb6b36e742f1cd245_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/03/08/4ae6ff4f5e4a401fb6b36e742f1cd245_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mary Cosby’s Son Robert Jr. Remembered as Devoted &#039;First Son&#039; in Obituary]]></title>
+            <link>https://www.tmz.com/2026/03/08/robert-cosby-jr-remembered-as-devoted-first-son-obituary/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/robert-cosby-jr-remembered-as-devoted-first-son-obituary/</guid>
+            <pubDate>Sun, 08 Mar 2026 12:50:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Harry Styles Crashes Ryan Gosling&#039;s &#039;SNL&#039; Monologue]]></title>
+            <link>https://www.tmz.com/2026/03/08/harry-styles-crashes-ryan-gosling-snl-monologue/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/harry-styles-crashes-ryan-gosling-snl-monologue/</guid>
+            <pubDate>Sun, 08 Mar 2026 12:18:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/03/08/4ee0e4c93cfb4de0aec7e06d27fa6f22_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/03/08/4ee0e4c93cfb4de0aec7e06d27fa6f22_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/03/08/4ee0e4c93cfb4de0aec7e06d27fa6f22_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Blake Lively and Ryan Reynolds Snapped Making Out During Soccer Game]]></title>
+            <link>https://www.tmz.com/2026/03/08/blake-lively-ryan-reynolds-kissing-during-soccer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/blake-lively-ryan-reynolds-kissing-during-soccer/</guid>
+            <pubDate>Sun, 08 Mar 2026 12:11:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/03/08/c2f2f9cfd7844b6a9224ab4677b74a7a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/03/08/c2f2f9cfd7844b6a9224ab4677b74a7a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/03/08/c2f2f9cfd7844b6a9224ab4677b74a7a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Spring Forward With Hollywood&#039;s Hottest Babes In Bed!]]></title>
             <link>https://www.tmz.com/2026/03/08/spring-forward-hollywood-hottest-babes/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9f/16by9/2026/02/27/9f7d9f05dd59422b9909d86d381a1535_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9f/16by9/2026/02/27/9f7d9f05dd59422b9909d86d381a1535_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Legendary Magic City Dancer Says Luke Kornet Needs to Visit Before Criticizing]]></title>
-            <link>https://www.tmz.com/2026/03/08/magic-city-dancers-response-luke-kornet/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/magic-city-dancers-response-luke-kornet/</guid>
-            <pubDate>Sun, 08 Mar 2026 08:30:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/03/05/b004ed10cc53425cbddd725bce42e0c8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/03/05/b004ed10cc53425cbddd725bce42e0c8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/03/05/b004ed10cc53425cbddd725bce42e0c8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lil Yachty Says Giannis Antetokounmpo Has What It Takes to Be WWE Superstar]]></title>
-            <link>https://www.tmz.com/2026/03/08/lil-yachty-on-giannis-antetokounmpo-wwe-future/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/lil-yachty-on-giannis-antetokounmpo-wwe-future/</guid>
-            <pubDate>Sun, 08 Mar 2026 08:20:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/03/03/2f4a4dfc2c204d7baddc601164c55c99_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/03/03/2f4a4dfc2c204d7baddc601164c55c99_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/03/03/2f4a4dfc2c204d7baddc601164c55c99_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Champion Boxer Jai Opetaia Ready To Make Statement In Dana White’s Zuffa Boxing]]></title>
-            <link>https://www.tmz.com/2026/03/08/jai-opetaia-debut-dana-white-zuffa-boxing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/jai-opetaia-debut-dana-white-zuffa-boxing/</guid>
-            <pubDate>Sun, 08 Mar 2026 08:10:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/02/23/2f2391d282a446899528cdb872791d73_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/02/23/2f2391d282a446899528cdb872791d73_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/02/23/2f2391d282a446899528cdb872791d73_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Empowering Shirts for International Women&#039;s Day]]></title>
-            <link>https://www.tmz.com/2026/03/08/international-womens-day-female-empowerment-shirts/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/international-womens-day-female-empowerment-shirts/</guid>
-            <pubDate>Sun, 08 Mar 2026 08:05:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/03/05/b93d4d0d6eae4faf87ce02ec5ee9348e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/03/05/b93d4d0d6eae4faf87ce02ec5ee9348e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/03/05/b93d4d0d6eae4faf87ce02ec5ee9348e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
