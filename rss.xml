@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 17:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 19:01:11 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Girl Bosses of Hollywood For International Women&#039;s Day!]]></title>
+            <link>https://www.tmz.com/2026/03/08/girl-bosses-of-hollywood-international-women-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/girl-bosses-of-hollywood-international-women-day/</guid>
+            <pubDate>Sun, 08 Mar 2026 19:00:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rachel Zoe&#039;s Los Angeles Home Broken Into]]></title>
+            <link>https://www.tmz.com/2026/03/08/rachel-zoe-home-broken-into/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/rachel-zoe-home-broken-into/</guid>
+            <pubDate>Sun, 08 Mar 2026 18:54:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/03/08/0e456d88bfbe4673a0c5ea1faea68c06_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/03/08/0e456d88bfbe4673a0c5ea1faea68c06_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/03/08/0e456d88bfbe4673a0c5ea1faea68c06_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kelsea Ballerini&#039;s Exes, Chase Stokes & Morgan Evans, Feud Over Divorce Comments]]></title>
+            <link>https://www.tmz.com/2026/03/08/chase-stokes-morgan-evans-feud-over-kelsea-ballerini-divorce-comments/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/chase-stokes-morgan-evans-feud-over-kelsea-ballerini-divorce-comments/</guid>
+            <pubDate>Sun, 08 Mar 2026 18:04:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/03/08/46f7eb5f16454135a6f9efd585c36dea_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/03/08/46f7eb5f16454135a6f9efd585c36dea_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/03/08/46f7eb5f16454135a6f9efd585c36dea_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Country Joe McDonald Dead at 84]]></title>
             <link>https://www.tmz.com/2026/03/08/country-joe-mcdonald-dead/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/66/16by9/2026/03/08/666b656b5e804bf6b3b16bcf4983edd7_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/03/08/666b656b5e804bf6b3b16bcf4983edd7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brody Jenner Expecting Second Baby With Tia Blanco]]></title>
-            <link>https://www.tmz.com/2026/03/08/brody-jenner-tia-blanco-expecting-second-baby/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/brody-jenner-tia-blanco-expecting-second-baby/</guid>
-            <pubDate>Sun, 08 Mar 2026 14:51:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/03/08/2877fb70cc544c02838e1f3b5bd2c18c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/03/08/2877fb70cc544c02838e1f3b5bd2c18c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/03/08/2877fb70cc544c02838e1f3b5bd2c18c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Bieber Throws Water Bottle at Paparazzi After Dinner With Hailey Bieber]]></title>
-            <link>https://www.tmz.com/2026/03/08/justin-bieber-throws-water-bottle-paparazzi-after-hailey-bieber-dinner/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/justin-bieber-throws-water-bottle-paparazzi-after-hailey-bieber-dinner/</guid>
-            <pubDate>Sun, 08 Mar 2026 14:37:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/03/08/29a3dfb0fc874923b0b7dfb40c04944f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/03/08/29a3dfb0fc874923b0b7dfb40c04944f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/03/08/29a3dfb0fc874923b0b7dfb40c04944f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This &#039;90s Movie Star, Heartthrob Is]]></title>
-            <link>https://www.tmz.com/2026/03/08/guess-who-this-90s-movie-star-heartthrob-is/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/guess-who-this-90s-movie-star-heartthrob-is/</guid>
-            <pubDate>Sun, 08 Mar 2026 14:00:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/03/04/0b06737f42344698a5e93797e90dc68f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/03/04/0b06737f42344698a5e93797e90dc68f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/03/04/0b06737f42344698a5e93797e90dc68f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
