@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 22:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 23:54:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Rihanna&#039;s Los Angeles Home Targeted in Shooting, Suspect in Custody]]></title>
+            <link>https://www.tmz.com/2026/03/08/rihannas-beverly-hills-home-targeted-in-shooting-woman-detained/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/rihannas-beverly-hills-home-targeted-in-shooting-woman-detained/</guid>
+            <pubDate>Sun, 08 Mar 2026 23:26:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/03/08/a5aff0d0156b41c582eefbd72f09ade3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/03/08/a5aff0d0156b41c582eefbd72f09ade3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/03/08/a5aff0d0156b41c582eefbd72f09ade3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Music Producer & Songwriter Is!]]></title>
+            <link>https://www.tmz.com/2026/03/08/guess-who-this-music-producer-songwriter-is/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/guess-who-this-music-producer-songwriter-is/</guid>
+            <pubDate>Sun, 08 Mar 2026 23:00:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/03/04/40f87e6511b946be9967170ce48f02e1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/03/04/40f87e6511b946be9967170ce48f02e1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/03/04/40f87e6511b946be9967170ce48f02e1_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Michael J. Fox Shares &#039;Back to the Future&#039; Reunion With &#039;Bestie&#039; Christopher Lloyd]]></title>
             <link>https://www.tmz.com/2026/03/08/michael-j-fox-shares-back-to-the-future-reunion-with-bestie-christopher-lloyd/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/08/d25bd59630234a84a121d0ed722a09ae_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/08/d25bd59630234a84a121d0ed722a09ae_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Ghostbusters&#039; Actress Jennifer Runyon Dead at 65]]></title>
-            <link>https://www.tmz.com/2026/03/08/ghostbusters-actress-jennifer-runyon-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/ghostbusters-actress-jennifer-runyon-dead/</guid>
-            <pubDate>Sun, 08 Mar 2026 21:10:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/03/08/89db8251880b44b6be2fbbd237e984e9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/03/08/89db8251880b44b6be2fbbd237e984e9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/03/08/89db8251880b44b6be2fbbd237e984e9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[James Van Der Beek’s Daughter Emilia Remembers Late Actor On His Birthday]]></title>
-            <link>https://www.tmz.com/2026/03/08/emilia-van-der-beek-remembers-her-dad-on-his-birthday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/emilia-van-der-beek-remembers-her-dad-on-his-birthday/</guid>
-            <pubDate>Sun, 08 Mar 2026 21:00:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
