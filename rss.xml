@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 14:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 15:53:04 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Brody Jenner Expecting Second Baby With Tia Blanco]]></title>
+            <link>https://www.tmz.com/2026/03/08/brody-jenner-tia-blanco-expecting-second-baby/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/brody-jenner-tia-blanco-expecting-second-baby/</guid>
+            <pubDate>Sun, 08 Mar 2026 14:51:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/03/08/2877fb70cc544c02838e1f3b5bd2c18c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/03/08/2877fb70cc544c02838e1f3b5bd2c18c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/03/08/2877fb70cc544c02838e1f3b5bd2c18c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Justin Bieber Throws Water Bottle at Paparazzi After Dinner With Hailey Bieber]]></title>
             <link>https://www.tmz.com/2026/03/08/justin-bieber-throws-water-bottle-paparazzi-after-hailey-bieber-dinner/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/08/701d793cb32a463db529b431b359cdda_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Harry Styles Crashes Ryan Gosling&#039;s &#039;SNL&#039; Monologue]]></title>
-            <link>https://www.tmz.com/2026/03/08/harry-styles-crashes-ryan-gosling-snl-monologue/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/harry-styles-crashes-ryan-gosling-snl-monologue/</guid>
-            <pubDate>Sun, 08 Mar 2026 12:18:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/03/08/4ee0e4c93cfb4de0aec7e06d27fa6f22_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/03/08/4ee0e4c93cfb4de0aec7e06d27fa6f22_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/03/08/4ee0e4c93cfb4de0aec7e06d27fa6f22_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
