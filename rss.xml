@@ -4,18 +4,40 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 21:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 22:56:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Pink and Husband Carey Hart Take Their Kids to See &#039;& Juliet&#039; on Broadway]]></title>
+            <title><![CDATA[Michael J. Fox Shares &#039;Back to the Future&#039; Reunion With &#039;Bestie&#039; Christopher Lloyd]]></title>
+            <link>https://www.tmz.com/2026/03/08/michael-j-fox-shares-back-to-the-future-reunion-with-bestie-christopher-lloyd/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/michael-j-fox-shares-back-to-the-future-reunion-with-bestie-christopher-lloyd/</guid>
+            <pubDate>Sun, 08 Mar 2026 22:36:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/03/08/71b5fb54d6ba4e978e64eb6076d01f21_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/03/08/71b5fb54d6ba4e978e64eb6076d01f21_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/03/08/71b5fb54d6ba4e978e64eb6076d01f21_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jessica Alba Still With Danny Ramirez Amid Joe Burrow Viral Dating Speculation]]></title>
+            <link>https://www.tmz.com/2026/03/08/jessica-alba-still-with-danny-ramirez-amid-joe-burrow-viral-dating-speculation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/jessica-alba-still-with-danny-ramirez-amid-joe-burrow-viral-dating-speculation/</guid>
+            <pubDate>Sun, 08 Mar 2026 22:31:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/03/08/1979a2400a82417593d23fe6c5846d45_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/03/08/1979a2400a82417593d23fe6c5846d45_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/03/08/1979a2400a82417593d23fe6c5846d45_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Pink and Husband Carey Hart Take Their Kids to Broadway Amid Divorce Rumors]]></title>
             <link>https://www.tmz.com/2026/03/08/pink-takes-family-to-watch-and-juliet-on-broadway/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/08/pink-takes-family-to-watch-and-juliet-on-broadway/</guid>
             <pubDate>Sun, 08 Mar 2026 21:47:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/08/6aa4306172b141a4a5659fd9f84f0e70_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/08/6aa4306172b141a4a5659fd9f84f0e70_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/03/08/d25bd59630234a84a121d0ed722a09ae_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/08/d25bd59630234a84a121d0ed722a09ae_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/08/6aa4306172b141a4a5659fd9f84f0e70_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/08/d25bd59630234a84a121d0ed722a09ae_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nancy Guthrie Case Not Linked to Phoenix Canal Body, Sheriff Says]]></title>
-            <link>https://www.tmz.com/2026/03/08/nancy-guthrie-case-not-linked-phoenix-canal-body-says-sheriff/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/nancy-guthrie-case-not-linked-phoenix-canal-body-says-sheriff/</guid>
-            <pubDate>Sun, 08 Mar 2026 20:46:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b3/16by9/2026/03/08/b3db0b0d92604379ba9849a0ee3199b4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b3/16by9/2026/03/08/b3db0b0d92604379ba9849a0ee3199b4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b3/16by9/2026/03/08/b3db0b0d92604379ba9849a0ee3199b4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Logan Paul Says WWE Won&#039;t Let Him Box NFL Players]]></title>
-            <link>https://www.tmz.com/2026/03/08/logan-paul-says-he-cant-box-nfl-players-per-wwe/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/logan-paul-says-he-cant-box-nfl-players-per-wwe/</guid>
-            <pubDate>Sun, 08 Mar 2026 20:29:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
