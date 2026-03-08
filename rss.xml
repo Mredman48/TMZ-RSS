@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 20:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 21:53:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Pink and Husband Carey Hart Take Their Kids to See &#039;& Juliet&#039; on Broadway]]></title>
+            <link>https://www.tmz.com/2026/03/08/pink-takes-family-to-watch-and-juliet-on-broadway/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/pink-takes-family-to-watch-and-juliet-on-broadway/</guid>
+            <pubDate>Sun, 08 Mar 2026 21:47:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/08/6aa4306172b141a4a5659fd9f84f0e70_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/08/6aa4306172b141a4a5659fd9f84f0e70_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/08/6aa4306172b141a4a5659fd9f84f0e70_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Ghostbusters&#039; Actress Jennifer Runyon Dead at 65]]></title>
+            <link>https://www.tmz.com/2026/03/08/ghostbusters-actress-jennifer-runyon-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/ghostbusters-actress-jennifer-runyon-dead/</guid>
+            <pubDate>Sun, 08 Mar 2026 21:10:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/03/08/89db8251880b44b6be2fbbd237e984e9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/03/08/89db8251880b44b6be2fbbd237e984e9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/03/08/89db8251880b44b6be2fbbd237e984e9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[James Van Der Beek’s Daughter Emilia Remembers Late Actor On His Birthday]]></title>
+            <link>https://www.tmz.com/2026/03/08/emilia-van-der-beek-remembers-her-dad-on-his-birthday/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/emilia-van-der-beek-remembers-her-dad-on-his-birthday/</guid>
+            <pubDate>Sun, 08 Mar 2026 21:00:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/03/08/341e479fef1a4ad193e61d1ffcb2b63d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nancy Guthrie Case Not Linked to Phoenix Canal Body, Sheriff Says]]></title>
             <link>https://www.tmz.com/2026/03/08/nancy-guthrie-case-not-linked-phoenix-canal-body-says-sheriff/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/03/08/dff92bd320c844f3a22beb64690d7d86_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Maxx Crosby Posts Emotional Farewell to Raiders After Trade to Ravens]]></title>
-            <link>https://www.tmz.com/2026/03/08/maxx-crosby-emotional-raiders-farewell/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/maxx-crosby-emotional-raiders-farewell/</guid>
-            <pubDate>Sun, 08 Mar 2026 19:41:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/03/08/9a4f27c8e55944a8aac7ba15bddd3b84_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/03/08/9a4f27c8e55944a8aac7ba15bddd3b84_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/03/08/9a4f27c8e55944a8aac7ba15bddd3b84_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Winner of Netflix’s ‘Outlast’ Charged With Child Rape]]></title>
-            <link>https://www.tmz.com/2026/03/08/netflix-outlast-winner-charged-with-child-rape/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/netflix-outlast-winner-charged-with-child-rape/</guid>
-            <pubDate>Sun, 08 Mar 2026 19:03:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/03/08/3ea60b1f5e9d4443b3f5ff52b24f916e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/03/08/3ea60b1f5e9d4443b3f5ff52b24f916e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/03/08/3ea60b1f5e9d4443b3f5ff52b24f916e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Girl Bosses of Hollywood For International Women&#039;s Day!]]></title>
-            <link>https://www.tmz.com/2026/03/08/girl-bosses-of-hollywood-international-women-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/girl-bosses-of-hollywood-international-women-day/</guid>
-            <pubDate>Sun, 08 Mar 2026 19:00:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2025/03/04/63e7585b32c14ad599394482c79e3dc9_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
