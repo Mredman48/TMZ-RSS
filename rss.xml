@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 03:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 05:00:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[UFC&#039;s White House Card Announced, Justin Gaethje Vs. Ilia Topuria Headline]]></title>
+            <link>https://www.tmz.com/2026/03/07/ufc-white-house-card-announced-justin-gaethje-ilia-topuria/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/ufc-white-house-card-announced-justin-gaethje-ilia-topuria/</guid>
+            <pubDate>Sun, 08 Mar 2026 03:57:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/03/06/2bd92d5c621a4d508af14906b81c0d82_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/03/06/2bd92d5c621a4d508af14906b81c0d82_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/03/06/2bd92d5c621a4d508af14906b81c0d82_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[BLACKPINK&#039;s LISA Visits Punch the Monkey, Brings Orangutan Stuffed Animal]]></title>
             <link>https://www.tmz.com/2026/03/07/lisa-punch-the-monkey/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/33/16by9/2026/03/07/33aedd9e1ef848128f55e286742027ac_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/03/07/33aedd9e1ef848128f55e286742027ac_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Costner and Brooks Nader Get Close While Chatting at Las Vegas Casino]]></title>
-            <link>https://www.tmz.com/2026/03/07/kevin-costner-with-brooks-nader-in-las-vegas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/07/kevin-costner-with-brooks-nader-in-las-vegas/</guid>
-            <pubDate>Sat, 07 Mar 2026 22:12:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/03/07/eb20dab5c63141edbe45b1fce6b8d127_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/03/07/eb20dab5c63141edbe45b1fce6b8d127_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/03/07/eb20dab5c63141edbe45b1fce6b8d127_xl.png">
             </media:thumbnail>
         </item>
     </channel>
