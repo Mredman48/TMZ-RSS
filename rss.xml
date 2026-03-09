@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 06:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 07:36:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Shawn Porter Defends Floyd Mayweather&#039;s Boxing Return, He&#039;s Not Broke!]]></title>
+            <link>https://www.tmz.com/2026/03/09/shawn-porter-defends-floyd-mayweather-comeback/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/shawn-porter-defends-floyd-mayweather-comeback/</guid>
+            <pubDate>Mon, 09 Mar 2026 07:30:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/02/16by9/2026/03/02/028d849b14cd4604a777d181fa79909e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/02/16by9/2026/03/02/028d849b14cd4604a777d181fa79909e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/02/16by9/2026/03/02/028d849b14cd4604a777d181fa79909e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[National Barbie Day: Decorations, Movie Memorabilia]]></title>
+            <link>https://www.tmz.com/2026/03/09/national-barbie-day-buy-decorations-toys/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/national-barbie-day-buy-decorations-toys/</guid>
+            <pubDate>Mon, 09 Mar 2026 07:05:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/03/02/912aa5534ef7483d9c5cd0e75bae5514_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/03/02/912aa5534ef7483d9c5cd0e75bae5514_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/03/02/912aa5534ef7483d9c5cd0e75bae5514_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess The Future Pro Baller This Kid Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/03/09/guess-future-pro-baller-kid/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/guess-future-pro-baller-kid/</guid>
+            <pubDate>Mon, 09 Mar 2026 07:01:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/02/23/039e5857646d4d6092700b07bc8285d1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/02/23/039e5857646d4d6092700b07bc8285d1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/02/23/039e5857646d4d6092700b07bc8285d1_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Country Singer Maren Morris Tells Donald Trump Supporters &#039;You Voted For This&#039;]]></title>
             <link>https://www.tmz.com/2026/03/08/maren-morris-tells-donald-trump-supporters-you-voted-for-this/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/03/08/a3ea2c436e11469eb351ceaf36e375ec_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/03/08/a3ea2c436e11469eb351ceaf36e375ec_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna&#039;s Los Angeles Home Targeted in Shooting, Suspect in Custody]]></title>
-            <link>https://www.tmz.com/2026/03/08/rihannas-beverly-hills-home-targeted-in-shooting-woman-detained/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/rihannas-beverly-hills-home-targeted-in-shooting-woman-detained/</guid>
-            <pubDate>Sun, 08 Mar 2026 23:26:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/03/08/a5aff0d0156b41c582eefbd72f09ade3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/03/08/a5aff0d0156b41c582eefbd72f09ade3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/03/08/a5aff0d0156b41c582eefbd72f09ade3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Music Producer & Songwriter Is!]]></title>
-            <link>https://www.tmz.com/2026/03/08/guess-who-this-music-producer-songwriter-is/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/guess-who-this-music-producer-songwriter-is/</guid>
-            <pubDate>Sun, 08 Mar 2026 23:00:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/03/04/40f87e6511b946be9967170ce48f02e1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/03/04/40f87e6511b946be9967170ce48f02e1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/03/04/40f87e6511b946be9967170ce48f02e1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Michael J. Fox Shares &#039;Back to the Future&#039; Reunion With &#039;Bestie&#039; Christopher Lloyd]]></title>
-            <link>https://www.tmz.com/2026/03/08/michael-j-fox-shares-back-to-the-future-reunion-with-bestie-christopher-lloyd/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/08/michael-j-fox-shares-back-to-the-future-reunion-with-bestie-christopher-lloyd/</guid>
-            <pubDate>Sun, 08 Mar 2026 22:36:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/03/08/71b5fb54d6ba4e978e64eb6076d01f21_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/03/08/71b5fb54d6ba4e978e64eb6076d01f21_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/03/08/71b5fb54d6ba4e978e64eb6076d01f21_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
