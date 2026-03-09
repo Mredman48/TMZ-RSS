@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 21:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 21:58:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[NBA Cancels Hawks&#039; Magic City Night After Backlash]]></title>
+            <link>https://www.tmz.com/2026/03/09/nba-cancels-hawks-magic-city-night-after-backlash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/nba-cancels-hawks-magic-city-night-after-backlash/</guid>
+            <pubDate>Mon, 09 Mar 2026 21:24:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/03/09/d25694b94c87435eb6fa60e009a4db26_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/09/d25694b94c87435eb6fa60e009a4db26_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/09/d25694b94c87435eb6fa60e009a4db26_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Prosecutors Cite Charlie Kirk-Israel Conspiracies To Fight Alleged Killer&#039;s Plea for Private Hearing]]></title>
+            <link>https://www.tmz.com/2026/03/09/prosecutors-using-charlie-kirk-israel-conspiracies-against-tyler-robinson-trial-plea/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/prosecutors-using-charlie-kirk-israel-conspiracies-against-tyler-robinson-trial-plea/</guid>
+            <pubDate>Mon, 09 Mar 2026 21:22:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/03/09/1f170dc8469b4026b6ff6cb30cb9ee41_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/03/09/1f170dc8469b4026b6ff6cb30cb9ee41_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/03/09/1f170dc8469b4026b6ff6cb30cb9ee41_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Christian Barmore&#039;s Domestic Assault Case Dropped]]></title>
+            <link>https://www.tmz.com/2026/03/09/christian-barmore-domestic-assault-case-dropped/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/christian-barmore-domestic-assault-case-dropped/</guid>
+            <pubDate>Mon, 09 Mar 2026 21:00:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/03/09/69a6e0e5a15146759b562e4a5c81b3b2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/03/09/69a6e0e5a15146759b562e4a5c81b3b2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/03/09/69a6e0e5a15146759b562e4a5c81b3b2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[FBI Still Searching for H.S. Coach Travis Turner After Child Porn Warrants]]></title>
             <link>https://www.tmz.com/2026/03/09/travis-turner-missing-coach-child-porn-fbi-us-marshal-update/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/09/953a871482f3414c88257db8429aad50_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/09/953a871482f3414c88257db8429aad50_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna Was at Home With Her 3 Kids During Shooting: Source]]></title>
-            <link>https://www.tmz.com/2026/03/09/rihanna-home-with-kids-during-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/rihanna-home-with-kids-during-shooting/</guid>
-            <pubDate>Mon, 09 Mar 2026 20:02:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/03/09/bf90af46117647cb9e917c0005b1af44_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/03/09/bf90af46117647cb9e917c0005b1af44_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/03/09/bf90af46117647cb9e917c0005b1af44_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pro Football Player Jordan Jones Shot & Killed After Breaking Up Bar Fight]]></title>
-            <link>https://www.tmz.com/2026/03/09/jordan-jones-dead-shot-bar-indoor-football-league/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/jordan-jones-dead-shot-bar-indoor-football-league/</guid>
-            <pubDate>Mon, 09 Mar 2026 19:53:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/09/55248da2bae94f1a9dcbbc29fac15649_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/09/55248da2bae94f1a9dcbbc29fac15649_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/09/55248da2bae94f1a9dcbbc29fac15649_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;RHOSLC&#039; Star Mary Cosby&#039;s Son&#039;s Funeral Was Not Filmed for Season 7]]></title>
-            <link>https://www.tmz.com/2026/03/09/rhoslc-stars-attend-robert-cosby-jr-funeral/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/rhoslc-stars-attend-robert-cosby-jr-funeral/</guid>
-            <pubDate>Mon, 09 Mar 2026 19:52:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
