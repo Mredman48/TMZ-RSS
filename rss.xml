@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 16:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 17:30:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Dak Prescott, Sarah Jane Ramos Alert Wedding Guests Of Cancellation]]></title>
-            <link>https://www.tmz.com/2026/03/09/dak-prescott-sarah-jane-ramos-email-to-wedding-guests-cancellation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dak-prescott-sarah-jane-ramos-email-to-wedding-guests-cancellation/</guid>
-            <pubDate>Mon, 09 Mar 2026 16:26:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/03/09/76e8816005254100ba0761d7171d0a6e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/03/09/76e8816005254100ba0761d7171d0a6e_xl.jpg" medium="image">
+            <title><![CDATA[Jake Paul Gifts Jutta Leerdam ‘Bronze’ G-Wagon After Gold & Silver Medals]]></title>
+            <link>https://www.tmz.com/2026/03/09/jake-paul-gifts-fiancee-jutta-leerdam-bronze-g-wagon/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/jake-paul-gifts-fiancee-jutta-leerdam-bronze-g-wagon/</guid>
+            <pubDate>Mon, 09 Mar 2026 17:22:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/03/09/14de7a46c9394adb8d120c6235f1bbce_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/14/16by9/2026/03/09/14de7a46c9394adb8d120c6235f1bbce_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/03/09/76e8816005254100ba0761d7171d0a6e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/14/16by9/2026/03/09/14de7a46c9394adb8d120c6235f1bbce_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[WWE Actually Called Logan Paul, Told Him No NFL Boxing Fights]]></title>
-            <link>https://www.tmz.com/2026/03/09/wwe-called-logan-paul-about-nfl-boxing-fights/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/wwe-called-logan-paul-about-nfl-boxing-fights/</guid>
-            <pubDate>Mon, 09 Mar 2026 16:14:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/03/09/f7356d30516d467ab36a8d2d652cf52b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/09/f7356d30516d467ab36a8d2d652cf52b_xl.jpg" medium="image">
+            <title><![CDATA[Kanye West Announces New Live Show in Los Angeles After 5 Years]]></title>
+            <link>https://www.tmz.com/2026/03/09/kanye-announces-new-live-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/kanye-announces-new-live-show/</guid>
+            <pubDate>Mon, 09 Mar 2026 17:22:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/03/09/7f311bde8230495fb8229be3c86d3324_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/03/09/7f311bde8230495fb8229be3c86d3324_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/09/f7356d30516d467ab36a8d2d652cf52b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/03/09/7f311bde8230495fb8229be3c86d3324_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Hilary Duff Says &#039;Lizzie McGuire&#039; Reboot May Not Come for a Few Decades]]></title>
-            <link>https://www.tmz.com/2026/03/09/hilary-duff-talks-lizzie-mcguire-reboot/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/hilary-duff-talks-lizzie-mcguire-reboot/</guid>
-            <pubDate>Mon, 09 Mar 2026 16:14:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/03/09/ddf42fa516464f19b95e829735394f88_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/03/09/ddf42fa516464f19b95e829735394f88_xl.jpg" medium="image">
+            <title><![CDATA[Timothy Busfield Fires Back After Actress Claims He Sexually Abused Her]]></title>
+            <link>https://www.tmz.com/2026/03/09/timothy-busfield-denies-claudia-christian-sex-abuse-claims/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/timothy-busfield-denies-claudia-christian-sex-abuse-claims/</guid>
+            <pubDate>Mon, 09 Mar 2026 17:21:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a482c0c502234aabbbd1245c27307d2a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a482c0c502234aabbbd1245c27307d2a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/03/09/ddf42fa516464f19b95e829735394f88_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a482c0c502234aabbbd1245c27307d2a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Boston Singer Tommy DeCarlo Dead at 60]]></title>
-            <link>https://www.tmz.com/2026/03/09/boston-singer-tommy-decarlo-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/boston-singer-tommy-decarlo-dead/</guid>
-            <pubDate>Mon, 09 Mar 2026 16:10:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/03/09/51e8e59406f5434cb18c09c318109b3c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/03/09/51e8e59406f5434cb18c09c318109b3c_xl.jpg" medium="image">
+            <title><![CDATA[Late &#039;Ghostbusters&#039; Actress Jennifer Runyon Died After 6-Month Cancer Battle]]></title>
+            <link>https://www.tmz.com/2026/03/09/jennifer-runyon-died-after-cancer-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/jennifer-runyon-died-after-cancer-fight/</guid>
+            <pubDate>Mon, 09 Mar 2026 17:00:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/03/09/d3433493343a4a6aaa0f8b4bf66d4441_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/03/09/d3433493343a4a6aaa0f8b4bf66d4441_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/03/09/51e8e59406f5434cb18c09c318109b3c_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/03/09/d3433493343a4a6aaa0f8b4bf66d4441_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;90 Day Fiancé&#039; Leida Margaretha&#039;s Baby Girl&#039;s Death Ruled Non-Accidental]]></title>
-            <link>https://www.tmz.com/2026/03/09/leida-margaretha-baby-girl-death-ruled-non-accidental/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/leida-margaretha-baby-girl-death-ruled-non-accidental/</guid>
-            <pubDate>Mon, 09 Mar 2026 15:57:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/03/09/b5bc4ac225e84a198b3a84480ebe97eb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/03/09/b5bc4ac225e84a198b3a84480ebe97eb_xl.jpg" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/03/09/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/watch-tmz-live-today/</guid>
+            <pubDate>Mon, 09 Mar 2026 16:53:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/03/09/178a93f8cc204558ae0b031745bb13e5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/03/09/178a93f8cc204558ae0b031745bb13e5_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/03/09/b5bc4ac225e84a198b3a84480ebe97eb_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/03/09/178a93f8cc204558ae0b031745bb13e5_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
