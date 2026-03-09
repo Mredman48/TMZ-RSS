@@ -4,7 +4,7 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 10:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 11:22:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
@@ -12,10 +12,10 @@
             <link>https://www.tmz.com/2026/03/09/doja-cat-timothee-chalamet/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/09/doja-cat-timothee-chalamet/</guid>
             <pubDate>Mon, 09 Mar 2026 09:15:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c4/16by9/2025/11/02/c4bde3ef6cb84fad899093706a16e908_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c4/16by9/2025/11/02/c4bde3ef6cb84fad899093706a16e908_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/40/16by9/2023/04/09/40b827c18ab2441181e960eaf8bb0596_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/40/16by9/2023/04/09/40b827c18ab2441181e960eaf8bb0596_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2025/11/02/c4bde3ef6cb84fad899093706a16e908_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2023/04/09/40b827c18ab2441181e960eaf8bb0596_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
