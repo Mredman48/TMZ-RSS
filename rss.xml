@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 19:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 20:01:51 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Pro Football Player Jordan Jones Shot & Killed After Breaking Up Bar Fight]]></title>
+            <link>https://www.tmz.com/2026/03/09/jordan-jones-dead-shot-bar-indoor-football-league/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/jordan-jones-dead-shot-bar-indoor-football-league/</guid>
+            <pubDate>Mon, 09 Mar 2026 19:53:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/09/55248da2bae94f1a9dcbbc29fac15649_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/09/55248da2bae94f1a9dcbbc29fac15649_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/09/55248da2bae94f1a9dcbbc29fac15649_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;RHOSLC&#039; Star Mary Cosby&#039;s Son&#039;s Funeral Was Not Filmed for Season 7]]></title>
+            <link>https://www.tmz.com/2026/03/09/rhoslc-stars-attend-robert-cosby-jr-funeral/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/rhoslc-stars-attend-robert-cosby-jr-funeral/</guid>
+            <pubDate>Mon, 09 Mar 2026 19:52:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna Home Shooting Dispatch Audio Released, Listen]]></title>
+            <link>https://www.tmz.com/2026/03/09/dispatch-audio-rihanna-house-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dispatch-audio-rihanna-house-shooting/</guid>
+            <pubDate>Mon, 09 Mar 2026 19:36:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a4b5e59e586740368ccc0efe0d9457d9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a4b5e59e586740368ccc0efe0d9457d9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a4b5e59e586740368ccc0efe0d9457d9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Love Island&#039; Star Austin Shepard Reveals Why He Went to Rehab]]></title>
+            <link>https://www.tmz.com/2026/03/09/austin-shepard-opens-up-about-relapse/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/austin-shepard-opens-up-about-relapse/</guid>
+            <pubDate>Mon, 09 Mar 2026 19:23:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/03/09/d6239e55b8094342b60c91adb2824e18_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/03/09/d6239e55b8094342b60c91adb2824e18_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/03/09/d6239e55b8094342b60c91adb2824e18_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Guess The Nepo Babe In Her Lil&#039; Bikini!]]></title>
             <link>https://www.tmz.com/2026/03/09/guess-nepo-babe-lil-bikini/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/38/16by9/2026/03/09/3864473e95d049a4949820e244cc3cb8_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/03/09/3864473e95d049a4949820e244cc3cb8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Dre Finally Sells Longtime Malibu Beach House for $16.5 Million]]></title>
-            <link>https://www.tmz.com/2026/03/09/dr-dre-sells-malibu-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dr-dre-sells-malibu-house/</guid>
-            <pubDate>Mon, 09 Mar 2026 19:05:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/03/09/b61061acb1444296b5e5bdb597aaf7fd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/03/09/b61061acb1444296b5e5bdb597aaf7fd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/03/09/b61061acb1444296b5e5bdb597aaf7fd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[James Carville Says Expletive-Laced Trump Rant Was Cathartic]]></title>
-            <link>https://www.tmz.com/2026/03/09/james-carville-addresses-trump-rant-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/james-carville-addresses-trump-rant-video/</guid>
-            <pubDate>Mon, 09 Mar 2026 19:04:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/03/09/05505c2861324ca793bda14f20414fe9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/03/09/05505c2861324ca793bda14f20414fe9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/03/09/05505c2861324ca793bda14f20414fe9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pat Mahomes Sr. Avoids Prison, Judge Extends Probation]]></title>
-            <link>https://www.tmz.com/2026/03/09/pat-mahomes-sr-probation-extended/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/pat-mahomes-sr-probation-extended/</guid>
-            <pubDate>Mon, 09 Mar 2026 18:42:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/03/09/e45cfd35fd8c4080a6fa2a31b2063e68_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/03/09/e45cfd35fd8c4080a6fa2a31b2063e68_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/03/09/e45cfd35fd8c4080a6fa2a31b2063e68_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Timothée Chalamet Dissed Opera & Ballet in Resurfaced Video From 2019]]></title>
-            <link>https://www.tmz.com/2026/03/09/timothee-chalamet-opera-ballet-controversy-2019/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/timothee-chalamet-opera-ballet-controversy-2019/</guid>
-            <pubDate>Mon, 09 Mar 2026 18:42:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/03/09/757479f4389c4760977caac59b340226_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/03/09/757479f4389c4760977caac59b340226_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/03/09/757479f4389c4760977caac59b340226_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
