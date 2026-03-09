@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 20:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 21:02:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[FBI Still Searching for H.S. Coach Travis Turner After Child Porn Warrants]]></title>
+            <link>https://www.tmz.com/2026/03/09/travis-turner-missing-coach-child-porn-fbi-us-marshal-update/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/travis-turner-missing-coach-child-porn-fbi-us-marshal-update/</guid>
+            <pubDate>Mon, 09 Mar 2026 20:58:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/03/09/eac716f760044147b5b0e25c4d7539a5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/03/09/eac716f760044147b5b0e25c4d7539a5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/03/09/eac716f760044147b5b0e25c4d7539a5_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dwight Howard Files to Divorce Wife Amber After Her Bombshell Accusations]]></title>
+            <link>https://www.tmz.com/2026/03/09/dwight-howard-files-for-divorce-from-wife-after-major-accusations/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dwight-howard-files-for-divorce-from-wife-after-major-accusations/</guid>
+            <pubDate>Mon, 09 Mar 2026 20:56:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/03/09/953a871482f3414c88257db8429aad50_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/09/953a871482f3414c88257db8429aad50_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/09/953a871482f3414c88257db8429aad50_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna Was at Home With Her 3 Kids During Shooting: Source]]></title>
+            <link>https://www.tmz.com/2026/03/09/rihanna-home-with-kids-during-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/rihanna-home-with-kids-during-shooting/</guid>
+            <pubDate>Mon, 09 Mar 2026 20:02:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/03/09/bf90af46117647cb9e917c0005b1af44_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/03/09/bf90af46117647cb9e917c0005b1af44_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/03/09/bf90af46117647cb9e917c0005b1af44_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Pro Football Player Jordan Jones Shot & Killed After Breaking Up Bar Fight]]></title>
             <link>https://www.tmz.com/2026/03/09/jordan-jones-dead-shot-bar-indoor-football-league/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/03/09/aa803ff2f94848338ce1a9c6f7bef08a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna Home Shooting Dispatch Audio Released, Listen]]></title>
-            <link>https://www.tmz.com/2026/03/09/dispatch-audio-rihanna-house-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dispatch-audio-rihanna-house-shooting/</guid>
-            <pubDate>Mon, 09 Mar 2026 19:36:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a4b5e59e586740368ccc0efe0d9457d9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a4b5e59e586740368ccc0efe0d9457d9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/03/09/a4b5e59e586740368ccc0efe0d9457d9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love Island&#039; Star Austin Shepard Reveals Why He Went to Rehab]]></title>
-            <link>https://www.tmz.com/2026/03/09/austin-shepard-opens-up-about-relapse/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/austin-shepard-opens-up-about-relapse/</guid>
-            <pubDate>Mon, 09 Mar 2026 19:23:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/03/09/d6239e55b8094342b60c91adb2824e18_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/03/09/d6239e55b8094342b60c91adb2824e18_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/03/09/d6239e55b8094342b60c91adb2824e18_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess The Nepo Babe In Her Lil&#039; Bikini!]]></title>
-            <link>https://www.tmz.com/2026/03/09/guess-nepo-babe-lil-bikini/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/guess-nepo-babe-lil-bikini/</guid>
-            <pubDate>Mon, 09 Mar 2026 19:17:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/38/16by9/2026/03/09/3864473e95d049a4949820e244cc3cb8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/38/16by9/2026/03/09/3864473e95d049a4949820e244cc3cb8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/03/09/3864473e95d049a4949820e244cc3cb8_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
