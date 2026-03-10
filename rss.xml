@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 23:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 03:14:29 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Jenelle Evans&#039; Son Checks Into Mental Health Center]]></title>
-            <link>https://www.tmz.com/2026/03/09/jenelle-evans-son-checks-into-mental-health-center/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/jenelle-evans-son-checks-into-mental-health-center/</guid>
-            <pubDate>Mon, 09 Mar 2026 23:32:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/03/09/2ef3392abd2b40e5849ee9eb33e95551_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/03/09/2ef3392abd2b40e5849ee9eb33e95551_xl.jpg" medium="image">
+            <title><![CDATA[Kim Kardashian Never Tried to Buy Rare Hermès Bag for North West, Despite Report]]></title>
+            <link>https://www.tmz.com/2026/03/09/kim-kardashian-never-tried-to-buy-rare-hermes-bag-for-north-west/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/kim-kardashian-never-tried-to-buy-rare-hermes-bag-for-north-west/</guid>
+            <pubDate>Tue, 10 Mar 2026 02:47:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/03/10/b7c8142ae7064286a7a54d7e01a5195d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/03/10/b7c8142ae7064286a7a54d7e01a5195d_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/03/09/2ef3392abd2b40e5849ee9eb33e95551_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/03/10/b7c8142ae7064286a7a54d7e01a5195d_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jenna Dewan Calls Opera One of the Greatest Art Forms Amid Timothée Chalamet Backlash]]></title>
-            <link>https://www.tmz.com/2026/03/09/jenna-dewan-talks-timothee-chalamet-opera-diss/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/jenna-dewan-talks-timothee-chalamet-opera-diss/</guid>
-            <pubDate>Mon, 09 Mar 2026 23:17:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/03/09/4211b427c20b46009e7cb1e341e8678a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/03/09/4211b427c20b46009e7cb1e341e8678a_xl.png" medium="image">
+            <title><![CDATA[Woman Who Shot at Rihanna&#039;s Home Was Previously Baker Acted, Lost Custody of Kid]]></title>
+            <link>https://www.tmz.com/2026/03/09/rihanna-house-shooter-previously-baker-acted-lost-child-custody/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/rihanna-house-shooter-previously-baker-acted-lost-child-custody/</guid>
+            <pubDate>Tue, 10 Mar 2026 01:29:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/03/10/2553e7b35b15473d8dd8263f54cc4ebe_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/03/10/2553e7b35b15473d8dd8263f54cc4ebe_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/03/09/4211b427c20b46009e7cb1e341e8678a_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/03/10/2553e7b35b15473d8dd8263f54cc4ebe_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Dwight Howard Police Calls For Service Include Suicide Threat Before Divorce Filing]]></title>
-            <link>https://www.tmz.com/2026/03/09/dwight-howard-police-calls-include-suicide-threat-before-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dwight-howard-police-calls-include-suicide-threat-before-divorce/</guid>
-            <pubDate>Mon, 09 Mar 2026 22:58:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4b/16by9/2026/03/09/4b9bc77272744ca8930593344215ae42_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/03/09/4b9bc77272744ca8930593344215ae42_xl.jpg" medium="image">
+            <title><![CDATA[Rihanna Leaves Los Angeles After Woman Shoots at Her Home]]></title>
+            <link>https://www.tmz.com/2026/03/09/rihanna-skips-town-amid-shooting-investigation-at-her-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/rihanna-skips-town-amid-shooting-investigation-at-her-home/</guid>
+            <pubDate>Tue, 10 Mar 2026 01:03:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/03/10/d8f1faabdb1748089cda612219b64dab_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/03/10/d8f1faabdb1748089cda612219b64dab_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/03/09/4b9bc77272744ca8930593344215ae42_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/03/10/d8f1faabdb1748089cda612219b64dab_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rihanna Shooting Suspect Appears to Ramble About Singer&#039;s Death in Incoherent Video]]></title>
-            <link>https://www.tmz.com/2026/03/09/ivanna-lisette-ortiz-rambles-about-rihanna-dying/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/ivanna-lisette-ortiz-rambles-about-rihanna-dying/</guid>
-            <pubDate>Mon, 09 Mar 2026 22:30:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/03/09/fae54f3463ee493ea97a08043d62cce1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/03/09/fae54f3463ee493ea97a08043d62cce1_xl.jpg" medium="image">
+            <title><![CDATA[Dwight Howard Won Race to Divorce Court Over Amber Howard]]></title>
+            <link>https://www.tmz.com/2026/03/09/dwight-howard-beat-amber-to-divorce-court/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dwight-howard-beat-amber-to-divorce-court/</guid>
+            <pubDate>Tue, 10 Mar 2026 00:49:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/03/09/d98719f0c0ad45598dd7c3e9988c0a6f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/03/09/d98719f0c0ad45598dd7c3e9988c0a6f_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/03/09/fae54f3463ee493ea97a08043d62cce1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/03/09/d98719f0c0ad45598dd7c3e9988c0a6f_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Paige Shiver Not Ruling Out Lawsuit Against Sherrone Moore, Michigan]]></title>
-            <link>https://www.tmz.com/2026/03/09/sherrone-moore-paige-shiver-lawsuit-harassment-michigan/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/sherrone-moore-paige-shiver-lawsuit-harassment-michigan/</guid>
-            <pubDate>Mon, 09 Mar 2026 22:13:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/03/09/0aa2dab478814a279a7822d9fe56ea51_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/03/09/0aa2dab478814a279a7822d9fe56ea51_xl.jpg" medium="image">
+            <title><![CDATA[Rihanna&#039;s House Surrounded By Police As Shooting Investigation Continues]]></title>
+            <link>https://www.tmz.com/2026/03/09/police-crowd-rihanna-home-after-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/police-crowd-rihanna-home-after-shooting/</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/03/09/daef80d8ab92478dbdf35f62fd8f651e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/03/09/daef80d8ab92478dbdf35f62fd8f651e_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/03/09/0aa2dab478814a279a7822d9fe56ea51_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/03/09/daef80d8ab92478dbdf35f62fd8f651e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
