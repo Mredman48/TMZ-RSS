@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 08:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 09:25:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jasmine Crockett&#039;s Failed Senate Campaign Expenses Revealed]]></title>
+            <link>https://www.tmz.com/2026/03/10/jasmine-crockett-campaign-finances-released/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/jasmine-crockett-campaign-finances-released/</guid>
+            <pubDate>Tue, 10 Mar 2026 09:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/03/09/b66ba9e2c159467698f268cc0cddea09_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/03/09/b66ba9e2c159467698f268cc0cddea09_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/03/09/b66ba9e2c159467698f268cc0cddea09_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;90 Day Fiancé&#039; Star Eric Rosenbrook Hires Private Medical Examiner, Slams &#039;Non-Accidental&#039; Baby Death Ruling]]></title>
             <link>https://www.tmz.com/2026/03/10/eric-rosenbrook-hires-medical-examiner-after-baby-death-ruling/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bad Bunny Thirst Traps To Kick Off His 32nd Birthday!]]></title>
-            <link>https://www.tmz.com/2026/03/10/bad-bunny-birthday-thirst-traps/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/bad-bunny-birthday-thirst-traps/</guid>
-            <pubDate>Tue, 10 Mar 2026 07:01:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4c/16by9/2026/03/09/4ca9a959db3e4cfcbd81b64e5ae82b6b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/03/09/4ca9a959db3e4cfcbd81b64e5ae82b6b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/03/09/4ca9a959db3e4cfcbd81b64e5ae82b6b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
