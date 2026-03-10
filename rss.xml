@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 21:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 22:59:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Erika Jayne&#039;s &#039;RHOBH&#039; Abuse Admission Tied to 2024 LAPD Report]]></title>
+            <link>https://www.tmz.com/2026/03/10/erika-jayne-rhobh-abuse-connected-to-police-report/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/erika-jayne-rhobh-abuse-connected-to-police-report/</guid>
+            <pubDate>Tue, 10 Mar 2026 22:48:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/79/16by9/2026/03/10/7997dd1d2f8b46038f201d171151fe3d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/79/16by9/2026/03/10/7997dd1d2f8b46038f201d171151fe3d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/03/10/7997dd1d2f8b46038f201d171151fe3d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears&#039; Mug Shot Won&#039;t be Released]]></title>
+            <link>https://www.tmz.com/2026/03/10/britney-spears-mug-shot-no-release/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/britney-spears-mug-shot-no-release/</guid>
+            <pubDate>Tue, 10 Mar 2026 22:33:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/03/10/f711cdfd3e2e47f29928536ee6f5e1e1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/10/f711cdfd3e2e47f29928536ee6f5e1e1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/10/f711cdfd3e2e47f29928536ee6f5e1e1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Courtney Stodden Says Leave Britney Alone Amid DUI Fallout]]></title>
+            <link>https://www.tmz.com/2026/03/10/courtney-stodden-talks-britney-spears-on-after-dark-tour/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/courtney-stodden-talks-britney-spears-on-after-dark-tour/</guid>
+            <pubDate>Tue, 10 Mar 2026 22:31:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/03/09/3b19ca89a45f49f79243e7fb4b2a582b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/03/09/3b19ca89a45f49f79243e7fb4b2a582b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/03/09/3b19ca89a45f49f79243e7fb4b2a582b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Matt Snell, New York Jets and Super Bowl III Legend, Dead At 84]]></title>
+            <link>https://www.tmz.com/2026/03/10/matt-snell-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/matt-snell-dead/</guid>
+            <pubDate>Tue, 10 Mar 2026 22:15:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/98/16by9/2026/03/10/987e7bdfc6cf4934885a9faf4850f54a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/98/16by9/2026/03/10/987e7bdfc6cf4934885a9faf4850f54a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2026/03/10/987e7bdfc6cf4934885a9faf4850f54a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Francis Ngannou Says He Wants To Kick Jake Paul&#039;s Ass During Press Conference Exchange]]></title>
             <link>https://www.tmz.com/2026/03/10/francis-ngannou-jake-paul-fight-challenge-press-conference/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/db/16by9/2026/03/10/db652d436c8d40e5b83e2b04f15ec0f7_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/03/10/db652d436c8d40e5b83e2b04f15ec0f7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nicole Curtis Attempts to Explain N-Word Controversy on &#039;Breakfast Club&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/10/nicole-curtis-explains-racial-slur-on-breakfast-club/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/nicole-curtis-explains-racial-slur-on-breakfast-club/</guid>
-            <pubDate>Tue, 10 Mar 2026 21:30:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/03/10/162e0a610b184bc588f75dd12410c456_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/03/10/162e0a610b184bc588f75dd12410c456_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/03/10/162e0a610b184bc588f75dd12410c456_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Former Trump Lawyer Alina Habba Quietly Divorced Second Husband]]></title>
-            <link>https://www.tmz.com/2026/03/10/trump-lawyer-alina-habba-splits-from-husband/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/trump-lawyer-alina-habba-splits-from-husband/</guid>
-            <pubDate>Tue, 10 Mar 2026 21:22:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/03/10/459cb36470c74bc6aede2cf58cb5ec55_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/03/10/459cb36470c74bc6aede2cf58cb5ec55_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/03/10/459cb36470c74bc6aede2cf58cb5ec55_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jenelle Evans’ Mom Barbara Desperately Called Police to Get Grandson Jace Committed]]></title>
-            <link>https://www.tmz.com/2026/03/10/jenelle-evans-mom-called-police-to-get-jace-committed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/jenelle-evans-mom-called-police-to-get-jace-committed/</guid>
-            <pubDate>Tue, 10 Mar 2026 21:13:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/03/10/30a2eac9dd01481e877aef54aa25f9cd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/03/10/30a2eac9dd01481e877aef54aa25f9cd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/03/10/30a2eac9dd01481e877aef54aa25f9cd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Madison Beer Wishes Justin Herbert Happy Birthday, &#039;I Am So Lucky To Be Yours&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/10/madison-beer-wishes-justin-herbert-a-happy-birthday-on-instagram/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/madison-beer-wishes-justin-herbert-a-happy-birthday-on-instagram/</guid>
-            <pubDate>Tue, 10 Mar 2026 21:12:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/03/10/8ced1300de6f452cba2f3a2fcdc772fc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/03/10/8ced1300de6f452cba2f3a2fcdc772fc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/03/10/8ced1300de6f452cba2f3a2fcdc772fc_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
