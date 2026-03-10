@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 09:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 10:22:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Macaulay Culkin & Brenda Song Purchase L.A. Area Home for $10.3M]]></title>
+            <link>https://www.tmz.com/2026/03/10/macaulay-culkin-and-brenda-song-purchase-sherman-oaks-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/macaulay-culkin-and-brenda-song-purchase-sherman-oaks-home/</guid>
+            <pubDate>Tue, 10 Mar 2026 10:00:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/03/09/1d9a5aaa0bda4555a46c264991b49999_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/03/09/1d9a5aaa0bda4555a46c264991b49999_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/03/09/1d9a5aaa0bda4555a46c264991b49999_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jack White Says It&#039;s Boring to Write Songs About Breakups Like Taylor Swift]]></title>
+            <link>https://www.tmz.com/2026/03/10/jack-white-says-doesnt-write-songs-about-breakups-unlike-taylor-swift/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/jack-white-says-doesnt-write-songs-about-breakups-unlike-taylor-swift/</guid>
+            <pubDate>Tue, 10 Mar 2026 09:45:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/87/16by9/2025/11/09/871bebef59bc44b1b8ff5daf9a3012f9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/87/16by9/2025/11/09/871bebef59bc44b1b8ff5daf9a3012f9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2025/11/09/871bebef59bc44b1b8ff5daf9a3012f9_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jasmine Crockett&#039;s Failed Senate Campaign Expenses Revealed]]></title>
             <link>https://www.tmz.com/2026/03/10/jasmine-crockett-campaign-finances-released/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/39/16by9/2026/01/26/395a29dce9ba495c8897ce31ac21e22e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/39/16by9/2026/01/26/395a29dce9ba495c8897ce31ac21e22e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jack Hughes Says Watching Women Win Gold Motivated Team USA Men]]></title>
-            <link>https://www.tmz.com/2026/03/10/jack-hughes-watching-women-win-gold-motivated-usa-men/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/jack-hughes-watching-women-win-gold-motivated-usa-men/</guid>
-            <pubDate>Tue, 10 Mar 2026 07:30:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5f/16by9/2026/03/09/5f65464c8023406d932597b715f21f63_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5f/16by9/2026/03/09/5f65464c8023406d932597b715f21f63_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5f/16by9/2026/03/09/5f65464c8023406d932597b715f21f63_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrating Mario Day: Relive Childhood with Classic Finds]]></title>
-            <link>https://www.tmz.com/2026/03/10/mario-day-nostalgic-gifts-games/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/mario-day-nostalgic-gifts-games/</guid>
-            <pubDate>Tue, 10 Mar 2026 07:05:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
