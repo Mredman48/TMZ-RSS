@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 20:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 21:02:12 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Marlon Wayans Says He&#039;s Ready to Bring Laughter With &#039;Scary Movie 6&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/10/marlon-wayans-scary-movie-6-comedy-laughter/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/marlon-wayans-scary-movie-6-comedy-laughter/</guid>
-            <pubDate>Tue, 10 Mar 2026 20:00:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/03/09/e20f2fc6eb1d495d97bdc5bc0a7aa48f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/03/09/e20f2fc6eb1d495d97bdc5bc0a7aa48f_xl.jpg" medium="image">
+            <title><![CDATA[Disneyland Hazmat Incident Hospitalizes Multiple People]]></title>
+            <link>https://www.tmz.com/2026/03/10/disneyland-hazmat-incident-multiple-people-hospitalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/disneyland-hazmat-incident-multiple-people-hospitalized/</guid>
+            <pubDate>Tue, 10 Mar 2026 20:52:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/03/10/1a50314e35634b6aa07875fbf48841ce_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/03/10/1a50314e35634b6aa07875fbf48841ce_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/03/09/e20f2fc6eb1d495d97bdc5bc0a7aa48f_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/03/10/1a50314e35634b6aa07875fbf48841ce_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jenelle Evans&#039; Son Jace Hospitalized After Allegedly Pulling Gun, Threatening to Kill Grandma]]></title>
-            <link>https://www.tmz.com/2026/03/10/jenelle-evans-son-jace-hospitalized-after-pulling-gun/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/jenelle-evans-son-jace-hospitalized-after-pulling-gun/</guid>
-            <pubDate>Tue, 10 Mar 2026 19:21:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/03/10/ce760327c9e54acc9471cb50db269366_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/03/10/ce760327c9e54acc9471cb50db269366_xl.png" medium="image">
+            <title><![CDATA[TikTok Star Cooper Noriega Alleged Drug Dealers Cop Plea Deals In Connection To OD]]></title>
+            <link>https://www.tmz.com/2026/03/10/cooper-noriega-drug-dealers-accept-plea-deals/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/cooper-noriega-drug-dealers-accept-plea-deals/</guid>
+            <pubDate>Tue, 10 Mar 2026 20:29:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/03/10/5c0f2fd0da8b4f959897f9779098e7dc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/03/10/5c0f2fd0da8b4f959897f9779098e7dc_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/03/10/ce760327c9e54acc9471cb50db269366_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/03/10/5c0f2fd0da8b4f959897f9779098e7dc_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;90 Day Fiance’ Eric Rosenbrook Avoids Jail in Criminal Case Amid Autopsy Fight]]></title>
-            <link>https://www.tmz.com/2026/03/10/90-day-fiance-eric-rosenbrook-dodges-jail-time-in-criminal-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/90-day-fiance-eric-rosenbrook-dodges-jail-time-in-criminal-case/</guid>
-            <pubDate>Tue, 10 Mar 2026 18:53:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/03/10/847844e79b584255b195f4322a0448cf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/03/10/847844e79b584255b195f4322a0448cf_xl.jpg" medium="image">
+            <title><![CDATA[Robert Carradine Death Certificate Released]]></title>
+            <link>https://www.tmz.com/2026/03/10/robert-carradine-death-certificate/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/robert-carradine-death-certificate/</guid>
+            <pubDate>Tue, 10 Mar 2026 20:17:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c9/16by9/2026/03/10/c95c7f02bbd34b88baa4843832df2657_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c9/16by9/2026/03/10/c95c7f02bbd34b88baa4843832df2657_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/03/10/847844e79b584255b195f4322a0448cf_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c9/16by9/2026/03/10/c95c7f02bbd34b88baa4843832df2657_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kathryn Hahn Confirms She&#039;s Been Cast As Mother Gothel In &#039;Tangled&#039; Remake]]></title>
-            <link>https://www.tmz.com/2026/03/10/kathryn-hahn-confirms-tangled-mother-gothel-casting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/kathryn-hahn-confirms-tangled-mother-gothel-casting/</guid>
-            <pubDate>Tue, 10 Mar 2026 18:52:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/03/10/a83160c949594ff887d7947f5d4573f9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/03/10/a83160c949594ff887d7947f5d4573f9_xl.jpg" medium="image">
+            <title><![CDATA[&#039;90 Day Fiancé&#039; Star Michael Ilesanmi Settles Divorce From Angela]]></title>
+            <link>https://www.tmz.com/2026/03/10/michael-ilesanmi-says-angela-deem-divorce-finalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/michael-ilesanmi-says-angela-deem-divorce-finalized/</guid>
+            <pubDate>Tue, 10 Mar 2026 20:14:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/03/10/63de6cea6bb54b8bb5cc549042338441_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/03/10/63de6cea6bb54b8bb5cc549042338441_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/03/10/a83160c949594ff887d7947f5d4573f9_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/03/10/63de6cea6bb54b8bb5cc549042338441_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Love & Hip Hop&#039; Star Alexis Skyy Sued For Alleged Apartment Lobby Attack]]></title>
-            <link>https://www.tmz.com/2026/03/10/love-and-hip-hop-alexis-skyy-sued-alleged-apartment-lobby-attack/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/love-and-hip-hop-alexis-skyy-sued-alleged-apartment-lobby-attack/</guid>
-            <pubDate>Tue, 10 Mar 2026 18:37:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/03/10/7877a136daf44e6fa4416cb395b177b1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/10/7877a136daf44e6fa4416cb395b177b1_xl.jpg" medium="image">
+            <title><![CDATA[Luka Doncic&#039;s Partner, Anamaria Goltes, Files Petition For Child Support]]></title>
+            <link>https://www.tmz.com/2026/03/10/luka-doncic-partner-files-petition-for-child-support/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/luka-doncic-partner-files-petition-for-child-support/</guid>
+            <pubDate>Tue, 10 Mar 2026 20:09:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/03/10/b7ef3f93804a441795b58d59f6fc4d82_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/03/10/b7ef3f93804a441795b58d59f6fc4d82_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/10/7877a136daf44e6fa4416cb395b177b1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/03/10/b7ef3f93804a441795b58d59f6fc4d82_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
