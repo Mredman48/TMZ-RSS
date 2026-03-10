@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 06:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 07:27:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Celebrating Mario Day: Relive Childhood with Classic Finds]]></title>
+            <link>https://www.tmz.com/2026/03/10/mario-day-nostalgic-gifts-games/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/mario-day-nostalgic-gifts-games/</guid>
+            <pubDate>Tue, 10 Mar 2026 07:05:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/03/06/29c1728078d54aa7bec864ee39bbec8d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bad Bunny Thirst Traps To Kick Off His 32nd Birthday!]]></title>
+            <link>https://www.tmz.com/2026/03/10/bad-bunny-birthday-thirst-traps/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/bad-bunny-birthday-thirst-traps/</guid>
+            <pubDate>Tue, 10 Mar 2026 07:01:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4c/16by9/2026/03/09/4ca9a959db3e4cfcbd81b64e5ae82b6b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/03/09/4ca9a959db3e4cfcbd81b64e5ae82b6b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/03/09/4ca9a959db3e4cfcbd81b64e5ae82b6b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kim Kardashian Never Tried to Buy Rare Hermès Bag for North West, Despite Report]]></title>
             <link>https://www.tmz.com/2026/03/09/kim-kardashian-never-tried-to-buy-rare-hermes-bag-for-north-west/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/03/10/d8f1faabdb1748089cda612219b64dab_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/03/10/d8f1faabdb1748089cda612219b64dab_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dwight Howard Won Race to Divorce Court Over Amber Howard]]></title>
-            <link>https://www.tmz.com/2026/03/09/dwight-howard-beat-amber-to-divorce-court/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/dwight-howard-beat-amber-to-divorce-court/</guid>
-            <pubDate>Tue, 10 Mar 2026 00:49:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/03/09/d98719f0c0ad45598dd7c3e9988c0a6f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/03/09/d98719f0c0ad45598dd7c3e9988c0a6f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/03/09/d98719f0c0ad45598dd7c3e9988c0a6f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna&#039;s House Surrounded By Police As Shooting Investigation Continues]]></title>
-            <link>https://www.tmz.com/2026/03/09/police-crowd-rihanna-home-after-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/09/police-crowd-rihanna-home-after-shooting/</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/03/09/daef80d8ab92478dbdf35f62fd8f651e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/03/09/daef80d8ab92478dbdf35f62fd8f651e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/03/09/daef80d8ab92478dbdf35f62fd8f651e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
