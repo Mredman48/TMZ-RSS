@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 13:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 15:31:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Kylie Jenner Makes Rare Comments About Timothée Chalamet]]></title>
-            <link>https://www.tmz.com/2026/03/11/kylie-jenner-talks-about-timothee-chalamet/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/kylie-jenner-talks-about-timothee-chalamet/</guid>
-            <pubDate>Wed, 11 Mar 2026 13:36:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3f/16by9/2026/03/11/3f6c8aaf194441ca9d480e4f97acb945_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3f/16by9/2026/03/11/3f6c8aaf194441ca9d480e4f97acb945_xl.jpg" medium="image">
+            <title><![CDATA[Kathie Lee Gifford Shades the LGBTQ Community in Interview with Tomi Lahren]]></title>
+            <link>https://www.tmz.com/2026/03/11/kathie-lee-gifford-criticizes-lgbtq-name/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/kathie-lee-gifford-criticizes-lgbtq-name/</guid>
+            <pubDate>Wed, 11 Mar 2026 15:27:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/03/11/0b8174f490b041b287d971347e62f3cd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/03/11/0b8174f490b041b287d971347e62f3cd_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3f/16by9/2026/03/11/3f6c8aaf194441ca9d480e4f97acb945_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/03/11/0b8174f490b041b287d971347e62f3cd_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Misty Copeland Says Timothée Chalamet ‘Wouldn’t Be an Actor’ Without Ballet, Opera]]></title>
-            <link>https://www.tmz.com/2026/03/11/misty-copeland-slams-timothee-chalamet-ballet-opera-comments/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/misty-copeland-slams-timothee-chalamet-ballet-opera-comments/</guid>
-            <pubDate>Wed, 11 Mar 2026 13:31:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/03/11/5e48612764574130bece2691381d26aa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/03/11/5e48612764574130bece2691381d26aa_xl.jpg" medium="image">
+            <title><![CDATA[North West Drops New Collab Snippet With Dad Ye&#039;s Protégé Mag!c]]></title>
+            <link>https://www.tmz.com/2026/03/11/north-west-magic-dont-care-collab-ye/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/north-west-magic-dont-care-collab-ye/</guid>
+            <pubDate>Wed, 11 Mar 2026 15:06:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/03/11/c2ab667eb26b468788c1f9c09bf7bf37_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/03/11/c2ab667eb26b468788c1f9c09bf7bf37_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/03/11/5e48612764574130bece2691381d26aa_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/03/11/c2ab667eb26b468788c1f9c09bf7bf37_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Shia LaBeouf Reportedly Approved for Rome Travel Following Court Denial]]></title>
-            <link>https://www.tmz.com/2026/03/11/shia-labeouf-approval-rome-travel-baptism/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/shia-labeouf-approval-rome-travel-baptism/</guid>
-            <pubDate>Wed, 11 Mar 2026 13:23:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/03/11/4198c0f65fda4d8a845454f1925a01f3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/03/11/4198c0f65fda4d8a845454f1925a01f3_xl.jpg" medium="image">
+            <title><![CDATA[Bam Adebayo Says A&#039;ja Wilson &#039;Inspires&#039; Him After 83-Point Game]]></title>
+            <link>https://www.tmz.com/2026/03/11/bam-adebayo-aja-wilson-83-point-game-nba/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/bam-adebayo-aja-wilson-83-point-game-nba/</guid>
+            <pubDate>Wed, 11 Mar 2026 14:36:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/03/11/8724ef0e465148e3a4d498fe70062db4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/03/11/8724ef0e465148e3a4d498fe70062db4_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/03/11/4198c0f65fda4d8a845454f1925a01f3_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/03/11/8724ef0e465148e3a4d498fe70062db4_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kyle Cooke Denies Dating Ava Dash, Reacts to Amanda Batula Dating Rumors]]></title>
-            <link>https://www.tmz.com/2026/03/11/kyle-cooke-denies-dating-ava-dash-reacts-amanda-batula-west-wilson/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/kyle-cooke-denies-dating-ava-dash-reacts-amanda-batula-west-wilson/</guid>
-            <pubDate>Wed, 11 Mar 2026 12:35:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/03/11/40b71ea8b76940f8a2786d2b8dfb98db_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/03/11/40b71ea8b76940f8a2786d2b8dfb98db_xl.png" medium="image">
+            <title><![CDATA[Maxx Crosby Marks Sobriety Milestone After Ravens Deal Collapses]]></title>
+            <link>https://www.tmz.com/2026/03/11/maxx-crosby-marks-sobriety-milestone-after-ravens-deal-collapses/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/maxx-crosby-marks-sobriety-milestone-after-ravens-deal-collapses/</guid>
+            <pubDate>Wed, 11 Mar 2026 14:33:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/03/11/41b7e552f1974e9d800c9886714f1b4a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/03/11/41b7e552f1974e9d800c9886714f1b4a_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/03/11/40b71ea8b76940f8a2786d2b8dfb98db_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/03/11/41b7e552f1974e9d800c9886714f1b4a_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Gavin Newsom Takes Shot at Pete Hegseth For $93 Billion Spending Spree]]></title>
-            <link>https://www.tmz.com/2026/03/11/gavin-newsom-pete-hegseth-93-billion-lobster-steak/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/gavin-newsom-pete-hegseth-93-billion-lobster-steak/</guid>
-            <pubDate>Wed, 11 Mar 2026 12:27:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/03/11/1e4e4ac5579945de80c8277a00441e16_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/11/1e4e4ac5579945de80c8277a00441e16_xl.jpg" medium="image">
+            <title><![CDATA[Brooks Nader and Her Sisters Hit NYC Streets in Bubble Garments]]></title>
+            <link>https://www.tmz.com/2026/03/11/nader-sisters-wearing-bubble-themed-looks-in-nyc/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/nader-sisters-wearing-bubble-themed-looks-in-nyc/</guid>
+            <pubDate>Wed, 11 Mar 2026 14:28:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/03/11/d876c760d5b34ec1b4391deff7f5f58e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/03/11/d876c760d5b34ec1b4391deff7f5f58e_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/11/1e4e4ac5579945de80c8277a00441e16_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/03/11/d876c760d5b34ec1b4391deff7f5f58e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
