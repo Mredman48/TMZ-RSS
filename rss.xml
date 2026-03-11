@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 22:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 23:56:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kim Kardashian, Kris Jenner Deny Orchestrating Sex Tape Release Under Oath]]></title>
+            <link>https://www.tmz.com/2026/03/11/kim-kardashian-kris-jenner-reject-claim-of-planning-sex-tape-release/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/kim-kardashian-kris-jenner-reject-claim-of-planning-sex-tape-release/</guid>
+            <pubDate>Wed, 11 Mar 2026 23:41:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/03/11/6edd99bb3ffe4586a786798aeab57a29_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/03/11/6edd99bb3ffe4586a786798aeab57a29_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/03/11/6edd99bb3ffe4586a786798aeab57a29_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rickea Jackson Granted Restraining Order Against James Pearce Jr. After Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/11/rickea-jackson-granted-restraining-order-james-pearce-jr-domestic-dispute/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/rickea-jackson-granted-restraining-order-james-pearce-jr-domestic-dispute/</guid>
+            <pubDate>Wed, 11 Mar 2026 23:32:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/03/11/c5bddf61d0ce408ba132c538938feced_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/03/11/c5bddf61d0ce408ba132c538938feced_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/03/11/c5bddf61d0ce408ba132c538938feced_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;90 Day Fiancé&#039; Stars Eric Rosenbrook, Leida Undecided on Another Child After Baby&#039;s Death]]></title>
+            <link>https://www.tmz.com/2026/03/11/eric-rosenbrook-not-sure-about-having-more-kids-after-child-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/eric-rosenbrook-not-sure-about-having-more-kids-after-child-death/</guid>
+            <pubDate>Wed, 11 Mar 2026 23:29:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/03/11/42e0aa72fdef4857be17b79905bcf5c4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/03/11/42e0aa72fdef4857be17b79905bcf5c4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/03/11/42e0aa72fdef4857be17b79905bcf5c4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shohei Ohtani, Agent, Settle Hawaii Real Estate Lawsuit]]></title>
+            <link>https://www.tmz.com/2026/03/11/shohei-ohtani-agent-settle-hawaii-real-estate-lawsuit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/shohei-ohtani-agent-settle-hawaii-real-estate-lawsuit/</guid>
+            <pubDate>Wed, 11 Mar 2026 23:09:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/03/11/e48043120cb74e3f9168716888829015_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/03/11/e48043120cb74e3f9168716888829015_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/03/11/e48043120cb74e3f9168716888829015_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[President Trump Endorses Jake Paul Political Career]]></title>
             <link>https://www.tmz.com/2026/03/11/trump-predicts-jake-paul-political-run/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/03/11/c028dc17a3e34aecba82cc73f94b83c9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/03/11/c028dc17a3e34aecba82cc73f94b83c9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shia LaBeouf Seen In Rome For Dad&#039;s Baptism After Court Approval]]></title>
-            <link>https://www.tmz.com/2026/03/11/shia-labeouf-in-italy-for-father-baptism/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/shia-labeouf-in-italy-for-father-baptism/</guid>
-            <pubDate>Wed, 11 Mar 2026 22:34:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/03/11/75cb65983cb645dab77fe12e9a69cabb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/03/11/75cb65983cb645dab77fe12e9a69cabb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/03/11/75cb65983cb645dab77fe12e9a69cabb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Accuser Says Bill Cosby Can&#039;t Use Evidence Her Son&#039;s An Alcoholic to Undermine Credibility]]></title>
-            <link>https://www.tmz.com/2026/03/11/bill-cosby-accuser-says-cannot-use-son-alcoholism-evidence/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/bill-cosby-accuser-says-cannot-use-son-alcoholism-evidence/</guid>
-            <pubDate>Wed, 11 Mar 2026 22:34:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/03/11/c7a31eba8d17491b8f73f13c714f33b1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/03/11/c7a31eba8d17491b8f73f13c714f33b1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/03/11/c7a31eba8d17491b8f73f13c714f33b1_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[‘Heartbroken’ Doctor Who Performed TikToker Rachel Tussey&#039;s Tummy Tuck Speaks Out]]></title>
-            <link>https://www.tmz.com/2026/03/11/doctor-performing-rachel-tussey-tummy-tuck-breaks-silence/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/doctor-performing-rachel-tussey-tummy-tuck-breaks-silence/</guid>
-            <pubDate>Wed, 11 Mar 2026 22:30:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/03/11/8570ab66cf77429985d2b5b9a52f9b91_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/03/11/8570ab66cf77429985d2b5b9a52f9b91_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/03/11/8570ab66cf77429985d2b5b9a52f9b91_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Diesel Brothers&#039; Star David Sparks&#039; Wife Files For Divorce]]></title>
-            <link>https://www.tmz.com/2026/03/11/david-sparks-wife-files-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/david-sparks-wife-files-divorce/</guid>
-            <pubDate>Wed, 11 Mar 2026 22:11:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2026/03/11/c1a0207465cc4b0a8ce53ebb1a5d11d4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c1/16by9/2026/03/11/c1a0207465cc4b0a8ce53ebb1a5d11d4_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2026/03/11/c1a0207465cc4b0a8ce53ebb1a5d11d4_xl.png">
             </media:thumbnail>
         </item>
     </channel>
