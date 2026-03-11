@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 23:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 03:13:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Maxx Crosby Trade Off, Raiders Claim Ravens Backed Out]]></title>
+            <link>https://www.tmz.com/2026/03/10/maxx-crosby-trade-off/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/maxx-crosby-trade-off/</guid>
+            <pubDate>Wed, 11 Mar 2026 01:08:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fc/16by9/2026/03/11/fc35dc7713bc4e708cc94f0421abc572_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/03/11/fc35dc7713bc4e708cc94f0421abc572_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/03/11/fc35dc7713bc4e708cc94f0421abc572_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;TODAY&#039; Show Dylan Dreyer Says Savannah Guthrie Will Likely Return, Not Sure When]]></title>
+            <link>https://www.tmz.com/2026/03/10/dylan-dreyer-says-savannah-guthrie-likely-will-return-today-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/dylan-dreyer-says-savannah-guthrie-likely-will-return-today-show/</guid>
+            <pubDate>Wed, 11 Mar 2026 01:00:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/03/10/c01a79ace0ec470bb941e351e8663d83_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/03/10/c01a79ace0ec470bb941e351e8663d83_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/03/10/c01a79ace0ec470bb941e351e8663d83_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;90 Day Fiance’ Stars Angela Deem & Michael Ilesanmi&#039;s Divorce Settlement: No Alimony & No Trash Talk]]></title>
             <link>https://www.tmz.com/2026/03/10/angela-deem-michael-ilesanmi-divorce-settlement-no-alimony-or-trash-talk/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/03/10/9dee3c4f4f9547459c6e9555f96112a4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/03/10/9dee3c4f4f9547459c6e9555f96112a4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Woman Charged With Attempted Murder in Connection to Shooting at Rihanna&#039;s Home]]></title>
-            <link>https://www.tmz.com/2026/03/10/rihanna-shooting-suspect-charged-attempted-murder/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/rihanna-shooting-suspect-charged-attempted-murder/</guid>
-            <pubDate>Tue, 10 Mar 2026 22:56:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/03/10/5eac304876cf4ff3961c70e87d476c38_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/03/10/5eac304876cf4ff3961c70e87d476c38_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/03/10/5eac304876cf4ff3961c70e87d476c38_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Erika Jayne&#039;s &#039;RHOBH&#039; Abuse Admission Tied to 2024 LAPD Report]]></title>
-            <link>https://www.tmz.com/2026/03/10/erika-jayne-rhobh-abuse-connected-to-police-report/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/erika-jayne-rhobh-abuse-connected-to-police-report/</guid>
-            <pubDate>Tue, 10 Mar 2026 22:48:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/79/16by9/2026/03/10/7997dd1d2f8b46038f201d171151fe3d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/79/16by9/2026/03/10/7997dd1d2f8b46038f201d171151fe3d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/03/10/7997dd1d2f8b46038f201d171151fe3d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
