@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 06:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 07:30:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[7 Superhero Video Games You Can Score on Amazon Right Now]]></title>
+            <link>https://www.tmz.com/2026/03/11/hollywood-comic-book-video-games/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/hollywood-comic-book-video-games/</guid>
+            <pubDate>Wed, 11 Mar 2026 07:05:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/03/09/dabea5d5d5f24fe0a33bbe587b72a68a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/03/09/dabea5d5d5f24fe0a33bbe587b72a68a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/03/09/dabea5d5d5f24fe0a33bbe587b72a68a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Kid In A Beret Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/03/11/guess-who-kid-in-beret/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/guess-who-kid-in-beret/</guid>
+            <pubDate>Wed, 11 Mar 2026 07:01:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/03/02/455dc7689d5844ef8e0600f81e8d18e0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/03/02/455dc7689d5844ef8e0600f81e8d18e0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/03/02/455dc7689d5844ef8e0600f81e8d18e0_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Maxx Crosby Trade Off, Raiders Claim Ravens Backed Out]]></title>
             <link>https://www.tmz.com/2026/03/10/maxx-crosby-trade-off/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/07/16by9/2026/03/10/0719144afed74cda815195a066b515c4_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/03/10/0719144afed74cda815195a066b515c4_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Alleged Rihanna House Shooter Ivanna Lisette Ortiz Appears in Court, On Video]]></title>
-            <link>https://www.tmz.com/2026/03/10/alleged-rihanna-home-shooter-in-court-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/alleged-rihanna-home-shooter-in-court-video/</guid>
-            <pubDate>Tue, 10 Mar 2026 23:12:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/03/10/f2df8119ee034a5688783eb9368028ea_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/03/10/f2df8119ee034a5688783eb9368028ea_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/03/10/f2df8119ee034a5688783eb9368028ea_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebs Wiggin&#039; Out For International Wig Day!]]></title>
-            <link>https://www.tmz.com/2026/03/10/celebrities-celebrate-wig-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/10/celebrities-celebrate-wig-day/</guid>
-            <pubDate>Tue, 10 Mar 2026 23:00:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/03/10/9dee3c4f4f9547459c6e9555f96112a4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/03/10/9dee3c4f4f9547459c6e9555f96112a4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/03/10/9dee3c4f4f9547459c6e9555f96112a4_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
