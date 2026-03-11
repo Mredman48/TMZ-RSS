@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 19:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 20:02:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Robert Carradine&#039;s Final Film Will Be Dedicated to Him]]></title>
+            <link>https://www.tmz.com/2026/03/11/robert-carradine-last-film-will-honor-him/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/robert-carradine-last-film-will-honor-him/</guid>
+            <pubDate>Wed, 11 Mar 2026 19:33:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/03/11/bc072faa34344b328a19bc8b53d0d95b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/03/11/bc072faa34344b328a19bc8b53d0d95b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/03/11/bc072faa34344b328a19bc8b53d0d95b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kylie Jenner Gives Poker Tutorial In Just A Bra]]></title>
             <link>https://www.tmz.com/2026/03/11/kylie-jenner-poker-tutorial-in-a-bra/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/50/16by9/2026/03/11/506ef417ba634d01a7179a6351926ab4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/03/11/506ef417ba634d01a7179a6351926ab4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lindsay Lohan Lands Safely in New York City After Dubai Bombing]]></title>
-            <link>https://www.tmz.com/2026/03/11/lindsay-lohan-in-new-york-after-dubai/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/lindsay-lohan-in-new-york-after-dubai/</guid>
-            <pubDate>Wed, 11 Mar 2026 18:46:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/66/16by9/2026/03/11/665e004494064d8dad3638828de05870_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/66/16by9/2026/03/11/665e004494064d8dad3638828de05870_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/03/11/665e004494064d8dad3638828de05870_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
