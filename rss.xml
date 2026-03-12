@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 06:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 07:33:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[1986 Oscar Winner Marlee Matlin &#039;Memba Her?!]]></title>
+            <link>https://www.tmz.com/2026/03/12/1986-oscar-winner-marlee-matlin-memba-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/1986-oscar-winner-marlee-matlin-memba-her/</guid>
+            <pubDate>Thu, 12 Mar 2026 07:10:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/03/03/08d70cca2c2940a986dec8124faab35a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/03/03/08d70cca2c2940a986dec8124faab35a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/03/03/08d70cca2c2940a986dec8124faab35a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Glass Skin Picks on Amazon]]></title>
+            <link>https://www.tmz.com/2026/03/12/glass-skincare-products/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/glass-skincare-products/</guid>
+            <pubDate>Thu, 12 Mar 2026 07:05:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/03/10/bb98f7fb14ad479a85f70b648f4bb0f6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/03/10/bb98f7fb14ad479a85f70b648f4bb0f6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/03/10/bb98f7fb14ad479a85f70b648f4bb0f6_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Sam Asghari Says Britney Spears &#039;Oppressed&#039; Like Iranian Women]]></title>
             <link>https://www.tmz.com/2026/03/11/sam-asghari-on-britney-spears/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/03/12/0fb7ff92d55749fb9d61f7775e6acaae_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/03/12/0fb7ff92d55749fb9d61f7775e6acaae_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mama June’s Daughter Pumpkin Only Shooting Solo Content For OnlyFans, BF Approves]]></title>
-            <link>https://www.tmz.com/2026/03/11/mama-june-daughter-pumpkin-talks-onlyfans-career-and-boyfriend-support/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/mama-june-daughter-pumpkin-talks-onlyfans-career-and-boyfriend-support/</guid>
-            <pubDate>Thu, 12 Mar 2026 00:30:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/11/f6cc0bfdd76b4b428dc65d0eb96e9e59_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/11/f6cc0bfdd76b4b428dc65d0eb96e9e59_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/11/f6cc0bfdd76b4b428dc65d0eb96e9e59_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kim Kardashian, Kris Jenner Deny Orchestrating Sex Tape Release Under Oath]]></title>
-            <link>https://www.tmz.com/2026/03/11/kim-kardashian-kris-jenner-reject-claim-of-planning-sex-tape-release/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/11/kim-kardashian-kris-jenner-reject-claim-of-planning-sex-tape-release/</guid>
-            <pubDate>Wed, 11 Mar 2026 23:41:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/03/11/6edd99bb3ffe4586a786798aeab57a29_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/03/11/6edd99bb3ffe4586a786798aeab57a29_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/03/11/6edd99bb3ffe4586a786798aeab57a29_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
