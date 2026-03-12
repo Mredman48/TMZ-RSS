@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 22:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 23:57:03 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Mickey Rourke Rocks Red Hair After Eviction]]></title>
+            <link>https://www.tmz.com/2026/03/12/mickey-rourke-red-hair-eviction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/mickey-rourke-red-hair-eviction/</guid>
+            <pubDate>Thu, 12 Mar 2026 23:45:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/12/480dceaf760644edbc6d3b56da53a714_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/12/480dceaf760644edbc6d3b56da53a714_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/12/480dceaf760644edbc6d3b56da53a714_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[President Trump Gifted Medal By U.S. Olympian At White House]]></title>
+            <link>https://www.tmz.com/2026/03/12/president-trump-awarded-medal-kaillie-humphries-olympian-white-house-order-ikkos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/president-trump-awarded-medal-kaillie-humphries-olympian-white-house-order-ikkos/</guid>
+            <pubDate>Thu, 12 Mar 2026 23:24:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/03/12/738d1423432842699b9b51f6f538fffd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/03/12/738d1423432842699b9b51f6f538fffd_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/03/12/738d1423432842699b9b51f6f538fffd_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[White House Mixes Iran War Strikes With Wii Sports Montage]]></title>
+            <link>https://www.tmz.com/2026/03/12/white-house-wii-sports-iran-bombing-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/white-house-wii-sports-iran-bombing-video/</guid>
+            <pubDate>Thu, 12 Mar 2026 23:10:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/12/6a6c8bf9d77c4989b8292d43f13ef67d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/12/6a6c8bf9d77c4989b8292d43f13ef67d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/12/6a6c8bf9d77c4989b8292d43f13ef67d_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bikini-Clad Courtney Stodden Gets Covered in Black Goo to Protest Leather, on Video]]></title>
             <link>https://www.tmz.com/2026/03/12/courtney-stodden-covered-in-corn-syrup/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/03/12/cc09247ae6f44c3598f2ac1e22677edf_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/03/12/cc09247ae6f44c3598f2ac1e22677edf_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Erik Spoelstra On Bam Adebayo&#039;s 83-Point Game, I Apologize To Absolutely No One!]]></title>
-            <link>https://www.tmz.com/2026/03/12/erik-spoelstra-defends-bam-adebayo-83-point-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/erik-spoelstra-defends-bam-adebayo-83-point-game/</guid>
-            <pubDate>Thu, 12 Mar 2026 22:18:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/03/12/4534c1b2533e40a29d8a64089c189c09_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/03/12/4534c1b2533e40a29d8a64089c189c09_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/03/12/4534c1b2533e40a29d8a64089c189c09_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sex Expert Urges Taylor Frankie Paul to Use Fantasy Suites on &#039;Bachelorette&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/12/shan-boodram-gives-taylor-frankie-paul-sex-advice/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/shan-boodram-gives-taylor-frankie-paul-sex-advice/</guid>
-            <pubDate>Thu, 12 Mar 2026 22:17:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/12/f683fa00fa464d09b162d744e90a9100_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/12/f683fa00fa464d09b162d744e90a9100_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/12/f683fa00fa464d09b162d744e90a9100_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Livvy Dunne Joining &#039;Baywatch&#039; Reboot With Brooks Nader, Shay Mitchell]]></title>
-            <link>https://www.tmz.com/2026/03/12/livvy-dunne-joins-baywatch-reboot/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/livvy-dunne-joins-baywatch-reboot/</guid>
-            <pubDate>Thu, 12 Mar 2026 22:02:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/03/12/42bf4413d7c64497b3c8ed77de3758f1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/03/12/42bf4413d7c64497b3c8ed77de3758f1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/03/12/42bf4413d7c64497b3c8ed77de3758f1_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
