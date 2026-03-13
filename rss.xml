@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 18:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 19:20:04 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Heidi Fleiss Defends Her Birds in Dispute With Neighbor After Authorities Called]]></title>
+            <link>https://www.tmz.com/2026/03/13/heidi-fleiss-defends-macaws-after-neighbor-complained/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/heidi-fleiss-defends-macaws-after-neighbor-complained/</guid>
+            <pubDate>Fri, 13 Mar 2026 19:16:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[President Trump Confirms Kobe Bryant Fight Story, I Had To Break It Up!]]></title>
+            <link>https://www.tmz.com/2026/03/13/president-trump-confirms-kobe-bryant-fight-story/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/president-trump-confirms-kobe-bryant-fight-story/</guid>
+            <pubDate>Fri, 13 Mar 2026 18:46:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/03/13/2d3d01ec221d4a68bae77d851dd14851_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/03/13/2d3d01ec221d4a68bae77d851dd14851_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/03/13/2d3d01ec221d4a68bae77d851dd14851_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Demi Engemann Breaks Silence on Quitting Show, Fires Back at Comments]]></title>
+            <link>https://www.tmz.com/2026/03/13/demi-engemann-talks-leaving-mormon-wives/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/demi-engemann-talks-leaving-mormon-wives/</guid>
+            <pubDate>Fri, 13 Mar 2026 18:36:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/03/12/bfc18990dad34e4d825830035008e293_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/03/12/bfc18990dad34e4d825830035008e293_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/03/12/bfc18990dad34e4d825830035008e293_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cops Request Warrant to Search Through Laken Snelling&#039;s Snapchat]]></title>
+            <link>https://www.tmz.com/2026/03/13/laken-snelling-snapchat-warrant-details-messages-from-roomates/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/laken-snelling-snapchat-warrant-details-messages-from-roomates/</guid>
+            <pubDate>Fri, 13 Mar 2026 18:31:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/03/13/09846662d70e4cffb48d8cb51d88ea10_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/03/13/09846662d70e4cffb48d8cb51d88ea10_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/03/13/09846662d70e4cffb48d8cb51d88ea10_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Pete Hegseth Dares Iranian Leader to Show His &#039;Disfigured&#039; Face]]></title>
             <link>https://www.tmz.com/2026/03/13/pete-hegseth-wants-iranian-leader-to-show-his-face/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Referee Suffers Medical Emergency During Wrestling Match, GF Asks For Prayers]]></title>
-            <link>https://www.tmz.com/2026/03/13/ovw-wrestling-referee-suffers-medical-emergency-during-match/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/ovw-wrestling-referee-suffers-medical-emergency-during-match/</guid>
-            <pubDate>Fri, 13 Mar 2026 17:43:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/03/13/2b775218d7284b92819a82a308daaa07_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/03/13/2b775218d7284b92819a82a308daaa07_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/03/13/2b775218d7284b92819a82a308daaa07_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Prison Guard on Duty the Night Epstein Died Called to Testify Before Committee]]></title>
-            <link>https://www.tmz.com/2026/03/13/epstein-prison-guard-will-testify/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/epstein-prison-guard-will-testify/</guid>
-            <pubDate>Fri, 13 Mar 2026 17:36:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/03/13/145fb6fb63b44d088a80640c736226bb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/14/16by9/2026/03/13/145fb6fb63b44d088a80640c736226bb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/14/16by9/2026/03/13/145fb6fb63b44d088a80640c736226bb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Keke Palmer Gets Surprise Proposal From Random Guy at SXSW in Awkward Video]]></title>
-            <link>https://www.tmz.com/2026/03/13/keke-palmer-gets-proposed-to-by-random-man-at-sxsw/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/keke-palmer-gets-proposed-to-by-random-man-at-sxsw/</guid>
-            <pubDate>Fri, 13 Mar 2026 17:28:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/03/13/57e7f6769629400eb86f908ffe0126dd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/03/13/57e7f6769629400eb86f908ffe0126dd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/03/13/57e7f6769629400eb86f908ffe0126dd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Blake Lively Comes Up Short in Bid to Sanction Justin Baldoni&#039;s Lawyer]]></title>
-            <link>https://www.tmz.com/2026/03/13/blake-lively-denied-bryan-freedman-sanction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/blake-lively-denied-bryan-freedman-sanction/</guid>
-            <pubDate>Fri, 13 Mar 2026 16:59:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ec/16by9/2026/03/13/ec8e1784431a412f90e28715096b801f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/03/13/ec8e1784431a412f90e28715096b801f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/03/13/ec8e1784431a412f90e28715096b801f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
