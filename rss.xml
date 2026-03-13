@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 14:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 15:26:11 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kyrsten Sinema Admits to Having Affair With Former Bodyguard]]></title>
+            <link>https://www.tmz.com/2026/03/13/kyrsten-sinema-confirms-affair-with-bodyguard/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/kyrsten-sinema-confirms-affair-with-bodyguard/</guid>
+            <pubDate>Fri, 13 Mar 2026 15:11:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/03/13/cb67995e54c74619979a61fac004c74a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/03/13/cb67995e54c74619979a61fac004c74a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/03/13/cb67995e54c74619979a61fac004c74a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Treasury Secretary Pulled Mid-Interview for Urgent Meeting With President, on Video]]></title>
+            <link>https://www.tmz.com/2026/03/13/treasury-secretary-pulled-during-interview-for-iran-update/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/treasury-secretary-pulled-during-interview-for-iran-update/</guid>
+            <pubDate>Fri, 13 Mar 2026 15:10:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/03/13/367111bc08fe4b6192c3d61e6feef6ef_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/03/13/367111bc08fe4b6192c3d61e6feef6ef_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/03/13/367111bc08fe4b6192c3d61e6feef6ef_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dana White Says UFC Giving Away 85,000 Free Tickets To UFC White House Event]]></title>
+            <link>https://www.tmz.com/2026/03/13/dana-white-ufc-white-house-85000-free-tickets/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/dana-white-ufc-white-house-85000-free-tickets/</guid>
+            <pubDate>Fri, 13 Mar 2026 14:47:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/03/13/28ada1e6628b4de3a64689a6d138694d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/03/13/28ada1e6628b4de3a64689a6d138694d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/03/13/28ada1e6628b4de3a64689a6d138694d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Luka Doncic Says Basketball Gives Him Peace Amid Split, Custody Battle]]></title>
             <link>https://www.tmz.com/2026/03/13/luka-doncic-says-basketball-gives-him-peace-amid-personal-issues/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/52/16by9/2026/03/13/52052a59ba2e4aa487dd2eff667904c3_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/03/13/52052a59ba2e4aa487dd2eff667904c3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NBA Ref Hurt After Crashing Into Cameraman During NBA Game, Caught On Video]]></title>
-            <link>https://www.tmz.com/2026/03/13/referee-crash-hurt-cameraman-sharae-mitchell-hawks-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/referee-crash-hurt-cameraman-sharae-mitchell-hawks-game/</guid>
-            <pubDate>Fri, 13 Mar 2026 14:12:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/03/13/957a6c04894c47788407f2a8081d7bbb_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/13/957a6c04894c47788407f2a8081d7bbb_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/13/957a6c04894c47788407f2a8081d7bbb_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Euphoria&#039; Composer Labrinth Slams HBO Series in Blunt New Statement]]></title>
-            <link>https://www.tmz.com/2026/03/13/labrinth-blasts-euphoria-in-new-statement/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/labrinth-blasts-euphoria-in-new-statement/</guid>
-            <pubDate>Fri, 13 Mar 2026 13:58:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/03/13/04bcd1e5edd44232931166e85e6aaab9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/03/13/04bcd1e5edd44232931166e85e6aaab9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/03/13/04bcd1e5edd44232931166e85e6aaab9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Glen &#039;Big Baby&#039; Davis Released From Prison After NBA Health Care Fraud Sentence]]></title>
-            <link>https://www.tmz.com/2026/03/13/glen-big-baby-davis-released-from-prison/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/glen-big-baby-davis-released-from-prison/</guid>
-            <pubDate>Fri, 13 Mar 2026 13:54:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/03/13/e4c2a07d22324d51adcb8e5c7adc63a6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/03/13/e4c2a07d22324d51adcb8e5c7adc63a6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/03/13/e4c2a07d22324d51adcb8e5c7adc63a6_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
