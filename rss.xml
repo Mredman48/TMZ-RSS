@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 17:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 18:03:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Pete Hegseth Dares Iranian Leader to Show His &#039;Disfigured&#039; Face]]></title>
+            <link>https://www.tmz.com/2026/03/13/pete-hegseth-wants-iranian-leader-to-show-his-face/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/pete-hegseth-wants-iranian-leader-to-show-his-face/</guid>
+            <pubDate>Fri, 13 Mar 2026 17:48:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Referee Suffers Medical Emergency During Wrestling Match, GF Asks For Prayers]]></title>
+            <link>https://www.tmz.com/2026/03/13/ovw-wrestling-referee-suffers-medical-emergency-during-match/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/ovw-wrestling-referee-suffers-medical-emergency-during-match/</guid>
+            <pubDate>Fri, 13 Mar 2026 17:43:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/03/13/2b775218d7284b92819a82a308daaa07_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/03/13/2b775218d7284b92819a82a308daaa07_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/03/13/2b775218d7284b92819a82a308daaa07_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Prison Guard on Duty the Night Epstein Died Called to Testify Before Committee]]></title>
+            <link>https://www.tmz.com/2026/03/13/epstein-prison-guard-will-testify/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/epstein-prison-guard-will-testify/</guid>
+            <pubDate>Fri, 13 Mar 2026 17:36:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/03/13/145fb6fb63b44d088a80640c736226bb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/14/16by9/2026/03/13/145fb6fb63b44d088a80640c736226bb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/14/16by9/2026/03/13/145fb6fb63b44d088a80640c736226bb_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Keke Palmer Gets Surprise Proposal From Random Guy at SXSW in Awkward Video]]></title>
+            <link>https://www.tmz.com/2026/03/13/keke-palmer-gets-proposed-to-by-random-man-at-sxsw/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/keke-palmer-gets-proposed-to-by-random-man-at-sxsw/</guid>
+            <pubDate>Fri, 13 Mar 2026 17:28:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/03/13/57e7f6769629400eb86f908ffe0126dd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/03/13/57e7f6769629400eb86f908ffe0126dd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/03/13/57e7f6769629400eb86f908ffe0126dd_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Blake Lively Comes Up Short in Bid to Sanction Justin Baldoni&#039;s Lawyer]]></title>
             <link>https://www.tmz.com/2026/03/13/blake-lively-denied-bryan-freedman-sanction/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/03/13/ec8e1784431a412f90e28715096b801f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/03/13/ec8e1784431a412f90e28715096b801f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
-            <link>https://www.tmz.com/2026/03/13/watch-tmz-live-today/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/watch-tmz-live-today/</guid>
-            <pubDate>Fri, 13 Mar 2026 16:56:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/03/13/1e8a0762b9b24f37bebc0322931038b9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/13/1e8a0762b9b24f37bebc0322931038b9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/13/1e8a0762b9b24f37bebc0322931038b9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Serena Williams Flaunts Toned Bod in Swimsuit, &#039;Perfectly Me!&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/13/serena-williams-weight-loss-swimsuit-pics/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/serena-williams-weight-loss-swimsuit-pics/</guid>
-            <pubDate>Fri, 13 Mar 2026 16:45:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/03/13/f9315f6e471e424cb0847326200d27e4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/03/13/f9315f6e471e424cb0847326200d27e4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/03/13/f9315f6e471e424cb0847326200d27e4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chaz Bono Marries Shara Blue Mathas in Hollywood Wedding, Cher Attends]]></title>
-            <link>https://www.tmz.com/2026/03/13/chaz-bono-marries-shara-blue-mathas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/chaz-bono-marries-shara-blue-mathas/</guid>
-            <pubDate>Fri, 13 Mar 2026 16:39:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/03/13/a90acabfeab1459a9816e5422aab19e6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/03/13/a90acabfeab1459a9816e5422aab19e6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/03/13/a90acabfeab1459a9816e5422aab19e6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Haley Cavinder Shares Photos From Joint Bachelor/Bachelorette With Jake Ferguson]]></title>
-            <link>https://www.tmz.com/2026/03/13/haley-cavinder-recaps-joint-bachelor-bachelorette-party-with-jake-ferguson/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/haley-cavinder-recaps-joint-bachelor-bachelorette-party-with-jake-ferguson/</guid>
-            <pubDate>Fri, 13 Mar 2026 16:39:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/03/13/3b9cd2f0701b4f438f33ea28a0352715_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/03/13/3b9cd2f0701b4f438f33ea28a0352715_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/03/13/3b9cd2f0701b4f438f33ea28a0352715_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
