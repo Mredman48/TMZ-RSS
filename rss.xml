@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 08:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 09:22:52 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ray J Sued by American Express for Unpaid Balance of $78K]]></title>
+            <link>https://www.tmz.com/2026/03/13/american-express-sues-ray-j/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/american-express-sues-ray-j/</guid>
+            <pubDate>Fri, 13 Mar 2026 09:00:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/44/16by9/2026/03/11/447ef63dfc5b480c898c46c215c1d1a1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/44/16by9/2026/03/11/447ef63dfc5b480c898c46c215c1d1a1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/44/16by9/2026/03/11/447ef63dfc5b480c898c46c215c1d1a1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mama June&#039;s Daughter Pumpkin&#039;s Racy OnlyFans Snaps Revealed]]></title>
+            <link>https://www.tmz.com/2026/03/13/pumpkin-onlyfans-snaps-revealed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/pumpkin-onlyfans-snaps-revealed/</guid>
+            <pubDate>Fri, 13 Mar 2026 09:00:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/03/12/d8b5507c65084cde830a6d2b27a72180_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/03/12/d8b5507c65084cde830a6d2b27a72180_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/03/12/d8b5507c65084cde830a6d2b27a72180_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bethenny Frankel Bleeds After Cutting Her Face With Skin Product on Video]]></title>
+            <link>https://www.tmz.com/2026/03/13/bethenny-frankel/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/bethenny-frankel/</guid>
+            <pubDate>Fri, 13 Mar 2026 08:59:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/02/5548dbb107a44f41a1c8ea0af663ea3f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/02/5548dbb107a44f41a1c8ea0af663ea3f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/02/5548dbb107a44f41a1c8ea0af663ea3f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nikki Bella Weighs In On Logan Paul’s NFL Challenge, &#039;We&#039;ll Have to See!&#039;]]></title>
             <link>https://www.tmz.com/2026/03/13/nikki-bella-talks-logan-paul-challenge/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/69/16by9/2026/03/10/69de9a636004433a987572dd75cfff63_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/03/10/69de9a636004433a987572dd75cfff63_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Products to Kick Off Spring Cleaning]]></title>
-            <link>https://www.tmz.com/2026/03/13/spring-cleaning-amazon/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/spring-cleaning-amazon/</guid>
-            <pubDate>Fri, 13 Mar 2026 07:05:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2025/02/20/0f717092350d4f5299df2e1ea39eaab5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2025/02/20/0f717092350d4f5299df2e1ea39eaab5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2025/02/20/0f717092350d4f5299df2e1ea39eaab5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Which Oscar Nominee This Kiddo Turned Into!]]></title>
-            <link>https://www.tmz.com/2026/03/13/guess-which-oscar-winner-this-kiddo-turned-into/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/guess-which-oscar-winner-this-kiddo-turned-into/</guid>
-            <pubDate>Fri, 13 Mar 2026 07:01:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/03/04/c3051e21af46475aada3de1e7913c501_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/03/04/c3051e21af46475aada3de1e7913c501_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/03/04/c3051e21af46475aada3de1e7913c501_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Window Company Wants Donna Kelce as Spokesperson Amid Renovation Popularity]]></title>
-            <link>https://www.tmz.com/2026/03/12/window-company-donna-kelce-home-renovation-speaks-out/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/window-company-donna-kelce-home-renovation-speaks-out/</guid>
-            <pubDate>Fri, 13 Mar 2026 01:30:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/03/12/f8a65c69d80b4a34bbc99d98d6d8a2db_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/03/12/f8a65c69d80b4a34bbc99d98d6d8a2db_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/03/12/f8a65c69d80b4a34bbc99d98d6d8a2db_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
