@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 19:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 21:04:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Zach Bryan Drops $12M on Jack Kerouac Manuscript Scroll at Jim Irsay Auction]]></title>
+            <link>https://www.tmz.com/2026/03/13/zach-bryan-buys-jack-kerouac-on-the-road-scroll-at-auction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/zach-bryan-buys-jack-kerouac-on-the-road-scroll-at-auction/</guid>
+            <pubDate>Fri, 13 Mar 2026 20:45:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/03/13/6fb3878daba149f9b8642c2b41d7cd25_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/03/13/6fb3878daba149f9b8642c2b41d7cd25_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/03/13/6fb3878daba149f9b8642c2b41d7cd25_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Henry Cejudo Contemplates Putting Harvey Levin In Headlock On &#039;TMZ Live&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/13/henry-cejudo-considers-putting-harvey-levin-in-a-headlock-on-tmz-live/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/henry-cejudo-considers-putting-harvey-levin-in-a-headlock-on-tmz-live/</guid>
+            <pubDate>Fri, 13 Mar 2026 20:03:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4c/16by9/2026/03/13/4c947592b03840ccb2257ee58399033b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/03/13/4c947592b03840ccb2257ee58399033b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/03/13/4c947592b03840ccb2257ee58399033b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess The Sexy Actress Wearing Angel Wings]]></title>
+            <link>https://www.tmz.com/2026/03/13/guess-who-sexy-actress/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/guess-who-sexy-actress/</guid>
+            <pubDate>Fri, 13 Mar 2026 20:00:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/03/13/ed3cbd9061964c668d982e60a1c9c8a2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/03/13/ed3cbd9061964c668d982e60a1c9c8a2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/03/13/ed3cbd9061964c668d982e60a1c9c8a2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Trump Hotel in Chicago Failed Food Inspection: Insects, Wastewater, Expired Food]]></title>
             <link>https://www.tmz.com/2026/03/13/trump-hotel-chicago-restaurants-health-hazards/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna House Shooting: Suspect&#039;s Estranged Husband Got Message Beforehand]]></title>
-            <link>https://www.tmz.com/2026/03/13/ivanna-ortiz-estranged-husband-received-rihanna-message/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/ivanna-ortiz-estranged-husband-received-rihanna-message/</guid>
-            <pubDate>Fri, 13 Mar 2026 19:33:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e0/16by9/2026/03/13/e0ef0710d199485a898d136ffb21bd4a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/03/13/e0ef0710d199485a898d136ffb21bd4a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/03/13/e0ef0710d199485a898d136ffb21bd4a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Missing Air Force General Wasn&#039;t Kidnapped Over UFO Info, Wife Says]]></title>
-            <link>https://www.tmz.com/2026/03/13/missing-air-force-general-wife-slams-misinformation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/missing-air-force-general-wife-slams-misinformation/</guid>
-            <pubDate>Fri, 13 Mar 2026 19:31:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/03/13/7b0fac9104384952b725927b4815d523_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/03/13/7b0fac9104384952b725927b4815d523_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/03/13/7b0fac9104384952b725927b4815d523_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Heidi Fleiss Defends Her Birds in Dispute With Neighbor After Authorities Called]]></title>
-            <link>https://www.tmz.com/2026/03/13/heidi-fleiss-defends-macaws-after-neighbor-complained/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/heidi-fleiss-defends-macaws-after-neighbor-complained/</guid>
-            <pubDate>Fri, 13 Mar 2026 19:16:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
