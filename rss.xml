@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 07:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 08:05:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Nikki Bella Weighs In On Logan Paul’s NFL Challenge, &#039;We&#039;ll Have to See!&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/13/nikki-bella-talks-logan-paul-challenge/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/nikki-bella-talks-logan-paul-challenge/</guid>
+            <pubDate>Fri, 13 Mar 2026 07:30:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/03/09/6cb2cbd0e0cc4df3b19fd632545b60e0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/03/09/6cb2cbd0e0cc4df3b19fd632545b60e0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/03/09/6cb2cbd0e0cc4df3b19fd632545b60e0_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[The Most Iconic Oscars Moments -- And Yes, They Slap!]]></title>
             <link>https://www.tmz.com/2026/03/13/most-iconic-oscars-moments/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/03/12/f8a65c69d80b4a34bbc99d98d6d8a2db_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/03/12/f8a65c69d80b4a34bbc99d98d6d8a2db_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Southern Hospitality&#039; Star Grace Lilly Arrested On Drug Charges]]></title>
-            <link>https://www.tmz.com/2026/03/12/southern-hospitality-grace-lilly-arrested-drugs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/southern-hospitality-grace-lilly-arrested-drugs/</guid>
-            <pubDate>Fri, 13 Mar 2026 01:22:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/03/13/979365611063429b9810e0699423d889_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/03/13/979365611063429b9810e0699423d889_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/03/13/979365611063429b9810e0699423d889_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
