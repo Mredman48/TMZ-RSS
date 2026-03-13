@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 19:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 19:59:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Trump Hotel in Chicago Failed Food Inspection: Insects, Wastewater, Expired Food]]></title>
+            <link>https://www.tmz.com/2026/03/13/trump-hotel-chicago-restaurants-health-hazards/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/trump-hotel-chicago-restaurants-health-hazards/</guid>
+            <pubDate>Fri, 13 Mar 2026 19:42:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/03/13/e29baa44f2624092a6000919611af149_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/03/13/e29baa44f2624092a6000919611af149_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/03/13/e29baa44f2624092a6000919611af149_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jack Harlow Says He &#039;Got Blacker&#039; With His New R&B Album]]></title>
+            <link>https://www.tmz.com/2026/03/13/jack-harlow-talks-black-music/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/jack-harlow-talks-black-music/</guid>
+            <pubDate>Fri, 13 Mar 2026 19:33:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna House Shooting: Suspect&#039;s Estranged Husband Got Message Beforehand]]></title>
+            <link>https://www.tmz.com/2026/03/13/ivanna-ortiz-estranged-husband-received-rihanna-message/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/ivanna-ortiz-estranged-husband-received-rihanna-message/</guid>
+            <pubDate>Fri, 13 Mar 2026 19:33:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e0/16by9/2026/03/13/e0ef0710d199485a898d136ffb21bd4a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/03/13/e0ef0710d199485a898d136ffb21bd4a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/03/13/e0ef0710d199485a898d136ffb21bd4a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Missing Air Force General Wasn&#039;t Kidnapped Over UFO Info, Wife Says]]></title>
+            <link>https://www.tmz.com/2026/03/13/missing-air-force-general-wife-slams-misinformation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/missing-air-force-general-wife-slams-misinformation/</guid>
+            <pubDate>Fri, 13 Mar 2026 19:31:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/03/13/7b0fac9104384952b725927b4815d523_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/03/13/7b0fac9104384952b725927b4815d523_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/03/13/7b0fac9104384952b725927b4815d523_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Heidi Fleiss Defends Her Birds in Dispute With Neighbor After Authorities Called]]></title>
             <link>https://www.tmz.com/2026/03/13/heidi-fleiss-defends-macaws-after-neighbor-complained/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2026/03/13/f1c6403e7afa41a2874f214f16b40b67_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Confirms Kobe Bryant Fight Story, I Had To Break It Up!]]></title>
-            <link>https://www.tmz.com/2026/03/13/president-trump-confirms-kobe-bryant-fight-story/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/president-trump-confirms-kobe-bryant-fight-story/</guid>
-            <pubDate>Fri, 13 Mar 2026 18:46:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/03/13/2d3d01ec221d4a68bae77d851dd14851_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/03/13/2d3d01ec221d4a68bae77d851dd14851_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/03/13/2d3d01ec221d4a68bae77d851dd14851_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Demi Engemann Breaks Silence on Quitting Show, Fires Back at Comments]]></title>
-            <link>https://www.tmz.com/2026/03/13/demi-engemann-talks-leaving-mormon-wives/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/demi-engemann-talks-leaving-mormon-wives/</guid>
-            <pubDate>Fri, 13 Mar 2026 18:36:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/03/12/bfc18990dad34e4d825830035008e293_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/03/12/bfc18990dad34e4d825830035008e293_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/03/12/bfc18990dad34e4d825830035008e293_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cops Request Warrant to Search Through Laken Snelling&#039;s Snapchat]]></title>
-            <link>https://www.tmz.com/2026/03/13/laken-snelling-snapchat-warrant-details-messages-from-roomates/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/laken-snelling-snapchat-warrant-details-messages-from-roomates/</guid>
-            <pubDate>Fri, 13 Mar 2026 18:31:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/03/13/09846662d70e4cffb48d8cb51d88ea10_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/03/13/09846662d70e4cffb48d8cb51d88ea10_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/03/13/09846662d70e4cffb48d8cb51d88ea10_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pete Hegseth Dares Iranian Leader to Show His &#039;Disfigured&#039; Face]]></title>
-            <link>https://www.tmz.com/2026/03/13/pete-hegseth-wants-iranian-leader-to-show-his-face/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/pete-hegseth-wants-iranian-leader-to-show-his-face/</guid>
-            <pubDate>Fri, 13 Mar 2026 17:48:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/03/13/23c2b4d4e64a4b3a92c9c31a25ca0b03_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
