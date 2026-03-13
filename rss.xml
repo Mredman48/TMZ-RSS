@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 21:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 22:00:02 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Zach Bryan Drops $12M on Jack Kerouac Manuscript Scroll at Jim Irsay Auction]]></title>
-            <link>https://www.tmz.com/2026/03/13/zach-bryan-buys-jack-kerouac-on-the-road-scroll-at-auction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/zach-bryan-buys-jack-kerouac-on-the-road-scroll-at-auction/</guid>
-            <pubDate>Fri, 13 Mar 2026 20:45:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/03/13/6fb3878daba149f9b8642c2b41d7cd25_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/03/13/6fb3878daba149f9b8642c2b41d7cd25_xl.png" medium="image">
+            <title><![CDATA[Marciano Brunette Watching &#039;Secret Lives of Mormon Wives,&#039; Despite Lawsuit]]></title>
+            <link>https://www.tmz.com/2026/03/13/marciano-brunette-keeping-up-with-secret-lives-of-mormon-wives/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/marciano-brunette-keeping-up-with-secret-lives-of-mormon-wives/</guid>
+            <pubDate>Fri, 13 Mar 2026 21:36:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/03/13/6724d9a1582c49c58961d109619b9a1a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/03/13/6724d9a1582c49c58961d109619b9a1a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/03/13/6fb3878daba149f9b8642c2b41d7cd25_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/03/13/6724d9a1582c49c58961d109619b9a1a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Henry Cejudo Contemplates Putting Harvey Levin In Headlock On &#039;TMZ Live&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/13/henry-cejudo-considers-putting-harvey-levin-in-a-headlock-on-tmz-live/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/henry-cejudo-considers-putting-harvey-levin-in-a-headlock-on-tmz-live/</guid>
-            <pubDate>Fri, 13 Mar 2026 20:03:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4c/16by9/2026/03/13/4c947592b03840ccb2257ee58399033b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/03/13/4c947592b03840ccb2257ee58399033b_xl.jpg" medium="image">
+            <title><![CDATA[Olivia Rodrigo Teases New Music With Mysterious Los Angeles Mural]]></title>
+            <link>https://www.tmz.com/2026/03/13/olivia-rodrigo-teases-new-music/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/olivia-rodrigo-teases-new-music/</guid>
+            <pubDate>Fri, 13 Mar 2026 21:33:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/03/13/17ace8bf3e7a423d8116c2ec82f5d6de_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/03/13/17ace8bf3e7a423d8116c2ec82f5d6de_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/03/13/4c947592b03840ccb2257ee58399033b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/03/13/17ace8bf3e7a423d8116c2ec82f5d6de_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Guess The Sexy Actress Wearing Angel Wings]]></title>
-            <link>https://www.tmz.com/2026/03/13/guess-who-sexy-actress/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/guess-who-sexy-actress/</guid>
-            <pubDate>Fri, 13 Mar 2026 20:00:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/03/13/ed3cbd9061964c668d982e60a1c9c8a2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/03/13/ed3cbd9061964c668d982e60a1c9c8a2_xl.jpg" medium="image">
+            <title><![CDATA[Charges Dropped Against Georgia Teens After Teacher Killed In Prank Gone Wrong]]></title>
+            <link>https://www.tmz.com/2026/03/13/charges-dropped-against-georgia-teens-who-killed-teacher/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/charges-dropped-against-georgia-teens-who-killed-teacher/</guid>
+            <pubDate>Fri, 13 Mar 2026 21:16:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/03/13/d258c9d413444387998c41d21d9b73ab_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/13/d258c9d413444387998c41d21d9b73ab_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/03/13/ed3cbd9061964c668d982e60a1c9c8a2_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/13/d258c9d413444387998c41d21d9b73ab_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Trump Hotel in Chicago Failed Food Inspection: Insects, Wastewater, Expired Food]]></title>
-            <link>https://www.tmz.com/2026/03/13/trump-hotel-chicago-restaurants-health-hazards/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/trump-hotel-chicago-restaurants-health-hazards/</guid>
-            <pubDate>Fri, 13 Mar 2026 19:42:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/03/13/e29baa44f2624092a6000919611af149_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/03/13/e29baa44f2624092a6000919611af149_xl.png" medium="image">
+            <title><![CDATA[Doug Martin Police Footage Released Following Mysterious Death]]></title>
+            <link>https://www.tmz.com/2026/03/13/doug-martin-goes-unconscious-in-oakland-police-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/doug-martin-goes-unconscious-in-oakland-police-video/</guid>
+            <pubDate>Fri, 13 Mar 2026 21:10:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/03/13/bc5a1dea748345a99634f4a097c8fce0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/03/13/bc5a1dea748345a99634f4a097c8fce0_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/03/13/e29baa44f2624092a6000919611af149_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/03/13/bc5a1dea748345a99634f4a097c8fce0_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jack Harlow Says He &#039;Got Blacker&#039; With His New R&B Album]]></title>
-            <link>https://www.tmz.com/2026/03/13/jack-harlow-talks-black-music/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/jack-harlow-talks-black-music/</guid>
-            <pubDate>Fri, 13 Mar 2026 19:33:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg" medium="image">
+            <title><![CDATA[Teyana Taylor Says She&#039;ll Prep an Oscar Speech &#039;Just in Case&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/13/teyana-taylor-preparing-potential-oscar-speech/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/teyana-taylor-preparing-potential-oscar-speech/</guid>
+            <pubDate>Fri, 13 Mar 2026 21:02:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/03/13/52054aae4cb242bd93ec5b583632a5f2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/03/13/52054aae4cb242bd93ec5b583632a5f2_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/13/c8ef2e8c780f41e0872550d02973a782_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/03/13/52054aae4cb242bd93ec5b583632a5f2_xl.png">
             </media:thumbnail>
         </item>
     </channel>
