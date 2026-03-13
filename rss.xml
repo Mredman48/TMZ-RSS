@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 06:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 07:31:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[The Most Iconic Oscars Moments -- And Yes, They Slap!]]></title>
+            <link>https://www.tmz.com/2026/03/13/most-iconic-oscars-moments/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/most-iconic-oscars-moments/</guid>
+            <pubDate>Fri, 13 Mar 2026 07:10:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/03/10/69de9a636004433a987572dd75cfff63_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/03/10/69de9a636004433a987572dd75cfff63_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/03/10/69de9a636004433a987572dd75cfff63_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Products to Kick Off Spring Cleaning]]></title>
+            <link>https://www.tmz.com/2026/03/13/spring-cleaning-amazon/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/spring-cleaning-amazon/</guid>
+            <pubDate>Fri, 13 Mar 2026 07:05:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2025/02/20/0f717092350d4f5299df2e1ea39eaab5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0f/16by9/2025/02/20/0f717092350d4f5299df2e1ea39eaab5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2025/02/20/0f717092350d4f5299df2e1ea39eaab5_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Which Oscar Nominee This Kiddo Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/03/13/guess-which-oscar-winner-this-kiddo-turned-into/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/guess-which-oscar-winner-this-kiddo-turned-into/</guid>
+            <pubDate>Fri, 13 Mar 2026 07:01:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/03/04/c3051e21af46475aada3de1e7913c501_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/03/04/c3051e21af46475aada3de1e7913c501_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/03/04/c3051e21af46475aada3de1e7913c501_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Window Company Wants Donna Kelce as Spokesperson Amid Renovation Popularity]]></title>
             <link>https://www.tmz.com/2026/03/12/window-company-donna-kelce-home-renovation-speaks-out/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/97/16by9/2026/03/13/979365611063429b9810e0699423d889_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/03/13/979365611063429b9810e0699423d889_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mickey Rourke Rocks Red Hair After Eviction]]></title>
-            <link>https://www.tmz.com/2026/03/12/mickey-rourke-red-hair-eviction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/mickey-rourke-red-hair-eviction/</guid>
-            <pubDate>Thu, 12 Mar 2026 23:45:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/12/480dceaf760644edbc6d3b56da53a714_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/12/480dceaf760644edbc6d3b56da53a714_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/12/480dceaf760644edbc6d3b56da53a714_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Gifted Medal By U.S. Olympian At White House]]></title>
-            <link>https://www.tmz.com/2026/03/12/president-trump-awarded-medal-kaillie-humphries-olympian-white-house-order-ikkos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/president-trump-awarded-medal-kaillie-humphries-olympian-white-house-order-ikkos/</guid>
-            <pubDate>Thu, 12 Mar 2026 23:24:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/03/12/738d1423432842699b9b51f6f538fffd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/03/12/738d1423432842699b9b51f6f538fffd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/03/12/738d1423432842699b9b51f6f538fffd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[White House Mixes Iran War Strikes With Wii Sports Montage]]></title>
-            <link>https://www.tmz.com/2026/03/12/white-house-wii-sports-iran-bombing-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/12/white-house-wii-sports-iran-bombing-video/</guid>
-            <pubDate>Thu, 12 Mar 2026 23:10:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/12/6a6c8bf9d77c4989b8292d43f13ef67d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/12/6a6c8bf9d77c4989b8292d43f13ef67d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/12/6a6c8bf9d77c4989b8292d43f13ef67d_xl.png">
             </media:thumbnail>
         </item>
     </channel>
