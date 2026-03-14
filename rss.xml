@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 23:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 03:14:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Feds Recover More Images From Nancy Guthrie Home Security Cameras]]></title>
+            <link>https://www.tmz.com/2026/03/13/additional-images-from-nancy-guthrie-home-cameras-report/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/additional-images-from-nancy-guthrie-home-cameras-report/</guid>
+            <pubDate>Sat, 14 Mar 2026 00:57:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/02/27/64ed1e4ee1444043b8aec4de82029767_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/02/27/64ed1e4ee1444043b8aec4de82029767_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/02/27/64ed1e4ee1444043b8aec4de82029767_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[YouTuber Kayla Nicole Jones Sued by Hairstylist for Assault]]></title>
+            <link>https://www.tmz.com/2026/03/13/kayla-nicole-jones-sued-by-hairstylist/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/kayla-nicole-jones-sued-by-hairstylist/</guid>
+            <pubDate>Sat, 14 Mar 2026 00:30:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/38/16by9/2026/03/13/381675e952854f6abc0131492abf032d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/38/16by9/2026/03/13/381675e952854f6abc0131492abf032d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/03/13/381675e952854f6abc0131492abf032d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Diddy&#039;s Ex Dana Tran Casually Dating Influencer Desmond Scott]]></title>
+            <link>https://www.tmz.com/2026/03/13/diddy-ex-dana-tran-dating-desmond-scott/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/diddy-ex-dana-tran-dating-desmond-scott/</guid>
+            <pubDate>Sat, 14 Mar 2026 00:10:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/03/13/5c92c7b124c5468b8769a3ccd74402ef_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/03/13/5c92c7b124c5468b8769a3ccd74402ef_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/03/13/5c92c7b124c5468b8769a3ccd74402ef_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Diddy Files Appeal Over Sentence in Prostitution Conviction]]></title>
+            <link>https://www.tmz.com/2026/03/13/diddy-appeals-prostitution-prison-sentencing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/diddy-appeals-prostitution-prison-sentencing/</guid>
+            <pubDate>Fri, 13 Mar 2026 23:53:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/03/13/cb956afc3abd425dadbaff597a9ba3d4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/03/13/cb956afc3abd425dadbaff597a9ba3d4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/03/13/cb956afc3abd425dadbaff597a9ba3d4_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Sommer Ray Spreads Some Sunshine in New Tantalizing Traps]]></title>
             <link>https://www.tmz.com/2026/03/13/sommer-ray-thirst-traps/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/03/13/2ad50af181e24bef8465f016878009c7_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/03/13/2ad50af181e24bef8465f016878009c7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jorge Masvidal Wants Conor McGregor Fight, I&#039;ll Break His F****** Face!]]></title>
-            <link>https://www.tmz.com/2026/03/13/jorge-masvidal-wants-fight-conor-mcgregor-ufc-mma/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/jorge-masvidal-wants-fight-conor-mcgregor-ufc-mma/</guid>
-            <pubDate>Fri, 13 Mar 2026 23:18:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/03/13/f81d83cc375e4e6b871c9f529f54265c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/03/13/f81d83cc375e4e6b871c9f529f54265c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/03/13/f81d83cc375e4e6b871c9f529f54265c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[D4vd&#039;s Friend Neo Goes Off on Singer -- &#039;D**khead&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/13/d4vd-friend-neo-slams-singer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/d4vd-friend-neo-slams-singer/</guid>
-            <pubDate>Fri, 13 Mar 2026 22:56:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/03/13/c6603ec93d024289a7ec6ed66cee793a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/03/13/c6603ec93d024289a7ec6ed66cee793a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/03/13/c6603ec93d024289a7ec6ed66cee793a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lindsey Vonn Shares Painful Video Documenting Leg Injury Recovery]]></title>
-            <link>https://www.tmz.com/2026/03/13/lindsey-vonn-shares-injured-leg-recovery-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/lindsey-vonn-shares-injured-leg-recovery-video/</guid>
-            <pubDate>Fri, 13 Mar 2026 22:38:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/03/13/0eb2db39040949438b7432d7051c8c8e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/03/13/0eb2db39040949438b7432d7051c8c8e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/03/13/0eb2db39040949438b7432d7051c8c8e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Live Nation Employees Gloat About Overcharging &#039;Stupid&#039; Customers]]></title>
-            <link>https://www.tmz.com/2026/03/13/live-nation-overcharging-customers-comments/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/13/live-nation-overcharging-customers-comments/</guid>
-            <pubDate>Fri, 13 Mar 2026 22:31:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/03/13/0a1d719225e9458d95a04dd5ae251b01_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/03/13/0a1d719225e9458d95a04dd5ae251b01_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/03/13/0a1d719225e9458d95a04dd5ae251b01_xl.png">
             </media:thumbnail>
         </item>
     </channel>
