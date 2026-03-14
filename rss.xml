@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 15:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 15:55:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Mariah Carey Crashes Son Moroccan&#039;s Twitch Stream]]></title>
+            <link>https://www.tmz.com/2026/03/14/mariah-carey-appears-on-son-live-stream/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/mariah-carey-appears-on-son-live-stream/</guid>
+            <pubDate>Sat, 14 Mar 2026 15:42:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/03/14/7b0f8d5a639a4d6eb8270006bff95e41_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/03/14/7b0f8d5a639a4d6eb8270006bff95e41_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/03/14/7b0f8d5a639a4d6eb8270006bff95e41_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Dolly Parton Shares Health Update After Medical Scare]]></title>
             <link>https://www.tmz.com/2026/03/14/dolly-parton-gives-update-on-health/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/03/14/e0ebce7e2b2a4d88b38c8640c4eb78d3_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/03/14/e0ebce7e2b2a4d88b38c8640c4eb78d3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Rep Jasmine Crockett&#039;s Security Guard Reportedly Shot to Death by Police]]></title>
-            <link>https://www.tmz.com/2026/03/14/jasmine-crockett-security-guard-killed-by-police/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/jasmine-crockett-security-guard-killed-by-police/</guid>
-            <pubDate>Sat, 14 Mar 2026 12:10:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/03/14/0b4d9505f08a414cbc1ed8c2c69d162a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/03/14/0b4d9505f08a414cbc1ed8c2c69d162a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/03/14/0b4d9505f08a414cbc1ed8c2c69d162a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
