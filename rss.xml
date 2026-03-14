@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 07:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 07:58:35 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Yoshinobu Yamamoto, Yusei Kikuchi Hit Miami Park For Pitching Practice]]></title>
+            <link>https://www.tmz.com/2026/03/14/yoshinob-yamamoto-practices-pitching-miami-park-world-baseball-classic/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/yoshinob-yamamoto-practices-pitching-miami-park-world-baseball-classic/</guid>
+            <pubDate>Sat, 14 Mar 2026 07:30:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/99/16by9/2026/03/12/993ca53d8b5149d8a42167590946d62f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/99/16by9/2026/03/12/993ca53d8b5149d8a42167590946d62f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/03/12/993ca53d8b5149d8a42167590946d62f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
+            <link>https://www.tmz.com/2026/03/14/polls-you-be-the-judge/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/polls-you-be-the-judge/</guid>
+            <pubDate>Sat, 14 Mar 2026 07:25:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/03/13/6db5efd5ec9e41edad637affef63b6bd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/03/13/6db5efd5ec9e41edad637affef63b6bd_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/03/13/6db5efd5ec9e41edad637affef63b6bd_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jake Paul Losing Interest In Tommy Fury Rematch, &#039;Difficult to Work With&#039;]]></title>
             <link>https://www.tmz.com/2026/03/14/jake-paul-not-really-into-tommy-fury-rematch/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/03/02/fc3abd25368d454b8612ee2871575ab1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/03/02/fc3abd25368d454b8612ee2871575ab1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[What&#039;s The Big Frigin&#039; Oscars Difference?!]]></title>
-            <link>https://www.tmz.com/2026/03/14/whats-the-big-frigin-oscars-difference/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/whats-the-big-frigin-oscars-difference/</guid>
-            <pubDate>Sat, 14 Mar 2026 07:01:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/03/10/d9290c4c6ef5467a9bc3110de7f96f4e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/03/10/d9290c4c6ef5467a9bc3110de7f96f4e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/03/10/d9290c4c6ef5467a9bc3110de7f96f4e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Who&#039;d You Rather?! The Oscars Edition!]]></title>
-            <link>https://www.tmz.com/2026/03/14/whod-you-rather-oscars-edition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/whod-you-rather-oscars-edition/</guid>
-            <pubDate>Sat, 14 Mar 2026 07:00:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2a/16by9/2026/03/10/2ad8be21fdaa4870819871700fe704f3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/03/10/2ad8be21fdaa4870819871700fe704f3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/03/10/2ad8be21fdaa4870819871700fe704f3_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
