@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 14:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 15:00:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Dolly Parton Shares Health Update After Medical Scare]]></title>
+            <link>https://www.tmz.com/2026/03/14/dolly-parton-gives-update-on-health/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/dolly-parton-gives-update-on-health/</guid>
+            <pubDate>Sat, 14 Mar 2026 14:55:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/03/14/938e63f277464f1fb54f5dea749f1365_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/03/14/938e63f277464f1fb54f5dea749f1365_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/03/14/938e63f277464f1fb54f5dea749f1365_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Motörhead Guitarist Phil Campbell Dead at 64]]></title>
+            <link>https://www.tmz.com/2026/03/14/phil-campbell-dead-motorhead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/phil-campbell-dead-motorhead/</guid>
+            <pubDate>Sat, 14 Mar 2026 14:23:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b3/16by9/2026/03/14/b39b1e9878584e7692a2305621a5d265_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b3/16by9/2026/03/14/b39b1e9878584e7692a2305621a5d265_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b3/16by9/2026/03/14/b39b1e9878584e7692a2305621a5d265_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Heated Rivalry&#039; Stars Connor Storrie, Hudson Williams Attend CAA Pre-Oscars Party]]></title>
+            <link>https://www.tmz.com/2026/03/14/connor-storrie-hudson-williams-together-at-oscars-party/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/connor-storrie-hudson-williams-together-at-oscars-party/</guid>
+            <pubDate>Sat, 14 Mar 2026 14:15:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/03/14/78532dbdec8b44c0b0fab3a972be1974_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/14/78532dbdec8b44c0b0fab3a972be1974_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/14/78532dbdec8b44c0b0fab3a972be1974_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Doja Cat &#039;Struggling&#039; with Borderline Personality Disorder]]></title>
             <link>https://www.tmz.com/2026/03/14/doja-cat-borderline-personality-disorder/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/03/14/0b4d9505f08a414cbc1ed8c2c69d162a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/03/14/0b4d9505f08a414cbc1ed8c2c69d162a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Married to Medicine&#039; Lia Jones Wants To Change Child Custody Agreement]]></title>
-            <link>https://www.tmz.com/2026/03/14/married-to-medicine-lia-jones-seeks-custody-change/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/married-to-medicine-lia-jones-seeks-custody-change/</guid>
-            <pubDate>Sat, 14 Mar 2026 11:30:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/03/13/030aa74d0aba4c729174450e9af091f0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/03/13/030aa74d0aba4c729174450e9af091f0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/03/13/030aa74d0aba4c729174450e9af091f0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Incarcerated The McBee Dynasty’s Steven McBee Shut Down in Fight Over Fraud Claims]]></title>
-            <link>https://www.tmz.com/2026/03/14/court-denies-steve-mcbee-bid-for-fraud-dismissal/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/court-denies-steve-mcbee-bid-for-fraud-dismissal/</guid>
-            <pubDate>Sat, 14 Mar 2026 11:00:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/39/16by9/2026/03/13/39c1cf1f35af4ed692b664d0810a6a72_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/39/16by9/2026/03/13/39c1cf1f35af4ed692b664d0810a6a72_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/39/16by9/2026/03/13/39c1cf1f35af4ed692b664d0810a6a72_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kyrsten Sinema BF&#039;s Ex Accuses Him of Narcotics, Psychedelics Abuse in Custody War]]></title>
-            <link>https://www.tmz.com/2026/03/14/heather-ammel-claims-ex-matthew-used-drugs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/heather-ammel-claims-ex-matthew-used-drugs/</guid>
-            <pubDate>Sat, 14 Mar 2026 10:00:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/01/16/1985bab1cf494669ab55b755d0906c28_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/01/16/1985bab1cf494669ab55b755d0906c28_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/01/16/1985bab1cf494669ab55b755d0906c28_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
