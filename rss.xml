@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 17:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 17:56:53 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Man Kills 2 Near Florida PGA Tour Location]]></title>
+            <link>https://www.tmz.com/2026/03/14/shooting-near-pga-players-championship-florida/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/shooting-near-pga-players-championship-florida/</guid>
+            <pubDate>Sat, 14 Mar 2026 17:12:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/03/14/64fe0326eb934ba6a00d66e28d840ae3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/03/14/64fe0326eb934ba6a00d66e28d840ae3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/03/14/64fe0326eb934ba6a00d66e28d840ae3_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[North West Debuts Long Nails with Spikes, Piercings]]></title>
             <link>https://www.tmz.com/2026/03/14/north-west-shows-off-spike-fingernails/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b3/16by9/2026/03/14/b39b1e9878584e7692a2305621a5d265_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b3/16by9/2026/03/14/b39b1e9878584e7692a2305621a5d265_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Heated Rivalry&#039; Stars Connor Storrie, Hudson Williams Attend CAA Pre-Oscars Party]]></title>
-            <link>https://www.tmz.com/2026/03/14/connor-storrie-hudson-williams-together-at-oscars-party/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/14/connor-storrie-hudson-williams-together-at-oscars-party/</guid>
-            <pubDate>Sat, 14 Mar 2026 14:15:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/03/14/78532dbdec8b44c0b0fab3a972be1974_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/14/78532dbdec8b44c0b0fab3a972be1974_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/14/78532dbdec8b44c0b0fab3a972be1974_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
