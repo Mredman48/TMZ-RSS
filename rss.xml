@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 17:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 19:07:13 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Chet Hanks Attends Pre-Oscars Party With Mom Rita Wilson Weeks After Colombia Travel Issue]]></title>
+            <link>https://www.tmz.com/2026/03/15/chet-hanks-attends-pre-oscars-party-with-rita-wilson-after-colombia-travel-issue/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/chet-hanks-attends-pre-oscars-party-with-rita-wilson-after-colombia-travel-issue/</guid>
+            <pubDate>Sun, 15 Mar 2026 18:37:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/03/15/d1ab41498f4e494aac812f5a2664bb84_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/03/15/d1ab41498f4e494aac812f5a2664bb84_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/03/15/d1ab41498f4e494aac812f5a2664bb84_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Shawn Mendes Takes Bathroom Break on Malibu Stroll With Bruna Marquezine]]></title>
             <link>https://www.tmz.com/2026/03/15/shawn-mendes-malibu-bathroom-break-with-bruna-marquezine/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/03/15/d6a28ce97cd640b980c6754f09a96ebc_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/03/15/d6a28ce97cd640b980c6754f09a96ebc_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Prince William Honors Princess Diana on U.K. Mother’s Day]]></title>
-            <link>https://www.tmz.com/2026/03/15/prince-harry-honors-princess-diana-mothers-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/prince-harry-honors-princess-diana-mothers-day/</guid>
-            <pubDate>Sun, 15 Mar 2026 15:13:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f4/16by9/2026/03/15/f40249763ab34110bdab808c1c24e7ae_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/03/15/f40249763ab34110bdab808c1c24e7ae_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/03/15/f40249763ab34110bdab808c1c24e7ae_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
