@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 21:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 23:00:29 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Man Appears to Chew Lit Cigarette on Live TV During Donald Trump&#039;s Ohio Visit]]></title>
+            <link>https://www.tmz.com/2026/03/15/man-appears-to-eat-lit-cigarette-on-live-tv-during-donald-trumps-ohio-visit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/man-appears-to-eat-lit-cigarette-on-live-tv-during-donald-trumps-ohio-visit/</guid>
+            <pubDate>Sun, 15 Mar 2026 22:20:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/06/16by9/2026/03/15/06c53aadd42d4e1da11dadc6d37164cd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/06/16by9/2026/03/15/06c53aadd42d4e1da11dadc6d37164cd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/06/16by9/2026/03/15/06c53aadd42d4e1da11dadc6d37164cd_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Comedian Bert Kreischer&#039;s Tour Bus Burns to the Ground]]></title>
             <link>https://www.tmz.com/2026/03/15/bert-kreischer-tour-bus-burns-down/</link>
@@ -23,10 +34,10 @@
             <link>https://www.tmz.com/2026/03/15/stars-walk-academy-awards-red-carpet/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/15/stars-walk-academy-awards-red-carpet/</guid>
             <pubDate>Sun, 15 Mar 2026 20:54:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/03/15/126634440a854395afd9a9a32de61399_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/03/15/126634440a854395afd9a9a32de61399_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/03/15/a3b4fe04c6c946dbaa18d78f15ac5937_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/03/15/a3b4fe04c6c946dbaa18d78f15ac5937_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/03/15/126634440a854395afd9a9a32de61399_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/03/15/a3b4fe04c6c946dbaa18d78f15ac5937_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jesse James&#039; Estranged Wife Bonnie Rotten Arrested]]></title>
-            <link>https://www.tmz.com/2026/03/15/jesse-james-estranged-wife-bonnie-rotten-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/jesse-james-estranged-wife-bonnie-rotten-arrested/</guid>
-            <pubDate>Sun, 15 Mar 2026 19:19:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/03/15/a4057bcfef144e399a6c0b0e955d14aa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/03/15/a4057bcfef144e399a6c0b0e955d14aa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/03/15/a4057bcfef144e399a6c0b0e955d14aa_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
