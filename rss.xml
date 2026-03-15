@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 19:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 19:54:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Brian&#039;s Song&#039; Actress Judy Pace Dead at 83]]></title>
+            <link>https://www.tmz.com/2026/03/15/judy-pace-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/judy-pace-dead/</guid>
+            <pubDate>Sun, 15 Mar 2026 19:43:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jesse James&#039; Estranged Wife Bonnie Rotten Arrested]]></title>
+            <link>https://www.tmz.com/2026/03/15/jesse-james-estranged-wife-bonnie-rotten-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/jesse-james-estranged-wife-bonnie-rotten-arrested/</guid>
+            <pubDate>Sun, 15 Mar 2026 19:19:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/03/15/a4057bcfef144e399a6c0b0e955d14aa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/03/15/a4057bcfef144e399a6c0b0e955d14aa_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/03/15/a4057bcfef144e399a6c0b0e955d14aa_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chet Hanks Attends Pre-Oscars Party With Mom Rita Wilson Weeks After Colombia Travel Issue]]></title>
             <link>https://www.tmz.com/2026/03/15/chet-hanks-attends-pre-oscars-party-with-rita-wilson-after-colombia-travel-issue/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/03/15/9ae09ee403b44cf694ac99e65fb36ff2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/03/15/9ae09ee403b44cf694ac99e65fb36ff2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Contestant Says &#039;Age of Attraction&#039; Virginity Storyline Got Cut]]></title>
-            <link>https://www.tmz.com/2026/03/15/netflix-allegedly-cut-age-of-attraction-contestant-virginity-storyline/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/netflix-allegedly-cut-age-of-attraction-contestant-virginity-storyline/</guid>
-            <pubDate>Sun, 15 Mar 2026 16:30:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/03/15/97a071c093894d71a8207fe9a0e93e27_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/03/15/97a071c093894d71a8207fe9a0e93e27_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/03/15/97a071c093894d71a8207fe9a0e93e27_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Paul Anthony Kelly Busts a Move at Armani&#039;s Pre-Oscars Party]]></title>
-            <link>https://www.tmz.com/2026/03/15/paul-anthony-kelly-dances-armani-pre-oscars-bash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/paul-anthony-kelly-dances-armani-pre-oscars-bash/</guid>
-            <pubDate>Sun, 15 Mar 2026 15:59:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/03/15/d6a28ce97cd640b980c6754f09a96ebc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/03/15/d6a28ce97cd640b980c6754f09a96ebc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/03/15/d6a28ce97cd640b980c6754f09a96ebc_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
