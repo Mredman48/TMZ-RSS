@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 11:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 13:33:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Oprah Winfrey Claps Back at Trolls Over Viral Paris Fashion Week Walk]]></title>
+            <link>https://www.tmz.com/2026/03/15/oprah-winfrey-explains-paris-fashion-week-walk/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/oprah-winfrey-explains-paris-fashion-week-walk/</guid>
+            <pubDate>Sun, 15 Mar 2026 13:04:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/03/15/e1210af97a494eb39abf0cd14ef6e072_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/03/15/e1210af97a494eb39abf0cd14ef6e072_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/03/15/e1210af97a494eb39abf0cd14ef6e072_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Georgia Teen Was Driving Safely When He Killed Teacher, Lawyer Says]]></title>
+            <link>https://www.tmz.com/2026/03/15/lawyer-says-georgia-teen-driving-safe-when-he-killed-teacher/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/lawyer-says-georgia-teen-driving-safe-when-he-killed-teacher/</guid>
+            <pubDate>Sun, 15 Mar 2026 12:38:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/03/15/b1271da8cf8f4266935921c5d918bc77_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/03/15/b1271da8cf8f4266935921c5d918bc77_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/03/15/b1271da8cf8f4266935921c5d918bc77_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Eva Longoria Hot Shots To Slay Her 51st Birthday!]]></title>
             <link>https://www.tmz.com/2026/03/15/eva-longoria-birthday-hot-shots/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/02/05/c0cc69f277614790a47b0473ffba5492_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/02/05/c0cc69f277614790a47b0473ffba5492_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Claressa Shields Open to Fighting Amanda Nunes in Exhibition]]></title>
-            <link>https://www.tmz.com/2026/03/15/claressa-shields-amanda-nunes-floyd-mayweather-exhibition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/claressa-shields-amanda-nunes-floyd-mayweather-exhibition/</guid>
-            <pubDate>Sun, 15 Mar 2026 07:20:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/03/13/8f0dbfb6c9bf4d0382e8c8b7fe77d671_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/03/13/8f0dbfb6c9bf4d0382e8c8b7fe77d671_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/03/13/8f0dbfb6c9bf4d0382e8c8b7fe77d671_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kate Hudson Good Genes or Good Docs?!]]></title>
-            <link>https://www.tmz.com/2026/03/15/kate-hudson-good-genes-or-docs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/kate-hudson-good-genes-or-docs/</guid>
-            <pubDate>Sun, 15 Mar 2026 07:10:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/03/11/a4c3fe96e82a4f0ebbee9492272e2b77_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/03/11/a4c3fe96e82a4f0ebbee9492272e2b77_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/03/11/a4c3fe96e82a4f0ebbee9492272e2b77_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
