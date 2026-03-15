@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 23:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 23:57:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Conan O&#039;Brien Calls Out Netflix CEO Ted Sarandos at Academy Awards]]></title>
+            <link>https://www.tmz.com/2026/03/15/conan-obrien-calls-out-netflix-ceo-ted-sarandos-at-academy-awards/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/conan-obrien-calls-out-netflix-ceo-ted-sarandos-at-academy-awards/</guid>
+            <pubDate>Sun, 15 Mar 2026 23:32:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/03/15/f7b4b03b16b544628e499c51d813367a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/15/f7b4b03b16b544628e499c51d813367a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/15/f7b4b03b16b544628e499c51d813367a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Nick Jonas, Priyanka Chopra&#039;s Golf Cart Ride to Oscars Almost Tips Over]]></title>
+            <link>https://www.tmz.com/2026/03/15/nick-jonas-priyanka-chopra-golf-cart-academy-awards/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/nick-jonas-priyanka-chopra-golf-cart-academy-awards/</guid>
+            <pubDate>Sun, 15 Mar 2026 23:15:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/03/15/2294a9beae7b447d988593bfa1d869de_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/03/15/2294a9beae7b447d988593bfa1d869de_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/03/15/2294a9beae7b447d988593bfa1d869de_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Legendary British Actor Is]]></title>
+            <link>https://www.tmz.com/2026/03/15/guess-who-british-actor/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/guess-who-british-actor/</guid>
+            <pubDate>Sun, 15 Mar 2026 23:00:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/03/10/0b0e346159614a19b39e246031f47b56_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/03/10/0b0e346159614a19b39e246031f47b56_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/03/10/0b0e346159614a19b39e246031f47b56_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Man Appears to Chew Lit Cigarette on Live TV During Donald Trump&#039;s Ohio Visit]]></title>
             <link>https://www.tmz.com/2026/03/15/man-appears-to-eat-lit-cigarette-on-live-tv-during-donald-trumps-ohio-visit/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hollywood&#039;s Biggest Stars Walk 2026 Academy Awards Red Carpet]]></title>
-            <link>https://www.tmz.com/2026/03/15/stars-walk-academy-awards-red-carpet/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/stars-walk-academy-awards-red-carpet/</guid>
-            <pubDate>Sun, 15 Mar 2026 20:54:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/03/15/a3b4fe04c6c946dbaa18d78f15ac5937_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/03/15/a3b4fe04c6c946dbaa18d78f15ac5937_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/03/15/a3b4fe04c6c946dbaa18d78f15ac5937_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Married at First Sight&#039; Stars Madison & David Are Engaged After Cheating Scandal]]></title>
-            <link>https://www.tmz.com/2026/03/15/madison-and-david-engaged-after-married-at-first-sight-cheating-scandal/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/madison-and-david-engaged-after-married-at-first-sight-cheating-scandal/</guid>
-            <pubDate>Sun, 15 Mar 2026 20:14:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/03/15/04b0b25b7c3f4a97b84007410c935e66_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/03/15/04b0b25b7c3f4a97b84007410c935e66_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/03/15/04b0b25b7c3f4a97b84007410c935e66_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Brian&#039;s Song&#039; Actress Judy Pace Dead at 83]]></title>
-            <link>https://www.tmz.com/2026/03/15/judy-pace-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/judy-pace-dead/</guid>
-            <pubDate>Sun, 15 Mar 2026 19:43:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/03/15/7fa5dd7bcf6444248b851daac7cf355b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
