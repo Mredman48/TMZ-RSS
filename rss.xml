@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 15:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 15:57:28 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Prince William Honors Princess Diana on U.K. Mother’s Day]]></title>
+            <link>https://www.tmz.com/2026/03/15/prince-harry-honors-princess-diana-mothers-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/prince-harry-honors-princess-diana-mothers-day/</guid>
+            <pubDate>Sun, 15 Mar 2026 15:13:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f4/16by9/2026/03/15/f40249763ab34110bdab808c1c24e7ae_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/03/15/f40249763ab34110bdab808c1c24e7ae_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/03/15/f40249763ab34110bdab808c1c24e7ae_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tucker Carlson Claims CIA Read His Texts With Iran]]></title>
+            <link>https://www.tmz.com/2026/03/15/tucker-carlson-says-cia-read-his-iran-texts/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/tucker-carlson-says-cia-read-his-iran-texts/</guid>
+            <pubDate>Sun, 15 Mar 2026 15:13:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/03/15/04fe992922b44e27ba2a4752d9f5bef7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/03/15/04fe992922b44e27ba2a4752d9f5bef7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/03/15/04fe992922b44e27ba2a4752d9f5bef7_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Harry Styles Kisses &#039;SNL&#039; Cast Member While Joking About Queerbaiting Claims]]></title>
             <link>https://www.tmz.com/2026/03/15/harry-styles-kisses-male-snl-cast-member-while-joking-about-queerbaiting/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/03/15/e1210af97a494eb39abf0cd14ef6e072_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/03/15/e1210af97a494eb39abf0cd14ef6e072_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Georgia Teen Was Driving Safely When He Killed Teacher, Lawyer Says]]></title>
-            <link>https://www.tmz.com/2026/03/15/lawyer-says-georgia-teen-driving-safe-when-he-killed-teacher/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/lawyer-says-georgia-teen-driving-safe-when-he-killed-teacher/</guid>
-            <pubDate>Sun, 15 Mar 2026 12:38:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/03/15/b1271da8cf8f4266935921c5d918bc77_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/03/15/b1271da8cf8f4266935921c5d918bc77_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/03/15/b1271da8cf8f4266935921c5d918bc77_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Eva Longoria Hot Shots To Slay Her 51st Birthday!]]></title>
-            <link>https://www.tmz.com/2026/03/15/eva-longoria-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/eva-longoria-birthday-hot-shots/</guid>
-            <pubDate>Sun, 15 Mar 2026 08:00:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2025/03/15/c13fd7597f5d4edc8ab29a282f3cb48e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c1/16by9/2025/03/15/c13fd7597f5d4edc8ab29a282f3cb48e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2025/03/15/c13fd7597f5d4edc8ab29a282f3cb48e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
