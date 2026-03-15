@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 14:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 15:00:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Harry Styles Kisses &#039;SNL&#039; Cast Member While Joking About Queerbaiting Claims]]></title>
+            <link>https://www.tmz.com/2026/03/15/harry-styles-kisses-male-snl-cast-member-while-joking-about-queerbaiting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/harry-styles-kisses-male-snl-cast-member-while-joking-about-queerbaiting/</guid>
+            <pubDate>Sun, 15 Mar 2026 14:27:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/03/15/2156e4e4ebdd43149551c244d0fe25b6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/03/15/2156e4e4ebdd43149551c244d0fe25b6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/03/15/2156e4e4ebdd43149551c244d0fe25b6_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[The Top 5 Most Shocking and Outrageous Oscars Showstoppers Ever]]></title>
             <link>https://www.tmz.com/2026/03/15/top-shocking-outrageous-oscars-showstoppers/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c1/16by9/2025/03/15/c13fd7597f5d4edc8ab29a282f3cb48e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2025/03/15/c13fd7597f5d4edc8ab29a282f3cb48e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jake Paul Is &#039;Most Impactful&#039; Fighter Under 30 In History, Says MVP&#039;s Nakisa Bidarian]]></title>
-            <link>https://www.tmz.com/2026/03/15/nakisa-bidarian-jake-paul-hall-of-famer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/nakisa-bidarian-jake-paul-hall-of-famer/</guid>
-            <pubDate>Sun, 15 Mar 2026 07:45:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/03/11/60adbeb5659d44f18cc95ef1cd11048b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/03/11/60adbeb5659d44f18cc95ef1cd11048b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/03/11/60adbeb5659d44f18cc95ef1cd11048b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
