@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 19:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 20:04:18 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kristin Cabot Opens Up About Coldplay Kiss Cam Night to Oprah Winfrey]]></title>
+            <link>https://www.tmz.com/2026/03/16/kristin-cabot-opening-up-about-coldplay-to-oprah/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/kristin-cabot-opening-up-about-coldplay-to-oprah/</guid>
+            <pubDate>Mon, 16 Mar 2026 20:02:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/03/16/6340ee70797446928424475c3f452f1e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/03/16/6340ee70797446928424475c3f452f1e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/03/16/6340ee70797446928424475c3f452f1e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lewis Hamilton Puts Heart Eyes Under Kim Kardashian&#039;s Post]]></title>
+            <link>https://www.tmz.com/2026/03/16/lewis-hamilton-heart-eyes-kim-kardashian-post/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/lewis-hamilton-heart-eyes-kim-kardashian-post/</guid>
+            <pubDate>Mon, 16 Mar 2026 19:56:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/03/16/e623a70cb9464f9f8ef773b645e5950a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/03/16/e623a70cb9464f9f8ef773b645e5950a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/03/16/e623a70cb9464f9f8ef773b645e5950a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hudson Williams Gets &#039;Heartthrob Glow&#039; for Oscars Red Carpet, BTS Video]]></title>
+            <link>https://www.tmz.com/2026/03/16/hudson-williams-gets-ready-for-oscars-festivities/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/hudson-williams-gets-ready-for-oscars-festivities/</guid>
+            <pubDate>Mon, 16 Mar 2026 19:44:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/03/16/529bca3dd49b41b78fd5545cbd8ae5fe_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/03/16/529bca3dd49b41b78fd5545cbd8ae5fe_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/03/16/529bca3dd49b41b78fd5545cbd8ae5fe_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Baywatch&#039; Actress Alexandra Paul Arrested After Dogs Taken From Facility]]></title>
             <link>https://www.tmz.com/2026/03/16/alexandra-paul-arrested-in-wisconsin/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/57/16by9/2026/03/16/57471144a5254b9487fdec891e4b2ce4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/03/16/57471144a5254b9487fdec891e4b2ce4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lou Holtz&#039;s Son Skip Honors Dad With Emotional Tribute At Funeral, ND Legends Gather]]></title>
-            <link>https://www.tmz.com/2026/03/16/lou-holtz-funeral-emotional-tribute/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/lou-holtz-funeral-emotional-tribute/</guid>
-            <pubDate>Mon, 16 Mar 2026 19:24:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/98/16by9/2026/03/16/98a949f97a5245f2b556a72ff787c0d6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/98/16by9/2026/03/16/98a949f97a5245f2b556a72ff787c0d6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2026/03/16/98a949f97a5245f2b556a72ff787c0d6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sebastian Stan Expecting Baby With GF Annabelle Wallis]]></title>
-            <link>https://www.tmz.com/2026/03/16/sebastian-stan-expecting-baby-with-annabelle-wallis/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/sebastian-stan-expecting-baby-with-annabelle-wallis/</guid>
-            <pubDate>Mon, 16 Mar 2026 19:10:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/03/13/f8f4e896c75e4f90b6ee6ff5b8a8b857_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/03/13/f8f4e896c75e4f90b6ee6ff5b8a8b857_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/03/13/f8f4e896c75e4f90b6ee6ff5b8a8b857_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Huda Mustafa Threatened BF Louis Russell&#039;s Kid, His Baby Mama Claims]]></title>
-            <link>https://www.tmz.com/2026/03/16/restraining-order-filed-against-huda-mustafa/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/restraining-order-filed-against-huda-mustafa/</guid>
-            <pubDate>Mon, 16 Mar 2026 19:03:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/03/13/f95b9d2ab1e7453db63e4fc9f499cd82_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/03/13/f95b9d2ab1e7453db63e4fc9f499cd82_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/03/13/f95b9d2ab1e7453db63e4fc9f499cd82_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
