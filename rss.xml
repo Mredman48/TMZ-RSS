@@ -4,18 +4,29 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 11:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 12:33:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Michael B. Jordan Celebrates Oscar Win At In-N-Out, Fans Go Wild]]></title>
+            <link>https://www.tmz.com/2026/03/16/michael-b-jordan-at-in-n-out-after-oscars-win/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/michael-b-jordan-at-in-n-out-after-oscars-win/</guid>
+            <pubDate>Mon, 16 Mar 2026 12:28:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/03/16/629798ac70eb475faf2b3e2a3346ab7b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/03/16/629798ac70eb475faf2b3e2a3346ab7b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/03/16/629798ac70eb475faf2b3e2a3346ab7b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bert Kreischer&#039;s Tour Bus Fire Sparked by Bizarre Tire Blowout]]></title>
             <link>https://www.tmz.com/2026/03/16/bert-kreischers-tour-bus-fire-sparked-by-bizarre-tire-blowout/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/16/bert-kreischers-tour-bus-fire-sparked-by-bizarre-tire-blowout/</guid>
             <pubDate>Mon, 16 Mar 2026 11:20:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/01/16by9/2026/03/16/0119fcc3c8064a0ca9d5d65839302e1e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/01/16by9/2026/03/16/0119fcc3c8064a0ca9d5d65839302e1e_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/03/16/0119fcc3c8064a0ca9d5d65839302e1e_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/72/16by9/2026/03/10/72c9e5ab11df49ffb2df9a61b4c8ee47_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/03/10/72c9e5ab11df49ffb2df9a61b4c8ee47_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Teyana Taylor Calls Out Security Guard at Oscars After Being Shoved]]></title>
-            <link>https://www.tmz.com/2026/03/15/teyana-taylor-calls-out-security-guard-at-oscars-after-being-shoved/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/teyana-taylor-calls-out-security-guard-at-oscars-after-being-shoved/</guid>
-            <pubDate>Mon, 16 Mar 2026 04:48:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/50/16by9/2026/03/13/50777c1019de42ec882639d4f15a9331_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/50/16by9/2026/03/13/50777c1019de42ec882639d4f15a9331_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/03/13/50777c1019de42ec882639d4f15a9331_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
