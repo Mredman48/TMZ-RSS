@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 10:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 11:31:01 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bert Kreischer&#039;s Tour Bus Fire Sparked by Bizarre Tire Blowout]]></title>
+            <link>https://www.tmz.com/2026/03/16/bert-kreischers-tour-bus-fire-sparked-by-bizarre-tire-blowout/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/bert-kreischers-tour-bus-fire-sparked-by-bizarre-tire-blowout/</guid>
+            <pubDate>Mon, 16 Mar 2026 11:20:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/03/15/c3f0ac565dbf416da25f92e422190a89_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Julio César Chávez Jr.’s Wife Says Family Life ‘Completely Changed’ After Arrest]]></title>
             <link>https://www.tmz.com/2026/03/16/frida-munoz-says-family-changed-after-julio-cesar-chavez-jr-arrest/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/50/16by9/2026/03/13/50777c1019de42ec882639d4f15a9331_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/03/13/50777c1019de42ec882639d4f15a9331_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[‘Secret Lives of Mormon Wives’ Production Paused Amid Taylor & Baby Daddy Drama]]></title>
-            <link>https://www.tmz.com/2026/03/15/secret-lives-of-mormon-wives-production-paused-taylor-dakota/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/15/secret-lives-of-mormon-wives-production-paused-taylor-dakota/</guid>
-            <pubDate>Mon, 16 Mar 2026 04:06:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/03/16/963bc293ea75493e8111e25d83beb7df_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/03/16/963bc293ea75493e8111e25d83beb7df_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/03/16/963bc293ea75493e8111e25d83beb7df_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
