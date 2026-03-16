@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 21:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 22:04:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Attorney Mark Geragos on Why Neo Could End Up Being D4vd&#039;s Worst Nightmare]]></title>
+            <link>https://www.tmz.com/2026/03/16/mark-geragos-details-how-neo-langston-could-possibly-bring-d4vd-trouble/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/mark-geragos-details-how-neo-langston-could-possibly-bring-d4vd-trouble/</guid>
+            <pubDate>Mon, 16 Mar 2026 22:00:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/03/16/b5fbc7a4278d41cd880c67a8ba216227_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/03/16/b5fbc7a4278d41cd880c67a8ba216227_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/03/16/b5fbc7a4278d41cd880c67a8ba216227_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mark Gastineau&#039;s Lawsuit Against ESPN Dismissed]]></title>
+            <link>https://www.tmz.com/2026/03/16/mark-gastineau-espn-lawsuit-dismissed-with-prejudice/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/mark-gastineau-espn-lawsuit-dismissed-with-prejudice/</guid>
+            <pubDate>Mon, 16 Mar 2026 21:56:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/03/16/e6747712ff8f48548f37dc59ee74a03b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/03/16/e6747712ff8f48548f37dc59ee74a03b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/03/16/e6747712ff8f48548f37dc59ee74a03b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jesse James Said Wife Bonnie Rotten Hit Him in Face, Bit His Thumb: Police Report]]></title>
+            <link>https://www.tmz.com/2026/03/16/inside-jesse-james-estranged-wife-bonnie-rottens-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/inside-jesse-james-estranged-wife-bonnie-rottens-arrest/</guid>
+            <pubDate>Mon, 16 Mar 2026 21:40:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/39/16by9/2026/03/16/39959a143cac4959a82b84af9b77b488_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/39/16by9/2026/03/16/39959a143cac4959a82b84af9b77b488_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/39/16by9/2026/03/16/39959a143cac4959a82b84af9b77b488_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Megan Fox Posts Busty Snaps, Reaffirms She&#039;s Bisexual]]></title>
+            <link>https://www.tmz.com/2026/03/16/megan-fox-posts-new-photos-goes-both-ways-ig/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/megan-fox-posts-new-photos-goes-both-ways-ig/</guid>
+            <pubDate>Mon, 16 Mar 2026 21:33:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/03/16/b96bff280c4c41e0be9d11e559f1f7c2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/03/16/b96bff280c4c41e0be9d11e559f1f7c2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/03/16/b96bff280c4c41e0be9d11e559f1f7c2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[White House Trolls Democrats With Sombrero-Wearing Oscar Statuette Pic]]></title>
             <link>https://www.tmz.com/2026/03/16/white-house-trolls-democrats-after-oscars/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/03/16/cb2491f0b08f4b8883faba8826b249c6_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/03/16/cb2491f0b08f4b8883faba8826b249c6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shirtless &#039;Sandlot&#039; Star Marty York in Fist Fight Outside L.A. Club, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/16/the-sandlot-marty-york-fights-man-on-street/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/the-sandlot-marty-york-fights-man-on-street/</guid>
-            <pubDate>Mon, 16 Mar 2026 21:00:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/03/16/1038c89e34d8476ab85908956169797e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/03/16/1038c89e34d8476ab85908956169797e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/03/16/1038c89e34d8476ab85908956169797e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Oscars Security Firm Acknowledges Teyana Taylor&#039;s Incident With Guard]]></title>
-            <link>https://www.tmz.com/2026/03/16/oscars-security-responds-to-teyana-taylors-disrespect-accusation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/oscars-security-responds-to-teyana-taylors-disrespect-accusation/</guid>
-            <pubDate>Mon, 16 Mar 2026 20:52:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/03/16/f8ded786cc0f46e9846e47e2d9187d3a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/03/16/f8ded786cc0f46e9846e47e2d9187d3a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/03/16/f8ded786cc0f46e9846e47e2d9187d3a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Mormon Wives&#039; Production Paused Over Domestic Incident, Psych Eval Ordered For Taylor and Dakota]]></title>
-            <link>https://www.tmz.com/2026/03/16/secret-lives-mormon-wives-paused-by-domestic-violence-incident/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/secret-lives-mormon-wives-paused-by-domestic-violence-incident/</guid>
-            <pubDate>Mon, 16 Mar 2026 20:47:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/03/16/914e0469ca4c4d98a3a60ce2cbc1bb55_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/03/16/914e0469ca4c4d98a3a60ce2cbc1bb55_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/03/16/914e0469ca4c4d98a3a60ce2cbc1bb55_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kristin Cabot Opens Up About Coldplay Kiss Cam Night to Oprah Winfrey]]></title>
-            <link>https://www.tmz.com/2026/03/16/kristin-cabot-opening-up-about-coldplay-to-oprah/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/kristin-cabot-opening-up-about-coldplay-to-oprah/</guid>
-            <pubDate>Mon, 16 Mar 2026 20:02:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/03/16/6340ee70797446928424475c3f452f1e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/03/16/6340ee70797446928424475c3f452f1e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/03/16/6340ee70797446928424475c3f452f1e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
