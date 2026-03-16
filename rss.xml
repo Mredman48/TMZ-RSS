@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 23:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 23:57:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Trump Says Rep. Neal Dunn Had Terminal Diagnosis, Was Given Months To Live]]></title>
+            <link>https://www.tmz.com/2026/03/16/trump-says-congressman-neal-dunn-had-limited-time-with-terminal-diagnosis/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/trump-says-congressman-neal-dunn-had-limited-time-with-terminal-diagnosis/</guid>
+            <pubDate>Mon, 16 Mar 2026 23:51:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/03/16/9b5943894e5c421baa2d43fe7aee087b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/03/16/9b5943894e5c421baa2d43fe7aee087b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/03/16/9b5943894e5c421baa2d43fe7aee087b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jessica Alba Splitting Residuals With Ex Cash Warren In Divorce Deal]]></title>
+            <link>https://www.tmz.com/2026/03/16/jessica-alba-splitting-residuals-with-ex-cash-warren/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/jessica-alba-splitting-residuals-with-ex-cash-warren/</guid>
+            <pubDate>Mon, 16 Mar 2026 23:08:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cd/16by9/2026/03/16/cd90dca3919448b8b19110e20de1da6c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cd/16by9/2026/03/16/cd90dca3919448b8b19110e20de1da6c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cd/16by9/2026/03/16/cd90dca3919448b8b19110e20de1da6c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hit The Shower With Avani Gregg ... Bikini Hot Shots In The Bahamas!]]></title>
+            <link>https://www.tmz.com/2026/03/16/avani-gregg-bikini-bahamas-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/avani-gregg-bikini-bahamas-hot-shots/</guid>
+            <pubDate>Mon, 16 Mar 2026 23:00:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/03/16/8c86ad325ae74c74987a84c8196fcaf2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/03/16/8c86ad325ae74c74987a84c8196fcaf2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/03/16/8c86ad325ae74c74987a84c8196fcaf2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Huda Mustafa Shares Steamy Gym Pics With Louis Russell Amid Baby Mama Drama]]></title>
             <link>https://www.tmz.com/2026/03/16/huda-mustafa-louis-russell-posting-pictures-amid-allegations/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/03/16/ce3ce19d10734ead9999ba2539a95636_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/03/16/ce3ce19d10734ead9999ba2539a95636_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Real Housewives&#039; Star Arrested in Her Robe for Shoplifting, on Body Cam Video]]></title>
-            <link>https://www.tmz.com/2026/03/16/real-housewives-star-arrest-bodycam-video-released/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/real-housewives-star-arrest-bodycam-video-released/</guid>
-            <pubDate>Mon, 16 Mar 2026 22:39:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/03/16/3c16f485a5414d4bb185b5f873f3c80d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/03/16/3c16f485a5414d4bb185b5f873f3c80d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/03/16/3c16f485a5414d4bb185b5f873f3c80d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Miles Caton Says He Lost His Voice Celebrating &#039;Sinners&#039; at the Oscars]]></title>
-            <link>https://www.tmz.com/2026/03/16/sinners-miles-caton-lost-voice-at-oscars/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/sinners-miles-caton-lost-voice-at-oscars/</guid>
-            <pubDate>Mon, 16 Mar 2026 22:24:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/03/16/fe931f1109dc4cb48b27520ffe585ea0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/03/16/fe931f1109dc4cb48b27520ffe585ea0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/03/16/fe931f1109dc4cb48b27520ffe585ea0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul &#039;Bachelorette&#039; Debut on Track Despite Child Abuse Allegations]]></title>
-            <link>https://www.tmz.com/2026/03/16/taylor-frankie-paul-set-to-debut-on-bachelorette-despite-abuse-claims/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/taylor-frankie-paul-set-to-debut-on-bachelorette-despite-abuse-claims/</guid>
-            <pubDate>Mon, 16 Mar 2026 22:02:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/03/16/609fb952c1e149079dd4c289ce398e6b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/03/16/609fb952c1e149079dd4c289ce398e6b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/03/16/609fb952c1e149079dd4c289ce398e6b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
