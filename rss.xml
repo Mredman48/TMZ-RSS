@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 07:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 08:28:28 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Green Bikinis Guess Who -- Today&#039;s Your Lucky Day!]]></title>
+            <link>https://www.tmz.com/2026/03/17/green-bikini-guess-who/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/17/green-bikini-guess-who/</guid>
+            <pubDate>Tue, 17 Mar 2026 07:45:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/03/12/fa3c45f391bd473588fcf8958f976c04_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/03/12/fa3c45f391bd473588fcf8958f976c04_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/03/12/fa3c45f391bd473588fcf8958f976c04_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Metta World Peace Says Despite Getting Screwed By NCAA, St. John&#039;s Will Win Tournament]]></title>
             <link>https://www.tmz.com/2026/03/17/metta-world-peace-predicts-st-johns-winning-ncaa-tournament/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/22/16by9/2026/03/17/22c285f03d5e4bc1980d98ba6d69549c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/03/17/22c285f03d5e4bc1980d98ba6d69549c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul Sharing Custody of Kid With Dakota Amid DCFS Probe]]></title>
-            <link>https://www.tmz.com/2026/03/16/taylor-frankie-paul-dakota-mortensen-sharing-child-custody/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/taylor-frankie-paul-dakota-mortensen-sharing-child-custody/</guid>
-            <pubDate>Tue, 17 Mar 2026 02:00:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/03/16/e974a0efdda94cdaa10b2858e42a86d0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/03/16/e974a0efdda94cdaa10b2858e42a86d0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/03/16/e974a0efdda94cdaa10b2858e42a86d0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
