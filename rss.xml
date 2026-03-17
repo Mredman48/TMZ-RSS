@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 08:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 09:36:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Brad Pitt Fighting to Grill Russian Oligarch in Winery War With Angelina Jolie]]></title>
+            <link>https://www.tmz.com/2026/03/17/brad-pitt-wants-to-depose-yuri-shefler-over-jolie-asset-sale/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/17/brad-pitt-wants-to-depose-yuri-shefler-over-jolie-asset-sale/</guid>
+            <pubDate>Tue, 17 Mar 2026 09:00:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/03/16/97379d2bcd704a44bc4bbe6bccada6a0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/03/16/97379d2bcd704a44bc4bbe6bccada6a0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/03/16/97379d2bcd704a44bc4bbe6bccada6a0_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Zendaya Finally Addresses Rumors She Got Married to Tom Holland]]></title>
+            <link>https://www.tmz.com/2026/03/17/zendaya-jimmy-kimmel-tom-holland/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/17/zendaya-jimmy-kimmel-tom-holland/</guid>
+            <pubDate>Tue, 17 Mar 2026 08:45:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/16/f6fb47e0e7e1402cb5a15b9e04bdfcb2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/16/f6fb47e0e7e1402cb5a15b9e04bdfcb2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/16/f6fb47e0e7e1402cb5a15b9e04bdfcb2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Green Bikinis Guess Who -- Today&#039;s Your Lucky Day!]]></title>
             <link>https://www.tmz.com/2026/03/17/green-bikini-guess-who/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/38/16by9/2026/03/13/38df51a5d76f49bda4d365a5aa422647_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/03/13/38df51a5d76f49bda4d365a5aa422647_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mary In &#039;Drop Dead Gorgeous&#039; &#039;Memba Her?!]]></title>
-            <link>https://www.tmz.com/2026/03/17/mary-drop-dead-gorgeous-memba-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/17/mary-drop-dead-gorgeous-memba-her/</guid>
-            <pubDate>Tue, 17 Mar 2026 07:01:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/03/09/36631a47f6984125803662b20b498c3d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/03/09/36631a47f6984125803662b20b498c3d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/03/09/36631a47f6984125803662b20b498c3d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kiki Shepard, &#039;Showtime at the Apollo&#039; Co-Host, Dead At 74]]></title>
-            <link>https://www.tmz.com/2026/03/16/kiki-shepard-showtime-at-the-apollo-co-host-dead-at-74/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/16/kiki-shepard-showtime-at-the-apollo-co-host-dead-at-74/</guid>
-            <pubDate>Tue, 17 Mar 2026 03:51:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/03/17/22c285f03d5e4bc1980d98ba6d69549c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/03/17/22c285f03d5e4bc1980d98ba6d69549c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/03/17/22c285f03d5e4bc1980d98ba6d69549c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
