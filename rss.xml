@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 19:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 20:05:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jenelle Evans&#039; Mom Makes Frantic 911 Call After Jace Allegedly Put Gun to Head, Listen]]></title>
+            <link>https://www.tmz.com/2026/03/18/jenelle-evans-mom-barbara-calls-911/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/jenelle-evans-mom-barbara-calls-911/</guid>
+            <pubDate>Wed, 18 Mar 2026 19:48:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/03/18/7a508994aec44d4d8195b47d28ca41b7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/03/18/7a508994aec44d4d8195b47d28ca41b7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/03/18/7a508994aec44d4d8195b47d28ca41b7_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Rick Ross Sends Remy Ma Cease and Desist for &#039;Biggest Boss&#039; Movie]]></title>
             <link>https://www.tmz.com/2026/03/18/rick-ross-cease-and-desist-to-remy-ma-for-movie/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/66/16by9/2026/03/18/66e8bb08757548a2ae8881aa0db9245d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/03/18/66e8bb08757548a2ae8881aa0db9245d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Controversial Afroman Music Video Brings Deputy to Tears During Trial]]></title>
-            <link>https://www.tmz.com/2026/03/18/afroman-makes-deputy-cry-on-stand-at-trial/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/afroman-makes-deputy-cry-on-stand-at-trial/</guid>
-            <pubDate>Wed, 18 Mar 2026 18:08:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/03/18/eb2f49cef47a44b09bbc0144bf7207ca_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/03/18/eb2f49cef47a44b09bbc0144bf7207ca_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/03/18/eb2f49cef47a44b09bbc0144bf7207ca_xl.png">
             </media:thumbnail>
         </item>
     </channel>
