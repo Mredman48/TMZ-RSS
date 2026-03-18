@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 11:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 12:33:13 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Zendaya Flashes Possible Wedding Ring at &#039;The Drama&#039; Premiere]]></title>
+            <link>https://www.tmz.com/2026/03/18/zendaya-tom-holland-wedding-ring-the-drama/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/zendaya-tom-holland-wedding-ring-the-drama/</guid>
+            <pubDate>Wed, 18 Mar 2026 12:16:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ab/16by9/2026/03/18/ab3c3884502546b18547c6f668096fb4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ab/16by9/2026/03/18/ab3c3884502546b18547c6f668096fb4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ab/16by9/2026/03/18/ab3c3884502546b18547c6f668096fb4_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Mormon Wives&#039; Cast Wants Taylor Frankie Paul to Get Help, Filming Still on Hold]]></title>
             <link>https://www.tmz.com/2026/03/18/mormon-wives-cast-wants-taylor-frankie-paul-to-get-help/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/03/17/3d1c2e170b3144a8a794b26a46d58101_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/03/17/3d1c2e170b3144a8a794b26a46d58101_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NBA Champ Speedy Claxton Has Hofstra Dreaming Big Ahead of Alabama Clash]]></title>
-            <link>https://www.tmz.com/2026/03/18/speedy-claxton-has-hofstra-dreaming-big/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/speedy-claxton-has-hofstra-dreaming-big/</guid>
-            <pubDate>Wed, 18 Mar 2026 07:30:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0c/16by9/2026/03/17/0cab9ad4c2594e4c9d80148b589e8e80_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0c/16by9/2026/03/17/0cab9ad4c2594e4c9d80148b589e8e80_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0c/16by9/2026/03/17/0cab9ad4c2594e4c9d80148b589e8e80_xl.png">
             </media:thumbnail>
         </item>
     </channel>
