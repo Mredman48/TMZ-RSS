@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 09:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 10:34:11 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Eric Dane&#039;s Exes Should Grieve, But Family Says They Want the Facts Straight]]></title>
+            <link>https://www.tmz.com/2026/03/18/eric-dane-family-explain-exes-grieving/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/eric-dane-family-explain-exes-grieving/</guid>
+            <pubDate>Wed, 18 Mar 2026 10:00:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/03/17/c36864948e8c442790a9e9d1924e7f06_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/03/17/c36864948e8c442790a9e9d1924e7f06_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/03/17/c36864948e8c442790a9e9d1924e7f06_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Dwight Howard’s Wife Says He Canceled Multimillion-Dollar TV Deal Featuring Her]]></title>
             <link>https://www.tmz.com/2026/03/18/dwight-howard-canceled-big-television-deal/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/38/16by9/2026/03/17/38646f8d80ad471da120182635d2a231_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/03/17/38646f8d80ad471da120182635d2a231_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Coachella Outfits To Complete Your Wardrobe This Festival Season]]></title>
-            <link>https://www.tmz.com/2026/03/18/coachella-outfits-guide/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/coachella-outfits-guide/</guid>
-            <pubDate>Wed, 18 Mar 2026 07:05:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/03/16/b19623fe83b5441f81fb07451031e1af_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/03/16/b19623fe83b5441f81fb07451031e1af_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/03/16/b19623fe83b5441f81fb07451031e1af_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
