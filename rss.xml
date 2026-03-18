@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 23:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 23:57:35 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Summer-Ready Singer -- Guess Whose Lookin&#039; Good As Hell!]]></title>
+            <link>https://www.tmz.com/2026/03/18/guess-good-looking-summer-ready-singer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/guess-good-looking-summer-ready-singer/</guid>
+            <pubDate>Wed, 18 Mar 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/03/18/0a0140f554814bd6bc75045b3efc4928_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/03/18/0a0140f554814bd6bc75045b3efc4928_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/03/18/0a0140f554814bd6bc75045b3efc4928_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Josh Duggar&#039;s Brother Arrested, Faces Charges For Sexual Activity With a Minor]]></title>
+            <link>https://www.tmz.com/2026/03/18/joseph-garrett-duggar-arrested-charged-for-sex-acts-with-minor/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/joseph-garrett-duggar-arrested-charged-for-sex-acts-with-minor/</guid>
+            <pubDate>Wed, 18 Mar 2026 23:17:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/03/18/9e9e02098f984412bf1b05f14592e548_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/03/18/9e9e02098f984412bf1b05f14592e548_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/03/18/9e9e02098f984412bf1b05f14592e548_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Orlando Bloom Lists His Malibu Home For $12M, See Inside!]]></title>
+            <link>https://www.tmz.com/2026/03/18/orlando-bloom-malibu-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/orlando-bloom-malibu-home/</guid>
+            <pubDate>Wed, 18 Mar 2026 23:09:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e7010d05c184e9ca70e725780245849_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e7010d05c184e9ca70e725780245849_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e7010d05c184e9ca70e725780245849_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ex-&#039;Bachelorette&#039; Producer Says Taylor Frankie Paul&#039;s Drama Was No Surprise to ABC]]></title>
             <link>https://www.tmz.com/2026/03/18/bachelorette-producer-says-abc-knew-about-taylor-frankie-paul/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/14/16by9/2026/03/18/148c45d926c14023aeed93fc26917706_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/14/16by9/2026/03/18/148c45d926c14023aeed93fc26917706_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Antonio Brown Gets Permission To Travel To California For Medical Exam]]></title>
-            <link>https://www.tmz.com/2026/03/18/antonio-brown-gets-permission-travel-to-california-attempted-murder-trial/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/antonio-brown-gets-permission-travel-to-california-attempted-murder-trial/</guid>
-            <pubDate>Wed, 18 Mar 2026 22:39:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/03/18/6e6257f36dce416992635d2eedc42cba_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/03/18/6e6257f36dce416992635d2eedc42cba_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/03/18/6e6257f36dce416992635d2eedc42cba_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[AEW Star Ricochet Apologizes For &#039;I&#039;m Glad You Got MS&#039; Post]]></title>
-            <link>https://www.tmz.com/2026/03/18/aew-star-ricochet-apologizes-for-ms-post/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/aew-star-ricochet-apologizes-for-ms-post/</guid>
-            <pubDate>Wed, 18 Mar 2026 22:26:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/03/18/49c9ec2f62a04064b4dca3a3a16f4add_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/03/18/49c9ec2f62a04064b4dca3a3a16f4add_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/03/18/49c9ec2f62a04064b4dca3a3a16f4add_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dan Dakich Sounds Off On NCAA Tournament, Predicts Chalk Title Game]]></title>
-            <link>https://www.tmz.com/2026/03/18/dan-dakich-previews-march-madness-ncaa-tournament/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/dan-dakich-previews-march-madness-ncaa-tournament/</guid>
-            <pubDate>Wed, 18 Mar 2026 22:15:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/03/16/201b526d364d4959b1543a4acee70adc_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/03/16/201b526d364d4959b1543a4acee70adc_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/03/16/201b526d364d4959b1543a4acee70adc_xl.png">
             </media:thumbnail>
         </item>
     </channel>
