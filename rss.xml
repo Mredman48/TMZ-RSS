@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 06:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 07:34:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Viral NCAA Basketball Star Robbie Avila Picks ‘Cream Abdul-Jabbar’ as Funniest Nickname]]></title>
+            <link>https://www.tmz.com/2026/03/19/robbie-avila-dubs-cream-abdul-jabbar-best-nickname/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/robbie-avila-dubs-cream-abdul-jabbar-best-nickname/</guid>
+            <pubDate>Thu, 19 Mar 2026 07:30:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/03/18/051936226205453e87248ce5dbe7f00f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/03/18/051936226205453e87248ce5dbe7f00f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/03/18/051936226205453e87248ce5dbe7f00f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Baywatch-Inspired Beachwear Ahead of Fox Reboot]]></title>
+            <link>https://www.tmz.com/2026/03/19/baywatch-inspired-looks-ahead-of-fox-reboot/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/baywatch-inspired-looks-ahead-of-fox-reboot/</guid>
+            <pubDate>Thu, 19 Mar 2026 07:05:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/03/13/0ba71e39873f443fb2e04f97863a8a8d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/03/13/0ba71e39873f443fb2e04f97863a8a8d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/03/13/0ba71e39873f443fb2e04f97863a8a8d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cheek of the Week Guess Who -- Catch This Badass Baddie Outside!]]></title>
+            <link>https://www.tmz.com/2026/03/19/cheek-of-the-week-guess-who/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/cheek-of-the-week-guess-who/</guid>
+            <pubDate>Thu, 19 Mar 2026 07:01:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/03/18/4e366961620149ba8b0dfdae5d012e04_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/03/18/4e366961620149ba8b0dfdae5d012e04_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/03/18/4e366961620149ba8b0dfdae5d012e04_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Josh Duggar&#039;s Brother Joseph&#039;s Mugshot Released After Child Sex Abuse Arrest]]></title>
             <link>https://www.tmz.com/2026/03/18/josh-duggar-brother-joseph-mugshot-child-sex-abuse-arrest/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/03/17/ea32f6bfb51244379e09ad839300276c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/03/17/ea32f6bfb51244379e09ad839300276c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gale and Hilary Go At It in &#039;Members Only: Palm Beach&#039; Reunion]]></title>
-            <link>https://www.tmz.com/2026/03/18/members-only-palm-beach-reunion-fight/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/members-only-palm-beach-reunion-fight/</guid>
-            <pubDate>Thu, 19 Mar 2026 00:29:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/03/18/201f762ff96c48d29bb3e99a6cf48ce4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/03/18/201f762ff96c48d29bb3e99a6cf48ce4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/03/18/201f762ff96c48d29bb3e99a6cf48ce4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Summer-Ready Singer -- Guess Whose Lookin&#039; Good As Hell!]]></title>
-            <link>https://www.tmz.com/2026/03/18/guess-good-looking-summer-ready-singer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/guess-good-looking-summer-ready-singer/</guid>
-            <pubDate>Wed, 18 Mar 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/03/18/0a0140f554814bd6bc75045b3efc4928_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/03/18/0a0140f554814bd6bc75045b3efc4928_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/03/18/0a0140f554814bd6bc75045b3efc4928_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Josh Duggar&#039;s Brother Arrested, Faces Charges For Sexual Activity With a Minor]]></title>
-            <link>https://www.tmz.com/2026/03/18/joseph-garrett-duggar-arrested-charged-for-sex-acts-with-minor/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/joseph-garrett-duggar-arrested-charged-for-sex-acts-with-minor/</guid>
-            <pubDate>Wed, 18 Mar 2026 23:17:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/03/18/9e9e02098f984412bf1b05f14592e548_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/03/18/9e9e02098f984412bf1b05f14592e548_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/03/18/9e9e02098f984412bf1b05f14592e548_xl.png">
             </media:thumbnail>
         </item>
     </channel>
