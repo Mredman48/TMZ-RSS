@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 23:00:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 23:57:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[ABC &#039;Bachelorette&#039; Event Scrapped After Taylor Frankie Paul Abuse Video]]></title>
+            <link>https://www.tmz.com/2026/03/19/bachelorette-premiere-event-canceled-taylor-frankie-paul-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/bachelorette-premiere-event-canceled-taylor-frankie-paul-video/</guid>
+            <pubDate>Thu, 19 Mar 2026 23:46:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Holly Madison Brings Fire and Curves to a Red Car Photoshoot]]></title>
+            <link>https://www.tmz.com/2026/03/19/holly-madison-red-car-photoshoot/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/holly-madison-red-car-photoshoot/</guid>
+            <pubDate>Thu, 19 Mar 2026 23:08:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/03/19/eb68c4d4f5904c6bab39530275348a0f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/03/19/eb68c4d4f5904c6bab39530275348a0f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/03/19/eb68c4d4f5904c6bab39530275348a0f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Meta Has No Plans to Work With Taylor Frankie Paul Again After Violent Video]]></title>
             <link>https://www.tmz.com/2026/03/19/meta-cutting-ties-with-taylor-frankie-paul/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/03/19/faca7be6d0c64e858f69fb68d6a370f1_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/03/19/faca7be6d0c64e858f69fb68d6a370f1_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Utah Prosecutors Eyeing Taylor Frankie Paul for Possible Probation Violation]]></title>
-            <link>https://www.tmz.com/2026/03/19/prosecutors-examining-taylor-frankie-paul-possible-probation-violation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/prosecutors-examining-taylor-frankie-paul-possible-probation-violation/</guid>
-            <pubDate>Thu, 19 Mar 2026 22:15:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/03/19/6201a0f095464c2595d6b64929efbef2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/03/19/6201a0f095464c2595d6b64929efbef2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/03/19/6201a0f095464c2595d6b64929efbef2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Afroman Victorious Over Sheriff&#039;s Department in Raid Music Video Lawsuit]]></title>
-            <link>https://www.tmz.com/2026/03/19/afroman-not-liable-in-ohio-law-enforcement-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/afroman-not-liable-in-ohio-law-enforcement-lawsuit/</guid>
-            <pubDate>Thu, 19 Mar 2026 21:42:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/03/19/e7c0d4c780cb4176b2c2c3c810d06cfc_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/03/19/e7c0d4c780cb4176b2c2c3c810d06cfc_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/03/19/e7c0d4c780cb4176b2c2c3c810d06cfc_xl.png">
             </media:thumbnail>
         </item>
     </channel>
