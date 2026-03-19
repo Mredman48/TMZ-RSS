@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 23:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 03:31:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;RHOA&#039; Star Kelli Ferrell&#039;s Ex-Husband Arrested on Theft Charge]]></title>
+            <link>https://www.tmz.com/2026/03/18/rhoa-kelli-ferrell-ex-husband-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/rhoa-kelli-ferrell-ex-husband-arrested/</guid>
+            <pubDate>Thu, 19 Mar 2026 00:43:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/03/17/ea32f6bfb51244379e09ad839300276c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/03/17/ea32f6bfb51244379e09ad839300276c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/03/17/ea32f6bfb51244379e09ad839300276c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Gale and Hilary Go At It in &#039;Members Only: Palm Beach&#039; Reunion]]></title>
+            <link>https://www.tmz.com/2026/03/18/members-only-palm-beach-reunion-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/members-only-palm-beach-reunion-fight/</guid>
+            <pubDate>Thu, 19 Mar 2026 00:29:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/03/18/201f762ff96c48d29bb3e99a6cf48ce4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/03/18/201f762ff96c48d29bb3e99a6cf48ce4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/03/18/201f762ff96c48d29bb3e99a6cf48ce4_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Summer-Ready Singer -- Guess Whose Lookin&#039; Good As Hell!]]></title>
             <link>https://www.tmz.com/2026/03/18/guess-good-looking-summer-ready-singer/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e7010d05c184e9ca70e725780245849_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e7010d05c184e9ca70e725780245849_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-&#039;Bachelorette&#039; Producer Says Taylor Frankie Paul&#039;s Drama Was No Surprise to ABC]]></title>
-            <link>https://www.tmz.com/2026/03/18/bachelorette-producer-says-abc-knew-about-taylor-frankie-paul/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/bachelorette-producer-says-abc-knew-about-taylor-frankie-paul/</guid>
-            <pubDate>Wed, 18 Mar 2026 22:57:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/03/18/fe0cbfe973a24bb9a35f23a5a7af9170_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/03/18/fe0cbfe973a24bb9a35f23a5a7af9170_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/03/18/fe0cbfe973a24bb9a35f23a5a7af9170_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Real Housewives of Miami&#039; on Pause After Season 7]]></title>
-            <link>https://www.tmz.com/2026/03/18/real-housewives-of-miami-deep-pause/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/18/real-housewives-of-miami-deep-pause/</guid>
-            <pubDate>Wed, 18 Mar 2026 22:55:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/14/16by9/2026/03/18/148c45d926c14023aeed93fc26917706_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/14/16by9/2026/03/18/148c45d926c14023aeed93fc26917706_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/14/16by9/2026/03/18/148c45d926c14023aeed93fc26917706_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
