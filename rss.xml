@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 06:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 07:33:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess Who This Lil&#039; Cowboy Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/03/20/guess-who-this-lil-cowboy-became/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/guess-who-this-lil-cowboy-became/</guid>
+            <pubDate>Fri, 20 Mar 2026 07:10:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/03/17/bb6a451215564a639b8bb0522bcd09f6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/03/17/bb6a451215564a639b8bb0522bcd09f6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/03/17/bb6a451215564a639b8bb0522bcd09f6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[BTS Fan-Inspired K-Pop Merch To Celebrate New Album, ARIRANG]]></title>
+            <link>https://www.tmz.com/2026/03/20/bts-fan-inspired-merch/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/bts-fan-inspired-merch/</guid>
+            <pubDate>Fri, 20 Mar 2026 07:05:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/03/13/11753566053c49bbb63646a7d097b7ed_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/03/13/11753566053c49bbb63646a7d097b7ed_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/03/13/11753566053c49bbb63646a7d097b7ed_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sexy Stars In Flower Suits Who&#039;d You Rather?! Springtime Is Here!]]></title>
+            <link>https://www.tmz.com/2026/03/20/whod-you-rather-stassie-karanikolaou-tana-mongeau/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/whod-you-rather-stassie-karanikolaou-tana-mongeau/</guid>
+            <pubDate>Fri, 20 Mar 2026 07:01:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/03/19/0437ac9717e3428eba735753cd8dd9d4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/03/19/0437ac9717e3428eba735753cd8dd9d4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/03/19/0437ac9717e3428eba735753cd8dd9d4_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Mormon Wives&#039; Jessi Draper Ngatikaura Husband Files For Divorce]]></title>
             <link>https://www.tmz.com/2026/03/19/jessi-draper-jordan-ngatikaura-files-divorce/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/03/19/9d5155f8b34b4a7398b924e33f68a922_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/03/19/9d5155f8b34b4a7398b924e33f68a922_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;American Idol&#039; Rerun Replacing Scrapped &#039;Bachelorette,&#039; For Now]]></title>
-            <link>https://www.tmz.com/2026/03/19/american-idol-rerun-will-replace-bachelorette-premiere/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/american-idol-rerun-will-replace-bachelorette-premiere/</guid>
-            <pubDate>Fri, 20 Mar 2026 00:04:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ab/16by9/2026/03/19/abf1bae66479442e97c494dd83cf1605_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ab/16by9/2026/03/19/abf1bae66479442e97c494dd83cf1605_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ab/16by9/2026/03/19/abf1bae66479442e97c494dd83cf1605_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Afroman Says He Forgives Ohio Cops But He&#039;ll Still Perform Songs Bashing Them]]></title>
-            <link>https://www.tmz.com/2026/03/19/afroman-will-still-play-songs-police-sued-him-for/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/afroman-will-still-play-songs-police-sued-him-for/</guid>
-            <pubDate>Fri, 20 Mar 2026 00:00:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/03/19/845ce7808e9748a388cf363354f2782a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/03/19/845ce7808e9748a388cf363354f2782a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/03/19/845ce7808e9748a388cf363354f2782a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[ABC &#039;Bachelorette&#039; Event Scrapped After Taylor Frankie Paul Abuse Video]]></title>
-            <link>https://www.tmz.com/2026/03/19/bachelorette-premiere-event-canceled-taylor-frankie-paul-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/bachelorette-premiere-event-canceled-taylor-frankie-paul-video/</guid>
-            <pubDate>Thu, 19 Mar 2026 23:46:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png">
             </media:thumbnail>
         </item>
     </channel>
