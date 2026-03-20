@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 23:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 03:18:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Mormon Wives&#039; Jessi Draper Ngatikaura Husband Files For Divorce]]></title>
+            <link>https://www.tmz.com/2026/03/19/jessi-draper-jordan-ngatikaura-files-divorce/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/jessi-draper-jordan-ngatikaura-files-divorce/</guid>
+            <pubDate>Fri, 20 Mar 2026 01:36:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/03/20/364fd81b76d04acc88216bf49fd45b4c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/03/20/364fd81b76d04acc88216bf49fd45b4c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/03/20/364fd81b76d04acc88216bf49fd45b4c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Bachelor&#039; Grant Ellis Supports ABC Canceling Taylor Frankie Paul &#039;Bachelorette&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/19/grant-ellis-commends-bachelorette-canceling-taylor-frankie-paul/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/grant-ellis-commends-bachelorette-canceling-taylor-frankie-paul/</guid>
+            <pubDate>Fri, 20 Mar 2026 00:30:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/03/19/9d5155f8b34b4a7398b924e33f68a922_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/03/19/9d5155f8b34b4a7398b924e33f68a922_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/03/19/9d5155f8b34b4a7398b924e33f68a922_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;American Idol&#039; Rerun Replacing Scrapped &#039;Bachelorette,&#039; For Now]]></title>
+            <link>https://www.tmz.com/2026/03/19/american-idol-rerun-will-replace-bachelorette-premiere/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/american-idol-rerun-will-replace-bachelorette-premiere/</guid>
+            <pubDate>Fri, 20 Mar 2026 00:04:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ab/16by9/2026/03/19/abf1bae66479442e97c494dd83cf1605_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ab/16by9/2026/03/19/abf1bae66479442e97c494dd83cf1605_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ab/16by9/2026/03/19/abf1bae66479442e97c494dd83cf1605_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Afroman Says He Forgives Ohio Cops But He&#039;ll Still Perform Songs Bashing Them]]></title>
+            <link>https://www.tmz.com/2026/03/19/afroman-will-still-play-songs-police-sued-him-for/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/afroman-will-still-play-songs-police-sued-him-for/</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/03/19/845ce7808e9748a388cf363354f2782a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/03/19/845ce7808e9748a388cf363354f2782a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/03/19/845ce7808e9748a388cf363354f2782a_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[ABC &#039;Bachelorette&#039; Event Scrapped After Taylor Frankie Paul Abuse Video]]></title>
             <link>https://www.tmz.com/2026/03/19/bachelorette-premiere-event-canceled-taylor-frankie-paul-video/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/03/19/32c7bcb50edb46e18d16bc30a61521a0_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Holly Madison Brings Fire and Curves to a Red Car Photoshoot]]></title>
-            <link>https://www.tmz.com/2026/03/19/holly-madison-red-car-photoshoot/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/holly-madison-red-car-photoshoot/</guid>
-            <pubDate>Thu, 19 Mar 2026 23:08:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/03/19/eb68c4d4f5904c6bab39530275348a0f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/03/19/eb68c4d4f5904c6bab39530275348a0f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/03/19/eb68c4d4f5904c6bab39530275348a0f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Meta Has No Plans to Work With Taylor Frankie Paul Again After Violent Video]]></title>
-            <link>https://www.tmz.com/2026/03/19/meta-cutting-ties-with-taylor-frankie-paul/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/meta-cutting-ties-with-taylor-frankie-paul/</guid>
-            <pubDate>Thu, 19 Mar 2026 22:45:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/03/19/5202b0bc6e214f908a991f5b40d37f7f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/03/19/5202b0bc6e214f908a991f5b40d37f7f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/03/19/5202b0bc6e214f908a991f5b40d37f7f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[World Baseball Classic Final Sets Tournament Record W/ Over 10 Million Viewers]]></title>
-            <link>https://www.tmz.com/2026/03/19/world-baseball-classic-final-10-million-views-most-watched/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/world-baseball-classic-final-10-million-views-most-watched/</guid>
-            <pubDate>Thu, 19 Mar 2026 22:27:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/03/19/1f8d82d558ec4f71b9db32caf97fc72b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/03/19/1f8d82d558ec4f71b9db32caf97fc72b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/03/19/1f8d82d558ec4f71b9db32caf97fc72b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul&#039;s Ex Dakota Mortensen Speaks Out, Calls Claims &#039;Baseless&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/19/dakota-mortensen-speaks-on-taylor-frankie-paul-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/19/dakota-mortensen-speaks-on-taylor-frankie-paul-video/</guid>
-            <pubDate>Thu, 19 Mar 2026 22:17:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/03/19/faca7be6d0c64e858f69fb68d6a370f1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/03/19/faca7be6d0c64e858f69fb68d6a370f1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/03/19/faca7be6d0c64e858f69fb68d6a370f1_xl.png">
             </media:thumbnail>
         </item>
     </channel>
