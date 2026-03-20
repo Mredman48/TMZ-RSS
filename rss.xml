@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 11:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 13:45:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jill Duggar Reacts to Brother Joseph&#039;s Child Molestation Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/20/jill-duggar-reacts-brother-joseph-child-molestation-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/jill-duggar-reacts-brother-joseph-child-molestation-arrest/</guid>
+            <pubDate>Fri, 20 Mar 2026 13:39:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/03/20/60795703eb8a456f81d0207dfc15674d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/03/20/60795703eb8a456f81d0207dfc15674d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/03/20/60795703eb8a456f81d0207dfc15674d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Mormon Wives&#039; Demi Called Out by &#039;Vanderpump Villa&#039;s Marciano for Suggesting Fake Storyline]]></title>
+            <link>https://www.tmz.com/2026/03/20/marciano-brunette-will-use-demi-engemann-fake-storyline-talk-in-lawsuit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/marciano-brunette-will-use-demi-engemann-fake-storyline-talk-in-lawsuit/</guid>
+            <pubDate>Fri, 20 Mar 2026 13:36:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/03/19/4affb7c0936f42dbae3572495ea9558e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/03/19/4affb7c0936f42dbae3572495ea9558e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/03/19/4affb7c0936f42dbae3572495ea9558e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Latto Announces She&#039;s Pregnant With Her First Child]]></title>
+            <link>https://www.tmz.com/2026/03/20/latto-announces-pregnancy-on-instagram/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/latto-announces-pregnancy-on-instagram/</guid>
+            <pubDate>Fri, 20 Mar 2026 12:52:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/03/20/59a6aa9b73a8415ea63628763db83cc5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/03/20/59a6aa9b73a8415ea63628763db83cc5_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/03/20/59a6aa9b73a8415ea63628763db83cc5_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bruce Willis Celebrates 71st Birthday With Cute Pics of His Granddaughter]]></title>
+            <link>https://www.tmz.com/2026/03/20/bruce-willis-birthday-with-granddaughter-louetta-rumer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/bruce-willis-birthday-with-granddaughter-louetta-rumer/</guid>
+            <pubDate>Fri, 20 Mar 2026 12:20:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/03/20/2e5e58ede89a4efe86211a17a395d476_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/03/20/2e5e58ede89a4efe86211a17a395d476_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/03/20/2e5e58ede89a4efe86211a17a395d476_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Quentin Tarantino Teaming Up With Sylvester Stallone for New Series]]></title>
             <link>https://www.tmz.com/2026/03/20/quentin-tarantino-partners-with-sly-stallone-for-new-series/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/03/19/8b6febc825df4daf86004b704f780c1e_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/03/19/8b6febc825df4daf86004b704f780c1e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Joseph Duggar Placed in &#039;Secure&#039; Area of Jail Away From Other Inmates]]></title>
-            <link>https://www.tmz.com/2026/03/20/joseph-duggar-arkansas-jail/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/joseph-duggar-arkansas-jail/</guid>
-            <pubDate>Fri, 20 Mar 2026 10:23:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/03/19/d2e9f80fc6574e49918d3aedb50703fc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/19/d2e9f80fc6574e49918d3aedb50703fc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/19/d2e9f80fc6574e49918d3aedb50703fc_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul Takes Suitor to NFL Game During Bachelorette Date]]></title>
-            <link>https://www.tmz.com/2026/03/20/taylor-frankie-paul-the-bachelorette-nfl-game-date-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/taylor-frankie-paul-the-bachelorette-nfl-game-date-photos/</guid>
-            <pubDate>Fri, 20 Mar 2026 08:00:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/03/19/8f19c0f0296341a4a74dde125654965c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/03/19/8f19c0f0296341a4a74dde125654965c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/03/19/8f19c0f0296341a4a74dde125654965c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nashville Mayor Not Focused on Moving Grizzlies to City After Draymond Green’s Request]]></title>
-            <link>https://www.tmz.com/2026/03/20/draymond-green-nashville-mayor-reacts-relocate-memphis-grizzlies/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/draymond-green-nashville-mayor-reacts-relocate-memphis-grizzlies/</guid>
-            <pubDate>Fri, 20 Mar 2026 07:30:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/03/19/c647bffed0b74e81a5de53192a04c5c8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/03/19/c647bffed0b74e81a5de53192a04c5c8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/03/19/c647bffed0b74e81a5de53192a04c5c8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Lil&#039; Cowboy Turned Into!]]></title>
-            <link>https://www.tmz.com/2026/03/20/guess-who-this-lil-cowboy-became/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/guess-who-this-lil-cowboy-became/</guid>
-            <pubDate>Fri, 20 Mar 2026 07:10:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/03/17/bb6a451215564a639b8bb0522bcd09f6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/03/17/bb6a451215564a639b8bb0522bcd09f6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/03/17/bb6a451215564a639b8bb0522bcd09f6_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
