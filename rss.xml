@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 21:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 21:57:32 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Amy Duggar King Not Surprised by Cousin Joseph&#039;s Child Molestation Charge]]></title>
+            <link>https://www.tmz.com/2026/03/20/amy-duggar-king-comments-on-joseph-duggar-child-molestation-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/amy-duggar-king-comments-on-joseph-duggar-child-molestation-arrest/</guid>
+            <pubDate>Fri, 20 Mar 2026 21:53:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/03/20/969cb3d21832422a96f09c13ad9e4c0a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/03/20/969cb3d21832422a96f09c13ad9e4c0a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/03/20/969cb3d21832422a96f09c13ad9e4c0a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Mormon Wives&#039; Layla Taylor Denounces Domestic Violence in Taylor Frankie Paul Video]]></title>
+            <link>https://www.tmz.com/2026/03/20/layla-taylor-comments-on-taylor-frankie-paul-dakota-mortensen-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/layla-taylor-comments-on-taylor-frankie-paul-dakota-mortensen-fight/</guid>
+            <pubDate>Fri, 20 Mar 2026 21:24:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/03/20/680f129d798b42daa806a00dbb719173_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/03/20/680f129d798b42daa806a00dbb719173_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/03/20/680f129d798b42daa806a00dbb719173_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Oklahoma City Thunder Won&#039;t Visit Donald Trump At White House, Cite Timing Issue]]></title>
+            <link>https://www.tmz.com/2026/03/20/okc-thunder-skip-white-house-visit-2025-nba-finals-timing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/okc-thunder-skip-white-house-visit-2025-nba-finals-timing/</guid>
+            <pubDate>Fri, 20 Mar 2026 21:08:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/03/20/130ad2c3e2c749328f1f4849e071070c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/03/20/130ad2c3e2c749328f1f4849e071070c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/03/20/130ad2c3e2c749328f1f4849e071070c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Joseph and Kendra Duggar in Happier Times Before His Arrest]]></title>
             <link>https://www.tmz.com/2026/03/20/joseph-kendra-duggar-happier-times/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/bd/16by9/2026/03/20/bd2b4eee360c4c5c90ef0ded4cec8d47_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/bd/16by9/2026/03/20/bd2b4eee360c4c5c90ef0ded4cec8d47_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Palm Beach Pete&#039; Says He Won&#039;t Change His Style to Look Less Like Jeffrey Epstein]]></title>
-            <link>https://www.tmz.com/2026/03/20/palm-beach-pete-opens-up-about-looking-like-jeffrey-epstein/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/palm-beach-pete-opens-up-about-looking-like-jeffrey-epstein/</guid>
-            <pubDate>Fri, 20 Mar 2026 20:26:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/03/20/217502feb1e74d72ab23ef5dab3a53cf_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/03/20/217502feb1e74d72ab23ef5dab3a53cf_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/03/20/217502feb1e74d72ab23ef5dab3a53cf_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul Not Allowed to See Child with Dakota Mortensen Until April]]></title>
-            <link>https://www.tmz.com/2026/03/20/taylor-frankie-paul-temporarily-loses-custody-son/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/taylor-frankie-paul-temporarily-loses-custody-son/</guid>
-            <pubDate>Fri, 20 Mar 2026 20:17:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/03/20/dc756a0ed5814f3abe03b1df9a15d375_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/03/20/dc756a0ed5814f3abe03b1df9a15d375_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/03/20/dc756a0ed5814f3abe03b1df9a15d375_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Missing Alabama Student Jimmy Gracey&#039;s Death Was an Accident, Cops Say]]></title>
-            <link>https://www.tmz.com/2026/03/20/officials-say-jimmy-gracey-death-accidental/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/20/officials-say-jimmy-gracey-death-accidental/</guid>
-            <pubDate>Fri, 20 Mar 2026 20:03:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/03/18/6c7dfa89b90b4e579d39ce6db91f8b9c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/03/18/6c7dfa89b90b4e579d39ce6db91f8b9c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/03/18/6c7dfa89b90b4e579d39ce6db91f8b9c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
