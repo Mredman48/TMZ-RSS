@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 15:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 16:59:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Usher Seen Unfazed After Getting Into Argument with Justin Bieber]]></title>
+            <link>https://www.tmz.com/2026/03/21/usher-unbothered-after-justin-bieber-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/usher-unbothered-after-justin-bieber-fight/</guid>
+            <pubDate>Sat, 21 Mar 2026 16:50:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/03/21/12a2be4e52db4848bc4e51ffc18da292_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/03/21/12a2be4e52db4848bc4e51ffc18da292_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/03/21/12a2be4e52db4848bc4e51ffc18da292_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Barry Keoghan Reveals He Hid From Online Hate After Sabrina Carpenter Split]]></title>
+            <link>https://www.tmz.com/2026/03/21/barry-keoghan-talks-online-haters/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/barry-keoghan-talks-online-haters/</guid>
+            <pubDate>Sat, 21 Mar 2026 15:54:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/03/21/7c498b0dea5d42ecb027a0fd7cd56c59_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/03/21/7c498b0dea5d42ecb027a0fd7cd56c59_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/03/21/7c498b0dea5d42ecb027a0fd7cd56c59_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kendra Duggar Released From Jail After Endangering Welfare of a Minor Accusations]]></title>
             <link>https://www.tmz.com/2026/03/21/kendra-duggar-out-of-jail/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/21/6a8d3919438e4dfcb657716b6542318f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/21/6a8d3919438e4dfcb657716b6542318f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[WWE Legend Dennis &#039;Loverboy&#039; Condrey Dead at 74]]></title>
-            <link>https://www.tmz.com/2026/03/21/dennis-loverboy-condrey-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/dennis-loverboy-condrey-dead/</guid>
-            <pubDate>Sat, 21 Mar 2026 13:21:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/03/21/bc382a9379c046248c27b2e1e1676ad8_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/03/21/bc382a9379c046248c27b2e1e1676ad8_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/03/21/bc382a9379c046248c27b2e1e1676ad8_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Postal Worker Caught on Video Throwing Jewish Boy to The Ground]]></title>
-            <link>https://www.tmz.com/2026/03/21/us-postal-worker-throws-jewish-boy-in-viral-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/us-postal-worker-throws-jewish-boy-in-viral-video/</guid>
-            <pubDate>Sat, 21 Mar 2026 12:40:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/03/21/68e0b13d50884a299a20c210c6104047_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/03/21/68e0b13d50884a299a20c210c6104047_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/03/21/68e0b13d50884a299a20c210c6104047_xl.png">
             </media:thumbnail>
         </item>
     </channel>
