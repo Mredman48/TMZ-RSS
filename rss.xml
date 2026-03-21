@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 16:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 17:56:11 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Former FBI Director Robert Mueller Dead at 81]]></title>
+            <link>https://www.tmz.com/2026/03/21/robert-mueller-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/robert-mueller-dead/</guid>
+            <pubDate>Sat, 21 Mar 2026 17:46:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/03/21/9d7e80ccad754cb68283e3c230e1a743_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/03/21/9d7e80ccad754cb68283e3c230e1a743_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/03/21/9d7e80ccad754cb68283e3c230e1a743_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lindsey Vonn Returns to Gym After Scary Skiing Incident]]></title>
+            <link>https://www.tmz.com/2026/03/21/lindsey-vonn-back-at-the-gym/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/lindsey-vonn-back-at-the-gym/</guid>
+            <pubDate>Sat, 21 Mar 2026 17:32:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/03/21/423b5271556848d3a57535d491188e3a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/03/21/423b5271556848d3a57535d491188e3a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/03/21/423b5271556848d3a57535d491188e3a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul &#039;Bachelorette&#039; Suitors Considering Legal Action Against ABC, Warner Bros. Discovery]]></title>
+            <link>https://www.tmz.com/2026/03/21/some-taylor-frankie-paul-bachelorette-contestants-might-sue/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/some-taylor-frankie-paul-bachelorette-contestants-might-sue/</guid>
+            <pubDate>Sat, 21 Mar 2026 17:02:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/88/16by9/2026/03/20/88017a9c0d534d119048f3a463276024_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/88/16by9/2026/03/20/88017a9c0d534d119048f3a463276024_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/88/16by9/2026/03/20/88017a9c0d534d119048f3a463276024_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Usher Seen Unfazed After Getting Into Argument with Justin Bieber]]></title>
             <link>https://www.tmz.com/2026/03/21/usher-unbothered-after-justin-bieber-fight/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/03/21/7c498b0dea5d42ecb027a0fd7cd56c59_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/03/21/7c498b0dea5d42ecb027a0fd7cd56c59_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kendra Duggar Released From Jail After Endangering Welfare of a Minor Accusations]]></title>
-            <link>https://www.tmz.com/2026/03/21/kendra-duggar-out-of-jail/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/kendra-duggar-out-of-jail/</guid>
-            <pubDate>Sat, 21 Mar 2026 15:22:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a0/16by9/2026/03/21/a0f6f14ff77e4408ab26b3bd5f4fc12c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a0/16by9/2026/03/21/a0f6f14ff77e4408ab26b3bd5f4fc12c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a0/16by9/2026/03/21/a0f6f14ff77e4408ab26b3bd5f4fc12c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[TikToker Matthew Wurnig of &#039;50 Dates 50 States&#039; Arrested For DWI]]></title>
-            <link>https://www.tmz.com/2026/03/21/tiktoker-matthew-wurnig-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/tiktoker-matthew-wurnig-arrested/</guid>
-            <pubDate>Sat, 21 Mar 2026 14:48:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/03/21/1d766268ca4d4dd9a78df1dac952fb4c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/03/21/1d766268ca4d4dd9a78df1dac952fb4c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/03/21/1d766268ca4d4dd9a78df1dac952fb4c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[New Video of Jeffrey Epstein Guards Skipping Mandatory Checks Right Outside His Cell]]></title>
-            <link>https://www.tmz.com/2026/03/21/new-epstein-prison-guards-video-outside-cell/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/new-epstein-prison-guards-video-outside-cell/</guid>
-            <pubDate>Sat, 21 Mar 2026 13:52:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/21/6a8d3919438e4dfcb657716b6542318f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/21/6a8d3919438e4dfcb657716b6542318f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/21/6a8d3919438e4dfcb657716b6542318f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
