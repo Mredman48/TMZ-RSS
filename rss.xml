@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 19:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 20:56:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Denise Richards&#039; Doctor Shares Photos Before and After Facelift]]></title>
+            <link>https://www.tmz.com/2026/03/21/denise-richards-got-a-facelift/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/denise-richards-got-a-facelift/</guid>
+            <pubDate>Sat, 21 Mar 2026 20:29:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/03/21/681e8f1700fc4fad847bddb79d6d5aaf_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/03/21/681e8f1700fc4fad847bddb79d6d5aaf_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/03/21/681e8f1700fc4fad847bddb79d6d5aaf_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tom Holland Promotes Zendaya&#039;s Movie &#039;The Drama&#039; Amid Disturbing Twist]]></title>
             <link>https://www.tmz.com/2026/03/21/tom-holland-promotes-zendayas-movie-amid-disturbing-twist/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/38/16by9/2026/03/20/38c04326e4e14927b1f9aa5a04bc6010_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/03/20/38c04326e4e14927b1f9aa5a04bc6010_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Says He&#039;s &#039;Glad&#039; Robert Mueller is Dead]]></title>
-            <link>https://www.tmz.com/2026/03/21/president-trump-happy-robert-mueller-died/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/president-trump-happy-robert-mueller-died/</guid>
-            <pubDate>Sat, 21 Mar 2026 17:58:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/03/21/8e69b2362d2f4b19a9a636161e625ade_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/03/21/8e69b2362d2f4b19a9a636161e625ade_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/03/21/8e69b2362d2f4b19a9a636161e625ade_xl.png">
             </media:thumbnail>
         </item>
     </channel>
