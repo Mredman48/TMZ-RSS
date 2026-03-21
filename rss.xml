@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 07:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 09:01:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tini Stoessel&#039;s Not So &#039;Tini&#039; Hot Shots To Celebrate Her 29th Birthday!]]></title>
+            <link>https://www.tmz.com/2026/03/21/tini-stoessel-birthday-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/tini-stoessel-birthday-hot-shots/</guid>
+            <pubDate>Sat, 21 Mar 2026 08:00:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/03/16/26e98eb94e5d48a295efd57311869751_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/03/16/26e98eb94e5d48a295efd57311869751_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/03/16/26e98eb94e5d48a295efd57311869751_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Michael Jackson’s Estate Fires Back at Paris Jackson After She Slams Biopic]]></title>
+            <link>https://www.tmz.com/2026/03/21/michael-jackson-estate-slams-paris-after-biopic-complaints/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/michael-jackson-estate-slams-paris-after-biopic-complaints/</guid>
+            <pubDate>Sat, 21 Mar 2026 08:00:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/03/20/d19db6de6ad14fd0b495dca1a0940d8a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/03/20/d19db6de6ad14fd0b495dca1a0940d8a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/03/20/d19db6de6ad14fd0b495dca1a0940d8a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Real Housewives of Orange County&#039; Cast Hot Shots Guess Who!]]></title>
             <link>https://www.tmz.com/2026/03/21/real-housewives-orange-county-guess-who/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/31/16by9/2026/03/21/31480455f0574c0397d645770a7653b1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/03/21/31480455f0574c0397d645770a7653b1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Phil Martelli Jr. Channels Dad’s March Magic in VCU&#039;s Upset Stunner]]></title>
-            <link>https://www.tmz.com/2026/03/21/phil-martelli-jr-vcu-eyes-cinderella-run/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/phil-martelli-jr-vcu-eyes-cinderella-run/</guid>
-            <pubDate>Sat, 21 Mar 2026 07:10:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/03/20/9db25c3f63a1496296e66171e6503025_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/03/20/9db25c3f63a1496296e66171e6503025_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/03/20/9db25c3f63a1496296e66171e6503025_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ultimate Real Housewives of Orange County Shopping Guide for 20th Anniversary]]></title>
-            <link>https://www.tmz.com/2026/03/21/real-housewives-of-orange-county-20th-anniversary-shopping-guide/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/real-housewives-of-orange-county-20th-anniversary-shopping-guide/</guid>
-            <pubDate>Sat, 21 Mar 2026 07:05:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/03/18/3a9d17d8f9db475092744640f67ab835_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/03/18/3a9d17d8f9db475092744640f67ab835_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/03/18/3a9d17d8f9db475092744640f67ab835_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
