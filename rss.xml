@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 22:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 23:55:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Brandi Glanville Says Lisa Rinna Should Only Return to &#039;Real Housewives&#039; For A Huge Payday]]></title>
+            <link>https://www.tmz.com/2026/03/21/brandi-glanville-tells-lisa-rinna-only-return-to-real-housewives-for-big-money/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/brandi-glanville-tells-lisa-rinna-only-return-to-real-housewives-for-big-money/</guid>
+            <pubDate>Sat, 21 Mar 2026 23:41:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/03/21/a32c6672d7a24202845236069c3c25a9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/03/21/a32c6672d7a24202845236069c3c25a9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/03/21/a32c6672d7a24202845236069c3c25a9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Amy Duggar King Says She Stands with Kids After Kendra Duggar&#039;s Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/21/amy-duggar-supports-children-amid-joseph-kendra-legal-issues/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/amy-duggar-supports-children-amid-joseph-kendra-legal-issues/</guid>
+            <pubDate>Sat, 21 Mar 2026 23:00:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[The Clermont Twins Bodacious Snaps to Kick Off Their 32nd Bday!]]></title>
+            <link>https://www.tmz.com/2026/03/21/clermont-twins-hot-shots-birthday/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/clermont-twins-hot-shots-birthday/</guid>
+            <pubDate>Sat, 21 Mar 2026 23:00:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/17/55cc8933180e49c5820d2f7d26dc2693_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/17/55cc8933180e49c5820d2f7d26dc2693_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/17/55cc8933180e49c5820d2f7d26dc2693_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chappell Roan Accused of Making Soccer Star Jorginho&#039;s Daughter Cry]]></title>
             <link>https://www.tmz.com/2026/03/21/jorginho-frello-claims-chappell-roan-made-daughter-cry/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/03/21/9b20c9eba8da40db86ea5f3537ba261d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/03/21/9b20c9eba8da40db86ea5f3537ba261d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Denise Richards&#039; Doctor Shares Photos Before and After Facelift]]></title>
-            <link>https://www.tmz.com/2026/03/21/denise-richards-got-a-facelift/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/denise-richards-got-a-facelift/</guid>
-            <pubDate>Sat, 21 Mar 2026 20:29:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/03/21/681e8f1700fc4fad847bddb79d6d5aaf_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/03/21/681e8f1700fc4fad847bddb79d6d5aaf_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/03/21/681e8f1700fc4fad847bddb79d6d5aaf_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tom Holland Promotes Zendaya&#039;s Movie &#039;The Drama&#039; Amid Disturbing Twist]]></title>
-            <link>https://www.tmz.com/2026/03/21/tom-holland-promotes-zendayas-movie-amid-disturbing-twist/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/tom-holland-promotes-zendayas-movie-amid-disturbing-twist/</guid>
-            <pubDate>Sat, 21 Mar 2026 19:32:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ab/16by9/2026/03/21/ab199680441e448285bce2069b2445cd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ab/16by9/2026/03/21/ab199680441e448285bce2069b2445cd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ab/16by9/2026/03/21/ab199680441e448285bce2069b2445cd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Threatens to Place ICE Agents at Airports If Congress Won&#039;t Fund TSA]]></title>
-            <link>https://www.tmz.com/2026/03/21/donald-trump-might-send-ice-to-airports/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/donald-trump-might-send-ice-to-airports/</guid>
-            <pubDate>Sat, 21 Mar 2026 19:09:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/03/21/691a500e8b484ca485896cc0a8e3c2a8_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/03/21/691a500e8b484ca485896cc0a8e3c2a8_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/03/21/691a500e8b484ca485896cc0a8e3c2a8_xl.png">
             </media:thumbnail>
         </item>
     </channel>
