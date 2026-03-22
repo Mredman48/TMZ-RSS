@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 17:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 19:04:17 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess This Hilarious Actor!]]></title>
+            <link>https://www.tmz.com/2026/03/22/guess-who-comedian/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/guess-who-comedian/</guid>
+            <pubDate>Sun, 22 Mar 2026 19:00:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6b/16by9/2026/03/19/6b7504734d004f79838cbf1afc10ebb8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6b/16by9/2026/03/19/6b7504734d004f79838cbf1afc10ebb8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6b/16by9/2026/03/19/6b7504734d004f79838cbf1afc10ebb8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Don Lemon Was Supposed To Be Near Rihanna&#039;s Home Night of Shooting]]></title>
+            <link>https://www.tmz.com/2026/03/22/don-lemon-talks-rihanna-house-shooting-close-call/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/don-lemon-talks-rihanna-house-shooting-close-call/</guid>
+            <pubDate>Sun, 22 Mar 2026 18:36:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/03/22/2f22f1810bcf4a0e9113e276040ef57a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/03/22/2f22f1810bcf4a0e9113e276040ef57a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/03/22/2f22f1810bcf4a0e9113e276040ef57a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul Refuses to Stay Quiet Amid Abuse Controversy]]></title>
+            <link>https://www.tmz.com/2026/03/22/taylor-frankie-paul-not-backing-down-abuse-scandal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/taylor-frankie-paul-not-backing-down-abuse-scandal/</guid>
+            <pubDate>Sun, 22 Mar 2026 18:25:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/03/22/33faf76db3a143199cc98c230ea136f6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/33/16by9/2026/03/22/33faf76db3a143199cc98c230ea136f6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/03/22/33faf76db3a143199cc98c230ea136f6_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Justin Timberlake Jokes About Race in DWI Arrest Police Body Cam Video]]></title>
             <link>https://www.tmz.com/2026/03/22/justin-timberlake-makes-race-joke-during-dwi-arrest/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/03/22/5d48a49d6c9147949c0e9a7326bb65e1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/03/22/5d48a49d6c9147949c0e9a7326bb65e1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chappell Roan Apologizes for Security Incident with Jorginho&#039;s Daughter]]></title>
-            <link>https://www.tmz.com/2026/03/22/chappell-roan-is-sorry-for-brazil-security-drama/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/chappell-roan-is-sorry-for-brazil-security-drama/</guid>
-            <pubDate>Sun, 22 Mar 2026 14:27:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ba/16by9/2026/03/22/ba78888d95c14e408b146ceb69196de2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ba/16by9/2026/03/22/ba78888d95c14e408b146ceb69196de2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ba/16by9/2026/03/22/ba78888d95c14e408b146ceb69196de2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Sending ICE Agents to Airports to Assist TSA]]></title>
-            <link>https://www.tmz.com/2026/03/22/donald-trump-sending-ice-to-help-tsa-at-airports/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/donald-trump-sending-ice-to-help-tsa-at-airports/</guid>
-            <pubDate>Sun, 22 Mar 2026 13:34:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/03/22/891fb8e214fa4eadbb739f884d4b45f6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/03/22/891fb8e214fa4eadbb739f884d4b45f6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/03/22/891fb8e214fa4eadbb739f884d4b45f6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Bachelorette&#039; Alum Arrested for Alleged Assault]]></title>
-            <link>https://www.tmz.com/2026/03/22/bachelorette-alum-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/bachelorette-alum-arrested/</guid>
-            <pubDate>Sun, 22 Mar 2026 13:04:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/03/22/1bb8755cac33496ea0de17bd55eb8ded_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/03/22/1bb8755cac33496ea0de17bd55eb8ded_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/03/22/1bb8755cac33496ea0de17bd55eb8ded_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
