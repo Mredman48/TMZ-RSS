@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 20:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 21:56:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jennifer Affleck Reflects on &#039;Mormon Wives&#039; Journey Amid Taylor Frankie Paul Scandal]]></title>
+            <link>https://www.tmz.com/2026/03/22/jennifer-affleck-worried-taylor-frankie-paul-drama-overshadowing-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/jennifer-affleck-worried-taylor-frankie-paul-drama-overshadowing-show/</guid>
+            <pubDate>Sun, 22 Mar 2026 21:47:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/22/480f50b2135b42d4952f1c253aed7eca_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/22/480f50b2135b42d4952f1c253aed7eca_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/22/480f50b2135b42d4952f1c253aed7eca_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Romy Mars Says Babysitter Gave Her Weed When She Was Just 11 Years Old]]></title>
+            <link>https://www.tmz.com/2026/03/22/romy-mars-claims-babysitter-gave-her-weed-as-a-kid/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/romy-mars-claims-babysitter-gave-her-weed-as-a-kid/</guid>
+            <pubDate>Sun, 22 Mar 2026 21:04:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/03/22/69940e3928164ffabd9e5224f6ab160d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/03/22/69940e3928164ffabd9e5224f6ab160d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/03/22/69940e3928164ffabd9e5224f6ab160d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Frankie Paul Wears &#039;Can&#039;t Wait to Sleep With You&#039; Sweatshirt]]></title>
             <link>https://www.tmz.com/2026/03/22/taylor-frankie-paul-rocks-provocative-sweater-amid-bachelorette-drama/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/32/16by9/2026/03/22/32afb316f3e54f33bd8859014d2ca840_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/03/22/32afb316f3e54f33bd8859014d2ca840_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess This Hilarious Actor!]]></title>
-            <link>https://www.tmz.com/2026/03/22/guess-who-comedian/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/guess-who-comedian/</guid>
-            <pubDate>Sun, 22 Mar 2026 19:00:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6b/16by9/2026/03/19/6b7504734d004f79838cbf1afc10ebb8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6b/16by9/2026/03/19/6b7504734d004f79838cbf1afc10ebb8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6b/16by9/2026/03/19/6b7504734d004f79838cbf1afc10ebb8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Don Lemon Was Supposed To Be Near Rihanna&#039;s Home Night of Shooting]]></title>
-            <link>https://www.tmz.com/2026/03/22/don-lemon-talks-rihanna-house-shooting-close-call/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/don-lemon-talks-rihanna-house-shooting-close-call/</guid>
-            <pubDate>Sun, 22 Mar 2026 18:36:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/03/22/2f22f1810bcf4a0e9113e276040ef57a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/03/22/2f22f1810bcf4a0e9113e276040ef57a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/03/22/2f22f1810bcf4a0e9113e276040ef57a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
