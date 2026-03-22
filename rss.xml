@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 07:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 07:59:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[A-List Birthday — Guess The Hollywood Icon Who Went Legally Blonde!]]></title>
+            <link>https://www.tmz.com/2026/03/22/guess-who-birthday-legally-blonde/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/guess-who-birthday-legally-blonde/</guid>
+            <pubDate>Sun, 22 Mar 2026 07:45:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/03/17/26fa4a904c3241f9b106d0a7db6129e3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/03/17/26fa4a904c3241f9b106d0a7db6129e3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/03/17/26fa4a904c3241f9b106d0a7db6129e3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[DeAndre Hopkins Talks NFL Future, Down to Reunite With Kyler Murray in Minnesota]]></title>
+            <link>https://www.tmz.com/2026/03/22/deandre-hopkins-talks-kyler-murray-vikings/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/deandre-hopkins-talks-kyler-murray-vikings/</guid>
+            <pubDate>Sun, 22 Mar 2026 07:30:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/03/20/49411e70ebee44e592b2d94d978285c6_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/03/20/49411e70ebee44e592b2d94d978285c6_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/03/20/49411e70ebee44e592b2d94d978285c6_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Claressa Shields Says NFL Players Can&#039;t Beat Logan Paul Without Boxing Training]]></title>
             <link>https://www.tmz.com/2026/03/22/claressa-shields-weighs-in-on-logan-paul-vs-nfl-players/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ryan Gosling Good Genes or Good Docs?!]]></title>
-            <link>https://www.tmz.com/2026/03/22/ryan-gosling-good-genes-or-good-docs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/ryan-gosling-good-genes-or-good-docs/</guid>
-            <pubDate>Sun, 22 Mar 2026 07:01:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/03/17/1bba2342d0e34e199f84f7d7096b9dc8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/03/17/1bba2342d0e34e199f84f7d7096b9dc8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/03/17/1bba2342d0e34e199f84f7d7096b9dc8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nancy Guthrie&#039;s Family Asks Community to Renew Their Attention in Her Case]]></title>
-            <link>https://www.tmz.com/2026/03/21/nancy-guthries-family-releases-new-statement/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/nancy-guthries-family-releases-new-statement/</guid>
-            <pubDate>Sun, 22 Mar 2026 02:03:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
