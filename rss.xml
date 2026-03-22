@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 11:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 13:30:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Bachelorette&#039; Alum Arrested for Alleged Assault]]></title>
+            <link>https://www.tmz.com/2026/03/22/bachelorette-alum-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/bachelorette-alum-arrested/</guid>
+            <pubDate>Sun, 22 Mar 2026 13:04:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/03/22/1bb8755cac33496ea0de17bd55eb8ded_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/03/22/1bb8755cac33496ea0de17bd55eb8ded_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/03/22/1bb8755cac33496ea0de17bd55eb8ded_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jason Momoa Caught In Massive Storm in Hawaii, Posts Emotional Video]]></title>
+            <link>https://www.tmz.com/2026/03/22/jason-momoa-posts-about-hawaii-storm/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/jason-momoa-posts-about-hawaii-storm/</guid>
+            <pubDate>Sun, 22 Mar 2026 12:48:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/03/22/c728c0107e3a49b4b3cb5c3313253982_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/03/22/c728c0107e3a49b4b3cb5c3313253982_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/03/22/c728c0107e3a49b4b3cb5c3313253982_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[A-List Birthday — Guess The Hollywood Icon Who Went Legally Blonde!]]></title>
             <link>https://www.tmz.com/2026/03/22/guess-who-birthday-legally-blonde/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/03/20/5e542e955b374470a1cc01f835fae67f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/03/20/5e542e955b374470a1cc01f835fae67f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Best Draper James Looks to Celebrate Reese Witherspoon Birthday]]></title>
-            <link>https://www.tmz.com/2026/03/22/reese-witherspoon-birthday-buy-draper-james-clothing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/reese-witherspoon-birthday-buy-draper-james-clothing/</guid>
-            <pubDate>Sun, 22 Mar 2026 07:05:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/03/19/3e7602dfb847410793abe4ed5eb97005_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/03/19/3e7602dfb847410793abe4ed5eb97005_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/03/19/3e7602dfb847410793abe4ed5eb97005_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[1982 UNC Tar Heels Ball To Hit Auction, Signed By Michael Jordan, James Worthy!]]></title>
-            <link>https://www.tmz.com/2026/03/22/signed-unc-tar-heels-basketball-will-be-auctioned/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/signed-unc-tar-heels-basketball-will-be-auctioned/</guid>
-            <pubDate>Sun, 22 Mar 2026 07:05:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
