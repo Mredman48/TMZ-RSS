@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 06:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 07:25:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Claressa Shields Says NFL Players Can&#039;t Beat Logan Paul Without Boxing Training]]></title>
+            <link>https://www.tmz.com/2026/03/22/claressa-shields-weighs-in-on-logan-paul-vs-nfl-players/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/claressa-shields-weighs-in-on-logan-paul-vs-nfl-players/</guid>
+            <pubDate>Sun, 22 Mar 2026 07:10:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/03/20/5e542e955b374470a1cc01f835fae67f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/03/20/5e542e955b374470a1cc01f835fae67f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/03/20/5e542e955b374470a1cc01f835fae67f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Best Draper James Looks to Celebrate Reese Witherspoon Birthday]]></title>
+            <link>https://www.tmz.com/2026/03/22/reese-witherspoon-birthday-buy-draper-james-clothing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/reese-witherspoon-birthday-buy-draper-james-clothing/</guid>
+            <pubDate>Sun, 22 Mar 2026 07:05:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/03/19/3e7602dfb847410793abe4ed5eb97005_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/03/19/3e7602dfb847410793abe4ed5eb97005_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/03/19/3e7602dfb847410793abe4ed5eb97005_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[1982 UNC Tar Heels Ball To Hit Auction, Signed By Michael Jordan, James Worthy!]]></title>
+            <link>https://www.tmz.com/2026/03/22/signed-unc-tar-heels-basketball-will-be-auctioned/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/signed-unc-tar-heels-basketball-will-be-auctioned/</guid>
+            <pubDate>Sun, 22 Mar 2026 07:05:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/19/c8894caf7e4e491fab012ceecff77860_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Gosling Good Genes or Good Docs?!]]></title>
+            <link>https://www.tmz.com/2026/03/22/ryan-gosling-good-genes-or-good-docs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/ryan-gosling-good-genes-or-good-docs/</guid>
+            <pubDate>Sun, 22 Mar 2026 07:01:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/03/17/1bba2342d0e34e199f84f7d7096b9dc8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/03/17/1bba2342d0e34e199f84f7d7096b9dc8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/03/17/1bba2342d0e34e199f84f7d7096b9dc8_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nancy Guthrie&#039;s Family Asks Community to Renew Their Attention in Her Case]]></title>
             <link>https://www.tmz.com/2026/03/21/nancy-guthries-family-releases-new-statement/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Nepo Baby Is!]]></title>
-            <link>https://www.tmz.com/2026/03/21/guess-who-this-nepo-baby-is/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/guess-who-this-nepo-baby-is/</guid>
-            <pubDate>Sun, 22 Mar 2026 01:00:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/03/18/5419c743e445409bbac3c34fa57a6d33_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/03/18/5419c743e445409bbac3c34fa57a6d33_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/03/18/5419c743e445409bbac3c34fa57a6d33_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brenda Song Drags Alaska Airlines Over Seating Issue]]></title>
-            <link>https://www.tmz.com/2026/03/21/brenda-song-slams-alaska-airlines/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/brenda-song-slams-alaska-airlines/</guid>
-            <pubDate>Sun, 22 Mar 2026 00:50:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/03/21/9548143c1e4243f7868735e61a5876d4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/21/9548143c1e4243f7868735e61a5876d4_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/21/9548143c1e4243f7868735e61a5876d4_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brandi Glanville Says Lisa Rinna Should Only Return to &#039;Real Housewives&#039; For A Huge Payday]]></title>
-            <link>https://www.tmz.com/2026/03/21/brandi-glanville-tells-lisa-rinna-only-return-to-real-housewives-for-big-money/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/brandi-glanville-tells-lisa-rinna-only-return-to-real-housewives-for-big-money/</guid>
-            <pubDate>Sat, 21 Mar 2026 23:41:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/03/21/a32c6672d7a24202845236069c3c25a9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/03/21/a32c6672d7a24202845236069c3c25a9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/03/21/a32c6672d7a24202845236069c3c25a9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Amy Duggar King Says She Stands with Kids After Kendra Duggar&#039;s Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/21/amy-duggar-supports-children-amid-joseph-kendra-legal-issues/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/amy-duggar-supports-children-amid-joseph-kendra-legal-issues/</guid>
-            <pubDate>Sat, 21 Mar 2026 23:00:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
