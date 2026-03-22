@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 21:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 22:58:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;RHOA&#039; Star Cynthia Bailey Says Alter Ego 50 Cynt Makes an Appearance on New Season]]></title>
+            <link>https://www.tmz.com/2026/03/22/rhoa-cynthia-bailey-talks-season-17-drama/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/rhoa-cynthia-bailey-talks-season-17-drama/</guid>
+            <pubDate>Sun, 22 Mar 2026 22:07:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/03/22/9412275cf7f84ce89c2d9fb239de4dd0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/03/22/9412275cf7f84ce89c2d9fb239de4dd0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/03/22/9412275cf7f84ce89c2d9fb239de4dd0_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jennifer Affleck Reflects on &#039;Mormon Wives&#039; Journey Amid Taylor Frankie Paul Scandal]]></title>
             <link>https://www.tmz.com/2026/03/22/jennifer-affleck-worried-taylor-frankie-paul-drama-overshadowing-show/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/03/22/1fa35595f93a40de81534030f05bc082_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/03/22/1fa35595f93a40de81534030f05bc082_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gypsy Rose Blanchard Jokes About Killing Her Mom]]></title>
-            <link>https://www.tmz.com/2026/03/22/gypsy-rose-blanchard-slammed-for-killing-mom-joke/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/gypsy-rose-blanchard-slammed-for-killing-mom-joke/</guid>
-            <pubDate>Sun, 22 Mar 2026 19:27:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/03/22/32afb316f3e54f33bd8859014d2ca840_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/03/22/32afb316f3e54f33bd8859014d2ca840_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/03/22/32afb316f3e54f33bd8859014d2ca840_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
