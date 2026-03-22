@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 23:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 03:31:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Nancy Guthrie&#039;s Family Asks Community to Renew Their Attention in Her Case]]></title>
+            <link>https://www.tmz.com/2026/03/21/nancy-guthries-family-releases-new-statement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/nancy-guthries-family-releases-new-statement/</guid>
+            <pubDate>Sun, 22 Mar 2026 02:03:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/02/18/5406129a3ba048bcb5ca03b61c64a9d2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Nepo Baby Is!]]></title>
+            <link>https://www.tmz.com/2026/03/21/guess-who-this-nepo-baby-is/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/guess-who-this-nepo-baby-is/</guid>
+            <pubDate>Sun, 22 Mar 2026 01:00:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/03/18/5419c743e445409bbac3c34fa57a6d33_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/03/18/5419c743e445409bbac3c34fa57a6d33_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/03/18/5419c743e445409bbac3c34fa57a6d33_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brenda Song Drags Alaska Airlines Over Seating Issue]]></title>
+            <link>https://www.tmz.com/2026/03/21/brenda-song-slams-alaska-airlines/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/brenda-song-slams-alaska-airlines/</guid>
+            <pubDate>Sun, 22 Mar 2026 00:50:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/03/21/9548143c1e4243f7868735e61a5876d4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/21/9548143c1e4243f7868735e61a5876d4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/21/9548143c1e4243f7868735e61a5876d4_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Brandi Glanville Says Lisa Rinna Should Only Return to &#039;Real Housewives&#039; For A Huge Payday]]></title>
             <link>https://www.tmz.com/2026/03/21/brandi-glanville-tells-lisa-rinna-only-return-to-real-housewives-for-big-money/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/03/21/b909075dc07c43db873be75764923e78_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[The Clermont Twins Bodacious Snaps to Kick Off Their 32nd Bday!]]></title>
-            <link>https://www.tmz.com/2026/03/21/clermont-twins-hot-shots-birthday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/clermont-twins-hot-shots-birthday/</guid>
-            <pubDate>Sat, 21 Mar 2026 23:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/17/55cc8933180e49c5820d2f7d26dc2693_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/17/55cc8933180e49c5820d2f7d26dc2693_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/17/55cc8933180e49c5820d2f7d26dc2693_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chappell Roan Accused of Making Soccer Star Jorginho&#039;s Daughter Cry]]></title>
-            <link>https://www.tmz.com/2026/03/21/jorginho-frello-claims-chappell-roan-made-daughter-cry/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/jorginho-frello-claims-chappell-roan-made-daughter-cry/</guid>
-            <pubDate>Sat, 21 Mar 2026 21:53:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/03/21/f3f14347f3c44d48b5deef90f2ae2afe_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/03/21/f3f14347f3c44d48b5deef90f2ae2afe_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/03/21/f3f14347f3c44d48b5deef90f2ae2afe_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shia LaBeouf Yells at Woman Sitting Beside Him at Restaurant, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/21/shia-labeouf-screams-at-woman-in-rome/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/21/shia-labeouf-screams-at-woman-in-rome/</guid>
-            <pubDate>Sat, 21 Mar 2026 21:04:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/03/21/9b20c9eba8da40db86ea5f3537ba261d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/03/21/9b20c9eba8da40db86ea5f3537ba261d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/03/21/9b20c9eba8da40db86ea5f3537ba261d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
