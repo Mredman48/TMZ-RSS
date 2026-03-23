@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 20:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 21:07:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Rapper OJ da Juiceman Arrested, Allegedly Pointed Gun at Trooper on Highway]]></title>
+            <link>https://www.tmz.com/2026/03/23/oj-da-juiceman-arrested-in-georgia/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/oj-da-juiceman-arrested-in-georgia/</guid>
+            <pubDate>Mon, 23 Mar 2026 20:54:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/03/23/fb09828601e649a69f2ca5046b191272_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/03/23/fb09828601e649a69f2ca5046b191272_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/03/23/fb09828601e649a69f2ca5046b191272_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Joseph Duggar’s Wife Kendra Searched by Officer, Booked Into Jail, on Video]]></title>
+            <link>https://www.tmz.com/2026/03/23/kendra-duggar-booking-video-released/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/kendra-duggar-booking-video-released/</guid>
+            <pubDate>Mon, 23 Mar 2026 20:47:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/03/23/8fe9c3b659bc47f99610731b7a36940e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/03/23/8fe9c3b659bc47f99610731b7a36940e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/03/23/8fe9c3b659bc47f99610731b7a36940e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Quadriplegic Professional Cornhole Player Accused of Murdering Passenger]]></title>
+            <link>https://www.tmz.com/2026/03/23/cornhole-player-quadriplegic-dayton-james-webber-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/cornhole-player-quadriplegic-dayton-james-webber-arrested/</guid>
+            <pubDate>Mon, 23 Mar 2026 20:30:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/03/23/68eb187515334e8eb7975befc484d30d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/03/23/68eb187515334e8eb7975befc484d30d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/03/23/68eb187515334e8eb7975befc484d30d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[50 Cent Expands Empire With $100M Planet Hollywood Partnership in NYC]]></title>
+            <link>https://www.tmz.com/2026/03/23/50-cent-makes-100-million-planet-hollywood-deal-in-nyc/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/50-cent-makes-100-million-planet-hollywood-deal-in-nyc/</guid>
+            <pubDate>Mon, 23 Mar 2026 20:24:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/03/23/2cbe7ae8be2b41ffa1c485f0d73fbc3f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/03/23/2cbe7ae8be2b41ffa1c485f0d73fbc3f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/03/23/2cbe7ae8be2b41ffa1c485f0d73fbc3f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Rumored &#039;Bachelorette&#039; Winner Doug Mason Strips Down in San Diego]]></title>
             <link>https://www.tmz.com/2026/03/23/doug-mason-shows-off-body-in-san-diego/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/de/16by9/2026/03/23/deb370d5d0034e038cab4b2141719a18_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/03/23/deb370d5d0034e038cab4b2141719a18_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Janice Dickinson Calls Tyra Banks a Bitch, Wishes She Never Did &#039;ANTM&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/23/janice-dickinson-wishes-she-never-did-americas-next-top-model/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/janice-dickinson-wishes-she-never-did-americas-next-top-model/</guid>
-            <pubDate>Mon, 23 Mar 2026 19:58:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/03/23/87e92b9bc4034c07b42c93beaa3785d7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/03/23/87e92b9bc4034c07b42c93beaa3785d7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/03/23/87e92b9bc4034c07b42c93beaa3785d7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Travis Kelce Officially Back, Signs With Chiefs, &#039;Let&#039;s Go Baby!&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/23/travis-kelce-signs-deal-chiefs-taylor-swift/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/travis-kelce-signs-deal-chiefs-taylor-swift/</guid>
-            <pubDate>Mon, 23 Mar 2026 19:46:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d5/16by9/2026/03/23/d528b6ef0aee4fcc82fbcea5cf9d9a84_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d5/16by9/2026/03/23/d528b6ef0aee4fcc82fbcea5cf9d9a84_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d5/16by9/2026/03/23/d528b6ef0aee4fcc82fbcea5cf9d9a84_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Bachelorette&#039; Contestants Post Blank TV Screens After Season Canceled]]></title>
-            <link>https://www.tmz.com/2026/03/23/bachelorette-contestants-post-videos-of-blank-tv-screens/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/bachelorette-contestants-post-videos-of-blank-tv-screens/</guid>
-            <pubDate>Mon, 23 Mar 2026 19:42:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/03/23/f74c4bfd112548399fd8bfce55b4b0d9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/23/f74c4bfd112548399fd8bfce55b4b0d9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/23/f74c4bfd112548399fd8bfce55b4b0d9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Reacher&#039; Alan Ritchson&#039;s Neighbor Got the Crap Kicked Out of Him for Taking a Stand, He Says]]></title>
-            <link>https://www.tmz.com/2026/03/23/reacher-star-alan-ritchson-neighbor-explains-fight/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/reacher-star-alan-ritchson-neighbor-explains-fight/</guid>
-            <pubDate>Mon, 23 Mar 2026 19:17:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/03/23/785e7bd45b7e4c5cac2fc6cb4dd63e9b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/23/785e7bd45b7e4c5cac2fc6cb4dd63e9b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/23/785e7bd45b7e4c5cac2fc6cb4dd63e9b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
