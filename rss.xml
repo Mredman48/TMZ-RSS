@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 23:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 03:34:52 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ada Law&#039;s Mom Calls BS on Chappell Roan&#039;s Claim That Testy Security Guard Wasn&#039;t Hers]]></title>
+            <link>https://www.tmz.com/2026/03/22/catherine-harding-chappell-roan-security/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/catherine-harding-chappell-roan-security/</guid>
+            <pubDate>Mon, 23 Mar 2026 01:12:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/66/16by9/2026/03/22/669f8dea02a84a54bcab2ae7fad141cf_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/66/16by9/2026/03/22/669f8dea02a84a54bcab2ae7fad141cf_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/03/22/669f8dea02a84a54bcab2ae7fad141cf_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[TikToker Benjamin Gleason Arrested and Charged with Rape]]></title>
+            <link>https://www.tmz.com/2026/03/22/tiktoker-benjamin-gleason-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/tiktoker-benjamin-gleason-arrested/</guid>
+            <pubDate>Mon, 23 Mar 2026 00:32:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/af/16by9/2026/03/22/af76a875b9434f4cb31032d47c1e0d99_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/af/16by9/2026/03/22/af76a875b9434f4cb31032d47c1e0d99_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/af/16by9/2026/03/22/af76a875b9434f4cb31032d47c1e0d99_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[N3on, Benjy Chavez Swatted in Los Angeles]]></title>
+            <link>https://www.tmz.com/2026/03/22/n3on-benjy-chavez-swatted-los-angeles/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/n3on-benjy-chavez-swatted-los-angeles/</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/03/22/6de742f968eb4109ae233293eb646ee3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/03/22/6de742f968eb4109ae233293eb646ee3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/03/22/6de742f968eb4109ae233293eb646ee3_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Supernatural&#039; Actress Carrie Anne Fleming Dead at 51]]></title>
             <link>https://www.tmz.com/2026/03/22/supernatural-actress-carrie-anne-fleming-dead-at-51/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/54/16by9/2026/03/18/54a331fdfc5d472d9440f999bc87d160_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/03/18/54a331fdfc5d472d9440f999bc87d160_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Doja Cat&#039;s Dad Calls Out Her Mom For &#039;Brainwashing&#039; Her]]></title>
-            <link>https://www.tmz.com/2026/03/22/doja-cats-dad-calls-out-mom/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/doja-cats-dad-calls-out-mom/</guid>
-            <pubDate>Sun, 22 Mar 2026 22:55:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/03/22/cc4ba677b02e4ca2a34de41024fdd04f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/03/22/cc4ba677b02e4ca2a34de41024fdd04f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/03/22/cc4ba677b02e4ca2a34de41024fdd04f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;RHOA&#039; Star Cynthia Bailey Says Alter Ego 50 Cynt Makes an Appearance on New Season]]></title>
-            <link>https://www.tmz.com/2026/03/22/rhoa-cynthia-bailey-talks-season-17-drama/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/rhoa-cynthia-bailey-talks-season-17-drama/</guid>
-            <pubDate>Sun, 22 Mar 2026 22:07:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/03/22/9412275cf7f84ce89c2d9fb239de4dd0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/03/22/9412275cf7f84ce89c2d9fb239de4dd0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/03/22/9412275cf7f84ce89c2d9fb239de4dd0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jennifer Affleck Reflects on &#039;Mormon Wives&#039; Journey Amid Taylor Frankie Paul Scandal]]></title>
-            <link>https://www.tmz.com/2026/03/22/jennifer-affleck-worried-taylor-frankie-paul-drama-overshadowing-show/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/jennifer-affleck-worried-taylor-frankie-paul-drama-overshadowing-show/</guid>
-            <pubDate>Sun, 22 Mar 2026 21:47:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/22/480f50b2135b42d4952f1c253aed7eca_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/22/480f50b2135b42d4952f1c253aed7eca_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/22/480f50b2135b42d4952f1c253aed7eca_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
