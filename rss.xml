@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 17:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 18:29:59 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Joe Jonas Seen Kissing Tatiana Gabriela During Airport Pickup]]></title>
-            <link>https://www.tmz.com/2026/03/23/joe-jonas-kissing-tatiana-gabriela-at-miami-airport/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/joe-jonas-kissing-tatiana-gabriela-at-miami-airport/</guid>
-            <pubDate>Mon, 23 Mar 2026 17:28:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/03/23/314b6503d7914a6dac3517cf197b5dfa_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/03/23/314b6503d7914a6dac3517cf197b5dfa_xl.png" medium="image">
+            <title><![CDATA[Charlie Kirk Mentor Jeff Webb Dies 2 Weeks After Pickleball Accident]]></title>
+            <link>https://www.tmz.com/2026/03/23/charlie-kirk-mentor-jeff-webb-dies/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/charlie-kirk-mentor-jeff-webb-dies/</guid>
+            <pubDate>Mon, 23 Mar 2026 18:20:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/03/23/35a4e0dc850f40ca8bfccca015a4ec11_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/03/23/35a4e0dc850f40ca8bfccca015a4ec11_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/03/23/314b6503d7914a6dac3517cf197b5dfa_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/03/23/35a4e0dc850f40ca8bfccca015a4ec11_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Deadly LaGuardia Airport Runway Plane Crash Caught on Camera]]></title>
-            <link>https://www.tmz.com/2026/03/23/laguardia-plane-crash-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/laguardia-plane-crash-video/</guid>
-            <pubDate>Mon, 23 Mar 2026 17:22:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/03/23/5d73a458a84a4bf08e38b52943b92436_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/03/23/5d73a458a84a4bf08e38b52943b92436_xl.png" medium="image">
+            <title><![CDATA[Tekashi 6ix9ine&#039;s House Visited by Trespasser as He Phoned Girlfriend From Jail]]></title>
+            <link>https://www.tmz.com/2026/03/23/tekashi-6ix9ine-florida-home-trespasser-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/tekashi-6ix9ine-florida-home-trespasser-arrested/</guid>
+            <pubDate>Mon, 23 Mar 2026 18:16:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/03/23/7c8abbba2311421b932f283b8a3d1d84_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/03/23/7c8abbba2311421b932f283b8a3d1d84_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/03/23/5d73a458a84a4bf08e38b52943b92436_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/03/23/7c8abbba2311421b932f283b8a3d1d84_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[John Daly Takes Hilarious Tumble On Golf Course After Shot, Caught On Video]]></title>
-            <link>https://www.tmz.com/2026/03/23/john-daly-fall-golf-shot-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/john-daly-fall-golf-shot-video/</guid>
-            <pubDate>Mon, 23 Mar 2026 17:11:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/03/23/c5f2c34d9b1341ada581722d16d1b7be_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/03/23/c5f2c34d9b1341ada581722d16d1b7be_xl.jpg" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/03/23/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/watch-tmz-live-today/</guid>
+            <pubDate>Mon, 23 Mar 2026 17:42:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ec/16by9/2026/03/23/ec04764e79ee405dbf56b45156d3cd50_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/03/23/ec04764e79ee405dbf56b45156d3cd50_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/03/23/c5f2c34d9b1341ada581722d16d1b7be_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/03/23/ec04764e79ee405dbf56b45156d3cd50_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bluegrass Singer, Country Songwriter Ronnie Bowman Dead at 64]]></title>
-            <link>https://www.tmz.com/2026/03/23/ronnie-bowman-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/ronnie-bowman-dead/</guid>
-            <pubDate>Mon, 23 Mar 2026 17:07:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/03/23/a51b4b485acf4321923daf99a41e48ea_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/03/23/a51b4b485acf4321923daf99a41e48ea_xl.jpg" medium="image">
+            <title><![CDATA[Yankees’ Ben Rice Finally Gets The Endorsement His Name Deserves]]></title>
+            <link>https://www.tmz.com/2026/03/23/yankees-ben-rice-finally-gets-rice-endorsement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/yankees-ben-rice-finally-gets-rice-endorsement/</guid>
+            <pubDate>Mon, 23 Mar 2026 17:38:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/03/23/e9464978d6b848589f4e04c7fe56d046_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/03/23/e9464978d6b848589f4e04c7fe56d046_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/03/23/a51b4b485acf4321923daf99a41e48ea_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/03/23/e9464978d6b848589f4e04c7fe56d046_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Mormon Wives&#039; Jessi Draper&#039;s Husband Files for Restraining Order]]></title>
-            <link>https://www.tmz.com/2026/03/23/mormon-wives-jessi-draper-husband-files-restraining-order/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/mormon-wives-jessi-draper-husband-files-restraining-order/</guid>
-            <pubDate>Mon, 23 Mar 2026 17:06:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/03/23/271687f1710b4d47846ef6a78cb7281a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/03/23/271687f1710b4d47846ef6a78cb7281a_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Mormon Wives&#039; Jessi Draper Seen Out For First Time Since Divorce, Restraining Order]]></title>
+            <link>https://www.tmz.com/2026/03/23/jessi-draper-out-shopping-after-divorce-filing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/jessi-draper-out-shopping-after-divorce-filing/</guid>
+            <pubDate>Mon, 23 Mar 2026 17:30:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/03/23/709b74278a8049739e6966c7ebc44777_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/23/709b74278a8049739e6966c7ebc44777_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/03/23/271687f1710b4d47846ef6a78cb7281a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/23/709b74278a8049739e6966c7ebc44777_xl.png">
             </media:thumbnail>
         </item>
     </channel>
