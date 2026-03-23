@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 15:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 16:32:29 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Superman&#039; Star Valerie Perrine Dead at 82]]></title>
+            <link>https://www.tmz.com/2026/03/23/valerie-perrine-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/valerie-perrine-dead/</guid>
+            <pubDate>Mon, 23 Mar 2026 16:25:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/03/23/dd3d3b5f334944fab9cf99bef4888122_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/03/23/dd3d3b5f334944fab9cf99bef4888122_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/03/23/dd3d3b5f334944fab9cf99bef4888122_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Iowa Basketball Player Mocks University Of Florida After Upset Win]]></title>
+            <link>https://www.tmz.com/2026/03/23/cooper-koch-gator-chomp-iowa-upset-florida-march-madness/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/cooper-koch-gator-chomp-iowa-upset-florida-march-madness/</guid>
+            <pubDate>Mon, 23 Mar 2026 15:59:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/03/23/6ef0ab44f76946489de74ec72881505b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/03/23/6ef0ab44f76946489de74ec72881505b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/03/23/6ef0ab44f76946489de74ec72881505b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tennis Star Corentin Moutet Calls Danielle Collins&#039; Flirting, DM Story &#039;BS&#039;]]></title>
             <link>https://www.tmz.com/2026/03/23/danielle-collins-corentin-moutet-tennis-flirting-dm-drama/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/03/23/a8ca3e87e2aa4d6c99764c6ba123dbb4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/03/23/a8ca3e87e2aa4d6c99764c6ba123dbb4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[ICE Agents Deploy to U.S. Airports for First Day Assisting TSA Officers]]></title>
-            <link>https://www.tmz.com/2026/03/23/ice-agents-arrive-at-us-airports/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/ice-agents-arrive-at-us-airports/</guid>
-            <pubDate>Mon, 23 Mar 2026 14:20:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0c/16by9/2026/03/23/0c60d77d90ad4416bcce84bd2baeaf3f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0c/16by9/2026/03/23/0c60d77d90ad4416bcce84bd2baeaf3f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0c/16by9/2026/03/23/0c60d77d90ad4416bcce84bd2baeaf3f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[FKA Twigs Sues Band The Twigs Amid Ongoing Name Dispute]]></title>
-            <link>https://www.tmz.com/2026/03/23/fka-twigs-sues-band-the-twigs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/fka-twigs-sues-band-the-twigs/</guid>
-            <pubDate>Mon, 23 Mar 2026 14:03:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/03/23/45d35f82f19945178fe594132ac04f18_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/03/23/45d35f82f19945178fe594132ac04f18_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/03/23/45d35f82f19945178fe594132ac04f18_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
