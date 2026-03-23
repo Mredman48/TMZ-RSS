@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 12:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 13:59:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Floyd Mayweather vs. Manny Pacquiao II Is No Nostalgia Act, Says Promoter Jas Mathur]]></title>
-            <link>https://www.tmz.com/2026/03/23/jas-mathur-on-manny-pacquiao-vs-floyd-mayweather/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/jas-mathur-on-manny-pacquiao-vs-floyd-mayweather/</guid>
-            <pubDate>Mon, 23 Mar 2026 07:30:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/03/12/dff274a9468f4952b36e54086497f248_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/03/12/dff274a9468f4952b36e54086497f248_xl.png" medium="image">
+            <title><![CDATA[Shohei Ohtani’s Game-Worn WBC Jersey Fetches $1.5M at Auction]]></title>
+            <link>https://www.tmz.com/2026/03/23/shohei-ohtani-jersey-1-million-auction-sale/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/shohei-ohtani-jersey-1-million-auction-sale/</guid>
+            <pubDate>Mon, 23 Mar 2026 13:54:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/03/23/33cc2140f7d143318907d6abf8029013_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/33/16by9/2026/03/23/33cc2140f7d143318907d6abf8029013_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/03/12/dff274a9468f4952b36e54086497f248_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/03/23/33cc2140f7d143318907d6abf8029013_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Travis In &#039;Hanna Montana: The Movie&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/03/23/travis-hannah-montana-movie-lucas-till-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/travis-hannah-montana-movie-lucas-till-memba-him/</guid>
-            <pubDate>Mon, 23 Mar 2026 07:10:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/03/19/b0d2f3dc9eac42859d7e8559fa9fc79f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/03/19/b0d2f3dc9eac42859d7e8559fa9fc79f_xl.jpg" medium="image">
+            <title><![CDATA[Newark Airport Control Tower Evacuated After Reports of Smoke, Ground Stop Issued]]></title>
+            <link>https://www.tmz.com/2026/03/23/newark-airport-control-tower-evacuated/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/newark-airport-control-tower-evacuated/</guid>
+            <pubDate>Mon, 23 Mar 2026 13:21:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/03/23/7000c1c62d6840ceb8b2d562e615ba78_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/23/7000c1c62d6840ceb8b2d562e615ba78_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/03/19/b0d2f3dc9eac42859d7e8559fa9fc79f_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/23/7000c1c62d6840ceb8b2d562e615ba78_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Reacher&#039; Star Alan Ritchson Allegedly Beats Up Neighbor in Front Of Kids, On Video]]></title>
-            <link>https://www.tmz.com/2026/03/22/alan-ritchson-punches-neighbor/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/alan-ritchson-punches-neighbor/</guid>
-            <pubDate>Mon, 23 Mar 2026 04:09:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/03/23/e42623b4d5a149db9b8dd87fb3b69842_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/03/23/e42623b4d5a149db9b8dd87fb3b69842_xl.jpg" medium="image">
+            <title><![CDATA[OnlyFans Owner Dead at 43]]></title>
+            <link>https://www.tmz.com/2026/03/23/onlyfans-owner-leo-radvinsky-dead-at-43/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/onlyfans-owner-leo-radvinsky-dead-at-43/</guid>
+            <pubDate>Mon, 23 Mar 2026 13:07:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/03/23/1a612672d02941fb86355e89ead02f8e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/03/23/1a612672d02941fb86355e89ead02f8e_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/03/23/e42623b4d5a149db9b8dd87fb3b69842_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/03/23/1a612672d02941fb86355e89ead02f8e_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ada Law&#039;s Mom Calls BS on Chappell Roan&#039;s Claim That Testy Security Guard Wasn&#039;t Hers]]></title>
-            <link>https://www.tmz.com/2026/03/22/catherine-harding-chappell-roan-security/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/catherine-harding-chappell-roan-security/</guid>
-            <pubDate>Mon, 23 Mar 2026 01:12:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/66/16by9/2026/03/22/669f8dea02a84a54bcab2ae7fad141cf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/66/16by9/2026/03/22/669f8dea02a84a54bcab2ae7fad141cf_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Reacher&#039; Star Alan Ritchson Did Not Instigate Fight With Neighbor: Sources]]></title>
+            <link>https://www.tmz.com/2026/03/23/reacher-star-alan-ritchson-tennessee-altercation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/reacher-star-alan-ritchson-tennessee-altercation/</guid>
+            <pubDate>Mon, 23 Mar 2026 12:22:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/03/23/c214b7b174f34779a2257de1ac9facd8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/03/23/c214b7b174f34779a2257de1ac9facd8_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/03/22/669f8dea02a84a54bcab2ae7fad141cf_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/03/23/c214b7b174f34779a2257de1ac9facd8_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[TikToker Benjamin Gleason Arrested and Charged with Rape]]></title>
-            <link>https://www.tmz.com/2026/03/22/tiktoker-benjamin-gleason-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/22/tiktoker-benjamin-gleason-arrested/</guid>
-            <pubDate>Mon, 23 Mar 2026 00:32:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/af/16by9/2026/03/22/af76a875b9434f4cb31032d47c1e0d99_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/af/16by9/2026/03/22/af76a875b9434f4cb31032d47c1e0d99_xl.jpg" medium="image">
+            <title><![CDATA[Two Pilots Killed When Plane Collides With Fire Truck at LaGuardia Airport]]></title>
+            <link>https://www.tmz.com/2026/03/23/two-pilots-killed-plane-collides-fire-truck-laguardia-airport/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/two-pilots-killed-plane-collides-fire-truck-laguardia-airport/</guid>
+            <pubDate>Mon, 23 Mar 2026 12:08:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/03/23/41583b4c9aa544ae94c59fca8318c462_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/03/23/41583b4c9aa544ae94c59fca8318c462_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/af/16by9/2026/03/22/af76a875b9434f4cb31032d47c1e0d99_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/03/23/41583b4c9aa544ae94c59fca8318c462_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
