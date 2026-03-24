@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 23:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 23:59:12 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Cyndi Lauper&#039;s Son Declyn Allegedly Sexually Assaulted Woman, New Lawsuit Claims]]></title>
+            <link>https://www.tmz.com/2026/03/24/cyndi-lauper-son-allegedly-sexually-assaulted-woman/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/cyndi-lauper-son-allegedly-sexually-assaulted-woman/</guid>
+            <pubDate>Tue, 24 Mar 2026 23:48:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/03/24/e916851947084669add4d2dc4a474da4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/03/24/e916851947084669add4d2dc4a474da4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/03/24/e916851947084669add4d2dc4a474da4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lindsie Chrisley&#039;s Boyfriend Asks Todd Chrisley for Permission to Marry His Daughter]]></title>
+            <link>https://www.tmz.com/2026/03/24/lindsie-chrisley-boyfriend-asks-todd-for-marriage-blessing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/lindsie-chrisley-boyfriend-asks-todd-for-marriage-blessing/</guid>
+            <pubDate>Tue, 24 Mar 2026 23:25:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/03/24/1cb2c77b44c442fba22b5a0440444073_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/03/24/1cb2c77b44c442fba22b5a0440444073_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/03/24/1cb2c77b44c442fba22b5a0440444073_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Robert Patrick Says Modern Technology Reminds Him of &#039;Terminator&#039; Films]]></title>
+            <link>https://www.tmz.com/2026/03/24/robert-patrick-thinks-new-tech-is-like-terminator-films/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/robert-patrick-thinks-new-tech-is-like-terminator-films/</guid>
+            <pubDate>Tue, 24 Mar 2026 23:00:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e931486bcde4036ac0c79f3498aa8e2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e931486bcde4036ac0c79f3498aa8e2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e931486bcde4036ac0c79f3498aa8e2_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Puka Nacua Accused Of Biting Woman, Saying &#039;F*** The Jews&#039;, Rams WR Adamantly Denies]]></title>
             <link>https://www.tmz.com/2026/03/24/puka-nacua-restraining-order-allegedy-biting-woman-made-antisemetic-remarks/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dakota Mortensen Frets About Hawaii Trip With Taylor in 2023 Body Cam Video]]></title>
-            <link>https://www.tmz.com/2026/03/24/dakota-mortensen-worries-about-hawaii-trip-on-police-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/dakota-mortensen-worries-about-hawaii-trip-on-police-video/</guid>
-            <pubDate>Tue, 24 Mar 2026 22:23:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/24/6aa978b5c67549149edce4babdf37d79_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/24/6aa978b5c67549149edce4babdf37d79_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/24/6aa978b5c67549149edce4babdf37d79_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Quadruple Amputee Cornhole Pro Gets Perks Behind Bars After Murder Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/24/dayton-webber-in-virginia-jail-in-maryland-murder-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/dayton-webber-in-virginia-jail-in-maryland-murder-case/</guid>
-            <pubDate>Tue, 24 Mar 2026 22:11:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e513b3d901d48a1803c6eca0b8a6bb6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e513b3d901d48a1803c6eca0b8a6bb6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e513b3d901d48a1803c6eca0b8a6bb6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Phaedra Parks Has Legal Advice for Wendy Osefo Amid Alleged Fraud Mess]]></title>
-            <link>https://www.tmz.com/2026/03/24/phaedra-parks-gives-wendy-osefo-advice/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/phaedra-parks-gives-wendy-osefo-advice/</guid>
-            <pubDate>Tue, 24 Mar 2026 22:00:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/03/23/9e0b470561e84879a745833d4626c5a2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/03/23/9e0b470561e84879a745833d4626c5a2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/03/23/9e0b470561e84879a745833d4626c5a2_xl.png">
             </media:thumbnail>
         </item>
     </channel>
