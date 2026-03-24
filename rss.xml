@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 22:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 23:02:41 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Puka Nacua Accused Of Biting Woman, Saying &#039;F*** The Jews&#039;, Rams WR Adamantly Denies]]></title>
+            <link>https://www.tmz.com/2026/03/24/puka-nacua-restraining-order-allegedy-biting-woman-made-antisemetic-remarks/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/puka-nacua-restraining-order-allegedy-biting-woman-made-antisemetic-remarks/</guid>
+            <pubDate>Tue, 24 Mar 2026 22:51:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/03/24/0ec77079f133463f9d62556dc876f300_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/03/24/0ec77079f133463f9d62556dc876f300_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/03/24/0ec77079f133463f9d62556dc876f300_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Yung Miami Says She Lost Money, Relationships Because of Her Ties to Diddy]]></title>
+            <link>https://www.tmz.com/2026/03/24/yung-miami-says-loyalty-to-diddy-cost-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/yung-miami-says-loyalty-to-diddy-cost-her/</guid>
+            <pubDate>Tue, 24 Mar 2026 22:31:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dakota Mortensen Frets About Hawaii Trip With Taylor in 2023 Body Cam Video]]></title>
+            <link>https://www.tmz.com/2026/03/24/dakota-mortensen-worries-about-hawaii-trip-on-police-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/dakota-mortensen-worries-about-hawaii-trip-on-police-video/</guid>
+            <pubDate>Tue, 24 Mar 2026 22:23:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/24/6aa978b5c67549149edce4babdf37d79_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/24/6aa978b5c67549149edce4babdf37d79_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/24/6aa978b5c67549149edce4babdf37d79_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Quadruple Amputee Cornhole Pro Gets Perks Behind Bars After Murder Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/24/dayton-webber-in-virginia-jail-in-maryland-murder-case/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/dayton-webber-in-virginia-jail-in-maryland-murder-case/</guid>
+            <pubDate>Tue, 24 Mar 2026 22:11:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e513b3d901d48a1803c6eca0b8a6bb6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e513b3d901d48a1803c6eca0b8a6bb6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e513b3d901d48a1803c6eca0b8a6bb6_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Phaedra Parks Has Legal Advice for Wendy Osefo Amid Alleged Fraud Mess]]></title>
             <link>https://www.tmz.com/2026/03/24/phaedra-parks-gives-wendy-osefo-advice/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/03/23/9e0b470561e84879a745833d4626c5a2_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/03/23/9e0b470561e84879a745833d4626c5a2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI Is Shutting Down Video-Creation Platform Sora]]></title>
-            <link>https://www.tmz.com/2026/03/24/openai-shuts-down-sora/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/openai-shuts-down-sora/</guid>
-            <pubDate>Tue, 24 Mar 2026 22:00:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/03/24/ac8f09719a584d50a4efc4aff7653970_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/03/24/ac8f09719a584d50a4efc4aff7653970_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/03/24/ac8f09719a584d50a4efc4aff7653970_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love Is Blind&#039;s Lauren Speed Gets $25K for Ruined Baby Shower]]></title>
-            <link>https://www.tmz.com/2026/03/24/lauren-speed-wins-baby-shower-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/lauren-speed-wins-baby-shower-lawsuit/</guid>
-            <pubDate>Tue, 24 Mar 2026 21:59:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/03/24/24719e05196a40239d7c9eb4100dfe86_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/03/24/24719e05196a40239d7c9eb4100dfe86_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/03/24/24719e05196a40239d7c9eb4100dfe86_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Menudo Member Draco Rosa&#039;s Ex-Wife Says He Owes Her More Than $200K]]></title>
-            <link>https://www.tmz.com/2026/03/24/draco-rosa-ex-angela-alvarado-claims-he-stole-money-from-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/draco-rosa-ex-angela-alvarado-claims-he-stole-money-from-her/</guid>
-            <pubDate>Tue, 24 Mar 2026 21:50:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/03/24/51bd0f31ece944fc92f50573734e029c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/03/24/51bd0f31ece944fc92f50573734e029c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/03/24/51bd0f31ece944fc92f50573734e029c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;SLOMW&#039; Jordan Ngatikaura Denied Restraining Order Against Ex Jessi Draper]]></title>
-            <link>https://www.tmz.com/2026/03/24/jordan-ngatikaura-denied-restraining-order-against-jessi-draper/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/jordan-ngatikaura-denied-restraining-order-against-jessi-draper/</guid>
-            <pubDate>Tue, 24 Mar 2026 21:36:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/03/24/215b29fd34dd4976a846612587b49534_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/03/24/215b29fd34dd4976a846612587b49534_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/03/24/215b29fd34dd4976a846612587b49534_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
