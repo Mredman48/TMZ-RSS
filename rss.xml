@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 11:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 12:33:02 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Beyoncé&#039;s Mom&#039;s Gumbo Booth Briefly Closed after Customer Vomited Blood]]></title>
+            <link>https://www.tmz.com/2026/03/24/tina-knowles-gumbo-booth-briefly-closed-customer-vomited-blood/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/tina-knowles-gumbo-booth-briefly-closed-customer-vomited-blood/</guid>
+            <pubDate>Tue, 24 Mar 2026 11:27:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/03/18/c80ad61d73444a258888631de7caa047_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/18/c80ad61d73444a258888631de7caa047_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/18/c80ad61d73444a258888631de7caa047_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jenelle Evans Allegedly Blocking Her Mom From Contacting Jace in Treatment]]></title>
             <link>https://www.tmz.com/2026/03/24/barbara-evans-says-she-is-barred-from-contacting-jace/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/03/23/cf48795714b2442ebf86e5e8f64f841e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/cf/16by9/2026/03/23/cf48795714b2442ebf86e5e8f64f841e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Cheesin&#039; Cutie Turned Into!]]></title>
-            <link>https://www.tmz.com/2026/03/24/guess-who-this-cheesin-cutie-turned-into/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/guess-who-this-cheesin-cutie-turned-into/</guid>
-            <pubDate>Tue, 24 Mar 2026 07:01:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f568686609a84d26a200ff4623707c63_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f568686609a84d26a200ff4623707c63_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/03/03/f568686609a84d26a200ff4623707c63_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
