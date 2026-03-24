@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 23:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 03:21:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul Barstool From 2023 Fight Confiscated By Cops on Video]]></title>
+            <link>https://www.tmz.com/2026/03/23/taylor-frankie-paul-bodycam-footage-cops-confiscate-barstool-fight-dakota/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/taylor-frankie-paul-bodycam-footage-cops-confiscate-barstool-fight-dakota/</guid>
+            <pubDate>Tue, 24 Mar 2026 03:00:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/03/23/fe6e34490201449d8b2f84bb9e2c4222_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/03/23/fe6e34490201449d8b2f84bb9e2c4222_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/03/23/fe6e34490201449d8b2f84bb9e2c4222_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul&#039;s Ex Dakota Tells Cops About Barstool Throwing, Urination]]></title>
+            <link>https://www.tmz.com/2026/03/23/dakota-mortensen-tells-cops-about-thrown-stools-peed-pants/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/dakota-mortensen-tells-cops-about-thrown-stools-peed-pants/</guid>
+            <pubDate>Tue, 24 Mar 2026 02:30:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/03/24/78ae3ddcb774451388a286f4f7b9d534_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/03/24/78ae3ddcb774451388a286f4f7b9d534_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/03/24/78ae3ddcb774451388a286f4f7b9d534_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul Arrest Video Shows Dakota Pleading With Cops to Take Him Instead]]></title>
+            <link>https://www.tmz.com/2026/03/23/taylor-frankie-paul-bodycam-2023-arrest-dakota/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/taylor-frankie-paul-bodycam-2023-arrest-dakota/</guid>
+            <pubDate>Tue, 24 Mar 2026 02:05:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ee/16by9/2026/03/24/eefce6af11634f1d91f3359f7a2062c8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ee/16by9/2026/03/24/eefce6af11634f1d91f3359f7a2062c8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ee/16by9/2026/03/24/eefce6af11634f1d91f3359f7a2062c8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kelly Osbourne and Sid Wilson Split Weeks Ago, Future Is Uncertain]]></title>
+            <link>https://www.tmz.com/2026/03/23/kelly-osbourne-sid-wilson-split-over-a-month-ago/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/kelly-osbourne-sid-wilson-split-over-a-month-ago/</guid>
+            <pubDate>Tue, 24 Mar 2026 00:53:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/03/23/f5f350b559f14e17ba4684293dd65d5b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/03/23/f5f350b559f14e17ba4684293dd65d5b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/03/23/f5f350b559f14e17ba4684293dd65d5b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Frankie Paul Stormed Off &#039;Bachelorette&#039; Set When Date Brought Up Arrest]]></title>
             <link>https://www.tmz.com/2026/03/23/taylor-frankie-paul-had-meltdown-on-bachelorette-over-domestic-violence-arrest/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/03/23/6efde338e1614820b54ca5b8b0442a60_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/03/23/6efde338e1614820b54ca5b8b0442a60_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Denise Richards&#039; Before-and-After Pics Are Giving Her Surgeon&#039;s Business a Lift]]></title>
-            <link>https://www.tmz.com/2026/03/23/denise-richards-plastic-surgery-brings-increased-business/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/denise-richards-plastic-surgery-brings-increased-business/</guid>
-            <pubDate>Mon, 23 Mar 2026 22:56:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/03/23/dbbf856f1ef94fa98ae199cf4a09dd6a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/03/23/dbbf856f1ef94fa98ae199cf4a09dd6a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/03/23/dbbf856f1ef94fa98ae199cf4a09dd6a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Ayesha Curry&#039;s 37th Birthday With Her Hottest Pics!]]></title>
-            <link>https://www.tmz.com/2026/03/23/ayesha-curry-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/ayesha-curry-birthday-hot-shots/</guid>
-            <pubDate>Mon, 23 Mar 2026 22:41:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/03/23/6caeb094ae134875ba8133b8ca765282_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/03/23/6caeb094ae134875ba8133b8ca765282_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/03/23/6caeb094ae134875ba8133b8ca765282_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Jokes About Fighting Elvis During Graceland Tour, on Video]]></title>
-            <link>https://www.tmz.com/2026/03/23/donald-trump-jokes-about-fighting-elvis-at-graceland-visit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/donald-trump-jokes-about-fighting-elvis-at-graceland-visit/</guid>
-            <pubDate>Mon, 23 Mar 2026 22:36:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9f/16by9/2026/03/23/9fc0bb55a66a46e7b2d9803db1dd81e0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9f/16by9/2026/03/23/9fc0bb55a66a46e7b2d9803db1dd81e0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9f/16by9/2026/03/23/9fc0bb55a66a46e7b2d9803db1dd81e0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nicki Minaj Allegedly Refusing to Pay $275K Bill for &#039;Pink Friday 2&#039; Concert Costs]]></title>
-            <link>https://www.tmz.com/2026/03/23/nicki-minaj-allegedly-refusing-to-reimburse-company-over-concerts/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/23/nicki-minaj-allegedly-refusing-to-reimburse-company-over-concerts/</guid>
-            <pubDate>Mon, 23 Mar 2026 22:30:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/03/23/5763d393d343475599d89644fcee106b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/03/23/5763d393d343475599d89644fcee106b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/03/23/5763d393d343475599d89644fcee106b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
