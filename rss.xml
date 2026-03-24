@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 19:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 20:06:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Puddle of Mudd&#039;s Wes Scantlin Avoids Jail Time in DV and Drugs Case]]></title>
+            <link>https://www.tmz.com/2026/03/24/wes-scantlin-will-not-serve-jail-time-after-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/wes-scantlin-will-not-serve-jail-time-after-arrest/</guid>
+            <pubDate>Tue, 24 Mar 2026 20:00:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4f/16by9/2026/03/24/4f924b16e4fd4a00afb67b796bff308d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/03/24/4f924b16e4fd4a00afb67b796bff308d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/03/24/4f924b16e4fd4a00afb67b796bff308d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul’s Parents Are Stunned in 2023 Police Body Cam Video]]></title>
+            <link>https://www.tmz.com/2026/03/24/taylor-frankie-paul-parents-talk-to-cops-on-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/taylor-frankie-paul-parents-talk-to-cops-on-video/</guid>
+            <pubDate>Tue, 24 Mar 2026 19:49:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/03/24/7aa223bf062c4013ba3f62753cd2daf1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/03/24/7aa223bf062c4013ba3f62753cd2daf1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/03/24/7aa223bf062c4013ba3f62753cd2daf1_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Video Shows Quadruple Amputee Murder Suspect Climbing Ladder With Rifle]]></title>
             <link>https://www.tmz.com/2026/03/24/dayton-james-webber-shown-climbing-into-tree-with-gun/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/03/24/c48e7556899c432285e4fcc6c64c7717_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2026/03/24/c48e7556899c432285e4fcc6c64c7717_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Hannah Montana&#039; Cast Then and Now ... Happy 20th Anniversary!]]></title>
-            <link>https://www.tmz.com/2026/03/24/hannah-montana-cast-then-and-now/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/hannah-montana-cast-then-and-now/</guid>
-            <pubDate>Tue, 24 Mar 2026 18:47:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/03/23/317624efb7ad4c13b7de813c779c2fa8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/03/23/317624efb7ad4c13b7de813c779c2fa8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/03/23/317624efb7ad4c13b7de813c779c2fa8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;RHOA&#039; Newbie Pinky Cole Says Her Georgia Home Was Seized by Creditor]]></title>
-            <link>https://www.tmz.com/2026/03/24/rhoa-pinky-cole-has-house-seized/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/rhoa-pinky-cole-has-house-seized/</guid>
-            <pubDate>Tue, 24 Mar 2026 18:45:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/03/24/87aecf0d047a4b3b836eda55d70610f4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/03/24/87aecf0d047a4b3b836eda55d70610f4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/03/24/87aecf0d047a4b3b836eda55d70610f4_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
