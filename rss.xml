@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 12:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 14:02:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[OnlyFans Owner Leonid Radvinsky Died Days Before Public Found Out]]></title>
+            <link>https://www.tmz.com/2026/03/24/onlyfans-owner-leonid-radvinskys-death-was-not-announced-for-days/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/onlyfans-owner-leonid-radvinskys-death-was-not-announced-for-days/</guid>
+            <pubDate>Tue, 24 Mar 2026 13:42:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/03/24/47317e77d68e416e857f4a60969b076a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/03/24/47317e77d68e416e857f4a60969b076a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/03/24/47317e77d68e416e857f4a60969b076a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul Says Daughter Has to &#039;Relive&#039; 2023 Attack After Video Release]]></title>
+            <link>https://www.tmz.com/2026/03/24/taylor-frankie-paul-says-2023-attack-video-affecting-daughter/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/taylor-frankie-paul-says-2023-attack-video-affecting-daughter/</guid>
+            <pubDate>Tue, 24 Mar 2026 13:26:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/03/24/d04ea8beeafd4eb693ab7a3ed93e43e0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/03/24/d04ea8beeafd4eb693ab7a3ed93e43e0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/03/24/d04ea8beeafd4eb693ab7a3ed93e43e0_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Beyoncé&#039;s Nephew Julez Fuels Romance Rumors With Tommie Lee]]></title>
+            <link>https://www.tmz.com/2026/03/24/beyonce-nephew-julez-tommie-lee-romance-rumors/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/beyonce-nephew-julez-tommie-lee-romance-rumors/</guid>
+            <pubDate>Tue, 24 Mar 2026 13:01:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/03/24/63d0f998cc0e4d08987b79670d8d8173_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/03/24/63d0f998cc0e4d08987b79670d8d8173_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/03/24/63d0f998cc0e4d08987b79670d8d8173_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Miley Cyrus Celebrates Premiere of &#039;Hannah Montana 20th Anniversary Special&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/24/miley-cyrus-disney-hannah-montana-20th-anniversary-special-premiere/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/miley-cyrus-disney-hannah-montana-20th-anniversary-special-premiere/</guid>
+            <pubDate>Tue, 24 Mar 2026 12:49:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/03/24/677388341071496590793cda5d7ff0a2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/03/24/677388341071496590793cda5d7ff0a2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/03/24/677388341071496590793cda5d7ff0a2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Beyoncé&#039;s Mom&#039;s Gumbo Booth Briefly Closed after Customer Vomited Blood]]></title>
             <link>https://www.tmz.com/2026/03/24/tina-knowles-gumbo-booth-briefly-closed-customer-vomited-blood/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/03/18/c80ad61d73444a258888631de7caa047_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/03/18/c80ad61d73444a258888631de7caa047_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jenelle Evans Allegedly Blocking Her Mom From Contacting Jace in Treatment]]></title>
-            <link>https://www.tmz.com/2026/03/24/barbara-evans-says-she-is-barred-from-contacting-jace/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/barbara-evans-says-she-is-barred-from-contacting-jace/</guid>
-            <pubDate>Tue, 24 Mar 2026 10:00:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/03/20/8d97701633f748a8b2576661502d726a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/03/20/8d97701633f748a8b2576661502d726a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/03/20/8d97701633f748a8b2576661502d726a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Miss J Alexander Open To Reconnecting With Tyra Banks Despite No Visits Since Stroke]]></title>
-            <link>https://www.tmz.com/2026/03/24/miss-j-alexander-open-reconcile-trya-banks-stroke/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/miss-j-alexander-open-reconcile-trya-banks-stroke/</guid>
-            <pubDate>Tue, 24 Mar 2026 10:00:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/03/23/0813b86e054144e79c33b1adb0469d29_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/03/23/0813b86e054144e79c33b1adb0469d29_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/03/23/0813b86e054144e79c33b1adb0469d29_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Francis Ngannou Praises Jake Paul’s Rise, Still Wants To Beat Him Up]]></title>
-            <link>https://www.tmz.com/2026/03/24/francis-ngannou-jake-paul-mma-fight-netflix/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/francis-ngannou-jake-paul-mma-fight-netflix/</guid>
-            <pubDate>Tue, 24 Mar 2026 07:30:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/82/16by9/2026/03/23/82b60e9837414de88e42a0792e66d00b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/82/16by9/2026/03/23/82b60e9837414de88e42a0792e66d00b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/82/16by9/2026/03/23/82b60e9837414de88e42a0792e66d00b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dua Lipa vs. Rosé Who&#039;d You Rather?! Singers In Snapbacks]]></title>
-            <link>https://www.tmz.com/2026/03/24/dua-lipa-rose-whod-you-rather/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/dua-lipa-rose-whod-you-rather/</guid>
-            <pubDate>Tue, 24 Mar 2026 07:10:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cf/16by9/2026/03/23/cf48795714b2442ebf86e5e8f64f841e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/03/23/cf48795714b2442ebf86e5e8f64f841e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cf/16by9/2026/03/23/cf48795714b2442ebf86e5e8f64f841e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
