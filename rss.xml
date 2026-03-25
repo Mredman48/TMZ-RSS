@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 15:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 17:39:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Influencers Matt and Abby Howard Expecting Baby Months After Pregnancy Loss]]></title>
-            <link>https://www.tmz.com/2026/03/25/influencers-matt-abby-howard-expecting-baby/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/influencers-matt-abby-howard-expecting-baby/</guid>
-            <pubDate>Wed, 25 Mar 2026 15:45:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/03/25/f34d40c46e6a467789c96324fad31116_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/03/25/f34d40c46e6a467789c96324fad31116_xl.jpg" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/03/25/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/watch-tmz-live-today/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:32:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e3/16by9/2026/03/25/e3d7a0b260ca4ed4a59af43190a6bf5c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/03/25/e3d7a0b260ca4ed4a59af43190a6bf5c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/03/25/f34d40c46e6a467789c96324fad31116_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/03/25/e3d7a0b260ca4ed4a59af43190a6bf5c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Anne Hathaway Demanded &#039;Devil Wears Prada 2&#039; Models Not Be &#039;Skeletal,&#039; Streep Says]]></title>
-            <link>https://www.tmz.com/2026/03/25/anne-hathaway-spoke-up-for-models-in-devil-wears-prada-sequel/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/anne-hathaway-spoke-up-for-models-in-devil-wears-prada-sequel/</guid>
-            <pubDate>Wed, 25 Mar 2026 15:36:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/03/25/cb9c893ce14c43239098a641dacd15b1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/03/25/cb9c893ce14c43239098a641dacd15b1_xl.jpg" medium="image">
+            <title><![CDATA[Puka Nacua Sued For Assault & Battery By Bite Accuser]]></title>
+            <link>https://www.tmz.com/2026/03/25/puka-nacua-sued-by-bite-accuser/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/puka-nacua-sued-by-bite-accuser/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:26:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/03/25/6393edde49cb4b5e9d5c64ecd95af05c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/03/25/6393edde49cb4b5e9d5c64ecd95af05c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/03/25/cb9c893ce14c43239098a641dacd15b1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/03/25/6393edde49cb4b5e9d5c64ecd95af05c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Hannah Montana’s Malibu Beach House Available for Rent on Airbnb]]></title>
-            <link>https://www.tmz.com/2026/03/25/hannah-montana-beach-house-for-rent-in-malibu/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/hannah-montana-beach-house-for-rent-in-malibu/</guid>
-            <pubDate>Wed, 25 Mar 2026 15:30:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/03/25/6c4d1ee9e42e4091a69be161eb669030_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/03/25/6c4d1ee9e42e4091a69be161eb669030_xl.jpg" medium="image">
+            <title><![CDATA[Robert Pattinson Sounds Off on the Team Edward vs. Team Jacob Debate]]></title>
+            <link>https://www.tmz.com/2026/03/25/robert-pattinson-speaks-about-team-edward-team-jacob/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/robert-pattinson-speaks-about-team-edward-team-jacob/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:24:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/03/25/23df1a3ab00b461a8ffbc91f832ced67_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/03/25/23df1a3ab00b461a8ffbc91f832ced67_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/03/25/6c4d1ee9e42e4091a69be161eb669030_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/03/25/23df1a3ab00b461a8ffbc91f832ced67_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rapper Desiigner Arrested for Domestic Violence in South Carolina]]></title>
-            <link>https://www.tmz.com/2026/03/25/desiigner-arrested-for-domestic-violence/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/desiigner-arrested-for-domestic-violence/</guid>
-            <pubDate>Wed, 25 Mar 2026 15:18:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/03/25/182ac03541454dfaa3d47efa5b24e8f3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/03/25/182ac03541454dfaa3d47efa5b24e8f3_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Dukes of Hazzard&#039; Star John Schneider&#039;s Ex-Wife Says He Owes Her $2.3 Million]]></title>
+            <link>https://www.tmz.com/2026/03/25/john-schneider-ex-claims-he-owes-millions-in-spousal-support/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/john-schneider-ex-claims-he-owes-millions-in-spousal-support/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:23:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/03/25/fd00682b4bc64ad1b373b2e508190fee_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/03/25/fd00682b4bc64ad1b373b2e508190fee_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/03/25/182ac03541454dfaa3d47efa5b24e8f3_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/03/25/fd00682b4bc64ad1b373b2e508190fee_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Dakota Mortensen Reports 3rd Taylor Frankie Paul DV Incident to Police]]></title>
-            <link>https://www.tmz.com/2026/03/25/dakota-mortensen-reports-another-taylor-frankie-paul-dv-incident-to-police/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/dakota-mortensen-reports-another-taylor-frankie-paul-dv-incident-to-police/</guid>
-            <pubDate>Wed, 25 Mar 2026 14:58:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/03/25/7352fe417bff4f949ee8a18a575ba29b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/03/25/7352fe417bff4f949ee8a18a575ba29b_xl.jpg" medium="image">
+            <title><![CDATA[Taylor Frankie Paul Will Get Full &#039;Bachelorette&#039; Salary Despite Series Getting Pulled]]></title>
+            <link>https://www.tmz.com/2026/03/25/taylor-frankie-paul-to-receive-full-bachelorette-pay/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/taylor-frankie-paul-to-receive-full-bachelorette-pay/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:17:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/03/25/3092f239e7b64bb0b50b188b51b02d2b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/03/25/3092f239e7b64bb0b50b188b51b02d2b_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/03/25/7352fe417bff4f949ee8a18a575ba29b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/03/25/3092f239e7b64bb0b50b188b51b02d2b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
