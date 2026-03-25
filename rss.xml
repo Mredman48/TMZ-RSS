@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 17:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 18:32:13 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Alan Ritchson&#039;s Neighbor Fight Mocked in New A.I.-Generated Movie Trailer]]></title>
+            <link>https://www.tmz.com/2026/03/25/ai-generated-movie-trailer-makes-fun-of-alan-ritchson-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/ai-generated-movie-trailer-makes-fun-of-alan-ritchson-fight/</guid>
+            <pubDate>Wed, 25 Mar 2026 18:22:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/03/25/4987728545b24c77ad778a4861e2121d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/03/25/4987728545b24c77ad778a4861e2121d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/03/25/4987728545b24c77ad778a4861e2121d_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bhad Bhabie & Sophie Rain Buy Baby Oil, Magnum Condoms Ahead of OF Collab]]></title>
+            <link>https://www.tmz.com/2026/03/25/bhad-bhabie-sophie-rain-buy-condoms-and-baby-oil/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/bhad-bhabie-sophie-rain-buy-condoms-and-baby-oil/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:42:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/03/25/9a05a0a759ee48ecb9fd7d052276be4e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/03/25/9a05a0a759ee48ecb9fd7d052276be4e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/03/25/9a05a0a759ee48ecb9fd7d052276be4e_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna House Shooting Suspect Pleads Not Guilty in Court]]></title>
+            <link>https://www.tmz.com/2026/03/25/ivanna-lisette-ortiz-pleads-not-guilty-in-rihanna-house-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/ivanna-lisette-ortiz-pleads-not-guilty-in-rihanna-house-shooting/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:38:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/03/25/6248f0dc41bc4a67b3723e98775a7bd3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/03/25/6248f0dc41bc4a67b3723e98775a7bd3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/03/25/6248f0dc41bc4a67b3723e98775a7bd3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Melania Trump Escorted by A.I.-Powered Robot Into White House Tech Summit, on Video]]></title>
+            <link>https://www.tmz.com/2026/03/25/melania-trump-walks-into-white-house-tech-summit-with-ai-robot/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/melania-trump-walks-into-white-house-tech-summit-with-ai-robot/</guid>
+            <pubDate>Wed, 25 Mar 2026 17:35:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a7/16by9/2026/03/25/a7cbb4cf8aa14edf9cef5b1db71b4293_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a7/16by9/2026/03/25/a7cbb4cf8aa14edf9cef5b1db71b4293_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a7/16by9/2026/03/25/a7cbb4cf8aa14edf9cef5b1db71b4293_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
             <link>https://www.tmz.com/2026/03/25/watch-tmz-live-today/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/03/25/e3d7a0b260ca4ed4a59af43190a6bf5c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/03/25/e3d7a0b260ca4ed4a59af43190a6bf5c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Puka Nacua Sued For Assault & Battery By Bite Accuser]]></title>
-            <link>https://www.tmz.com/2026/03/25/puka-nacua-sued-by-bite-accuser/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/puka-nacua-sued-by-bite-accuser/</guid>
-            <pubDate>Wed, 25 Mar 2026 17:26:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/03/25/6393edde49cb4b5e9d5c64ecd95af05c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/03/25/6393edde49cb4b5e9d5c64ecd95af05c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/03/25/6393edde49cb4b5e9d5c64ecd95af05c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Robert Pattinson Sounds Off on the Team Edward vs. Team Jacob Debate]]></title>
-            <link>https://www.tmz.com/2026/03/25/robert-pattinson-speaks-about-team-edward-team-jacob/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/robert-pattinson-speaks-about-team-edward-team-jacob/</guid>
-            <pubDate>Wed, 25 Mar 2026 17:24:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/03/25/23df1a3ab00b461a8ffbc91f832ced67_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/03/25/23df1a3ab00b461a8ffbc91f832ced67_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/03/25/23df1a3ab00b461a8ffbc91f832ced67_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Dukes of Hazzard&#039; Star John Schneider&#039;s Ex-Wife Says He Owes Her $2.3 Million]]></title>
-            <link>https://www.tmz.com/2026/03/25/john-schneider-ex-claims-he-owes-millions-in-spousal-support/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/john-schneider-ex-claims-he-owes-millions-in-spousal-support/</guid>
-            <pubDate>Wed, 25 Mar 2026 17:23:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/03/25/fd00682b4bc64ad1b373b2e508190fee_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/03/25/fd00682b4bc64ad1b373b2e508190fee_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/03/25/fd00682b4bc64ad1b373b2e508190fee_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul Will Get Full &#039;Bachelorette&#039; Salary Despite Series Getting Pulled]]></title>
-            <link>https://www.tmz.com/2026/03/25/taylor-frankie-paul-to-receive-full-bachelorette-pay/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/taylor-frankie-paul-to-receive-full-bachelorette-pay/</guid>
-            <pubDate>Wed, 25 Mar 2026 17:17:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/03/25/3092f239e7b64bb0b50b188b51b02d2b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/03/25/3092f239e7b64bb0b50b188b51b02d2b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/03/25/3092f239e7b64bb0b50b188b51b02d2b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
