@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 11:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 12:06:57 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Savannah Guthrie Talks Nancy Guthrie Kidnapping in First Interview Since Disappearance]]></title>
+            <link>https://www.tmz.com/2026/03/25/savannah-guthrie-talks-nancy-guthrie-kidnapping-first-interview-since-disappearance-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/savannah-guthrie-talks-nancy-guthrie-kidnapping-first-interview-since-disappearance-today/</guid>
+            <pubDate>Wed, 25 Mar 2026 11:46:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/02/24/ff4600637b8947bdbf0b4139950b045c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/02/24/ff4600637b8947bdbf0b4139950b045c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/02/24/ff4600637b8947bdbf0b4139950b045c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Beyoncé&#039;s Nephew Julez Straddled by &#039;Love & Hip Hop&#039; Star in New Video]]></title>
             <link>https://www.tmz.com/2026/03/25/beyonce-nephew-julez-straddled-by-tommie-lee/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/03/24/f343425697954821b34216d46e22ee74_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/03/24/f343425697954821b34216d46e22ee74_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chix On Netflix --Guess Who&#039;s Selling This Sexy Snap!]]></title>
-            <link>https://www.tmz.com/2026/03/25/chix-on-netflix-guess-who-selling-sunset/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/chix-on-netflix-guess-who-selling-sunset/</guid>
-            <pubDate>Wed, 25 Mar 2026 07:10:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/03/24/64bd62ce5d414bf893ddab1b6b304470_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/03/24/64bd62ce5d414bf893ddab1b6b304470_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/03/24/64bd62ce5d414bf893ddab1b6b304470_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
