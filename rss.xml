@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 07:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 08:27:57 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul 2023 Arrest, Watch the 1-Hour Body Cam Footage]]></title>
+            <link>https://www.tmz.com/2026/03/25/taylor-frankie-paul-body-cam-arrest-full-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/taylor-frankie-paul-body-cam-arrest-full-video/</guid>
+            <pubDate>Wed, 25 Mar 2026 08:00:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/03/24/5a15196867524e66859ffcb81bc8b716_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/03/24/5a15196867524e66859ffcb81bc8b716_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/03/24/5a15196867524e66859ffcb81bc8b716_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Islam Makhachev Wasn&#039;t Close To Fighting Ilia Topuria At White House, Manager Says]]></title>
             <link>https://www.tmz.com/2026/03/25/islam-makhachev-ilia-topuria-white-house-fight-was-never-happening/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/31/16by9/2026/03/16/310a05c4074943d984c7b616e2860627_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/03/16/310a05c4074943d984c7b616e2860627_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul’s Mom Sends Daughter Positive Vibes Amid Abuse Controversy]]></title>
-            <link>https://www.tmz.com/2026/03/24/taylor-frankie-paul-mom-posts-thoughtful-message-amid-abuse-controversy/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/taylor-frankie-paul-mom-posts-thoughtful-message-amid-abuse-controversy/</guid>
-            <pubDate>Wed, 25 Mar 2026 01:01:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/25/559ce6b32466447f84dcf528d5ea2a51_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/25/559ce6b32466447f84dcf528d5ea2a51_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/25/559ce6b32466447f84dcf528d5ea2a51_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
