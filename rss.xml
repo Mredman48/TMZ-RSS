@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 09:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 10:30:33 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Beyoncé&#039;s Nephew Julez Straddled by &#039;Love & Hip Hop&#039; Star in New Video]]></title>
+            <link>https://www.tmz.com/2026/03/25/beyonce-nephew-julez-straddled-by-tommie-lee/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/beyonce-nephew-julez-straddled-by-tommie-lee/</guid>
+            <pubDate>Wed, 25 Mar 2026 10:00:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/03/24/4a5b1fb8039e42d29be51a574af969f2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/03/24/4a5b1fb8039e42d29be51a574af969f2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/03/24/4a5b1fb8039e42d29be51a574af969f2_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chrisean Rock Has Bench Warrant Issued For Arrest After Allegedly Blowing Off Court]]></title>
             <link>https://www.tmz.com/2026/03/25/chrisean-rock-has-a-warrant-after-missing-court/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/64/16by9/2026/03/24/64bd62ce5d414bf893ddab1b6b304470_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/03/24/64bd62ce5d414bf893ddab1b6b304470_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Amazon Big Spring Sale: Best Deals]]></title>
-            <link>https://www.tmz.com/2026/03/25/big-spring-sale-roundup/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/big-spring-sale-roundup/</guid>
-            <pubDate>Wed, 25 Mar 2026 07:05:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/03/23/bc72fd6694ff42ce87e7c636b575e61b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/03/23/bc72fd6694ff42ce87e7c636b575e61b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/03/23/bc72fd6694ff42ce87e7c636b575e61b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
