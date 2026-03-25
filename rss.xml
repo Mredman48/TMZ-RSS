@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 19:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 20:06:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Bad Boys&#039; Star Theresa Randle Arrested for Domestic Violence]]></title>
+            <link>https://www.tmz.com/2026/03/25/theresa-randle-arrested-for-domestic-violence/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/theresa-randle-arrested-for-domestic-violence/</guid>
+            <pubDate>Wed, 25 Mar 2026 19:36:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/03/24/15230333b8aa42dfa8c365061623ed5d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/03/24/15230333b8aa42dfa8c365061623ed5d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/03/24/15230333b8aa42dfa8c365061623ed5d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Did the &#039;TMZ After Dark&#039; Bus Just Turn Into &#039;Survivor&#039;?]]></title>
+            <link>https://www.tmz.com/2026/03/25/after-dark-bus-tour-with-romeo-escobar/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/after-dark-bus-tour-with-romeo-escobar/</guid>
+            <pubDate>Wed, 25 Mar 2026 19:35:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/03/24/b6a4d4cc223a47419a6041f3a27e7a52_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/03/24/b6a4d4cc223a47419a6041f3a27e7a52_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/03/24/b6a4d4cc223a47419a6041f3a27e7a52_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[FKA Twigs Suing Shia LaBeouf Over Sexual Battery Settlement]]></title>
             <link>https://www.tmz.com/2026/03/25/fka-twigs-suing-shia-labeouf-sexual-battery-settlement/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/25/483f1eb1400a4a9e97fa38426cb3d63a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/25/483f1eb1400a4a9e97fa38426cb3d63a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shannen Doherty’s Estate Reaches Deal With Her Ex Over $1 Million Mansion]]></title>
-            <link>https://www.tmz.com/2026/03/25/shannen-doherty-estate-makes-deal-with-ex-over-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/shannen-doherty-estate-makes-deal-with-ex-over-house/</guid>
-            <pubDate>Wed, 25 Mar 2026 18:49:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/03/25/1cecb30d163047689e3b5eebd81b191b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/03/25/1cecb30d163047689e3b5eebd81b191b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/03/25/1cecb30d163047689e3b5eebd81b191b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shaquille O&#039;Neal Denies Sending Sabrina Carpenter &#039;Horny&#039; DMs, I Got Way More Game!]]></title>
-            <link>https://www.tmz.com/2026/03/25/shaquille-oneal-sabrina-carpenter-horny-dms-reacts/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/shaquille-oneal-sabrina-carpenter-horny-dms-reacts/</guid>
-            <pubDate>Wed, 25 Mar 2026 18:36:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/03/25/0d84f5094a1e4c44aa87bd62707cc994_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/03/25/0d84f5094a1e4c44aa87bd62707cc994_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/03/25/0d84f5094a1e4c44aa87bd62707cc994_xl.png">
             </media:thumbnail>
         </item>
     </channel>
