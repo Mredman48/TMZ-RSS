@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 23:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 03:29:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul’s Mom Sends Daughter Positive Vibes Amid Abuse Controversy]]></title>
+            <link>https://www.tmz.com/2026/03/24/taylor-frankie-paul-mom-posts-thoughtful-message-amid-abuse-controversy/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/taylor-frankie-paul-mom-posts-thoughtful-message-amid-abuse-controversy/</guid>
+            <pubDate>Wed, 25 Mar 2026 01:01:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/03/25/559ce6b32466447f84dcf528d5ea2a51_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/03/25/559ce6b32466447f84dcf528d5ea2a51_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/03/25/559ce6b32466447f84dcf528d5ea2a51_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna&#039;s Alleged House Shooter Could Lose Ability to Practice Speech-Language Pathology]]></title>
+            <link>https://www.tmz.com/2026/03/24/rihanna-home-shooter-could-lose-professional-license/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/rihanna-home-shooter-could-lose-professional-license/</guid>
+            <pubDate>Wed, 25 Mar 2026 00:03:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/03/24/8d87575192e04364a1361c0be530fc74_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/03/24/8d87575192e04364a1361c0be530fc74_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/03/24/8d87575192e04364a1361c0be530fc74_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Cyndi Lauper&#039;s Son Declyn Allegedly Sexually Assaulted Woman, New Lawsuit Claims]]></title>
             <link>https://www.tmz.com/2026/03/24/cyndi-lauper-son-allegedly-sexually-assaulted-woman/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e931486bcde4036ac0c79f3498aa8e2_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/03/24/8e931486bcde4036ac0c79f3498aa8e2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Puka Nacua Accused Of Biting Woman, Saying &#039;F*** The Jews&#039;, Rams WR Adamantly Denies]]></title>
-            <link>https://www.tmz.com/2026/03/24/puka-nacua-restraining-order-allegedy-biting-woman-made-antisemetic-remarks/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/puka-nacua-restraining-order-allegedy-biting-woman-made-antisemetic-remarks/</guid>
-            <pubDate>Tue, 24 Mar 2026 22:51:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/03/24/0ec77079f133463f9d62556dc876f300_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/03/24/0ec77079f133463f9d62556dc876f300_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/03/24/0ec77079f133463f9d62556dc876f300_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Yung Miami Says She Lost Money, Relationships Because of Her Ties to Diddy]]></title>
-            <link>https://www.tmz.com/2026/03/24/yung-miami-says-loyalty-to-diddy-cost-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/24/yung-miami-says-loyalty-to-diddy-cost-her/</guid>
-            <pubDate>Tue, 24 Mar 2026 22:31:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/03/24/7e427d2eb5094a18a2b8f081242a30fe_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
