@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 00:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 03:39:04 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[New Video Shows Bryan Kohberger at DMV Days After Idaho Murders]]></title>
+            <link>https://www.tmz.com/2026/03/25/video-of-bryan-kohberger-at-dmv-after-killing-idaho-4/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/video-of-bryan-kohberger-at-dmv-after-killing-idaho-4/</guid>
+            <pubDate>Thu, 26 Mar 2026 01:18:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/03/26/3da1660ea4794ac6bc523df880d364ab_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/03/26/3da1660ea4794ac6bc523df880d364ab_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/03/26/3da1660ea4794ac6bc523df880d364ab_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bodyguard At Center of Chappell Roan Controversy Breaks Silence]]></title>
+            <link>https://www.tmz.com/2026/03/25/chappell-roan-bodyguard-breaks-silence-amid-controversy/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/chappell-roan-bodyguard-breaks-silence-amid-controversy/</guid>
+            <pubDate>Thu, 26 Mar 2026 00:23:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/03/25/58a14181edd742f7baa31d6adf2bb504_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/03/25/58a14181edd742f7baa31d6adf2bb504_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/03/25/58a14181edd742f7baa31d6adf2bb504_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Shia LaBeouf Seen Shirtless in New Orleans Bar After Alleged Fight]]></title>
             <link>https://www.tmz.com/2026/03/25/shia-labeouf-shirtless-bar-fight-new-orleans/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5a/16by9/2019/06/03/5a8c00db16a75149bf143ea1b3f27bfd_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2019/06/03/5a8c00db16a75149bf143ea1b3f27bfd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Toddy Smith vs. Jeff Wittek Who&#039;d You Rather?! YouTubers In Athletic Shorts]]></title>
-            <link>https://www.tmz.com/2026/03/25/toddy-smith-jeff-wittek-whod-you-rather/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/toddy-smith-jeff-wittek-whod-you-rather/</guid>
-            <pubDate>Wed, 25 Mar 2026 23:00:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/50/16by9/2026/03/25/503ddb8e1c604ad88850a87fc0b6e3db_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/50/16by9/2026/03/25/503ddb8e1c604ad88850a87fc0b6e3db_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/03/25/503ddb8e1c604ad88850a87fc0b6e3db_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[H.E.R. Stars in First Trailer for DreamWorks&#039; &#039;Forgotten Island&#039;, Watch]]></title>
-            <link>https://www.tmz.com/2026/03/25/her-in-forgotten-island-trailer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/her-in-forgotten-island-trailer/</guid>
-            <pubDate>Wed, 25 Mar 2026 22:43:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/01/16by9/2026/03/25/017e96d58ee84346930c91e9e4d99e67_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/01/16by9/2026/03/25/017e96d58ee84346930c91e9e4d99e67_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/03/25/017e96d58ee84346930c91e9e4d99e67_xl.png">
             </media:thumbnail>
         </item>
     </channel>
