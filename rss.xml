@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 23:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 00:03:02 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Shia LaBeouf Seen Shirtless in New Orleans Bar After Alleged Fight]]></title>
+            <link>https://www.tmz.com/2026/03/25/shia-labeouf-shirtless-bar-fight-new-orleans/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/shia-labeouf-shirtless-bar-fight-new-orleans/</guid>
+            <pubDate>Wed, 25 Mar 2026 23:48:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/03/25/73f1f25e44a84370a9d78059e414496e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/03/25/73f1f25e44a84370a9d78059e414496e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/03/25/73f1f25e44a84370a9d78059e414496e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Puka Nacua Accuser Dances Near Passed-Out NFL Star Night of Biting Incident]]></title>
+            <link>https://www.tmz.com/2026/03/25/puka-nacua-accuser-video-night-of-biting-incident/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/puka-nacua-accuser-video-night-of-biting-incident/</guid>
+            <pubDate>Wed, 25 Mar 2026 23:29:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/03/25/3718c235e1924a90a6fe5fa4671ad6b3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/03/25/3718c235e1924a90a6fe5fa4671ad6b3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/03/25/3718c235e1924a90a6fe5fa4671ad6b3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jenelle Evans Spotted Dining With Ex David Eason and Kids in Vegas]]></title>
+            <link>https://www.tmz.com/2026/03/25/jenelle-evans-seen-with-ex-david-eason-and-kids/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/jenelle-evans-seen-with-ex-david-eason-and-kids/</guid>
+            <pubDate>Wed, 25 Mar 2026 23:17:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2019/06/03/5a8c00db16a75149bf143ea1b3f27bfd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2019/06/03/5a8c00db16a75149bf143ea1b3f27bfd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2019/06/03/5a8c00db16a75149bf143ea1b3f27bfd_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Toddy Smith vs. Jeff Wittek Who&#039;d You Rather?! YouTubers In Athletic Shorts]]></title>
             <link>https://www.tmz.com/2026/03/25/toddy-smith-jeff-wittek-whod-you-rather/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/01/16by9/2026/03/25/017e96d58ee84346930c91e9e4d99e67_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/03/25/017e96d58ee84346930c91e9e4d99e67_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Spanish Woman Opts to End Her Life by Euthanasia at 25 Years Old]]></title>
-            <link>https://www.tmz.com/2026/03/25/25-year-old-woman-chooses-euthanasia/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/25-year-old-woman-chooses-euthanasia/</guid>
-            <pubDate>Wed, 25 Mar 2026 22:41:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul&#039;s Ex Dakota&#039;s New DV Allegations Catch D.A.&#039;s Eye]]></title>
-            <link>https://www.tmz.com/2026/03/25/salt-lake-district-attorney-looking-into-new-taylor-frankie-paul-dv-allegation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/salt-lake-district-attorney-looking-into-new-taylor-frankie-paul-dv-allegation/</guid>
-            <pubDate>Wed, 25 Mar 2026 22:35:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/03/25/5cdfaddd876f4d0bb6f8a1117f7867f0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/03/25/5cdfaddd876f4d0bb6f8a1117f7867f0_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/03/25/5cdfaddd876f4d0bb6f8a1117f7867f0_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Buffy&#039;s Nicholas Brendon&#039;s Friend Found Him Dead, &#039;Positioned As If Asleep&#039;]]></title>
-            <link>https://www.tmz.com/2026/03/25/nicholas-brendon-friend-found-him-deceased/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/25/nicholas-brendon-friend-found-him-deceased/</guid>
-            <pubDate>Wed, 25 Mar 2026 22:14:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/03/25/433c0573c06a4eeab043cb2dd4b45ae7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/03/25/433c0573c06a4eeab043cb2dd4b45ae7_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/03/25/433c0573c06a4eeab043cb2dd4b45ae7_xl.png">
             </media:thumbnail>
         </item>
     </channel>
