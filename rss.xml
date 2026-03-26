@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 09:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 10:34:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Crazy Town Seth Binzer&#039;s Family Battles Over Rock Star’s Estate Years After Death]]></title>
+            <link>https://www.tmz.com/2026/03/26/seth-binzer-family-fight-over-his-estate/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/seth-binzer-family-fight-over-his-estate/</guid>
+            <pubDate>Thu, 26 Mar 2026 10:00:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/03/24/1b73bebd8d004f0e868ad2a488b0650f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/03/24/1b73bebd8d004f0e868ad2a488b0650f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/03/24/1b73bebd8d004f0e868ad2a488b0650f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tiny Harris Says She&#039;d Object to Her Sons Dating Much Older Women]]></title>
             <link>https://www.tmz.com/2026/03/26/tiny-harris-wants-sons-to-date-age-appropriate/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/50/16by9/2026/03/25/50c6154ccc244e70bf46d9d13c7c62f8_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/03/25/50c6154ccc244e70bf46d9d13c7c62f8_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cheek of the Week -- Sommer Ray Is Back For A Booty Slay!]]></title>
-            <link>https://www.tmz.com/2026/03/26/cheek-of-the-week-sommer-ray/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/cheek-of-the-week-sommer-ray/</guid>
-            <pubDate>Thu, 26 Mar 2026 07:10:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/03/24/26ec7eab36db4f2598c09c07db58d9fe_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/03/24/26ec7eab36db4f2598c09c07db58d9fe_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/03/24/26ec7eab36db4f2598c09c07db58d9fe_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
