@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 21:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 22:59:57 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Woman Asks Paul Pierce For Hefty Monthly Child Support Amid Paternity Lawsuit]]></title>
+            <link>https://www.tmz.com/2026/03/26/paul-pierce-paternity-lawsuit-child-support-princess-santiago/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/paul-pierce-paternity-lawsuit-child-support-princess-santiago/</guid>
+            <pubDate>Thu, 26 Mar 2026 22:53:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/03/26/93e5aa502e8c49b497813e9e35e1ab46_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/03/26/93e5aa502e8c49b497813e9e35e1ab46_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/03/26/93e5aa502e8c49b497813e9e35e1ab46_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Justin Baldoni&#039;s Defamation Battle Alive, Judge Sides with His Production Co.]]></title>
+            <link>https://www.tmz.com/2026/03/26/justin-baldoni-defamation-battle-moving-forward/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/justin-baldoni-defamation-battle-moving-forward/</guid>
+            <pubDate>Thu, 26 Mar 2026 22:49:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/03/26/bcad7306021c4851bb549bd136edc54e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/03/26/bcad7306021c4851bb549bd136edc54e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/03/26/bcad7306021c4851bb549bd136edc54e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Roman Reigns Vows To Crush CM Punk At WrestleMania, But Can&#039;t Let Emotions Take Over]]></title>
+            <link>https://www.tmz.com/2026/03/26/roman-reigns-talks-wrestlemania-cm-punk-matchup/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/roman-reigns-talks-wrestlemania-cm-punk-matchup/</guid>
+            <pubDate>Thu, 26 Mar 2026 22:24:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/03/26/d15669d53ef44ebe8a60bcb654ec7950_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/03/26/d15669d53ef44ebe8a60bcb654ec7950_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/03/26/d15669d53ef44ebe8a60bcb654ec7950_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul&#039;s Ex Told Cops Her Mom &#039;Coached&#039; Young Daughter After DV Incident]]></title>
+            <link>https://www.tmz.com/2026/03/26/tate-paul-claims-taylors-mom-coached-daughter-after-dv-incident/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/tate-paul-claims-taylors-mom-coached-daughter-after-dv-incident/</guid>
+            <pubDate>Thu, 26 Mar 2026 22:12:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/03/26/d1cadcc877a9475cb9c204a71c28d397_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/03/26/d1cadcc877a9475cb9c204a71c28d397_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/03/26/d1cadcc877a9475cb9c204a71c28d397_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Lautner & Wife Taylor Lautner Are Expecting Their First Child]]></title>
             <link>https://www.tmz.com/2026/03/26/taylor-tay-lautner-are-expecting-their-first-child/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/03/26/b1564bd604d74e2b83aa325ef7cd863d_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/03/26/b1564bd604d74e2b83aa325ef7cd863d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk, Kevin Sorbo Slam Spain for Young Woman&#039;s Voluntary Euthanasia]]></title>
-            <link>https://www.tmz.com/2026/03/26/kevin-sorbo-elon-musk-weigh-in-on-noelia-castillo-assisted-suicide/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/kevin-sorbo-elon-musk-weigh-in-on-noelia-castillo-assisted-suicide/</guid>
-            <pubDate>Thu, 26 Mar 2026 21:35:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fc/16by9/2026/03/26/fca872d6d10a4db3bb32079a5edbea60_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/03/26/fca872d6d10a4db3bb32079a5edbea60_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/03/26/fca872d6d10a4db3bb32079a5edbea60_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Porn Star Seth Peterson’s Family Seeks Answers About His Sudden Death]]></title>
-            <link>https://www.tmz.com/2026/03/26/seth-peterson-family-wants-answers-about-his-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/seth-peterson-family-wants-answers-about-his-death/</guid>
-            <pubDate>Thu, 26 Mar 2026 21:15:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/99/16by9/2026/03/25/990e757d2b0f4b439f2cd44f08fff00e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/99/16by9/2026/03/25/990e757d2b0f4b439f2cd44f08fff00e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/03/25/990e757d2b0f4b439f2cd44f08fff00e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bill Cosby Was Just &#039;Having a Good Time&#039; Giving Quaaludes to Women, Former Manager Says]]></title>
-            <link>https://www.tmz.com/2026/03/26/andrew-wyatt-comments-on-bill-cosby-quaalude-allegations/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/andrew-wyatt-comments-on-bill-cosby-quaalude-allegations/</guid>
-            <pubDate>Thu, 26 Mar 2026 20:18:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/03/26/dc6a0627093d4ec19b5c72d00b562ef2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/03/26/dc6a0627093d4ec19b5c72d00b562ef2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/03/26/dc6a0627093d4ec19b5c72d00b562ef2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Noelia Castillo Ramos Dies by Voluntary Euthanasia Procedure]]></title>
-            <link>https://www.tmz.com/2026/03/26/noelia-castillo-ramos-dead-by-euthanasia/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/noelia-castillo-ramos-dead-by-euthanasia/</guid>
-            <pubDate>Thu, 26 Mar 2026 19:44:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
