@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 19:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 20:03:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Noelia Castillo Ramos Dies by Voluntary Euthanasia Procedure]]></title>
+            <link>https://www.tmz.com/2026/03/26/noelia-castillo-ramos-dead-by-euthanasia/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/noelia-castillo-ramos-dead-by-euthanasia/</guid>
+            <pubDate>Thu, 26 Mar 2026 19:44:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/03/25/a818f04f9bf44219ad0e923f65364064_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Hero Nurse Who Survived LaGuardia Plane Crash Details Collision, Aftermath]]></title>
             <link>https://www.tmz.com/2026/03/26/laguardia-plane-crash-survivor-rebecca-liquori-details-crash/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ad/16by9/2026/03/26/ad258fdc2bdd43498bfcd026c1d1c7f3_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ad/16by9/2026/03/26/ad258fdc2bdd43498bfcd026c1d1c7f3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[TMZ on the Hunt for Photos of Politicians on Vacay During Shutdown]]></title>
-            <link>https://www.tmz.com/2026/03/26/send-photos-of-politicians-on-vacation-during-shutdown/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/26/send-photos-of-politicians-on-vacation-during-shutdown/</guid>
-            <pubDate>Thu, 26 Mar 2026 19:07:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/03/26/1a67fd767cd249abb5e2f6a760aa335c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/03/26/1a67fd767cd249abb5e2f6a760aa335c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/03/26/1a67fd767cd249abb5e2f6a760aa335c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
