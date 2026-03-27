@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 16:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 17:32:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Joy-Anna Duggar Disturbed After Brother Joseph&#039;s Child Abuse Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/27/joy-anna-duggar-posts-about-brother-josephs-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/joy-anna-duggar-posts-about-brother-josephs-arrest/</guid>
+            <pubDate>Fri, 27 Mar 2026 17:30:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/03/27/1d1a724a3c7148a3b8ae4e773630133a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/03/27/1d1a724a3c7148a3b8ae4e773630133a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/03/27/1d1a724a3c7148a3b8ae4e773630133a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kristin Cavallari & Lauren Conrad Discuss Feud at &#039;Laguna Beach&#039; Reunion Event]]></title>
+            <link>https://www.tmz.com/2026/03/27/kristin-cavallari-lauren-conrad-talk-squashing-feud-at-laguna-beach-reunion/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/kristin-cavallari-lauren-conrad-talk-squashing-feud-at-laguna-beach-reunion/</guid>
+            <pubDate>Fri, 27 Mar 2026 17:05:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4d/16by9/2026/03/27/4dddf7a3c7c848168e8bd49565e04863_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4d/16by9/2026/03/27/4dddf7a3c7c848168e8bd49565e04863_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4d/16by9/2026/03/27/4dddf7a3c7c848168e8bd49565e04863_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sherrone Moore Body Cam Shows Ex-Michigan Coach Crying During Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/27/sherrone-moore-bodycam-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/sherrone-moore-bodycam-arrest/</guid>
+            <pubDate>Fri, 27 Mar 2026 16:33:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/03/27/6ab1e7af2d694917beff0567c28030c3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/03/27/6ab1e7af2d694917beff0567c28030c3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/03/27/6ab1e7af2d694917beff0567c28030c3_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Donald Trump Spills About JFK Jr., Carolyn Bessette Fights at Mar-a-Lago]]></title>
             <link>https://www.tmz.com/2026/03/27/donald-trump-remembers-jfk-jr-carolyn-bessette-fighting-kissing/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/03/27/1fc8f15cf2c14148adde18895efbc55a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/03/27/1fc8f15cf2c14148adde18895efbc55a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Looksmaxxing&#039; Streamer Clavicular Under Investigation for Gator Shooting]]></title>
-            <link>https://www.tmz.com/2026/03/27/florida-investigating-clavicular-alligator-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/florida-investigating-clavicular-alligator-shooting/</guid>
-            <pubDate>Fri, 27 Mar 2026 16:01:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/03/27/c01219a5ac0740e2b3375fb72b03ed7c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/03/27/c01219a5ac0740e2b3375fb72b03ed7c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/03/27/c01219a5ac0740e2b3375fb72b03ed7c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jordan Admits NASCAR Lawsuit Was Personal While 23XI Dominates Track]]></title>
-            <link>https://www.tmz.com/2026/03/27/michael-jordan-nascar-lawsuit-interview/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/michael-jordan-nascar-lawsuit-interview/</guid>
-            <pubDate>Fri, 27 Mar 2026 15:43:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/79/16by9/2026/03/27/79986369e5cc43c7b9832d052b690d7d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/79/16by9/2026/03/27/79986369e5cc43c7b9832d052b690d7d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/03/27/79986369e5cc43c7b9832d052b690d7d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jill Biden&#039;s Secret Service Agent Shoots Himself in Leg at Philly Airport]]></title>
-            <link>https://www.tmz.com/2026/03/27/jill-biden-secret-service-shoots-himself-in-the-leg/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/jill-biden-secret-service-shoots-himself-in-the-leg/</guid>
-            <pubDate>Fri, 27 Mar 2026 15:39:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/03/27/95c4a883f288498881d6a2ea60b0d493_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/03/27/95c4a883f288498881d6a2ea60b0d493_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/03/27/95c4a883f288498881d6a2ea60b0d493_xl.png">
             </media:thumbnail>
         </item>
     </channel>
