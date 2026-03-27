@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 12:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 13:55:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Swift Shouts Out Fiancé Travis Kelce in iHeartRadio Music Awards Speech]]></title>
+            <link>https://www.tmz.com/2026/03/27/taylor-swift-travis-kelce-acceptance-speech-iheartradio-awards/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/taylor-swift-travis-kelce-acceptance-speech-iheartradio-awards/</guid>
+            <pubDate>Fri, 27 Mar 2026 13:51:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/03/27/cc4f11f3f43a476eaf3e49c3fe9cdc9b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/03/27/cc4f11f3f43a476eaf3e49c3fe9cdc9b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/03/27/cc4f11f3f43a476eaf3e49c3fe9cdc9b_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Man Arrested After Brutal Dog Assault Caught on Camera in Connecticut]]></title>
+            <link>https://www.tmz.com/2026/03/27/connecticut-dog-abuse-suspect-turns-himself-in/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/connecticut-dog-abuse-suspect-turns-himself-in/</guid>
+            <pubDate>Fri, 27 Mar 2026 13:38:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/03/27/2dc41b96d57f4966ad6acdf876352689_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/03/27/2dc41b96d57f4966ad6acdf876352689_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/03/27/2dc41b96d57f4966ad6acdf876352689_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Looksmaxxing&#039; Streamer Clavicular Arrested for Battery in Florida]]></title>
+            <link>https://www.tmz.com/2026/03/27/clavicular-arrested-in-florida/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/clavicular-arrested-in-florida/</guid>
+            <pubDate>Fri, 27 Mar 2026 13:23:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/03/27/dd59331068864e42a21e0980e1b2d6ac_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/03/27/dd59331068864e42a21e0980e1b2d6ac_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/03/27/dd59331068864e42a21e0980e1b2d6ac_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Reacher&#039; Star Alan Ritchson&#039;s Neighbor Received Over 100 Threats After Fight]]></title>
+            <link>https://www.tmz.com/2026/03/27/alan-ritchson-neighbor-getting-death-threats/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/alan-ritchson-neighbor-getting-death-threats/</guid>
+            <pubDate>Fri, 27 Mar 2026 12:18:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/03/27/91e2a5ffa53c4ce9a022488dd2a22111_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/03/27/91e2a5ffa53c4ce9a022488dd2a22111_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/03/27/91e2a5ffa53c4ce9a022488dd2a22111_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Savannah Guthrie Set to Rejoin ‘Today’ Show, Return Date Revealed]]></title>
             <link>https://www.tmz.com/2026/03/27/savannah-guthrie-rejoining-today-show-return-date-revealed/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/27/savannah-guthrie-rejoining-today-show-return-date-revealed/</guid>
             <pubDate>Fri, 27 Mar 2026 11:53:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/02/27/c5b2f5c960334a3cbf34820712748ef3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/02/27/c5b2f5c960334a3cbf34820712748ef3_xl.png" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/03/27/46113719d3824c73afd1ca6b688d0456_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/03/27/46113719d3824c73afd1ca6b688d0456_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/02/27/c5b2f5c960334a3cbf34820712748ef3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kim Kardashian & Ray J: Read The Secret $6 Million Sex Tape Settlement]]></title>
-            <link>https://www.tmz.com/2026/03/27/kim-kardashian-ray-j-sex-tape-settlement/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/kim-kardashian-ray-j-sex-tape-settlement/</guid>
-            <pubDate>Fri, 27 Mar 2026 10:00:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/03/25/9427a4ab53654bf7923f1f35bc77ebf1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/03/25/9427a4ab53654bf7923f1f35bc77ebf1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/03/25/9427a4ab53654bf7923f1f35bc77ebf1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cody Linley Is Down for a Jake Ryan &#039;Hannah Montana&#039; Spinoff]]></title>
-            <link>https://www.tmz.com/2026/03/27/cody-linley-wants-a-hannah-montana-spinoff/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/cody-linley-wants-a-hannah-montana-spinoff/</guid>
-            <pubDate>Fri, 27 Mar 2026 09:00:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/03/26/7f9ce65a09914affa42e6e6cc47c0673_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/03/26/7f9ce65a09914affa42e6e6cc47c0673_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/03/26/7f9ce65a09914affa42e6e6cc47c0673_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul&#039;s Mom Told Cops No Injuries on Granddaughter the Night of 2023 Incident]]></title>
-            <link>https://www.tmz.com/2026/03/27/taylor-frankie-pauls-mom-told-police-daughter-was-not-injured/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/taylor-frankie-pauls-mom-told-police-daughter-was-not-injured/</guid>
-            <pubDate>Fri, 27 Mar 2026 08:00:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/03/26/9a1d89baa2554ebbac3b6dc40c0ae71b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/03/26/9a1d89baa2554ebbac3b6dc40c0ae71b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/03/26/9a1d89baa2554ebbac3b6dc40c0ae71b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Billy Blanks, Tae Bo Creator Mourns Chuck Norris’, I Wanted to Be Like Him!]]></title>
-            <link>https://www.tmz.com/2026/03/27/billy-blanks-chuck-norris-mourns-death-acting-tae-bo/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/billy-blanks-chuck-norris-mourns-death-acting-tae-bo/</guid>
-            <pubDate>Fri, 27 Mar 2026 07:30:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/03/24/3b35b35bc22e467ea2655c8cb9586abf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/03/24/3b35b35bc22e467ea2655c8cb9586abf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/03/24/3b35b35bc22e467ea2655c8cb9586abf_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/03/27/46113719d3824c73afd1ca6b688d0456_xl.png">
             </media:thumbnail>
         </item>
     </channel>
