@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 23:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 23:57:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Back to the Future&#039; Star James Tolkan Dead at 94]]></title>
+            <link>https://www.tmz.com/2026/03/27/james-tolkan-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/james-tolkan-dead/</guid>
+            <pubDate>Fri, 27 Mar 2026 23:45:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/03/27/679416f9888845e28f4a37ed8f0a5929_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/03/27/679416f9888845e28f4a37ed8f0a5929_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/03/27/679416f9888845e28f4a37ed8f0a5929_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Actor Johnny Wactor Receives Posthumous Heroism Award From Medal of Honor Society]]></title>
+            <link>https://www.tmz.com/2026/03/27/johnny-wactor-honored/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/johnny-wactor-honored/</guid>
+            <pubDate>Fri, 27 Mar 2026 23:30:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/03/27/65a8deea85ca4aa19bd86c8d1a886965_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/03/27/65a8deea85ca4aa19bd86c8d1a886965_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/03/27/65a8deea85ca4aa19bd86c8d1a886965_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sen. Bernie Sanders On First Class Flight Out of D.C. As DHS Funding Bill Dies]]></title>
+            <link>https://www.tmz.com/2026/03/27/sen-bernie-sanders-catches-first-class-flight-after-funding-bill-fails/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/sen-bernie-sanders-catches-first-class-flight-after-funding-bill-fails/</guid>
+            <pubDate>Fri, 27 Mar 2026 23:27:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/03/27/5a92a1ab2582485fbf7493af8d2c789e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/03/27/5a92a1ab2582485fbf7493af8d2c789e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/03/27/5a92a1ab2582485fbf7493af8d2c789e_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Break A Sweat With Amelia Gray Hamlin And More For Fitness Friday!]]></title>
+            <link>https://www.tmz.com/2026/03/27/break-a-sweat-with-amelia-gray-hamlin-and-more-for-fitness-friday/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/break-a-sweat-with-amelia-gray-hamlin-and-more-for-fitness-friday/</guid>
+            <pubDate>Fri, 27 Mar 2026 23:11:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/03/26/f74fe7e126894968978072179265ea0a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/26/f74fe7e126894968978072179265ea0a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/26/f74fe7e126894968978072179265ea0a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Former Joe Biden Security Staffer Arrested in Fatal San Francisco Shooting]]></title>
             <link>https://www.tmz.com/2026/03/27/former-biden-security-staffer-arrested-in-shooting/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/03/27/5ce2429e6ff04806af0ed6ec01be2d79_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/03/27/5ce2429e6ff04806af0ed6ec01be2d79_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Puka Nacua Accuser Voluntarily Withdraws Restraining Order Petition]]></title>
-            <link>https://www.tmz.com/2026/03/27/puka-nacua-accuser-voluntarily-withdraws-restraining-order-petition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/puka-nacua-accuser-voluntarily-withdraws-restraining-order-petition/</guid>
-            <pubDate>Fri, 27 Mar 2026 22:31:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/03/27/59016858bc7841ce945c4f1fb137a2b4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/03/27/59016858bc7841ce945c4f1fb137a2b4_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/03/27/59016858bc7841ce945c4f1fb137a2b4_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-UFC Star Diego Sanchez Avoids Prison Time In Gun Case]]></title>
-            <link>https://www.tmz.com/2026/03/27/ex-ufc-star-diego-sanchez-avoids-prison-time-after-firing-gun-from-moving-car/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/ex-ufc-star-diego-sanchez-avoids-prison-time-after-firing-gun-from-moving-car/</guid>
-            <pubDate>Fri, 27 Mar 2026 22:16:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/03/27/74e6af2b4d394258a334b4e824909829_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/03/27/74e6af2b4d394258a334b4e824909829_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/03/27/74e6af2b4d394258a334b4e824909829_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Man Locked Up After Barron Trump Reported Alleged Attack to UK Police]]></title>
-            <link>https://www.tmz.com/2026/03/27/man-reported-by-barron-trump-for-assault-sentenced/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/man-reported-by-barron-trump-for-assault-sentenced/</guid>
-            <pubDate>Fri, 27 Mar 2026 22:06:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/03/27/e60d370f154a4621a20517c95daf1c61_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/03/27/e60d370f154a4621a20517c95daf1c61_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/03/27/e60d370f154a4621a20517c95daf1c61_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Clavicular Didn&#039;t Instigate Fight Between Women, He Is Autistic: Sources]]></title>
-            <link>https://www.tmz.com/2026/03/27/clavicular-did-not-instigate-women-fight/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/clavicular-did-not-instigate-women-fight/</guid>
-            <pubDate>Fri, 27 Mar 2026 22:00:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/03/27/719d90de3e1b42d1b77acd341cd54afe_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/03/27/719d90de3e1b42d1b77acd341cd54afe_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/03/27/719d90de3e1b42d1b77acd341cd54afe_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
