@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 18:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 19:27:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Shia LaBeouf Seen With Girlfriend After Screaming at Her in Rome]]></title>
+            <link>https://www.tmz.com/2026/03/27/shia-labeouf-is-seen-with-girlfriend-after-public-argument/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/shia-labeouf-is-seen-with-girlfriend-after-public-argument/</guid>
+            <pubDate>Fri, 27 Mar 2026 18:55:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/03/27/33c026012492440783cb4518378d8786_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/33/16by9/2026/03/27/33c026012492440783cb4518378d8786_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/03/27/33c026012492440783cb4518378d8786_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Senators Ted Cruz, John Thune Leave D.C. Amid Government Shutdown]]></title>
+            <link>https://www.tmz.com/2026/03/27/john-thune-ted-cruz-leave-dc-during-shutdown/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/john-thune-ted-cruz-leave-dc-during-shutdown/</guid>
+            <pubDate>Fri, 27 Mar 2026 18:31:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/03/27/93aa6a0efc60425c9af93f2c00a4035a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/03/27/93aa6a0efc60425c9af93f2c00a4035a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/03/27/93aa6a0efc60425c9af93f2c00a4035a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Babes In Bed -- Guess The Top Model!]]></title>
             <link>https://www.tmz.com/2026/03/27/babes-in-bed-guess-the-top-model/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/03/27/9e3342987d794065ab1697f0a51df1b5_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/03/27/9e3342987d794065ab1697f0a51df1b5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tank Davis False Imprisonment Charge Dropped In Case Involving Ex]]></title>
-            <link>https://www.tmz.com/2026/03/27/gervonta-davis-false-imprisonment-charge-dropped-battery-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/gervonta-davis-false-imprisonment-charge-dropped-battery-case/</guid>
-            <pubDate>Fri, 27 Mar 2026 17:48:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/03/27/31884b35168e4a509603b16de4cfb973_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/03/27/31884b35168e4a509603b16de4cfb973_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/03/27/31884b35168e4a509603b16de4cfb973_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
-            <link>https://www.tmz.com/2026/03/27/watch-tmz-live-today/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/watch-tmz-live-today/</guid>
-            <pubDate>Fri, 27 Mar 2026 17:40:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/03/27/28eee8bfa2c543e9ab1a9ed21e22c894_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/03/27/28eee8bfa2c543e9ab1a9ed21e22c894_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/03/27/28eee8bfa2c543e9ab1a9ed21e22c894_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
