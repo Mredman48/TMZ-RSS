@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 21:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 22:00:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Claudia Jordan Says Donald Trump&#039;s Actions Are &#039;Giving Dementia&#039;]]></title>
+            <link>https://www.tmz.com/2026/03/27/claudia-jordan-says-trump-showing-signs-of-dementia/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/claudia-jordan-says-trump-showing-signs-of-dementia/</guid>
+            <pubDate>Fri, 27 Mar 2026 22:00:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/03/23/9cf6115a723c40789aae268b35f88b82_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/03/23/9cf6115a723c40789aae268b35f88b82_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/03/23/9cf6115a723c40789aae268b35f88b82_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Pima County Deputy Fired After Kidnapping Arrest, Same Dept. Investigating Guthrie Abduction]]></title>
+            <link>https://www.tmz.com/2026/03/27/pima-county-sheriffs-deputy-fired-after-kidnapping-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/pima-county-sheriffs-deputy-fired-after-kidnapping-arrest/</guid>
+            <pubDate>Fri, 27 Mar 2026 21:55:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/27/f60c6c64e4dc4cd18dcbf5bb03af7628_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/27/f60c6c64e4dc4cd18dcbf5bb03af7628_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/27/f60c6c64e4dc4cd18dcbf5bb03af7628_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Reacts to Tiger Woods Crash News Prior To DUI Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/27/donald-trump-reacts-to-tiger-woods-crash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/donald-trump-reacts-to-tiger-woods-crash/</guid>
+            <pubDate>Fri, 27 Mar 2026 21:51:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/03/27/e79646037b864bbaa26aa4f53b281cce_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/03/27/e79646037b864bbaa26aa4f53b281cce_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/03/27/e79646037b864bbaa26aa4f53b281cce_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Dr. Henry C. Lee, Forensic Investigator in O.J. Simpson Trial, Dead at 87]]></title>
             <link>https://www.tmz.com/2026/03/27/dr-henry-c-lee-forensic-investigator-in-o-j-simpson-trial-dead-at-87/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/03/27/6e48c38691244ef6bada4fa615597959_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/03/27/6e48c38691244ef6bada4fa615597959_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Police Speak Out On Tiger Woods DUI Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/27/tiger-woods-florida-crash-press-conference/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/tiger-woods-florida-crash-press-conference/</guid>
-            <pubDate>Fri, 27 Mar 2026 20:41:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/03/27/d3f5e3fdf7024934baa350303b103c66_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/03/27/d3f5e3fdf7024934baa350303b103c66_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/03/27/d3f5e3fdf7024934baa350303b103c66_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bhad Bhabie & Sophie Rain Get Juicy in First Pics From OnlyFans Collab]]></title>
-            <link>https://www.tmz.com/2026/03/27/bhad-bhabie-sophie-rain-onlyfans-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/bhad-bhabie-sophie-rain-onlyfans-photos/</guid>
-            <pubDate>Fri, 27 Mar 2026 20:11:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/03/27/0daddea5c3154e52b864c152637b79db_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/03/27/0daddea5c3154e52b864c152637b79db_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/03/27/0daddea5c3154e52b864c152637b79db_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears Thanks Fans for Support, Hangs With Son After DUI Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/27/britney-spears-instagram-post-after-dui-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/britney-spears-instagram-post-after-dui-arrest/</guid>
-            <pubDate>Fri, 27 Mar 2026 20:03:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/03/27/903cf41bae764379aebc0a6eecf0916d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/03/27/903cf41bae764379aebc0a6eecf0916d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/03/27/903cf41bae764379aebc0a6eecf0916d_xl.png">
             </media:thumbnail>
         </item>
     </channel>
