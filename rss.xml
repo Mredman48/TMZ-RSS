@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 19:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 19:56:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kanye West New Music Video Features Michael Jackson Impersonator]]></title>
+            <link>https://www.tmz.com/2026/03/28/kanye-michael-jackson-impersonator/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/kanye-michael-jackson-impersonator/</guid>
+            <pubDate>Sat, 28 Mar 2026 19:27:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/03/28/d8c0f4f0808840d696109da4d283a58e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/03/28/d8c0f4f0808840d696109da4d283a58e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/03/28/d8c0f4f0808840d696109da4d283a58e_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Shanna Moakler Sexy Snaps to Slay Her 51st Birthday!]]></title>
             <link>https://www.tmz.com/2026/03/28/shanna-moakler-birthday-hot-shots/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/27/16by9/2026/03/28/27aafeefd4e641c0be7cd44c50671fb0_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/03/28/27aafeefd4e641c0be7cd44c50671fb0_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[MLB Fans Caught on Video Fighting at Dodger Stadium Opening Day]]></title>
-            <link>https://www.tmz.com/2026/03/28/fight-at-dodgers-stadium-opening-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/fight-at-dodgers-stadium-opening-day/</guid>
-            <pubDate>Sat, 28 Mar 2026 15:01:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/28/f64df848a31c49acb01185a89ea6539e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/28/f64df848a31c49acb01185a89ea6539e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/28/f64df848a31c49acb01185a89ea6539e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
