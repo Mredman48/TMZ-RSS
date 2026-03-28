@@ -4,7 +4,7 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 14:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 15:01:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
@@ -23,10 +23,10 @@
             <link>https://www.tmz.com/2026/03/28/kylie-jenner-poses-for-cosmetics-line/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/03/28/kylie-jenner-poses-for-cosmetics-line/</guid>
             <pubDate>Sat, 28 Mar 2026 12:57:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/03/28/bfc240c0986141a8be590679ae7aa04a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/03/28/bfc240c0986141a8be590679ae7aa04a_xl.png" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/03/28/e747b7f1ec84415a8604aa1ba3bf00b1_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/03/28/e747b7f1ec84415a8604aa1ba3bf00b1_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/03/28/bfc240c0986141a8be590679ae7aa04a_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/03/28/e747b7f1ec84415a8604aa1ba3bf00b1_xl.png">
             </media:thumbnail>
         </item>
         <item>
