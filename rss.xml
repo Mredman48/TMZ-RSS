@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 05:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 06:36:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tiger Woods Released From Jail After Rollover Crash, DUI Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/27/tiger-woods-released-jail-rollover-crash-dui-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/tiger-woods-released-jail-rollover-crash-dui-arrest/</guid>
+            <pubDate>Sat, 28 Mar 2026 05:43:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/03/28/a679971c87434afda3ebeafc504ab7d0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/03/28/a679971c87434afda3ebeafc504ab7d0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/03/28/a679971c87434afda3ebeafc504ab7d0_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tiger Woods Mug Shot Released After DUI Arrest]]></title>
             <link>https://www.tmz.com/2026/03/27/tiger-woods-mug-shot-released-after-dui-arrest/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9f/16by9/2026/03/28/9f85833440f345f6a2f28d2d68368176_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9f/16by9/2026/03/28/9f85833440f345f6a2f28d2d68368176_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Harry Potter&#039; Series Racist Death Threats Get UK Police Attention]]></title>
-            <link>https://www.tmz.com/2026/03/27/uk-police-looking-into-racist-harry-potter-death-threats/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/27/uk-police-looking-into-racist-harry-potter-death-threats/</guid>
-            <pubDate>Sat, 28 Mar 2026 00:09:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5b/16by9/2026/03/27/5b053e4bb5dd4e18b33c5a9120214099_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5b/16by9/2026/03/27/5b053e4bb5dd4e18b33c5a9120214099_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5b/16by9/2026/03/27/5b053e4bb5dd4e18b33c5a9120214099_xl.png">
             </media:thumbnail>
         </item>
     </channel>
