@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 11:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 13:36:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tiger Woods Looks Pissed in New Photos As He Leaves Jail After DUI Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/28/tiger-woods-looks-upset-after-leaving-jail/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/tiger-woods-looks-upset-after-leaving-jail/</guid>
+            <pubDate>Sat, 28 Mar 2026 12:58:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/03/28/9b336e775ea84247b58408853c9b62db_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/03/28/9b336e775ea84247b58408853c9b62db_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/03/28/9b336e775ea84247b58408853c9b62db_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kylie Jenner Shows Off Her Assets In Sexy Photos Promoting Lip Butter]]></title>
+            <link>https://www.tmz.com/2026/03/28/kylie-jenner-poses-for-cosmetics-line/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/kylie-jenner-poses-for-cosmetics-line/</guid>
+            <pubDate>Sat, 28 Mar 2026 12:57:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/03/28/bfc240c0986141a8be590679ae7aa04a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/03/28/bfc240c0986141a8be590679ae7aa04a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/03/28/bfc240c0986141a8be590679ae7aa04a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Senator Amy Klobuchar Wears &#039;Good Job&#039; T-Shirt Amid Government Shutdown]]></title>
+            <link>https://www.tmz.com/2026/03/28/senator-amy-klobuchar-good-job-shirt/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/senator-amy-klobuchar-good-job-shirt/</guid>
+            <pubDate>Sat, 28 Mar 2026 12:00:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0c/16by9/2026/03/28/0cc2aee07c904b6bb51d6e4bc0436f8b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0c/16by9/2026/03/28/0cc2aee07c904b6bb51d6e4bc0436f8b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0c/16by9/2026/03/28/0cc2aee07c904b6bb51d6e4bc0436f8b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mary Cosby Interviewed by Police About Son Robert Weeks Before His Death]]></title>
             <link>https://www.tmz.com/2026/03/28/mary-cosby-interviewed-by-cops-before-son-died/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/03/24/5c897eb56b034d1e94f0a694f4960e27_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/03/24/5c897eb56b034d1e94f0a694f4960e27_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Quadruple Amputee Murder Suspect&#039;s Ex-Girlfriend Not Shocked by Allegations]]></title>
-            <link>https://www.tmz.com/2026/03/28/dayton-webber-ex-girlfriend-not-surprised-by-murder-allegation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/dayton-webber-ex-girlfriend-not-surprised-by-murder-allegation/</guid>
-            <pubDate>Sat, 28 Mar 2026 08:00:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/03/25/68c1a1f1cc92497abc6ad194764453e3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/03/25/68c1a1f1cc92497abc6ad194764453e3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/03/25/68c1a1f1cc92497abc6ad194764453e3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[March 2026 Hot Shots ... Buzzer-Beating Shots From The Stars!]]></title>
-            <link>https://www.tmz.com/2026/03/28/march-2026-hot-shots-buzzer-beating-shots-from-the-stars/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/march-2026-hot-shots-buzzer-beating-shots-from-the-stars/</guid>
-            <pubDate>Sat, 28 Mar 2026 07:45:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/03/24/608c4e11ae8d4034b10fe4e3a92c5fd9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/03/24/608c4e11ae8d4034b10fe4e3a92c5fd9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/03/24/608c4e11ae8d4034b10fe4e3a92c5fd9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Antonio Brown&#039;s Former Florida Mansion Under Contract 10 Days After Being Listed]]></title>
-            <link>https://www.tmz.com/2026/03/28/antonio-brown-florida-mansion-under-contract-days-after-listing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/antonio-brown-florida-mansion-under-contract-days-after-listing/</guid>
-            <pubDate>Sat, 28 Mar 2026 07:30:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/03/27/c2d237c55fd94218a8a1f3d55ba28a6d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/03/27/c2d237c55fd94218a8a1f3d55ba28a6d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/03/27/c2d237c55fd94218a8a1f3d55ba28a6d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
