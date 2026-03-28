@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 23:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 23:59:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kim Novak Implies Sydney Sweeney&#039;s Boobs Are Too Big to Play Her in Movie]]></title>
+            <link>https://www.tmz.com/2026/03/28/kim-novak-says-she-would-not-have-approved-sydney-sweeney-casting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/kim-novak-says-she-would-not-have-approved-sydney-sweeney-casting/</guid>
+            <pubDate>Sat, 28 Mar 2026 23:15:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/03/28/d6bde3f0dbe84b0bb8e5f8cd7b192545_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/03/28/d6bde3f0dbe84b0bb8e5f8cd7b192545_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/03/28/d6bde3f0dbe84b0bb8e5f8cd7b192545_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Just Dance&#039; Into Lady Gaga&#039;s Hot Shots ... Happy 40th Birthday!]]></title>
+            <link>https://www.tmz.com/2026/03/28/lady-gaga-hot-birthday-pics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/lady-gaga-hot-birthday-pics/</guid>
+            <pubDate>Sat, 28 Mar 2026 23:00:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/03/24/a83c29ba24a34c5883367d83934bb80d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/03/24/a83c29ba24a34c5883367d83934bb80d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/03/24/a83c29ba24a34c5883367d83934bb80d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Clavicular Addresses Battery Arrest on Live Stream]]></title>
             <link>https://www.tmz.com/2026/03/28/clavicular-addresses-arrest-on-live-stream/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/69/16by9/2026/03/28/69589c9b3dd9442fbe0ec1e2cac4097c_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/03/28/69589c9b3dd9442fbe0ec1e2cac4097c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West New Music Video Features Michael Jackson Impersonator]]></title>
-            <link>https://www.tmz.com/2026/03/28/kanye-michael-jackson-impersonator/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/kanye-michael-jackson-impersonator/</guid>
-            <pubDate>Sat, 28 Mar 2026 19:27:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/03/28/d2c5a9617a874eb9a8efb49a0a2a9c0f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/03/28/d2c5a9617a874eb9a8efb49a0a2a9c0f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/03/28/d2c5a9617a874eb9a8efb49a0a2a9c0f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shanna Moakler Sexy Snaps to Slay Her 51st Birthday!]]></title>
-            <link>https://www.tmz.com/2026/03/28/shanna-moakler-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/shanna-moakler-birthday-hot-shots/</guid>
-            <pubDate>Sat, 28 Mar 2026 19:00:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/03/24/72749e38ab1e448781a39d99919236d3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/03/24/72749e38ab1e448781a39d99919236d3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/03/24/72749e38ab1e448781a39d99919236d3_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
