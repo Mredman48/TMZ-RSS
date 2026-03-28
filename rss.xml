@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 21:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 21:57:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Noelia Castillo Ramos Encouraged by Dad to Walk in Heartbreaking Video Before Death]]></title>
+            <link>https://www.tmz.com/2026/03/28/noelia-castillo-dad-cheers-on-her-walking-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/noelia-castillo-dad-cheers-on-her-walking-video/</guid>
+            <pubDate>Sat, 28 Mar 2026 21:06:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/03/28/48ed1e91146c4f3383b45659d08fe600_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/03/28/48ed1e91146c4f3383b45659d08fe600_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/03/28/48ed1e91146c4f3383b45659d08fe600_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nick Cannon Calls the Democratic Party the &#039;Party of the KKK&#039;]]></title>
             <link>https://www.tmz.com/2026/03/28/nick-cannon-says-democrats-are-ku-klux-klan/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/03/28/e4404ae10d4b409f87ee0fc99f1484a0_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/03/28/e4404ae10d4b409f87ee0fc99f1484a0_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Fox News Reporter Gets Body Slammed by Wrestler on Live TV]]></title>
-            <link>https://www.tmz.com/2026/03/28/fox-news-reporter-gets-suplexed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/28/fox-news-reporter-gets-suplexed/</guid>
-            <pubDate>Sat, 28 Mar 2026 17:11:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/03/28/dfa5bfe3c759487cbacbd2fadb0d408a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/03/28/dfa5bfe3c759487cbacbd2fadb0d408a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/03/28/dfa5bfe3c759487cbacbd2fadb0d408a_xl.png">
             </media:thumbnail>
         </item>
     </channel>
