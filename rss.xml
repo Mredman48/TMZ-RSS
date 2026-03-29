@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 08:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 09:21:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;RHOA&#039;s Kim Zolciak to Be Grilled by BF’s Estranged Wife in Divorce War]]></title>
+            <link>https://www.tmz.com/2026/03/29/kim-zolciak-will-be-questioned-in-boyfriend-divorce-battle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/kim-zolciak-will-be-questioned-in-boyfriend-divorce-battle/</guid>
+            <pubDate>Sun, 29 Mar 2026 09:00:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/99/16by9/2026/03/27/9989ad22a7e84de4aa2e250925b79aa8_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/99/16by9/2026/03/27/9989ad22a7e84de4aa2e250925b79aa8_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/03/27/9989ad22a7e84de4aa2e250925b79aa8_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[See the Sexy Stars Dressed as Mermaids for International Mermaid Day!]]></title>
             <link>https://www.tmz.com/2026/03/29/celebrities-dressed-as-mermaids/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/03/23/ec7d804e6c744dd9ac71a8b5e9260014_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/03/23/ec7d804e6c744dd9ac71a8b5e9260014_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Boxing Star David Benavidez Moving On From Canelo Alvarez, Sorry Fans!]]></title>
-            <link>https://www.tmz.com/2026/03/29/david-benavidez-canelo-alvarez-fight-update-boxing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/david-benavidez-canelo-alvarez-fight-update-boxing/</guid>
-            <pubDate>Sun, 29 Mar 2026 07:10:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/03/23/109d5a4eeb6b4a7189532d7f7a1d8017_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/03/23/109d5a4eeb6b4a7189532d7f7a1d8017_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/03/23/109d5a4eeb6b4a7189532d7f7a1d8017_xl.png">
             </media:thumbnail>
         </item>
     </channel>
