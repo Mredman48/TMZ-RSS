@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 19:58:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 21:02:01 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Actress Mary Beth Hurt Dead at 79]]></title>
+            <link>https://www.tmz.com/2026/03/29/mary-beth-hurt-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/mary-beth-hurt-dead/</guid>
+            <pubDate>Sun, 29 Mar 2026 20:57:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/03/29/83024dfdea3c4447ad2f470239db54c4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/03/29/83024dfdea3c4447ad2f470239db54c4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/03/29/83024dfdea3c4447ad2f470239db54c4_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Liam Payne&#039;s Former Girlfriend Kate Cassidy Spotted More Than a Year After His Death]]></title>
+            <link>https://www.tmz.com/2026/03/29/kate-cassidy-seen-in-florida/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/kate-cassidy-seen-in-florida/</guid>
+            <pubDate>Sun, 29 Mar 2026 20:41:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/03/29/1e024eb0e2cc4377b26db6131e34e725_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/29/1e024eb0e2cc4377b26db6131e34e725_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/29/1e024eb0e2cc4377b26db6131e34e725_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kylie Jenner Puts Boobs On Display in Sexy Bikini Pics]]></title>
             <link>https://www.tmz.com/2026/03/29/kylie-jenner-bikini-photos/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7d/16by9/2026/03/29/7d597e15911e49899abc8f3ce60d8e11_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7d/16by9/2026/03/29/7d597e15911e49899abc8f3ce60d8e11_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Georgia Congressman Catches Grandson&#039;s Baseball Game Amid Government Shutdown]]></title>
-            <link>https://www.tmz.com/2026/03/29/georgia-congressman-buddy-carter-seen-amid-shutdown/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/georgia-congressman-buddy-carter-seen-amid-shutdown/</guid>
-            <pubDate>Sun, 29 Mar 2026 17:36:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/03/29/61474211995b42c5994ef925e75c68f7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/03/29/61474211995b42c5994ef925e75c68f7_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/03/29/61474211995b42c5994ef925e75c68f7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Exes Taylor Swift, John Mayer Narrowly Miss Awkward Encounter at Paul McCartney Concert]]></title>
-            <link>https://www.tmz.com/2026/03/29/taylor-swift-john-mayer-at-paul-mccartney-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/taylor-swift-john-mayer-at-paul-mccartney-concert/</guid>
-            <pubDate>Sun, 29 Mar 2026 17:30:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/03/29/90512703c0054ffc881835a8f7d3c88c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/03/29/90512703c0054ffc881835a8f7d3c88c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/03/29/90512703c0054ffc881835a8f7d3c88c_xl.png">
             </media:thumbnail>
         </item>
     </channel>
