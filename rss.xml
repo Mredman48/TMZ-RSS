@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 18:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 19:19:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Lindsey Graham Vacationing at Disney World Amid Shutdown]]></title>
+            <link>https://www.tmz.com/2026/03/29/lindsey-graham-at-disney-world-amid-shutdown/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/lindsey-graham-at-disney-world-amid-shutdown/</guid>
+            <pubDate>Sun, 29 Mar 2026 19:10:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7d/16by9/2026/03/29/7d597e15911e49899abc8f3ce60d8e11_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7d/16by9/2026/03/29/7d597e15911e49899abc8f3ce60d8e11_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7d/16by9/2026/03/29/7d597e15911e49899abc8f3ce60d8e11_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Georgia Congressman Catches Grandson&#039;s Baseball Game Amid Government Shutdown]]></title>
             <link>https://www.tmz.com/2026/03/29/georgia-congressman-buddy-carter-seen-amid-shutdown/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/03/29/c0dd78b9b1d94275b75cdfe395835547_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/03/29/c0dd78b9b1d94275b75cdfe395835547_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[MMA Rising Star Maycee Barber Knocked Out Cold During UFC Fight, Video Shows]]></title>
-            <link>https://www.tmz.com/2026/03/29/maycee-barber-knocked-out-in-ufc-fight/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/maycee-barber-knocked-out-in-ufc-fight/</guid>
-            <pubDate>Sun, 29 Mar 2026 14:31:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/03/29/76b1701e2cda4aad8086b14c8ca3a7e8_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/03/29/76b1701e2cda4aad8086b14c8ca3a7e8_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/03/29/76b1701e2cda4aad8086b14c8ca3a7e8_xl.png">
             </media:thumbnail>
         </item>
     </channel>
