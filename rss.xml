@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 15:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 17:04:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Paul McCartney Plays Before Star-Studded Crowd at L.A.&#039;s Fonda Theater]]></title>
+            <link>https://www.tmz.com/2026/03/29/paul-mccartney-concert-draws-major-celebrities/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/paul-mccartney-concert-draws-major-celebrities/</guid>
+            <pubDate>Sun, 29 Mar 2026 16:13:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/03/29/c0f786cbee884f93bc8eb1d44b69555b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/03/29/c0f786cbee884f93bc8eb1d44b69555b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/03/29/c0f786cbee884f93bc8eb1d44b69555b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tiger Woods Receives Major Support From Golf Fans Wearing His Mug Shot]]></title>
             <link>https://www.tmz.com/2026/03/29/tiger-woods-fans-wear-mug-shot-shirt/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/43/16by9/2026/03/29/438f967eb77749cf961d6a01dbe9d675_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/03/29/438f967eb77749cf961d6a01dbe9d675_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Arnold Schwarzenegger&#039;s Son Joseph Baena Wins First Bodybuilding Competition]]></title>
-            <link>https://www.tmz.com/2026/03/29/joseph-baena-wins-bodybuilding-competition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/joseph-baena-wins-bodybuilding-competition/</guid>
-            <pubDate>Sun, 29 Mar 2026 12:30:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/03/29/3d3da55ba89542458d02adfba6c0d6dc_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/03/29/3d3da55ba89542458d02adfba6c0d6dc_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/03/29/3d3da55ba89542458d02adfba6c0d6dc_xl.png">
             </media:thumbnail>
         </item>
     </channel>
