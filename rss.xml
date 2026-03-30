@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 23:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 00:02:12 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tiger Woods&#039; Circle Reportedly Expresses Concern After Golfer&#039;s DUI Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/29/tiger-woods-inner-circle-upset-with-dui-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/tiger-woods-inner-circle-upset-with-dui-arrest/</guid>
+            <pubDate>Sun, 29 Mar 2026 23:42:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/03/29/c2bf9b71ef2941b4961b52a24cca5c4a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/03/29/c2bf9b71ef2941b4961b52a24cca5c4a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/03/29/c2bf9b71ef2941b4961b52a24cca5c4a_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kendra Duggar Bolts to &#039;Private&#039; Location with Children, Report Says]]></title>
             <link>https://www.tmz.com/2026/03/29/kendra-duggar-whisked-away-to-private-location-with-children/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/29/1e024eb0e2cc4377b26db6131e34e725_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/29/1e024eb0e2cc4377b26db6131e34e725_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kylie Jenner Puts Boobs On Display in Sexy Bikini Pics]]></title>
-            <link>https://www.tmz.com/2026/03/29/kylie-jenner-bikini-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/kylie-jenner-bikini-photos/</guid>
-            <pubDate>Sun, 29 Mar 2026 19:55:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/03/29/222780bf32884d5aa293ab83981bcb2c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/03/29/222780bf32884d5aa293ab83981bcb2c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/03/29/222780bf32884d5aa293ab83981bcb2c_xl.png">
             </media:thumbnail>
         </item>
     </channel>
