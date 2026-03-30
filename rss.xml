@@ -4,13 +4,35 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 12:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:09:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
+            <title><![CDATA[Travis Kelce Embraces Fashion Era As New Tommy Hilfiger Brand Ambassador]]></title>
+            <link>https://www.tmz.com/2026/03/30/travis-kelce-tommy-hilfiger-deal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/travis-kelce-tommy-hilfiger-deal/</guid>
+            <pubDate>Mon, 30 Mar 2026 14:00:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/03/30/2fb0c06e7b7b4cfaa62ddb05e91dee8d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/03/30/2fb0c06e7b7b4cfaa62ddb05e91dee8d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/03/30/2fb0c06e7b7b4cfaa62ddb05e91dee8d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods Reportedly Won&#039;t Hire Driver Citing Privacy Concerns]]></title>
+            <link>https://www.tmz.com/2026/03/30/tiger-woods-wont-hire-driver-because-of-privacy-concerns/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/tiger-woods-wont-hire-driver-because-of-privacy-concerns/</guid>
+            <pubDate>Mon, 30 Mar 2026 13:09:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/30/f6fe1904a7164299aec7aefefa01f344_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/30/f6fe1904a7164299aec7aefefa01f344_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/30/f6fe1904a7164299aec7aefefa01f344_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
             <title><![CDATA[MMA Fighter Maycee Barber Says She Looked Dead After Bone-Crushing Loss]]></title>
-            <link>https://www.tmz.com/2026/03/30/ufc-fighter-maycee-barber-responds-after-loss-to-alexa-grasso/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/ufc-fighter-maycee-barber-responds-after-loss-to-alexa-grasso/</guid>
+            <link>https://www.tmz.com/2026/03/30/mma-ufc-maycee-barber-alexa-grasso/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/mma-ufc-maycee-barber-alexa-grasso/</guid>
             <pubDate>Mon, 30 Mar 2026 09:10:59 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/03/29/c6b1984ec9b044dc8854b7621fb7417d_xl.png" length="0" type="image/png"/>
             <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/03/29/c6b1984ec9b044dc8854b7621fb7417d_xl.png" medium="image">
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/33/16by9/2026/03/11/3331a4ff387c43fb8960a5943195a8fd_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/03/11/3331a4ff387c43fb8960a5943195a8fd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who These Sweet Sisters Turned Into!]]></title>
-            <link>https://www.tmz.com/2026/03/30/guess-these-sweet-sisters/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/guess-these-sweet-sisters/</guid>
-            <pubDate>Mon, 30 Mar 2026 07:01:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/03/18/053213391f8d433d9a8476c88923ca16_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/03/18/053213391f8d433d9a8476c88923ca16_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/03/18/053213391f8d433d9a8476c88923ca16_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears Hangs With Sons On a Yacht After Recent DUI Arrest]]></title>
-            <link>https://www.tmz.com/2026/03/29/britney-spears-with-sons-on-yacht-after-dui-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/29/britney-spears-with-sons-on-yacht-after-dui-arrest/</guid>
-            <pubDate>Mon, 30 Mar 2026 00:08:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/03/29/91c0338e053349e6923894693a763a57_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/03/29/91c0338e053349e6923894693a763a57_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/03/29/91c0338e053349e6923894693a763a57_xl.png">
             </media:thumbnail>
         </item>
     </channel>
