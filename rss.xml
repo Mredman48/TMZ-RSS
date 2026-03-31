@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 03:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 05:28:17 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sen. Lindsey Graham Poses With Shotgun Amid Backlash Over Disney Photos]]></title>
+            <link>https://www.tmz.com/2026/03/30/lindsey-graham-posts-with-gun-after-disney-trip/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/lindsey-graham-posts-with-gun-after-disney-trip/</guid>
+            <pubDate>Tue, 31 Mar 2026 04:47:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/03/30/a85c86648308450688f3dbc808199a2a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/03/30/a85c86648308450688f3dbc808199a2a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/03/30/a85c86648308450688f3dbc808199a2a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[TLC&#039;s T-Boz Has Never Supported Trump Orgs, Unlike Chilli]]></title>
+            <link>https://www.tmz.com/2026/03/30/tlc-t-boz-has-never-supported-trump/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/tlc-t-boz-has-never-supported-trump/</guid>
+            <pubDate>Tue, 31 Mar 2026 04:15:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/06/16by9/2026/03/31/06108192e33c4eee9c4be9cec90559af_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/06/16by9/2026/03/31/06108192e33c4eee9c4be9cec90559af_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/06/16by9/2026/03/31/06108192e33c4eee9c4be9cec90559af_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bullet Used in Charlie Kirk Killing Doesn&#039;t Match Alleged Weapon, Defense Claims]]></title>
+            <link>https://www.tmz.com/2026/03/30/bullet-that-killed-charlie-kirk-not-a-match-to-tyler-robinson-gun/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/bullet-that-killed-charlie-kirk-not-a-match-to-tyler-robinson-gun/</guid>
+            <pubDate>Tue, 31 Mar 2026 04:13:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/03/31/5a99fac1b37e40b7a85eb359cb2508f1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/03/31/5a99fac1b37e40b7a85eb359cb2508f1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/03/31/5a99fac1b37e40b7a85eb359cb2508f1_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[DWTS Pro Charlotte Jørgensen Survived Deadly Air Canada Crash]]></title>
             <link>https://www.tmz.com/2026/03/30/dwts-charlotte-jorgensen-survived-fatal-air-canada-crash/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/03/30/f50818bb44044b2e9926755e4433e418_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/03/30/f50818bb44044b2e9926755e4433e418_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Man Dressed Like ICE Agent Beat Up At No Kings Protest In Hawaii, On Video]]></title>
-            <link>https://www.tmz.com/2026/03/30/alleged-ice-agent-beat-up-at-no-kings-protest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/alleged-ice-agent-beat-up-at-no-kings-protest/</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/03/30/56ef379d2d2d4e9cbd778e29b929ecbb_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/03/30/56ef379d2d2d4e9cbd778e29b929ecbb_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/03/30/56ef379d2d2d4e9cbd778e29b929ecbb_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cardi B Shuts Down Producers Accusing Her of Stealing Music]]></title>
-            <link>https://www.tmz.com/2026/03/30/cardi-b-enough-miami-lawsuit-dismissed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/cardi-b-enough-miami-lawsuit-dismissed/</guid>
-            <pubDate>Mon, 30 Mar 2026 23:32:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/03/30/7052745d4c79462abbc7e23f665fdbdb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/03/30/7052745d4c79462abbc7e23f665fdbdb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/03/30/7052745d4c79462abbc7e23f665fdbdb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Jr. Hasn&#039;t Raised Concerns About Kids, Tiger Woods After Golf Star&#039;s DUI Crash]]></title>
-            <link>https://www.tmz.com/2026/03/30/donald-trump-jr-not-worried-for-kids-after-tiger-woods-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/donald-trump-jr-not-worried-for-kids-after-tiger-woods-arrest/</guid>
-            <pubDate>Mon, 30 Mar 2026 23:27:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/03/30/ce0e973504704f519f701a3ca581ed68_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/03/30/ce0e973504704f519f701a3ca581ed68_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/03/30/ce0e973504704f519f701a3ca581ed68_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
