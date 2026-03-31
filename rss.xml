@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 00:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 03:41:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[DWTS Pro Charlotte Jørgensen Survived Deadly Air Canada Crash]]></title>
+            <link>https://www.tmz.com/2026/03/30/dwts-charlotte-jorgensen-survived-fatal-air-canada-crash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/dwts-charlotte-jorgensen-survived-fatal-air-canada-crash/</guid>
+            <pubDate>Tue, 31 Mar 2026 00:45:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/03/31/1cf74ce9288e4f1583330569ebd47688_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/03/31/1cf74ce9288e4f1583330569ebd47688_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/03/31/1cf74ce9288e4f1583330569ebd47688_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jim Bob and Michelle Duggar &#039;Praying for the Victim&#039; in Son Joseph’s Child Sex Abuse Arrest]]></title>
+            <link>https://www.tmz.com/2026/03/30/jim-bob-michelle-duggar-react-joseph-kendra-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/jim-bob-michelle-duggar-react-joseph-kendra-arrest/</guid>
+            <pubDate>Tue, 31 Mar 2026 00:30:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/03/30/f50818bb44044b2e9926755e4433e418_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/03/30/f50818bb44044b2e9926755e4433e418_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/03/30/f50818bb44044b2e9926755e4433e418_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Man Dressed Like ICE Agent Beat Up At No Kings Protest In Hawaii, On Video]]></title>
+            <link>https://www.tmz.com/2026/03/30/alleged-ice-agent-beat-up-at-no-kings-protest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/alleged-ice-agent-beat-up-at-no-kings-protest/</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/03/30/56ef379d2d2d4e9cbd778e29b929ecbb_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/03/30/56ef379d2d2d4e9cbd778e29b929ecbb_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/03/30/56ef379d2d2d4e9cbd778e29b929ecbb_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Cardi B Shuts Down Producers Accusing Her of Stealing Music]]></title>
             <link>https://www.tmz.com/2026/03/30/cardi-b-enough-miami-lawsuit-dismissed/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/03/30/ce0e973504704f519f701a3ca581ed68_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/03/30/ce0e973504704f519f701a3ca581ed68_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna&#039;s Alleged House Shooter Loses License for Teaching Gig]]></title>
-            <link>https://www.tmz.com/2026/03/30/rihanna-home-shooter-loses-speech-language-pathology-license/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/rihanna-home-shooter-loses-speech-language-pathology-license/</guid>
-            <pubDate>Mon, 30 Mar 2026 23:13:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/03/30/f75fa70283414abc9068a6edf99e78f9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/03/30/f75fa70283414abc9068a6edf99e78f9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/03/30/f75fa70283414abc9068a6edf99e78f9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Thieves Steal 12 Tons of KitKats From a Truck During Distribution Route]]></title>
-            <link>https://www.tmz.com/2026/03/30/12-tons-of-kitkats-stolen-from-a-truck/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/12-tons-of-kitkats-stolen-from-a-truck/</guid>
-            <pubDate>Mon, 30 Mar 2026 22:59:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/82/16by9/2026/03/30/82a8014284404f7e99952d00053516e6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/82/16by9/2026/03/30/82a8014284404f7e99952d00053516e6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/82/16by9/2026/03/30/82a8014284404f7e99952d00053516e6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[First Look at Eric Dane&#039;s Final TV Role in New &#039;Euphoria&#039; Trailer]]></title>
-            <link>https://www.tmz.com/2026/03/30/eric-dane-in-new-euphoria-trailer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/03/30/eric-dane-in-new-euphoria-trailer/</guid>
-            <pubDate>Mon, 30 Mar 2026 22:51:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/03/30/fd6acfaaaa5e42fc8d9ecd6c04ff2358_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/03/30/fd6acfaaaa5e42fc8d9ecd6c04ff2358_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/03/30/fd6acfaaaa5e42fc8d9ecd6c04ff2358_xl.png">
             </media:thumbnail>
         </item>
     </channel>
