@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 17:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 18:36:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jen Shah Spills on What It Was Like Being Locked Up With Ghislaine Maxwell]]></title>
+            <link>https://www.tmz.com/2026/04/01/jen-shah-tells-about-life-in-prison-with-ghislaine-maxwell/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/jen-shah-tells-about-life-in-prison-with-ghislaine-maxwell/</guid>
+            <pubDate>Wed, 01 Apr 2026 18:19:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/04/01/34afe91b66e1477ab4fff6510a4ad154_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/01/34afe91b66e1477ab4fff6510a4ad154_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/01/34afe91b66e1477ab4fff6510a4ad154_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[30 Members of Congress In Scotland On Taxpayers&#039; Dime Amid Shutdown]]></title>
+            <link>https://www.tmz.com/2026/04/01/taxpayers-sponsor-congress-scotland-vacation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/taxpayers-sponsor-congress-scotland-vacation/</guid>
+            <pubDate>Wed, 01 Apr 2026 18:11:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/07/16by9/2026/04/01/07546b6b09a64fa0a24f7ba969d81c7e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/07/16by9/2026/04/01/07546b6b09a64fa0a24f7ba969d81c7e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/04/01/07546b6b09a64fa0a24f7ba969d81c7e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/04/01/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/watch-tmz-live-today/</guid>
+            <pubDate>Wed, 01 Apr 2026 17:39:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/04/01/b991b09022214b7db5ad91d23b97995c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/04/01/b991b09022214b7db5ad91d23b97995c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/04/01/b991b09022214b7db5ad91d23b97995c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry Reportedly Sent Flirty Messages, Virtual Kisses to Journalist in 2011]]></title>
+            <link>https://www.tmz.com/2026/04/01/prince-harry-allegedly-sent-intimate-messages-to-reporter/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/prince-harry-allegedly-sent-intimate-messages-to-reporter/</guid>
+            <pubDate>Wed, 01 Apr 2026 17:34:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5f/16by9/2026/04/01/5f410a3bce3d4a3d9938284ba49e4efb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5f/16by9/2026/04/01/5f410a3bce3d4a3d9938284ba49e4efb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5f/16by9/2026/04/01/5f410a3bce3d4a3d9938284ba49e4efb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Megan Thee Stallion Recovering After &#039;Moulin Rouge!&#039; Medical Emergency]]></title>
             <link>https://www.tmz.com/2026/04/01/megan-thee-stallion-skips-moulin-rouge-performance-after-hospitalization/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/84/16by9/2026/04/01/84ba4a07ca414f929c0d80d98332bed3_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/04/01/84ba4a07ca414f929c0d80d98332bed3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Clavicular&#039;s Stream Not Cut Off by Gator Investigation, Despite Rumors]]></title>
-            <link>https://www.tmz.com/2026/04/01/claviculars-stream-ended-due-to-illness/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/claviculars-stream-ended-due-to-illness/</guid>
-            <pubDate>Wed, 01 Apr 2026 16:59:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/04/01/3c61afdefc1a499b999d214166f65ef6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/04/01/3c61afdefc1a499b999d214166f65ef6_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/04/01/3c61afdefc1a499b999d214166f65ef6_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Fleetwood Mac Guitarist Lindsey Buckingham Allegedly Attacked By Woman]]></title>
-            <link>https://www.tmz.com/2026/04/01/lindsey-buckingham-allegedly-attacked/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/lindsey-buckingham-allegedly-attacked/</guid>
-            <pubDate>Wed, 01 Apr 2026 16:46:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/04/01/b43d7f598bc94f7da638820f38488889_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/04/01/b43d7f598bc94f7da638820f38488889_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/04/01/b43d7f598bc94f7da638820f38488889_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[April Fools’ Chaos Hits Sports World, Edelman ‘Returns,’ Melo ‘Signs,’ Fans Duped]]></title>
-            <link>https://www.tmz.com/2026/04/01/sports-world-april-fools/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/sports-world-april-fools/</guid>
-            <pubDate>Wed, 01 Apr 2026 16:29:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/04/01/7486cec610044dd9ae14bac280975912_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/01/7486cec610044dd9ae14bac280975912_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/01/7486cec610044dd9ae14bac280975912_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dorit Kemsley&#039;s Estranged Husband PK Dating New Woman]]></title>
-            <link>https://www.tmz.com/2026/04/01/pk-kemsley-dating-new-woman-amid-dorit-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/pk-kemsley-dating-new-woman-amid-dorit-divorce/</guid>
-            <pubDate>Wed, 01 Apr 2026 16:20:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/04/01/90be747da6864136b33330ea8914d6f0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/04/01/90be747da6864136b33330ea8914d6f0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/04/01/90be747da6864136b33330ea8914d6f0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
