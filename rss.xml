@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 19:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 20:24:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kyle Cooke is Worried West Wilson is Playing Amanda Batula, Watch]]></title>
+            <link>https://www.tmz.com/2026/04/01/kyle-cooke-thinks-west-is-playing-games-with-amanda/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/kyle-cooke-thinks-west-is-playing-games-with-amanda/</guid>
+            <pubDate>Wed, 01 Apr 2026 19:52:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/04/01/c2e5d136be4b4417a946294c2b5dd8f6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/04/01/c2e5d136be4b4417a946294c2b5dd8f6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/04/01/c2e5d136be4b4417a946294c2b5dd8f6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Blake Lively Spends Day at Nickelodeon Universe, Amid Justin Baldoni Drama]]></title>
+            <link>https://www.tmz.com/2026/04/01/blake-lively-visits-nickelodeon-universe-during-justin-baldoni-drama/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/blake-lively-visits-nickelodeon-universe-during-justin-baldoni-drama/</guid>
+            <pubDate>Wed, 01 Apr 2026 19:49:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/39/16by9/2026/04/01/39b54c062a824a01802dd23b17f33d0f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/39/16by9/2026/04/01/39b54c062a824a01802dd23b17f33d0f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/39/16by9/2026/04/01/39b54c062a824a01802dd23b17f33d0f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Massachusetts Man Arrested After Alleged Threats to Donald Trump]]></title>
+            <link>https://www.tmz.com/2026/04/01/man-arrested-after-allegedly-threatening-donald-trump-life/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/man-arrested-after-allegedly-threatening-donald-trump-life/</guid>
+            <pubDate>Wed, 01 Apr 2026 19:47:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/04/01/7434699f9fe74dc9a2d3aa91f79cf8f1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/01/7434699f9fe74dc9a2d3aa91f79cf8f1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/01/7434699f9fe74dc9a2d3aa91f79cf8f1_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Guess The Bodacious Babe Sippin&#039; A Margarita!]]></title>
             <link>https://www.tmz.com/2026/04/01/guess-the-bodacious-babe-sippin-a-margarita/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/12/16by9/2026/04/01/120a57a915904e7c8f0dcb36311143bf_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/04/01/120a57a915904e7c8f0dcb36311143bf_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[House From &#039;Summer House&#039; Goes Up for Sale, Amid Scamanda]]></title>
-            <link>https://www.tmz.com/2026/04/01/summer-house-home-for-sale/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/summer-house-home-for-sale/</guid>
-            <pubDate>Wed, 01 Apr 2026 19:21:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/04/01/ac0ed0ab3e26460fa71b61c1351061f4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/04/01/ac0ed0ab3e26460fa71b61c1351061f4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/04/01/ac0ed0ab3e26460fa71b61c1351061f4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tiger Woods Planning Out-of-Country Treatment Due To Privacy Concerns]]></title>
-            <link>https://www.tmz.com/2026/04/01/tiger-woods-planning-out-of-country-treatment-due-to-privacy-concerns/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/tiger-woods-planning-out-of-country-treatment-due-to-privacy-concerns/</guid>
-            <pubDate>Wed, 01 Apr 2026 19:15:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/04/01/a64ff78ddb1f4b07a62371b8a163d7bb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/04/01/a64ff78ddb1f4b07a62371b8a163d7bb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/04/01/a64ff78ddb1f4b07a62371b8a163d7bb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Deputies Descend on Nicki Minaj&#039;s House, Trespasser Arrested]]></title>
-            <link>https://www.tmz.com/2026/04/01/deputies-descend-on-nicki-minajs-house-for-suspected-trespasser/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/deputies-descend-on-nicki-minajs-house-for-suspected-trespasser/</guid>
-            <pubDate>Wed, 01 Apr 2026 19:02:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7e/16by9/2026/04/01/7e60cff893ac43439451ba803147e683_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/04/01/7e60cff893ac43439451ba803147e683_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/04/01/7e60cff893ac43439451ba803147e683_xl.png">
             </media:thumbnail>
         </item>
     </channel>
