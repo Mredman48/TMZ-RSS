@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 12:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 14:14:06 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Trump Shows Up to Supreme Court Hearing on Birthright Citizenship, Streamed Live]]></title>
+            <link>https://www.tmz.com/2026/04/01/supreme-court-holds-hearing-about-birthright-citizenship/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/supreme-court-holds-hearing-about-birthright-citizenship/</guid>
+            <pubDate>Wed, 01 Apr 2026 13:52:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/04/01/679a9e13486143958d0f7c06bf0383aa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/04/01/679a9e13486143958d0f7c06bf0383aa_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/04/01/679a9e13486143958d0f7c06bf0383aa_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Former Wisconsin Football Player Jack Pugh Dead at 25]]></title>
+            <link>https://www.tmz.com/2026/04/01/jack-pugh-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/jack-pugh-death/</guid>
+            <pubDate>Wed, 01 Apr 2026 13:42:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/04/01/2ee435369f6c449a9af4e83d7c03021f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/01/2ee435369f6c449a9af4e83d7c03021f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/01/2ee435369f6c449a9af4e83d7c03021f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rude Viral Texas Judge Has New Beef After Tiff With IT Employee]]></title>
+            <link>https://www.tmz.com/2026/04/01/rude-texas-judge-fighting-with-lawyer-who-wanted-apology/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/rude-texas-judge-fighting-with-lawyer-who-wanted-apology/</guid>
+            <pubDate>Wed, 01 Apr 2026 13:27:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/04/01/8b1adc2194ab4a849d9a7d17a532b1b7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/04/01/8b1adc2194ab4a849d9a7d17a532b1b7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/04/01/8b1adc2194ab4a849d9a7d17a532b1b7_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ciara Miller Spilled She&#039;s &#039;Been Better&#039; After Discovering Amanda and West]]></title>
+            <link>https://www.tmz.com/2026/04/01/ciara-miller-been-better-amanda-batula-west-wilson-dating-reveal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/ciara-miller-been-better-amanda-batula-west-wilson-dating-reveal/</guid>
+            <pubDate>Wed, 01 Apr 2026 12:58:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/04/01/1f7fbd471c6b40838115a275684ccaf5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/04/01/1f7fbd471c6b40838115a275684ccaf5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/04/01/1f7fbd471c6b40838115a275684ccaf5_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taryn Manning Hit With Legal Issues Over Debt Weeks Before Fight With Ex]]></title>
             <link>https://www.tmz.com/2026/04/01/taryn-manning-faced-debt-issues-weeks-before-fight-with-ex/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/03/30/9e006de1bbb3496785107785249dabf4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/03/30/9e006de1bbb3496785107785249dabf4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Johnny Depp&#039;s Hollywood Vampires Fighting Promoter Over Axed Slovakia Concert]]></title>
-            <link>https://www.tmz.com/2026/04/01/johnny-depp-hollywood-vampires-fight-lawsuit-over-canceled-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/johnny-depp-hollywood-vampires-fight-lawsuit-over-canceled-concert/</guid>
-            <pubDate>Wed, 01 Apr 2026 09:00:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/03/30/e46d100d51e1474ea8ae844bfb64b683_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/03/30/e46d100d51e1474ea8ae844bfb64b683_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/03/30/e46d100d51e1474ea8ae844bfb64b683_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Mormon Wives&#039; Jordan Ngatikaura Goes HomeGoods Shopping Amid Jessi Draper Divorce]]></title>
-            <link>https://www.tmz.com/2026/04/01/mormon-wives-jordan-ngatikaura-goes-shopping-during-middle-of-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/mormon-wives-jordan-ngatikaura-goes-shopping-during-middle-of-divorce/</guid>
-            <pubDate>Wed, 01 Apr 2026 08:00:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ab/16by9/2026/03/31/abe5274cf19d4b538a550591c3d13f9f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ab/16by9/2026/03/31/abe5274cf19d4b538a550591c3d13f9f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ab/16by9/2026/03/31/abe5274cf19d4b538a550591c3d13f9f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[UConn&#039;s Braylon Mullin&#039;s H.S. Coach Says He Deserves Hero Status, &#039;He&#039;s a Bad MOFO&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/01/braylon-mullins-high-school-coach-praises-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/braylon-mullins-high-school-coach-praises-him/</guid>
-            <pubDate>Wed, 01 Apr 2026 07:30:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/03/30/64d6652bddc845609d01faf596b847fd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/03/30/64d6652bddc845609d01faf596b847fd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/03/30/64d6652bddc845609d01faf596b847fd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chix On Netflix ... Guess The Actress Behind These Sexy Snaps!]]></title>
-            <link>https://www.tmz.com/2026/04/01/chix-on-netflix-guess-the-actress-behind-these-sexy-snaps/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/chix-on-netflix-guess-the-actress-behind-these-sexy-snaps/</guid>
-            <pubDate>Wed, 01 Apr 2026 07:10:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/03/31/40f3a417f492415d9a5e0198974da819_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/03/31/40f3a417f492415d9a5e0198974da819_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/03/31/40f3a417f492415d9a5e0198974da819_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
