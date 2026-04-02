@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 23:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 00:00:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Chuck Norris Family Upset With A.I.-Generated Posts About His Death]]></title>
+            <link>https://www.tmz.com/2026/04/01/chuck-norris-family-upset-with-ai-videos-post-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/chuck-norris-family-upset-with-ai-videos-post-death/</guid>
+            <pubDate>Wed, 01 Apr 2026 23:19:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ee/16by9/2026/04/01/ee165e01633f41f3a28029c5bc215d66_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ee/16by9/2026/04/01/ee165e01633f41f3a28029c5bc215d66_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ee/16by9/2026/04/01/ee165e01633f41f3a28029c5bc215d66_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Logan Paul&#039;s Prime Hot Pics To Celebrate His 31st Bday!]]></title>
             <link>https://www.tmz.com/2026/04/01/logan-paul-hot-birthday-pics/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/52/16by9/2026/04/01/52d8b28362a944cea091d62961bbfcdd_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/04/01/52d8b28362a944cea091d62961bbfcdd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tiger Woods Getting Support From Vanessa Trump Amid DUI Fallout, Treatment]]></title>
-            <link>https://www.tmz.com/2026/04/01/tiger-woods-getting-support-from-vanessa-trump/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/tiger-woods-getting-support-from-vanessa-trump/</guid>
-            <pubDate>Wed, 01 Apr 2026 22:15:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/04/01/58769c35ac5741c095874171d69e3807_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/04/01/58769c35ac5741c095874171d69e3807_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/04/01/58769c35ac5741c095874171d69e3807_xl.png">
             </media:thumbnail>
         </item>
     </channel>
