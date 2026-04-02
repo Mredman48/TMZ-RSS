@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 19:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 20:06:19 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Alissa Violet Arrested After Alleged Argument with Boyfriend]]></title>
+            <link>https://www.tmz.com/2026/04/02/alissa-violet-arrested-after-boyfriend-argument/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/alissa-violet-arrested-after-boyfriend-argument/</guid>
+            <pubDate>Thu, 02 Apr 2026 20:00:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/04/01/3ade10e89bad49bd9cc935abc349d878_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/04/01/3ade10e89bad49bd9cc935abc349d878_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/04/01/3ade10e89bad49bd9cc935abc349d878_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hot Moms In Bed ... Sexy At Sixty Guess Who!]]></title>
+            <link>https://www.tmz.com/2026/04/02/hot-moms-in-bed-sexy-at-sixty-guess-who/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/hot-moms-in-bed-sexy-at-sixty-guess-who/</guid>
+            <pubDate>Thu, 02 Apr 2026 19:51:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/04/02/a19dc081bcfc4311bcc982338c316314_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/04/02/a19dc081bcfc4311bcc982338c316314_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/04/02/a19dc081bcfc4311bcc982338c316314_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Phil Mickelson Won&#039;t Play In Masters, Cites Family &#039;Personal Health Matter&#039;]]></title>
+            <link>https://www.tmz.com/2026/04/02/phil-mickelson-out-of-masters/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/phil-mickelson-out-of-masters/</guid>
+            <pubDate>Thu, 02 Apr 2026 19:48:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/04/02/eb8988e54a41439f884ce07b5c6b7274_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/04/02/eb8988e54a41439f884ce07b5c6b7274_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/04/02/eb8988e54a41439f884ce07b5c6b7274_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods’ Brand Promotes New Clothing Drop Amid DUI Fallout]]></title>
+            <link>https://www.tmz.com/2026/04/02/tiger-woods-dui-arrest-brand-promotes-masters-gear-backlash-sun-day-red/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/tiger-woods-dui-arrest-brand-promotes-masters-gear-backlash-sun-day-red/</guid>
+            <pubDate>Thu, 02 Apr 2026 19:40:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/04/02/1b1d2dbd4f5348b2a0fc053eeef33adc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/04/02/1b1d2dbd4f5348b2a0fc053eeef33adc_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/04/02/1b1d2dbd4f5348b2a0fc053eeef33adc_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;The Bachelorette Australia&#039; Star Konrad Bien-Stephen Dead at 35]]></title>
             <link>https://www.tmz.com/2026/04/02/konrad-bien-stephen-dead/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/04/02/ddbd0e5754d641bcaa1c117c7b17d180_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/04/02/ddbd0e5754d641bcaa1c117c7b17d180_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tiger Woods Cited for Careless Driving on Top of DUI Charge]]></title>
-            <link>https://www.tmz.com/2026/04/02/tiger-woods-careless-driving-charge-citation-dui/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/tiger-woods-careless-driving-charge-citation-dui/</guid>
-            <pubDate>Thu, 02 Apr 2026 18:26:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/04/02/e6529c45f86949108c4d88534f2172e5_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/04/02/e6529c45f86949108c4d88534f2172e5_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/04/02/e6529c45f86949108c4d88534f2172e5_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pooh Shiesty Arrested for Allegedly Kidnapping Gucci Mane]]></title>
-            <link>https://www.tmz.com/2026/04/02/pooh-shiesty-arrested-kidnap-gucci-mane/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/pooh-shiesty-arrested-kidnap-gucci-mane/</guid>
-            <pubDate>Thu, 02 Apr 2026 18:03:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/04/02/63bdf2442432430ba7a0783142865712_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/04/02/63bdf2442432430ba7a0783142865712_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/04/02/63bdf2442432430ba7a0783142865712_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Husband Accused Of Murdering Nancy Metayer Bowen Had Family Turn On Him]]></title>
-            <link>https://www.tmz.com/2026/04/02/nancy-bowens-husband-confessed-murder-to-family/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/nancy-bowens-husband-confessed-murder-to-family/</guid>
-            <pubDate>Thu, 02 Apr 2026 17:55:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/04/02/ca9b6bd2192943648f318c1b796d2e25_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/04/02/ca9b6bd2192943648f318c1b796d2e25_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/04/02/ca9b6bd2192943648f318c1b796d2e25_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Fires Pam Bondi as Attorney General]]></title>
-            <link>https://www.tmz.com/2026/04/02/donald-trump-fires-pam-bondi/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/donald-trump-fires-pam-bondi/</guid>
-            <pubDate>Thu, 02 Apr 2026 17:43:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/01/16by9/2026/04/02/01e151ebb10d43c1b961ae8c8ee34bf7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/01/16by9/2026/04/02/01e151ebb10d43c1b961ae8c8ee34bf7_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/04/02/01e151ebb10d43c1b961ae8c8ee34bf7_xl.png">
             </media:thumbnail>
         </item>
     </channel>
