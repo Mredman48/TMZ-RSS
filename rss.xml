@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 18:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 19:33:43 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;The Bachelorette Australia&#039; Star Konrad Bien-Stephen Dead at 35]]></title>
+            <link>https://www.tmz.com/2026/04/02/konrad-bien-stephen-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/konrad-bien-stephen-dead/</guid>
+            <pubDate>Thu, 02 Apr 2026 19:17:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/04/02/ddbd0e5754d641bcaa1c117c7b17d180_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/04/02/ddbd0e5754d641bcaa1c117c7b17d180_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/04/02/ddbd0e5754d641bcaa1c117c7b17d180_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tiger Woods Cited for Careless Driving on Top of DUI Charge]]></title>
             <link>https://www.tmz.com/2026/04/02/tiger-woods-careless-driving-charge-citation-dui/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/01/16by9/2026/04/02/01e151ebb10d43c1b961ae8c8ee34bf7_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/04/02/01e151ebb10d43c1b961ae8c8ee34bf7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Inside &#039;Bob&#039;s Burgers&#039; Actor Eugene Mirman&#039;s Horrific Car Crash, On Video]]></title>
-            <link>https://www.tmz.com/2026/04/02/eugene-mirman-car-crash-inside-look/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/eugene-mirman-car-crash-inside-look/</guid>
-            <pubDate>Thu, 02 Apr 2026 17:41:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/04/02/d87bbf9a0f8945b7ba0cb567ce08df12_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/02/d87bbf9a0f8945b7ba0cb567ce08df12_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/02/d87bbf9a0f8945b7ba0cb567ce08df12_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
