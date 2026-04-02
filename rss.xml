@@ -4,11 +4,55 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 21:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 22:05:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[IShowSpeed Gets Thrown Through Livestream Setup By WWE Superstar L.A. Knight]]></title>
+            <title><![CDATA[&#039;RHONJ&#039; Star Dolores Catania Reacts To Cast Shake-Up]]></title>
+            <link>https://www.tmz.com/2026/04/02/dolores-catania-comments-on-rhonj-new-cast/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/dolores-catania-comments-on-rhonj-new-cast/</guid>
+            <pubDate>Thu, 02 Apr 2026 22:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/04/02/5e05d68d53b44abfbbe79111d80c19f7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/04/02/5e05d68d53b44abfbbe79111d80c19f7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/04/02/5e05d68d53b44abfbbe79111d80c19f7_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods Told Officer He Was &#039;Hoping To&#039; Play Masters At Crash Scene]]></title>
+            <link>https://www.tmz.com/2026/04/02/tiger-woods-officer-masters-hopes-dui-crash-scene/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/tiger-woods-officer-masters-hopes-dui-crash-scene/</guid>
+            <pubDate>Thu, 02 Apr 2026 21:35:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/04/02/2b30e90a5a4442cfa0af0e3fa5e63ff2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/04/02/2b30e90a5a4442cfa0af0e3fa5e63ff2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/04/02/2b30e90a5a4442cfa0af0e3fa5e63ff2_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rude Viral Texas Judge Filed For Bankruptcy With 6-Figure Debt]]></title>
+            <link>https://www.tmz.com/2026/04/02/viral-texas-judge-filed-bankruptcy-with-big-debt/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/viral-texas-judge-filed-bankruptcy-with-big-debt/</guid>
+            <pubDate>Thu, 02 Apr 2026 21:17:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/04/02/726e917ad131494a90b36ce4d3c5c2d2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/04/02/726e917ad131494a90b36ce4d3c5c2d2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/04/02/726e917ad131494a90b36ce4d3c5c2d2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods Called President Donald Trump From Scene After Flipping Car]]></title>
+            <link>https://www.tmz.com/2026/04/02/tiger-woods-called-president-donald-trump-after-flipping-car-before-dui/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/tiger-woods-called-president-donald-trump-after-flipping-car-before-dui/</guid>
+            <pubDate>Thu, 02 Apr 2026 21:14:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/04/02/da976f0c0eea4b1e8e3b8fe035b63bb7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/04/02/da976f0c0eea4b1e8e3b8fe035b63bb7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/04/02/da976f0c0eea4b1e8e3b8fe035b63bb7_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[IShowSpeed Gets Thrown Through Live Stream Setup By WWE Superstar L.A. Knight]]></title>
             <link>https://www.tmz.com/2026/04/02/ishowspeed-attacked-live-stream-la-knight-wwe-raw-video/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/02/ishowspeed-attacked-live-stream-la-knight-wwe-raw-video/</guid>
             <pubDate>Thu, 02 Apr 2026 21:04:23 GMT</pubDate>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/23/16by9/2026/04/02/23e2e3ce98e74350b51c08ba4c3a06a2_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/04/02/23e2e3ce98e74350b51c08ba4c3a06a2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Deontay Wilder Sued by Ex-Fiancée’s Son Over Alleged Abuse, Boxer Denies Claims]]></title>
-            <link>https://www.tmz.com/2026/04/02/deontay-wilder-accused-beating-ex-fiance-son-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/deontay-wilder-accused-beating-ex-fiance-son-lawsuit/</guid>
-            <pubDate>Thu, 02 Apr 2026 20:57:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/04/02/72873a32e53b49919f6ef32a31d3ceb0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/04/02/72873a32e53b49919f6ef32a31d3ceb0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/04/02/72873a32e53b49919f6ef32a31d3ceb0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Blake Lively&#039;s Sexual Harassment Suit Against Justin Baldoni Dismissed]]></title>
-            <link>https://www.tmz.com/2026/04/02/blake-lively-sexual-harassment-lawsuit-dismissed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/blake-lively-sexual-harassment-lawsuit-dismissed/</guid>
-            <pubDate>Thu, 02 Apr 2026 20:57:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/80/16by9/2026/04/02/80313341ad6a423aa81deb1f5b4cc0b8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/80/16by9/2026/04/02/80313341ad6a423aa81deb1f5b4cc0b8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/80/16by9/2026/04/02/80313341ad6a423aa81deb1f5b4cc0b8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brian Littrell Shades NSYNC in Hilarious Beach Body Cam Footage]]></title>
-            <link>https://www.tmz.com/2026/04/02/brian-littrell-body-cam/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/brian-littrell-body-cam/</guid>
-            <pubDate>Thu, 02 Apr 2026 20:29:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/04/02/b6cfed84f20441c294440e26e4209a72_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/04/02/b6cfed84f20441c294440e26e4209a72_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/04/02/b6cfed84f20441c294440e26e4209a72_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rep. John James Enjoys Caribbean Vacation During Government Shutdown]]></title>
-            <link>https://www.tmz.com/2026/04/02/john-james-on-island-vacation-during-government-shutdown/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/john-james-on-island-vacation-during-government-shutdown/</guid>
-            <pubDate>Thu, 02 Apr 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/04/02/2cffef4ff61042b7a0980fb86bd70666_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/04/02/2cffef4ff61042b7a0980fb86bd70666_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/04/02/2cffef4ff61042b7a0980fb86bd70666_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
