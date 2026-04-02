@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 00:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 03:34:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Stephen Dorff Selling Insane Tennessee Compound for Whopping $10M]]></title>
+            <link>https://www.tmz.com/2026/04/01/stephen-dorff-tennessee-house-for-sale/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/stephen-dorff-tennessee-house-for-sale/</guid>
+            <pubDate>Thu, 02 Apr 2026 01:00:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/04/01/fe74792333ad4386a933c3661efd082f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/04/01/fe74792333ad4386a933c3661efd082f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/04/01/fe74792333ad4386a933c3661efd082f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Florida Democratic Politician Found Dead In Her Home, Husband Arrested]]></title>
+            <link>https://www.tmz.com/2026/04/01/nancy-metayer-bowen-found-dead-husband-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/nancy-metayer-bowen-found-dead-husband-arrested/</guid>
+            <pubDate>Thu, 02 Apr 2026 00:36:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/81/16by9/2026/04/01/81ee854d1df44d15b7688edf2dc89fa1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/81/16by9/2026/04/01/81ee854d1df44d15b7688edf2dc89fa1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/81/16by9/2026/04/01/81ee854d1df44d15b7688edf2dc89fa1_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chuck Norris Family Upset With A.I.-Generated Posts About His Death]]></title>
             <link>https://www.tmz.com/2026/04/01/chuck-norris-family-upset-with-ai-videos-post-death/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/04/01/a37769962d0f44ec8bd9b0472d7c3ab9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/04/01/a37769962d0f44ec8bd9b0472d7c3ab9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Memphis Grizzlies Player Brandon Clarke Arrested in Arkansas]]></title>
-            <link>https://www.tmz.com/2026/04/01/memphis-grizzlies-player-brandon-clarke-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/memphis-grizzlies-player-brandon-clarke-arrested/</guid>
-            <pubDate>Wed, 01 Apr 2026 22:38:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/04/01/09e38b4b473245daa113db49178fc0fc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/04/01/09e38b4b473245daa113db49178fc0fc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/04/01/09e38b4b473245daa113db49178fc0fc_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rude Viral Texas Judge In More Trouble, Facing Fines From Ethics Commission]]></title>
-            <link>https://www.tmz.com/2026/04/01/rude-viral-texas-judge-faces-ethics-commission-fines/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/01/rude-viral-texas-judge-faces-ethics-commission-fines/</guid>
-            <pubDate>Wed, 01 Apr 2026 22:30:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/04/01/52d8b28362a944cea091d62961bbfcdd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/04/01/52d8b28362a944cea091d62961bbfcdd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/04/01/52d8b28362a944cea091d62961bbfcdd_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
