@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 08:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 09:41:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Corey Lewandowski Has Kristi Noem&#039;s Back Despite Crossdressing Husband: Report]]></title>
+            <link>https://www.tmz.com/2026/04/02/corey-lewendowski-kristi-noem-bryon/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/corey-lewendowski-kristi-noem-bryon/</guid>
+            <pubDate>Thu, 02 Apr 2026 09:35:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/04/01/dfe7ed0fbbc24fe9b1a9fafdaf65b68d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/04/01/dfe7ed0fbbc24fe9b1a9fafdaf65b68d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/04/01/dfe7ed0fbbc24fe9b1a9fafdaf65b68d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[RHOC Star Gina Kirschenheiter’s BF Accuses Ex of Missing Drug Tests in Custody Feud]]></title>
+            <link>https://www.tmz.com/2026/04/02/gina-kirschenheiter-boyfriend-accuses-ex-missing-drug-tests/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/gina-kirschenheiter-boyfriend-accuses-ex-missing-drug-tests/</guid>
+            <pubDate>Thu, 02 Apr 2026 09:00:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/04/01/35c08687c81a4b5a8c708d4af4fd9f71_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/04/01/35c08687c81a4b5a8c708d4af4fd9f71_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/04/01/35c08687c81a4b5a8c708d4af4fd9f71_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kendra Duggar Cries During Jail Call with Joseph, Says They Can&#039;t Trust Anyone]]></title>
             <link>https://www.tmz.com/2026/04/02/kendra-duggar-cries-with-joseph-during-jail-phone-call/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/20/16by9/2026/03/20/20d18d675a7d46f09514f6f8cf0846e1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/03/20/20d18d675a7d46f09514f6f8cf0846e1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[A-ha Singer Morten Harket &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/04/02/morten-harket-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/morten-harket-memba-him/</guid>
-            <pubDate>Thu, 02 Apr 2026 07:01:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e5be73427d3458bb4be066670811a1a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e5be73427d3458bb4be066670811a1a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/03/18/1e5be73427d3458bb4be066670811a1a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Patricia Arquette Says Americans Are Losing Civil Rights, Decries War in Iran]]></title>
-            <link>https://www.tmz.com/2026/04/02/patricia-arquette-fears-for-american-liberties/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/patricia-arquette-fears-for-american-liberties/</guid>
-            <pubDate>Thu, 02 Apr 2026 07:00:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/04/01/6806d7819b6e4735bb786732f923fa72_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/04/01/6806d7819b6e4735bb786732f923fa72_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/04/01/6806d7819b6e4735bb786732f923fa72_xl.png">
             </media:thumbnail>
         </item>
     </channel>
