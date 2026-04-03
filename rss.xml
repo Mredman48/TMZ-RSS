@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 09:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 10:25:12 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Bob&#039;s Burgers&#039; Eugene Mirman &#039;Incoherent&#039; After Fiery Car Crash, Dispatch Audio Reveals]]></title>
+            <link>https://www.tmz.com/2026/04/03/eugene-mirman-car-crash-dispatch-audio/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/eugene-mirman-car-crash-dispatch-audio/</guid>
+            <pubDate>Fri, 03 Apr 2026 10:00:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/04/02/eb49adc6823445d3b89b2f1adc6de92e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/04/02/eb49adc6823445d3b89b2f1adc6de92e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/04/02/eb49adc6823445d3b89b2f1adc6de92e_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Below Deck&#039; Star Trevor Walker Begged Cops Not To Arrest Him For DUI]]></title>
             <link>https://www.tmz.com/2026/04/03/trevor-walker-begged-cops-to-avoid-dui-arrest/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/04/01/6a538910d39d479791c7029488f279de_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/04/01/6a538910d39d479791c7029488f279de_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shapewear & Compression Garments on Amazon]]></title>
-            <link>https://www.tmz.com/2026/04/03/shapewear-deals-amazon/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/shapewear-deals-amazon/</guid>
-            <pubDate>Fri, 03 Apr 2026 07:05:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/03/24/eabeb29eb6ba4593bc35246e536e4646_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/03/24/eabeb29eb6ba4593bc35246e536e4646_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/03/24/eabeb29eb6ba4593bc35246e536e4646_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
