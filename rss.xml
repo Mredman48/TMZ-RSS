@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 15:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 16:06:19 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Mel B Says Not Everyone in Spice Girls is &#039;Honest&#039; Enough for a Documentary]]></title>
+            <link>https://www.tmz.com/2026/04/03/mel-b-talks-spice-girls-documentary/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/mel-b-talks-spice-girls-documentary/</guid>
+            <pubDate>Fri, 03 Apr 2026 15:48:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/04/03/ffed4f447902427ead3b2b9c03a78d8e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/04/03/ffed4f447902427ead3b2b9c03a78d8e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/04/03/ffed4f447902427ead3b2b9c03a78d8e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Bob&#039;s Burgers&#039; Eugene Mirman Thanks Heroes for Pulling Him From Wreck]]></title>
+            <link>https://www.tmz.com/2026/04/03/eugene-mirman-thankful-for-people-save-him-from-crash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/eugene-mirman-thankful-for-people-save-him-from-crash/</guid>
+            <pubDate>Fri, 03 Apr 2026 15:33:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/03/d4c9e80d576c4dc0b832932f202329ec_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/03/d4c9e80d576c4dc0b832932f202329ec_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/03/d4c9e80d576c4dc0b832932f202329ec_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Melissa Gilbert Grilled About &#039;Moments of Doubt&#039; After Timothy Busfield&#039;s Arrest]]></title>
+            <link>https://www.tmz.com/2026/04/03/melissa-gilbert-defends-timothy-busfield-after-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/melissa-gilbert-defends-timothy-busfield-after-arrest/</guid>
+            <pubDate>Fri, 03 Apr 2026 15:27:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/04/03/0a4982e5bbf74cb68d1c7531b10c087d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/04/03/0a4982e5bbf74cb68d1c7531b10c087d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/04/03/0a4982e5bbf74cb68d1c7531b10c087d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[U.S. Fighter Jet Shot Down in Iran, See Photos]]></title>
             <link>https://www.tmz.com/2026/04/03/us-fighter-jet-shot-down-in-iran/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/65/16by9/2026/04/03/65aead204c3e495d8945fd86a5223706_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/04/03/65aead204c3e495d8945fd86a5223706_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Daniel Susac&#039;s MLB Debut Goes Viral After Nephew Steals Spotlight]]></title>
-            <link>https://www.tmz.com/2026/04/03/san-francisco-giants-daniel-susac-mlb-debut-kid-viral-reaction-mets/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/san-francisco-giants-daniel-susac-mlb-debut-kid-viral-reaction-mets/</guid>
-            <pubDate>Fri, 03 Apr 2026 15:03:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/04/03/be290eff09ea4c29aca0496dbb09033c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/04/03/be290eff09ea4c29aca0496dbb09033c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/04/03/be290eff09ea4c29aca0496dbb09033c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Clavicular Appears to Have Convulsions After Getting Choked Out On Live Stream]]></title>
-            <link>https://www.tmz.com/2026/04/03/clavicular-convulses-after-getting-choked-out/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/clavicular-convulses-after-getting-choked-out/</guid>
-            <pubDate>Fri, 03 Apr 2026 15:03:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/04/03/f8219ae7ec194e2ba512d99b9f9daa32_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/04/03/f8219ae7ec194e2ba512d99b9f9daa32_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/04/03/f8219ae7ec194e2ba512d99b9f9daa32_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kendra Duggar Asks Joseph If He Loves Her After Arrests in Jail Call]]></title>
-            <link>https://www.tmz.com/2026/04/03/kendra-duggar-asks-joseph-if-he-loves-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/kendra-duggar-asks-joseph-if-he-loves-her/</guid>
-            <pubDate>Fri, 03 Apr 2026 15:00:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/04/02/2e3e489067bb4eada816a5e848f2ac02_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/02/2e3e489067bb4eada816a5e848f2ac02_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/02/2e3e489067bb4eada816a5e848f2ac02_xl.png">
             </media:thumbnail>
         </item>
     </channel>
