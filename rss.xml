@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 00:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 03:36:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Britney Spears&#039; Son Sean Preston Changes Instagram Handle to Sean P Spears]]></title>
+            <link>https://www.tmz.com/2026/04/02/sean-preston-adds-spears-to-instagram-handle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/sean-preston-adds-spears-to-instagram-handle/</guid>
+            <pubDate>Fri, 03 Apr 2026 00:53:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/04/03/2265f612d2d3483eb22e8966baa96823_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/03/2265f612d2d3483eb22e8966baa96823_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/03/2265f612d2d3483eb22e8966baa96823_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Naked Man Fights Outside Kanye West Concert, On Video]]></title>
+            <link>https://www.tmz.com/2026/04/02/naked-man-street-fighting-outside-kanye-west-concert/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/naked-man-street-fighting-outside-kanye-west-concert/</guid>
+            <pubDate>Fri, 03 Apr 2026 00:44:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/02/31a38c511aeb4336a3d2ba97bf38e965_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/02/31a38c511aeb4336a3d2ba97bf38e965_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/02/31a38c511aeb4336a3d2ba97bf38e965_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Diff&#039;rent Strokes&#039; Actor Todd Bridges Files For Divorce]]></title>
+            <link>https://www.tmz.com/2026/04/02/todd-bridges-files-divorce/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/todd-bridges-files-divorce/</guid>
+            <pubDate>Fri, 03 Apr 2026 00:20:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/04/02/091d6aa053624766af20098b9ee62a67_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/04/02/091d6aa053624766af20098b9ee62a67_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/04/02/091d6aa053624766af20098b9ee62a67_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jack Black Reveals Status Of Potential Tenacious D Reunion]]></title>
             <link>https://www.tmz.com/2026/04/02/jack-black-reveals-tenacious-d-has-no-plans-of-getting-back-together/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/02/34bda4fd462f419ab13cf522d918a946_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/02/34bda4fd462f419ab13cf522d918a946_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex Turnstile Guitarist Brady Ebert Charged with Attempted Murder]]></title>
-            <link>https://www.tmz.com/2026/04/02/brady-ebert-charged-with-attempted-murder/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/brady-ebert-charged-with-attempted-murder/</guid>
-            <pubDate>Thu, 02 Apr 2026 23:23:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/04/02/1103b7231122457cb517a6e0d55e21f1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/04/02/1103b7231122457cb517a6e0d55e21f1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/04/02/1103b7231122457cb517a6e0d55e21f1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Trump Fires Back After Bruce Springsteen Slams Him During Show]]></title>
-            <link>https://www.tmz.com/2026/04/02/trump-fires-back-bruce-springsteen/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/trump-fires-back-bruce-springsteen/</guid>
-            <pubDate>Thu, 02 Apr 2026 23:04:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/04/02/943c4f849dbb49f1b7c967f516f2c580_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/04/02/943c4f849dbb49f1b7c967f516f2c580_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/04/02/943c4f849dbb49f1b7c967f516f2c580_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nicola Peltz Beckham vs. Brie Garcia Who&#039;d You Rather?! Sassy In Stockings Edition]]></title>
-            <link>https://www.tmz.com/2026/04/02/nicola-peltz-beckham-brie-garcia-whod-you-rather-sexy-stockings/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/02/nicola-peltz-beckham-brie-garcia-whod-you-rather-sexy-stockings/</guid>
-            <pubDate>Thu, 02 Apr 2026 22:56:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/04/02/0883db5821524a81b9f4839fb1fd5c28_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/04/02/0883db5821524a81b9f4839fb1fd5c28_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/04/02/0883db5821524a81b9f4839fb1fd5c28_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
