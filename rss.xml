@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 19:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 20:03:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Wife of Missing Air Force General Says He &#039;Planned Not to Be Found&#039; in 911 Call]]></title>
+            <link>https://www.tmz.com/2026/04/03/wife-of-missing-air-force-general-911-call/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/wife-of-missing-air-force-general-911-call/</guid>
+            <pubDate>Fri, 03 Apr 2026 19:57:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/04/03/8f32a53b89d34d47a8c43de2fabadc46_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/04/03/8f32a53b89d34d47a8c43de2fabadc46_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/04/03/8f32a53b89d34d47a8c43de2fabadc46_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Second United States Plane Crashes During Iran War]]></title>
+            <link>https://www.tmz.com/2026/04/03/iran-reportedly-shoots-down-second-united-states-plane/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/iran-reportedly-shoots-down-second-united-states-plane/</guid>
+            <pubDate>Fri, 03 Apr 2026 19:41:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/04/03/fd1cfcb568b94de698fa7bb61fb904ba_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/04/03/fd1cfcb568b94de698fa7bb61fb904ba_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/04/03/fd1cfcb568b94de698fa7bb61fb904ba_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Olympian Kennedy Blades, FOX News&#039; Abby Hornacek Talk Suplex On Live TV]]></title>
             <link>https://www.tmz.com/2026/04/03/kennedy-blades-abby-hornacek-suplex-fox-news-live-tv-wrestling/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/04/03/2f2707f9d8c34de89c96ca0509a1dc4c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/04/03/2f2707f9d8c34de89c96ca0509a1dc4c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dakota Mortensen to Be Edited Out of &#039;Vanderpump Villa&#039; Season 3]]></title>
-            <link>https://www.tmz.com/2026/04/03/dakota-mortensen-edited-out-of-vanderpump-villa/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/dakota-mortensen-edited-out-of-vanderpump-villa/</guid>
-            <pubDate>Fri, 03 Apr 2026 18:28:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/04/03/476916729c5e405998f2e69836b87d7f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/04/03/476916729c5e405998f2e69836b87d7f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/04/03/476916729c5e405998f2e69836b87d7f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NASA Shares Photos of Earth From Artemis II Rocket]]></title>
-            <link>https://www.tmz.com/2026/04/03/nasa-posts-pictures-of-earth-from-artemis-ii/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/nasa-posts-pictures-of-earth-from-artemis-ii/</guid>
-            <pubDate>Fri, 03 Apr 2026 18:23:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/04/03/0d55689f65d84de992b6691be97d05bd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/04/03/0d55689f65d84de992b6691be97d05bd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/04/03/0d55689f65d84de992b6691be97d05bd_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
