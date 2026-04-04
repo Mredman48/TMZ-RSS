@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 14:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 15:03:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kanye West Brings Out Lauryn Hill, Travis Scott & More at Sold-Out L.A. Show]]></title>
+            <link>https://www.tmz.com/2026/04/04/kanye-west-sofi-concert-lauryn-hill-travis-scott-perform/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/kanye-west-sofi-concert-lauryn-hill-travis-scott-perform/</guid>
+            <pubDate>Sat, 04 Apr 2026 14:58:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/04/04/48261b4484b34c5d8bd301dccd54557d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/04/04/48261b4484b34c5d8bd301dccd54557d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/04/04/48261b4484b34c5d8bd301dccd54557d_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Harry Daniels Reacts to Clavicular and Woah Vicky Romance Potential]]></title>
             <link>https://www.tmz.com/2026/04/04/harry-daniels-talks-clavicular-woah-vicky-dating-potential/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/16/16by9/2026/04/04/16177e6c34fe4cad8bdd9b64106120c9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/04/04/16177e6c34fe4cad8bdd9b64106120c9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;RHOBH’s Mauricio Umansky Family Drama Explodes in Court]]></title>
-            <link>https://www.tmz.com/2026/04/04/mauricio-umansky-family-drama-erupts-in-court/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/mauricio-umansky-family-drama-erupts-in-court/</guid>
-            <pubDate>Sat, 04 Apr 2026 09:00:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/04/03/63cc49e2fd5145499469b9a3d80f78f4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/04/03/63cc49e2fd5145499469b9a3d80f78f4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/04/03/63cc49e2fd5145499469b9a3d80f78f4_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
