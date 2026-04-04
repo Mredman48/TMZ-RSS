@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 19:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 21:01:32 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kate Beckinsale Says Mark Ruffalo is Lucky to Have a Penis After Alleging Agent Dropped Her]]></title>
+            <link>https://www.tmz.com/2026/04/04/kate-beckinsale-says-mark-ruffalo-lucky-to-have-penis/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/kate-beckinsale-says-mark-ruffalo-lucky-to-have-penis/</guid>
+            <pubDate>Sat, 04 Apr 2026 20:48:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/04/04/134ab919f45e400d863a58a7fd0873f8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/04/04/134ab919f45e400d863a58a7fd0873f8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/04/04/134ab919f45e400d863a58a7fd0873f8_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Shar Jackson Says She Won&#039;t Write Memoir to Respond to Stories About Her]]></title>
             <link>https://www.tmz.com/2026/04/04/shar-jackson-not-interested-in-writing-memoirs/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dakota Johnson Kisses Role Model as Relationship Heats Up]]></title>
-            <link>https://www.tmz.com/2026/04/04/dakota-johnson-and-role-model-kiss/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/dakota-johnson-and-role-model-kiss/</guid>
-            <pubDate>Sat, 04 Apr 2026 16:20:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/04/04/0bc87363728f4d6eaa3ec67cadc82d51_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/04/04/0bc87363728f4d6eaa3ec67cadc82d51_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/04/04/0bc87363728f4d6eaa3ec67cadc82d51_xl.png">
             </media:thumbnail>
         </item>
     </channel>
