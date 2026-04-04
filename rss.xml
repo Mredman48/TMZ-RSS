@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 15:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 17:04:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Senator Rick Scott takes Pics of His Family at Disney World, Calls Out TMZ Amid Shutdown]]></title>
+            <link>https://www.tmz.com/2026/04/04/senator-rick-scott-at-disney-world-amid-shutdown/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/senator-rick-scott-at-disney-world-amid-shutdown/</guid>
+            <pubDate>Sat, 04 Apr 2026 16:25:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dakota Johnson Kisses Role Model as Relationship Heats Up]]></title>
+            <link>https://www.tmz.com/2026/04/04/dakota-johnson-and-role-model-kiss/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/dakota-johnson-and-role-model-kiss/</guid>
+            <pubDate>Sat, 04 Apr 2026 16:20:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/04/04/0bc87363728f4d6eaa3ec67cadc82d51_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/04/04/0bc87363728f4d6eaa3ec67cadc82d51_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/04/04/0bc87363728f4d6eaa3ec67cadc82d51_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Young and the Restless&#039; Star Dee Freeman Dead at 66 After Lung Cancer Diagnosis]]></title>
             <link>https://www.tmz.com/2026/04/04/dee-freeman-dead/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/02/2e29b51603194a799269adf4bcbaf4b1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/02/2e29b51603194a799269adf4bcbaf4b1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul Vacations with Her Older Kids As She&#039;s Barred from Seeing Child with Dakota]]></title>
-            <link>https://www.tmz.com/2026/04/04/taylor-frankie-paul-vacations-with-her-older-children/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/taylor-frankie-paul-vacations-with-her-older-children/</guid>
-            <pubDate>Sat, 04 Apr 2026 12:47:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/04/04/ea9075bba4a24565b55bc12f65412f75_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/04/04/ea9075bba4a24565b55bc12f65412f75_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/04/04/ea9075bba4a24565b55bc12f65412f75_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love Overboard&#039;s David Fuhrmann Joins Chippendales Crew]]></title>
-            <link>https://www.tmz.com/2026/04/04/david-fuhrmann-performs-with-chippendales/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/david-fuhrmann-performs-with-chippendales/</guid>
-            <pubDate>Sat, 04 Apr 2026 11:54:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/04/03/113309d385f94db3a5da0a190622ba56_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/04/03/113309d385f94db3a5da0a190622ba56_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/04/03/113309d385f94db3a5da0a190622ba56_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
