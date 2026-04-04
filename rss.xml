@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 11:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 11:57:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Slain Florida Politician Nancy Bowen Was Sister of Late Parkland Survivor]]></title>
+            <link>https://www.tmz.com/2026/04/04/nancy-bowen-was-sister-of-parkland-survivor/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/nancy-bowen-was-sister-of-parkland-survivor/</guid>
+            <pubDate>Sat, 04 Apr 2026 11:47:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/04/04/16177e6c34fe4cad8bdd9b64106120c9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/04/04/16177e6c34fe4cad8bdd9b64106120c9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/04/04/16177e6c34fe4cad8bdd9b64106120c9_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;RHOBH’s Mauricio Umansky Family Drama Explodes in Court]]></title>
             <link>https://www.tmz.com/2026/04/04/mauricio-umansky-family-drama-erupts-in-court/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/24/16by9/2026/04/01/243994d8f31842b9835a5b550929f119_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/04/01/243994d8f31842b9835a5b550929f119_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Trey Burke Gives Michigan Advice Ahead Of Final Four Showdown W/ Arizona]]></title>
-            <link>https://www.tmz.com/2026/04/04/trey-burke-michigan-wolverines-arizona-final-four-message/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/trey-burke-michigan-wolverines-arizona-final-four-message/</guid>
-            <pubDate>Sat, 04 Apr 2026 07:30:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/04/03/3560b9d229ee405b87e72cdbfaa3bfbd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/04/03/3560b9d229ee405b87e72cdbfaa3bfbd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/04/03/3560b9d229ee405b87e72cdbfaa3bfbd_xl.png">
             </media:thumbnail>
         </item>
     </channel>
