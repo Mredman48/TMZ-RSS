@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 00:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 03:24:00 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Blake Lively Goes Dragon Mode After Justin Baldoni Lawsuit Carved Up]]></title>
+            <link>https://www.tmz.com/2026/04/03/blake-lively-reacts-justin-baldoni-sexual-harrassment-claims-dismissed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/blake-lively-reacts-justin-baldoni-sexual-harrassment-claims-dismissed/</guid>
+            <pubDate>Sat, 04 Apr 2026 00:04:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/04/03/a46af6115a3745beb77fe98530afd120_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/04/03/a46af6115a3745beb77fe98530afd120_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/04/03/a46af6115a3745beb77fe98530afd120_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Paige DeSorbo & Hannah Berner Stand By Ciara In &#039;Summer House&#039; Scandal]]></title>
             <link>https://www.tmz.com/2026/04/03/paige-desorbo-hannah-berner-defend-ciara-miller/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a7/16by9/2026/04/03/a795e7f5df8a44eb93894eea2c07f707_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a7/16by9/2026/04/03/a795e7f5df8a44eb93894eea2c07f707_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pooh Shiesty Allegedly Kidnapping Gucci Mane Caught on Surveillance]]></title>
-            <link>https://www.tmz.com/2026/04/03/pooh-shiesty-allegedly-kidnapping-gucci-mane-captured-on-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/03/pooh-shiesty-allegedly-kidnapping-gucci-mane-captured-on-video/</guid>
-            <pubDate>Fri, 03 Apr 2026 21:34:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4b/16by9/2026/04/03/4b667812d1454624827f77cb315ced97_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/04/03/4b667812d1454624827f77cb315ced97_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/04/03/4b667812d1454624827f77cb315ced97_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
