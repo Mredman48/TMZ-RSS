@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 21:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 21:58:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ben Affleck and Jennifer Garner Reunite on Easter Weekend]]></title>
+            <link>https://www.tmz.com/2026/04/04/ben-affleck-jennifer-garner-easter-family-outing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/ben-affleck-jennifer-garner-easter-family-outing/</guid>
+            <pubDate>Sat, 04 Apr 2026 21:19:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7d/16by9/2026/04/04/7d33fe31568b4b3e8678dd3c0ed96a80_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7d/16by9/2026/04/04/7d33fe31568b4b3e8678dd3c0ed96a80_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7d/16by9/2026/04/04/7d33fe31568b4b3e8678dd3c0ed96a80_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kate Beckinsale Says Mark Ruffalo is Lucky to Have a Penis After Alleging Agent Dropped Her]]></title>
             <link>https://www.tmz.com/2026/04/04/kate-beckinsale-says-mark-ruffalo-lucky-to-have-penis/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/04/04/b834b5669c20467ea0f59d090f4d1220_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/04/04/b834b5669c20467ea0f59d090f4d1220_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Senator Rick Scott Takes Pics of His Family at Disney World, Calls Out TMZ Amid Shutdown]]></title>
-            <link>https://www.tmz.com/2026/04/04/senator-rick-scott-at-disney-world-amid-shutdown/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/senator-rick-scott-at-disney-world-amid-shutdown/</guid>
-            <pubDate>Sat, 04 Apr 2026 16:25:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/04/85f1663c02bd4658b61d1f662b9639b7_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
