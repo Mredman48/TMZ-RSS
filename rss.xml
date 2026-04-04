@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 11:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 13:38:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul Vacations with Her Older Kids As She&#039;s Barred from Seeing Child with Dakota]]></title>
+            <link>https://www.tmz.com/2026/04/04/taylor-frankie-paul-vacations-with-her-older-children/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/taylor-frankie-paul-vacations-with-her-older-children/</guid>
+            <pubDate>Sat, 04 Apr 2026 12:47:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/04/04/ea9075bba4a24565b55bc12f65412f75_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/04/04/ea9075bba4a24565b55bc12f65412f75_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/04/04/ea9075bba4a24565b55bc12f65412f75_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Love Overboard&#039;s David Fuhrmann Joins Chippendales Crew]]></title>
+            <link>https://www.tmz.com/2026/04/04/david-fuhrmann-performs-with-chippendales/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/david-fuhrmann-performs-with-chippendales/</guid>
+            <pubDate>Sat, 04 Apr 2026 11:54:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/04/03/113309d385f94db3a5da0a190622ba56_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/04/03/113309d385f94db3a5da0a190622ba56_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/04/03/113309d385f94db3a5da0a190622ba56_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Slain Florida Politician Nancy Bowen Was Sister of Late Parkland Survivor]]></title>
             <link>https://www.tmz.com/2026/04/04/nancy-bowen-was-sister-of-parkland-survivor/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/04/03/3cc29c843ec74aebb4ab4e6020936bfe_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/04/03/3cc29c843ec74aebb4ab4e6020936bfe_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lauren Kettering Hot Shots To Celebrate Her 23rd Birthday!]]></title>
-            <link>https://www.tmz.com/2026/04/04/lauren-kettering-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/lauren-kettering-birthday-hot-shots/</guid>
-            <pubDate>Sat, 04 Apr 2026 08:00:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/03/31/b467d337da15422a86b46b0c859f4840_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/03/31/b467d337da15422a86b46b0c859f4840_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/03/31/b467d337da15422a86b46b0c859f4840_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Babes In The Shower For April Showers ... Dripping With Confidence!]]></title>
-            <link>https://www.tmz.com/2026/04/04/babes-in-the-shower-for-april-showers-dripping-with-confidence/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/babes-in-the-shower-for-april-showers-dripping-with-confidence/</guid>
-            <pubDate>Sat, 04 Apr 2026 07:45:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/04/01/243994d8f31842b9835a5b550929f119_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/04/01/243994d8f31842b9835a5b550929f119_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/04/01/243994d8f31842b9835a5b550929f119_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
