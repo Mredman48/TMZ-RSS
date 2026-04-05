@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 14:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 15:04:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Lindsay Hubbard Unblocks Carl Radke Amid &#039;Summer House&#039; Drama]]></title>
+            <link>https://www.tmz.com/2026/04/05/lindsay-hubbard-unblocks-carl-radke/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/lindsay-hubbard-unblocks-carl-radke/</guid>
+            <pubDate>Sun, 05 Apr 2026 15:00:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/04/05/fbd06e4de6ff491aa95c47663e3f9d38_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/04/05/fbd06e4de6ff491aa95c47663e3f9d38_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/04/05/fbd06e4de6ff491aa95c47663e3f9d38_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Trump Drops F-Bomb in Easter Message, Threatens Iran]]></title>
+            <link>https://www.tmz.com/2026/04/05/trump-swears-in-easter-message/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/trump-swears-in-easter-message/</guid>
+            <pubDate>Sun, 05 Apr 2026 14:48:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/04/05/69a5a3fa32c1411c868647986b016be2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/04/05/69a5a3fa32c1411c868647986b016be2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/04/05/69a5a3fa32c1411c868647986b016be2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[15 Injured After Car Slams Into Crowd at Louisiana Parade]]></title>
             <link>https://www.tmz.com/2026/04/05/car-injures-people-in-louisiana-parade-crowd/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/05/31248be9138c4173bfb14f117ef4f6f9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/05/31248be9138c4173bfb14f117ef4f6f9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sai De Silva Breaks Silence on Divorce From Husband David Craig]]></title>
-            <link>https://www.tmz.com/2026/04/05/sai-de-silva-breaks-silence-on-divorce-from-david-craig/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/sai-de-silva-breaks-silence-on-divorce-from-david-craig/</guid>
-            <pubDate>Sun, 05 Apr 2026 12:54:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/04/05/8a4cedc5c98d461999275ac428c66c51_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/04/05/8a4cedc5c98d461999275ac428c66c51_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/04/05/8a4cedc5c98d461999275ac428c66c51_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gabrielle Union&#039;s Father Sylvester Dead at 81]]></title>
-            <link>https://www.tmz.com/2026/04/05/sylvester-union-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/sylvester-union-dead/</guid>
-            <pubDate>Sun, 05 Apr 2026 12:46:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/04/05/1d1c7b45882242d0b912c896763586ba_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/04/05/1d1c7b45882242d0b912c896763586ba_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/04/05/1d1c7b45882242d0b912c896763586ba_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
