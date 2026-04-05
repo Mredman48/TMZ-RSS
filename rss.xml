@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 07:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 08:06:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess The Sexy CeleBunnies ... Happy Easter!]]></title>
+            <link>https://www.tmz.com/2026/04/05/guess-the-celebs-as-sexy-bunnies/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/guess-the-celebs-as-sexy-bunnies/</guid>
+            <pubDate>Sun, 05 Apr 2026 08:00:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/03/31/8c523635dbbd4e4bb3686bc6e9d3b2bf_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/03/31/8c523635dbbd4e4bb3686bc6e9d3b2bf_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/03/31/8c523635dbbd4e4bb3686bc6e9d3b2bf_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Zendaya Good Genes or Good Docs?!]]></title>
+            <link>https://www.tmz.com/2026/04/05/zendaya-good-genes-or-good-docs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/zendaya-good-genes-or-good-docs/</guid>
+            <pubDate>Sun, 05 Apr 2026 07:45:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/04/01/bf176e1c5aa846c89cb31bf3c20d5b5a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/04/01/bf176e1c5aa846c89cb31bf3c20d5b5a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/04/01/bf176e1c5aa846c89cb31bf3c20d5b5a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Olympic Hockey Star Laila Edwards Wants to Meet Billie Eilish, I&#039;m a Big Fan!]]></title>
             <link>https://www.tmz.com/2026/04/05/laila-edwards-billie-eilish-team-usa-hockey-pwhl/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/04/01/1e1837499e2040c68194db16395f263a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/04/01/1e1837499e2040c68194db16395f263a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jonathan Majors Says He&#039;s Fine After Falling Through Window on Set]]></title>
-            <link>https://www.tmz.com/2026/04/04/jonathan-majors-says-hes-fine-after-falling-through-window-on-set/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/jonathan-majors-says-hes-fine-after-falling-through-window-on-set/</guid>
-            <pubDate>Sun, 05 Apr 2026 01:38:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/04/04/743511398f1645c59b8674ccb248e2a9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/04/743511398f1645c59b8674ccb248e2a9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/04/743511398f1645c59b8674ccb248e2a9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tori Spelling Transported to Hospital After Car Hit By Another Driver]]></title>
-            <link>https://www.tmz.com/2026/04/04/tori-spelling-kids-taken-hospital-after-car-crash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/04/tori-spelling-kids-taken-hospital-after-car-crash/</guid>
-            <pubDate>Sun, 05 Apr 2026 01:07:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/04/04/237a23d6f22d4f5db4e65759288a94fd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/04/04/237a23d6f22d4f5db4e65759288a94fd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/04/04/237a23d6f22d4f5db4e65759288a94fd_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
