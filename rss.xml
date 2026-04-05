@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 21:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 23:02:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tori Spelling Spends Easter With Kids After Scary Car Crash]]></title>
+            <link>https://www.tmz.com/2026/04/05/tori-spelling-spends-easter-with-kids-after-scary-car-crash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/tori-spelling-spends-easter-with-kids-after-scary-car-crash/</guid>
+            <pubDate>Sun, 05 Apr 2026 22:45:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/04/05/e2db4a898e364da48ef8f54580758851_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/04/05/e2db4a898e364da48ef8f54580758851_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/04/05/e2db4a898e364da48ef8f54580758851_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brandi Glanville Shades LeAnn Rimes Over &#039;Weird&#039; Jaw Massage Video]]></title>
+            <link>https://www.tmz.com/2026/04/05/brandi-glanville-shades-leann-rimes-over-jaw-procedure/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/brandi-glanville-shades-leann-rimes-over-jaw-procedure/</guid>
+            <pubDate>Sun, 05 Apr 2026 22:25:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/04/05/a63798ba496d4740bd6f96a821d3d446_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/04/05/a63798ba496d4740bd6f96a821d3d446_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/04/05/a63798ba496d4740bd6f96a821d3d446_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Seen For The First Time Amid Health Crisis Concerns]]></title>
+            <link>https://www.tmz.com/2026/04/05/donald-trump-spotted-amid-hospitalization-rumors/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/donald-trump-spotted-amid-hospitalization-rumors/</guid>
+            <pubDate>Sun, 05 Apr 2026 22:06:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/04/05/96f3142e97b848fc992d84e8d95c443a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/04/05/96f3142e97b848fc992d84e8d95c443a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/04/05/96f3142e97b848fc992d84e8d95c443a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Gigi Hadid &#039;Sick&#039; to Her Stomach Over Epstein Files Name Mention]]></title>
             <link>https://www.tmz.com/2026/04/05/gigi-hadid-reacts-to-epstein-files-mention/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/04/05/a9169024e15f4c2f81556db219d05124_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/04/05/a9169024e15f4c2f81556db219d05124_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jennifer Aniston & Boyfriend Jim Curtis Wrap Their Arms Around Each Other in Rare Pic]]></title>
-            <link>https://www.tmz.com/2026/04/05/jennifer-aniston-jim-curtis-share-rare-pic-together/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/jennifer-aniston-jim-curtis-share-rare-pic-together/</guid>
-            <pubDate>Sun, 05 Apr 2026 20:03:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/04/05/d80ce1f475b047c39da1a4ad02fdcb03_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/05/d80ce1f475b047c39da1a4ad02fdcb03_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/05/d80ce1f475b047c39da1a4ad02fdcb03_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Savannah Guthrie Delivers Easter Message Amid Mom&#039;s Disappearance]]></title>
-            <link>https://www.tmz.com/2026/04/05/savannah-guthrie-delivers-easter-sunday-address/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/savannah-guthrie-delivers-easter-sunday-address/</guid>
-            <pubDate>Sun, 05 Apr 2026 19:19:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/04/05/783b5cb75ae3463cb9eb7ad60bb2ceaf_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/04/05/783b5cb75ae3463cb9eb7ad60bb2ceaf_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/04/05/783b5cb75ae3463cb9eb7ad60bb2ceaf_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Easter With Celebs Posin&#039; With The Easter Bunny!]]></title>
-            <link>https://www.tmz.com/2026/04/05/celebrate-easter-with-celebs-posin-with-the-easter-bunny/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/celebrate-easter-with-celebs-posin-with-the-easter-bunny/</guid>
-            <pubDate>Sun, 05 Apr 2026 19:00:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/03/31/b725b93edb164a4691591557f0ff97de_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/03/31/b725b93edb164a4691591557f0ff97de_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/03/31/b725b93edb164a4691591557f0ff97de_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
