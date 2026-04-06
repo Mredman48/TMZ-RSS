@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 21:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 22:03:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tampa Bay Rays Reopen Tropicana Field After Hurricane Milton Havoc]]></title>
+            <link>https://www.tmz.com/2026/04/06/tampa-bay-rays-return-to-tropicana-field/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/tampa-bay-rays-return-to-tropicana-field/</guid>
+            <pubDate>Mon, 06 Apr 2026 21:44:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/04/06/75e1f7d8b41243c3bb64256f148f3e15_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/04/06/75e1f7d8b41243c3bb64256f148f3e15_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/04/06/75e1f7d8b41243c3bb64256f148f3e15_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sia Agrees to Pay Tens of Thousands in Monthly Child Support to Estranged Husband]]></title>
+            <link>https://www.tmz.com/2026/04/06/sia-will-pay-ex-husband-child-support/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/sia-will-pay-ex-husband-child-support/</guid>
+            <pubDate>Mon, 06 Apr 2026 21:21:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/04/06/86c3035f040049c382865ce7bb2c2ebc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/06/86c3035f040049c382865ce7bb2c2ebc_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/06/86c3035f040049c382865ce7bb2c2ebc_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Olivia Ponton vs. Emma Hernan Who&#039;d You Rather?! Bikini Strings Edition]]></title>
             <link>https://www.tmz.com/2026/04/06/olivia-ponton-vs-emma-hernan-whod-you-rather/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/da/16by9/2026/04/06/da3398e71c28425c9895dc37fd64c575_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/04/06/da3398e71c28425c9895dc37fd64c575_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Says Kim Jong Un Called Joe Biden &#039;Mentally R*****ed&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/06/donald-trump-says-kim-jong-un-insulted-joe-biden/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/donald-trump-says-kim-jong-un-insulted-joe-biden/</guid>
-            <pubDate>Mon, 06 Apr 2026 20:37:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/04/06/75051f1eee9f4fd4bb47d3b58a752065_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/04/06/75051f1eee9f4fd4bb47d3b58a752065_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/04/06/75051f1eee9f4fd4bb47d3b58a752065_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lil Nas X Works Out Deal With Prosecutors in Police Battery Case]]></title>
-            <link>https://www.tmz.com/2026/04/06/lil-nas-x-case-might-get-dismissed-if-continues-treatment/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/lil-nas-x-case-might-get-dismissed-if-continues-treatment/</guid>
-            <pubDate>Mon, 06 Apr 2026 20:22:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/04/06/b4d164af3a5a4c4090f371d7f17ef4c8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/04/06/b4d164af3a5a4c4090f371d7f17ef4c8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/04/06/b4d164af3a5a4c4090f371d7f17ef4c8_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
