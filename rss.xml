@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 06:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 08:12:02 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ex-NFL Star Lavonte David Defends Baker Mayfield, People Got Him All Wrong!]]></title>
+            <link>https://www.tmz.com/2026/04/06/lavonte-david-defends-baker-mayfield-reputation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/lavonte-david-defends-baker-mayfield-reputation/</guid>
+            <pubDate>Mon, 06 Apr 2026 07:30:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/04/03/9d09fabee5c74866aa23033f12fc2133_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/04/03/9d09fabee5c74866aa23033f12fc2133_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/04/03/9d09fabee5c74866aa23033f12fc2133_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Josh Kaminski On &#039;Young & Hungry&#039; &#039;Memba Him?!]]></title>
+            <link>https://www.tmz.com/2026/04/06/josh-kaminski-young-and-hungry-memba-him/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/josh-kaminski-young-and-hungry-memba-him/</guid>
+            <pubDate>Mon, 06 Apr 2026 07:01:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/03/03/5c5cc2236cfc43bd9b23f3ee223fede2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/03/03/5c5cc2236cfc43bd9b23f3ee223fede2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/03/03/5c5cc2236cfc43bd9b23f3ee223fede2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Frankie Paul Says Faith Is Pulling Her Through &#039;Hell on Earth&#039; Amid DV Drama]]></title>
             <link>https://www.tmz.com/2026/04/05/taylor-frankie-paul-says-faith-is-pulling-her-through-hell-on-earth-amid-dv-drama/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/04/05/4a98259f27f64d3d91689eecafa32552_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/04/05/4a98259f27f64d3d91689eecafa32552_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dak Prescott Seeks Joint Legal Custody of Kids Amid Sarah Jane Ramos Split]]></title>
-            <link>https://www.tmz.com/2026/04/05/cowboys-quarterback-dak-prescott-confirms-split-from-sarah-jane-ramos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/cowboys-quarterback-dak-prescott-confirms-split-from-sarah-jane-ramos/</guid>
-            <pubDate>Sun, 05 Apr 2026 23:20:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/04/05/e6159b025442411986c0d20ff1fde50a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/04/05/e6159b025442411986c0d20ff1fde50a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/04/05/e6159b025442411986c0d20ff1fde50a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kick Off Charlotte Flair&#039;s Big 4-0 With Her Hottest Pics!]]></title>
-            <link>https://www.tmz.com/2026/04/05/charlotte-flair-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/05/charlotte-flair-birthday-hot-shots/</guid>
-            <pubDate>Sun, 05 Apr 2026 23:00:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/03/31/a61d330b50e2450bb3934a936a4d3a87_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/03/31/a61d330b50e2450bb3934a936a4d3a87_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/03/31/a61d330b50e2450bb3934a936a4d3a87_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
