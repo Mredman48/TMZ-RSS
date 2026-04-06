@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 17:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 18:34:43 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Public Defender Repping Slain Florida Mayor&#039;s Husband Trying to Withdraw From Case]]></title>
-            <link>https://www.tmz.com/2026/04/06/public-defender-of-nancy-bowen-husband-trying-to-withdraw/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/public-defender-of-nancy-bowen-husband-trying-to-withdraw/</guid>
-            <pubDate>Mon, 06 Apr 2026 17:17:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/04/06/68917f9ba1784dd78e05044a79b3d551_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/04/06/68917f9ba1784dd78e05044a79b3d551_xl.jpg" medium="image">
+            <title><![CDATA[Rory McIlroy Says It&#039;s a &#039;Shame&#039; Tiger Woods Missing Masters Champions Dinner]]></title>
+            <link>https://www.tmz.com/2026/04/06/rory-mcilroy-tiger-woods-masters-dinner/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/rory-mcilroy-tiger-woods-masters-dinner/</guid>
+            <pubDate>Mon, 06 Apr 2026 18:30:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/04/06/fd2deb556b2d40c7ad3ecbfb162d59d0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/04/06/fd2deb556b2d40c7ad3ecbfb162d59d0_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/04/06/68917f9ba1784dd78e05044a79b3d551_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/04/06/fd2deb556b2d40c7ad3ecbfb162d59d0_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Artemis II Flight Around Moon, Watch Live Stream of Historic Flyby]]></title>
-            <link>https://www.tmz.com/2026/04/06/artemis-flight-around-moon/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/artemis-flight-around-moon/</guid>
-            <pubDate>Mon, 06 Apr 2026 17:04:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/04/06/0fa0aae97ff04215af649f6e08b56e2d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/04/06/0fa0aae97ff04215af649f6e08b56e2d_xl.jpg" medium="image">
+            <title><![CDATA[NCAA Title Game Ticket Sells for $17K+ Amid Demand Surge]]></title>
+            <link>https://www.tmz.com/2026/04/06/uconn-michigan-17k-ticket-sold-ncaa-championship/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/uconn-michigan-17k-ticket-sold-ncaa-championship/</guid>
+            <pubDate>Mon, 06 Apr 2026 18:02:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/04/06/04ad9f9c80bc44608972307bb09ffac0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/04/06/04ad9f9c80bc44608972307bb09ffac0_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/04/06/0fa0aae97ff04215af649f6e08b56e2d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/04/06/04ad9f9c80bc44608972307bb09ffac0_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Deadliest Catch&#039; Deckhand Todd Meadows&#039; Family Wants to File Wrongful Death Lawsuit]]></title>
-            <link>https://www.tmz.com/2026/04/06/deadliest-catch-todd-meadows-family-filing-wrongful-death-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/deadliest-catch-todd-meadows-family-filing-wrongful-death-lawsuit/</guid>
-            <pubDate>Mon, 06 Apr 2026 16:59:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2a/16by9/2026/03/02/2a0b16d16f7c48cebfacfdc1af4a58bd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/03/02/2a0b16d16f7c48cebfacfdc1af4a58bd_xl.jpg" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/04/06/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/watch-tmz-live-today/</guid>
+            <pubDate>Mon, 06 Apr 2026 17:47:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/04/06/47f771d60ea14b82babc571cc3d6d302_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/04/06/47f771d60ea14b82babc571cc3d6d302_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/03/02/2a0b16d16f7c48cebfacfdc1af4a58bd_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/04/06/47f771d60ea14b82babc571cc3d6d302_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Congressman Tony Gonzales Asked Different Aide for Nudes, New Texts Show: Report]]></title>
-            <link>https://www.tmz.com/2026/04/06/congressman-tony-gonzales-asked-separate-staffer-for-nudes/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/congressman-tony-gonzales-asked-separate-staffer-for-nudes/</guid>
-            <pubDate>Mon, 06 Apr 2026 16:58:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cd/16by9/2026/04/06/cd4c93101ad14eb08a245443c6b3a139_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cd/16by9/2026/04/06/cd4c93101ad14eb08a245443c6b3a139_xl.jpg" medium="image">
+            <title><![CDATA[Trump Signs Autographs for Kids at White House Easter Egg Roll, Rambles About Biden]]></title>
+            <link>https://www.tmz.com/2026/04/06/trump-signs-kids-autographs-at-white-house-easter-event/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/trump-signs-kids-autographs-at-white-house-easter-event/</guid>
+            <pubDate>Mon, 06 Apr 2026 17:44:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/04/06/7a1f104adf6046c887a62be251033f58_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/04/06/7a1f104adf6046c887a62be251033f58_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cd/16by9/2026/04/06/cd4c93101ad14eb08a245443c6b3a139_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/04/06/7a1f104adf6046c887a62be251033f58_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Michigan Fans Camp Outside Bars Overnight For Title Game Madness]]></title>
-            <link>https://www.tmz.com/2026/04/06/michigan-students-camp-outside-bars-ncaa-tournament/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/michigan-students-camp-outside-bars-ncaa-tournament/</guid>
-            <pubDate>Mon, 06 Apr 2026 16:19:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/04/06/e8b090b0244e4c2b8130939aea4bdeff_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/04/06/e8b090b0244e4c2b8130939aea4bdeff_xl.jpg" medium="image">
+            <title><![CDATA[Shy Taylor Declares TMZ Brunch Bus a &#039;No Scrub&#039; Zone for Lit Tour]]></title>
+            <link>https://www.tmz.com/2026/04/06/shy-taylor-jams-out-with-fans-on-brunch-bus/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/06/shy-taylor-jams-out-with-fans-on-brunch-bus/</guid>
+            <pubDate>Mon, 06 Apr 2026 17:42:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/04/02/22a0f4284b8840e3b12df1af78466e77_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/02/22a0f4284b8840e3b12df1af78466e77_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/04/06/e8b090b0244e4c2b8130939aea4bdeff_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/02/22a0f4284b8840e3b12df1af78466e77_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
