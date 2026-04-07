@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 15:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 17:37:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Savannah Guthrie Discusses Book About Finding Joy on &#039;Today&#039; Show]]></title>
-            <link>https://www.tmz.com/2026/04/07/savannah-guthrie-on-finding-joy/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/savannah-guthrie-on-finding-joy/</guid>
-            <pubDate>Tue, 07 Apr 2026 15:42:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/04/07/3488ab481b9b4f769ec6131dd6864cf3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/07/3488ab481b9b4f769ec6131dd6864cf3_xl.png" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/04/07/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/watch-tmz-live-today/</guid>
+            <pubDate>Tue, 07 Apr 2026 17:34:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/04/07/df921bb588f041258bf310ed1404afab_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/04/07/df921bb588f041258bf310ed1404afab_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/07/3488ab481b9b4f769ec6131dd6864cf3_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/04/07/df921bb588f041258bf310ed1404afab_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Liv Morgan Shows Off Nasty Bump After Clashing Heads On WWE &#039;Monday Night Raw&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/07/liv-morgan-head-injury-roxanne-perez-wwe-raw-clash-judgment-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/liv-morgan-head-injury-roxanne-perez-wwe-raw-clash-judgment-day/</guid>
-            <pubDate>Tue, 07 Apr 2026 15:38:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/04/07/c706fbc979e4426f9e42f38afd0ac43a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/04/07/c706fbc979e4426f9e42f38afd0ac43a_xl.jpg" medium="image">
+            <title><![CDATA[Taylor Frankie Paul Submits Pics of Bruises, Alleged Sexts From Dakota as New Evidence]]></title>
+            <link>https://www.tmz.com/2026/04/07/taylor-frankie-paul-submits-photos-alleged-texts-from-dakota/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/taylor-frankie-paul-submits-photos-alleged-texts-from-dakota/</guid>
+            <pubDate>Tue, 07 Apr 2026 17:30:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/04/07/893159ee83b9405cbd1c738c651b4aab_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/04/07/893159ee83b9405cbd1c738c651b4aab_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/04/07/c706fbc979e4426f9e42f38afd0ac43a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/04/07/893159ee83b9405cbd1c738c651b4aab_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Sharon Osbourne Gives Update on How She&#039;s Doing After Listing Ozzy L.A. Home]]></title>
-            <link>https://www.tmz.com/2026/04/07/sharon-osbourne-ozzy-los-angeles-home-selling/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/sharon-osbourne-ozzy-los-angeles-home-selling/</guid>
-            <pubDate>Tue, 07 Apr 2026 15:30:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c85266a5fd5e45d3a43dbe2195594ce0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c85266a5fd5e45d3a43dbe2195594ce0_xl.png" medium="image">
+            <title><![CDATA[Taylor Frankie Paul Faces Off Against Ex Dakota Mortensen in Court, On Live Stream]]></title>
+            <link>https://www.tmz.com/2026/04/07/taylor-frankie-paul-faces-off-with-ex-dakota-in-court-live-stream/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/taylor-frankie-paul-faces-off-with-ex-dakota-in-court-live-stream/</guid>
+            <pubDate>Tue, 07 Apr 2026 17:18:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/04/07/1d00ee2d16684e18af6dcb26d34ec039_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/04/07/1d00ee2d16684e18af6dcb26d34ec039_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c85266a5fd5e45d3a43dbe2195594ce0_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/04/07/1d00ee2d16684e18af6dcb26d34ec039_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Timothy Busfield&#039;s Attorney Says Child Sex Abuse Accusers Just Out for Revenge]]></title>
-            <link>https://www.tmz.com/2026/04/07/larry-stein-on-timothy-busfield-accusers/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/larry-stein-on-timothy-busfield-accusers/</guid>
-            <pubDate>Tue, 07 Apr 2026 15:21:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/04/07/653a9741554a4671bb5e9c13062f9593_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/04/07/653a9741554a4671bb5e9c13062f9593_xl.png" medium="image">
+            <title><![CDATA[BTS Drops New Music Video for &#039;Hooligan&#039; Off Latest Album, Watch Video]]></title>
+            <link>https://www.tmz.com/2026/04/07/bts-drops-hooligan-music-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/bts-drops-hooligan-music-video/</guid>
+            <pubDate>Tue, 07 Apr 2026 17:04:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0c/16by9/2026/04/07/0c07e1aca729400b874d19465fc77e8f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0c/16by9/2026/04/07/0c07e1aca729400b874d19465fc77e8f_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/04/07/653a9741554a4671bb5e9c13062f9593_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/0c/16by9/2026/04/07/0c07e1aca729400b874d19465fc77e8f_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Paige Bueckers Calls Geno Auriemma Final Four Drama &#039;Unfortunate&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/07/paige-bueckers-on-geno-auriemma-staley-final-four-clash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/paige-bueckers-on-geno-auriemma-staley-final-four-clash/</guid>
-            <pubDate>Tue, 07 Apr 2026 15:11:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0c/16by9/2026/04/06/0ceb95b9d3724230ac65f1abb08aebf3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0c/16by9/2026/04/06/0ceb95b9d3724230ac65f1abb08aebf3_xl.png" medium="image">
+            <title><![CDATA[Taylor Frankie Paul Files Restraining Order Against Ex Dakota Mortensen]]></title>
+            <link>https://www.tmz.com/2026/04/07/taylor-frankie-paul-files-restraining-order-against-ex-dakota-mortensen/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/taylor-frankie-paul-files-restraining-order-against-ex-dakota-mortensen/</guid>
+            <pubDate>Tue, 07 Apr 2026 17:01:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/04/07/7b6b3279470b4af19a26b96631ba4335_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/04/07/7b6b3279470b4af19a26b96631ba4335_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0c/16by9/2026/04/06/0ceb95b9d3724230ac65f1abb08aebf3_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/04/07/7b6b3279470b4af19a26b96631ba4335_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
