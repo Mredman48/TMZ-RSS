@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 08:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 09:49:40 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Aaron Carter’s Mom Loses Fight With Late Pop Star&#039;s Ex-Fiancée]]></title>
+            <link>https://www.tmz.com/2026/04/07/aaron-carter-mom-loses-estate-fight-against-melanie-martin/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/aaron-carter-mom-loses-estate-fight-against-melanie-martin/</guid>
+            <pubDate>Tue, 07 Apr 2026 09:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2026/04/06/c11be12d892f4570bfbede510cac7033_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c1/16by9/2026/04/06/c11be12d892f4570bfbede510cac7033_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2026/04/06/c11be12d892f4570bfbede510cac7033_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kendra and Joseph Duggar Email Exchanges After His Child Sex Abuse Arrest]]></title>
             <link>https://www.tmz.com/2026/04/07/kendra-and-joseph-duggar-email-amid-jail-arrest/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/93/16by9/2026/03/24/93aad2f3813f4c06831cb891f38e0118_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/03/24/93aad2f3813f4c06831cb891f38e0118_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Toss One Back With the Stars ... Happy National Beer Day!]]></title>
-            <link>https://www.tmz.com/2026/04/07/stars-celebrate-national-beer-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/stars-celebrate-national-beer-day/</guid>
-            <pubDate>Tue, 07 Apr 2026 07:01:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/04/06/951332842b0541ffa247e11dfde0b813_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/04/06/951332842b0541ffa247e11dfde0b813_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/04/06/951332842b0541ffa247e11dfde0b813_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
