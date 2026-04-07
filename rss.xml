@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 22:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 23:21:01 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Huda Mustafa Says She & BF Louis Russell Have Been Talking Marriage, Kids]]></title>
-            <link>https://www.tmz.com/2026/04/07/huda-mustafa-louis-russell-have-been-talking-about-marriage/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/huda-mustafa-louis-russell-have-been-talking-about-marriage/</guid>
-            <pubDate>Tue, 07 Apr 2026 22:07:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/04/07/c5fd06b008254e20b5e7ef98fb6b4194_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/04/07/c5fd06b008254e20b5e7ef98fb6b4194_xl.png" medium="image">
+            <title><![CDATA[President Trump Says He Agreed to 2-Week Ceasefire Deal With Iran]]></title>
+            <link>https://www.tmz.com/2026/04/07/donald-trump-postponing-iran-bombing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/donald-trump-postponing-iran-bombing/</guid>
+            <pubDate>Tue, 07 Apr 2026 23:00:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/07/f359b6bd888b40f887e226d3b553d6fa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/07/f359b6bd888b40f887e226d3b553d6fa_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/04/07/c5fd06b008254e20b5e7ef98fb6b4194_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/07/f359b6bd888b40f887e226d3b553d6fa_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rachel Tussey&#039;s Doctor Suing Surgery Center JourneyLite Over Her Death]]></title>
-            <link>https://www.tmz.com/2026/04/07/dr-tork-suing-journeylite-after-rachel-tussey-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/dr-tork-suing-journeylite-after-rachel-tussey-death/</guid>
-            <pubDate>Tue, 07 Apr 2026 21:55:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/04/07/9cba496306d94acb8bc31bb84263b02d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/04/07/9cba496306d94acb8bc31bb84263b02d_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Age of Attraction&#039;s Vanessa Says Show Didn&#039;t Show True Relationship With Logan]]></title>
+            <link>https://www.tmz.com/2026/04/07/age-of-attraction-vanessa-says-she-and-logan-got-bad-edit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/age-of-attraction-vanessa-says-she-and-logan-got-bad-edit/</guid>
+            <pubDate>Tue, 07 Apr 2026 23:00:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/04/07/cc86dfb377ff4568964d6cf9d0005aac_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/04/07/cc86dfb377ff4568964d6cf9d0005aac_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/04/07/9cba496306d94acb8bc31bb84263b02d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/04/07/cc86dfb377ff4568964d6cf9d0005aac_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Geraldo Rivera Calls Trump&#039;s Threat to End Iran&#039;s Civilization Exaggerated]]></title>
-            <link>https://www.tmz.com/2026/04/07/geraldo-rivera-comments-on-trump-iran/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/geraldo-rivera-comments-on-trump-iran/</guid>
-            <pubDate>Tue, 07 Apr 2026 20:44:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/04/07/8d3290afac7e4778a18d9946c94a8d32_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/04/07/8d3290afac7e4778a18d9946c94a8d32_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Mormon Wives&#039; Cast Raring to Finish Season, Tease Progress]]></title>
+            <link>https://www.tmz.com/2026/04/07/mormon-wives-cast-tease-finishing-season/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/mormon-wives-cast-tease-finishing-season/</guid>
+            <pubDate>Tue, 07 Apr 2026 22:59:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/04/02/ea27adcc76ab42f8933bc86515aa5673_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/04/02/ea27adcc76ab42f8933bc86515aa5673_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/04/07/8d3290afac7e4778a18d9946c94a8d32_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/04/02/ea27adcc76ab42f8933bc86515aa5673_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Lil Tjay Instigated Fight Leading to Offset Being Shot, Cops Claim]]></title>
-            <link>https://www.tmz.com/2026/04/07/lil-tjay-started-fight-leading-to-offset-shooting-police-allege/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/lil-tjay-started-fight-leading-to-offset-shooting-police-allege/</guid>
-            <pubDate>Tue, 07 Apr 2026 20:37:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/04/07/ff5e6a87d33c4d089b19373fe78094b1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/04/07/ff5e6a87d33c4d089b19373fe78094b1_xl.jpg" medium="image">
+            <title><![CDATA[Truck Crashes Into Casino in Las Vegas, Scene Caught on Camera]]></title>
+            <link>https://www.tmz.com/2026/04/07/truck-crashes-into-vegas-casino/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/truck-crashes-into-vegas-casino/</guid>
+            <pubDate>Tue, 07 Apr 2026 22:48:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/04/07/5ed310ade74c447995a66b96d08e599f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/04/07/5ed310ade74c447995a66b96d08e599f_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/04/07/ff5e6a87d33c4d089b19373fe78094b1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/04/07/5ed310ade74c447995a66b96d08e599f_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bill Gates to Testify in House Committee&#039;s Jeffrey Epstein Investigation]]></title>
-            <link>https://www.tmz.com/2026/04/07/bill-gates-will-testify-house-oversight-committee-jeffrey-epstein-investigation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/bill-gates-will-testify-house-oversight-committee-jeffrey-epstein-investigation/</guid>
-            <pubDate>Tue, 07 Apr 2026 20:25:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg" medium="image">
+            <title><![CDATA[West Wilson & Amanda Batula Hug in Trailer for &#039;Summer House&#039; Spinoff]]></title>
+            <link>https://www.tmz.com/2026/04/07/west-wilson-amanda-batula-hug-summer-house-spinoff-trailer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/west-wilson-amanda-batula-hug-summer-house-spinoff-trailer/</guid>
+            <pubDate>Tue, 07 Apr 2026 22:37:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/04/07/63b9920042dd45b0ab4428e3daa34d7b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/04/07/63b9920042dd45b0ab4428e3daa34d7b_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/04/07/63b9920042dd45b0ab4428e3daa34d7b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
