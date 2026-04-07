@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 20:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 21:28:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Geraldo Rivera Calls Trump&#039;s Threat to End Iran&#039;s Civilization Exaggerated]]></title>
+            <link>https://www.tmz.com/2026/04/07/geraldo-rivera-comments-on-trump-iran/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/geraldo-rivera-comments-on-trump-iran/</guid>
+            <pubDate>Tue, 07 Apr 2026 20:44:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/04/07/8d3290afac7e4778a18d9946c94a8d32_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/04/07/8d3290afac7e4778a18d9946c94a8d32_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/04/07/8d3290afac7e4778a18d9946c94a8d32_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lil Tjay Instigated Fight Leading to Offset Being Shot, Cops Claim]]></title>
+            <link>https://www.tmz.com/2026/04/07/lil-tjay-started-fight-leading-to-offset-shooting-police-allege/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/lil-tjay-started-fight-leading-to-offset-shooting-police-allege/</guid>
+            <pubDate>Tue, 07 Apr 2026 20:37:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/04/07/ff5e6a87d33c4d089b19373fe78094b1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/04/07/ff5e6a87d33c4d089b19373fe78094b1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/04/07/ff5e6a87d33c4d089b19373fe78094b1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates to Testify in House Committee&#039;s Jeffrey Epstein Investigation]]></title>
+            <link>https://www.tmz.com/2026/04/07/bill-gates-will-testify-house-oversight-committee-jeffrey-epstein-investigation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/bill-gates-will-testify-house-oversight-committee-jeffrey-epstein-investigation/</guid>
+            <pubDate>Tue, 07 Apr 2026 20:25:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Woman Falls Overboard in Bahamas, Husband Makes It to Shore, Search Underway]]></title>
             <link>https://www.tmz.com/2026/04/07/lynette-hooker-missing-after-going-overboard-in-bahamas/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/06/2212cf4c32dc4d51b6ccf3e406e37b27_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/06/2212cf4c32dc4d51b6ccf3e406e37b27_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dawn Staley Wants To Move Past Final Four Spat With Geno Auriemma]]></title>
-            <link>https://www.tmz.com/2026/04/07/dawn-staley-geno-auriemma-move-forward-after-final-four-clash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/dawn-staley-geno-auriemma-move-forward-after-final-four-clash/</guid>
-            <pubDate>Tue, 07 Apr 2026 19:13:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/04/07/4acc0e1c9c44474ebaff089a96376e4b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/04/07/4acc0e1c9c44474ebaff089a96376e4b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/04/07/4acc0e1c9c44474ebaff089a96376e4b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rapper Lil Tjay Calls Offset a &#039;Rat&#039; as He&#039;s Released From Jail, on Video]]></title>
-            <link>https://www.tmz.com/2026/04/07/lil-tjay-released-from-florida-jail/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/lil-tjay-released-from-florida-jail/</guid>
-            <pubDate>Tue, 07 Apr 2026 18:52:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/04/07/d349cfa144914c57b9c1788e98b92d9f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/04/07/d349cfa144914c57b9c1788e98b92d9f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/04/07/d349cfa144914c57b9c1788e98b92d9f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brad Pitt Fights Angelina Jolie&#039;s Push to Delay $164M Winery Trial Date]]></title>
-            <link>https://www.tmz.com/2026/04/07/brad-pitt-fighting-against-angelina-jolie-push-for-later-winery-trial-date/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/brad-pitt-fighting-against-angelina-jolie-push-for-later-winery-trial-date/</guid>
-            <pubDate>Tue, 07 Apr 2026 18:50:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/04/07/a3a9f1bde8d44402b3618280b1a7cb71_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/04/07/a3a9f1bde8d44402b3618280b1a7cb71_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/04/07/a3a9f1bde8d44402b3618280b1a7cb71_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
