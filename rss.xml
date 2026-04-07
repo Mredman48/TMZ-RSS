@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 21:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 22:20:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Huda Mustafa Says She & BF Louis Russell Have Been Talking Marriage, Kids]]></title>
+            <link>https://www.tmz.com/2026/04/07/huda-mustafa-louis-russell-have-been-talking-about-marriage/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/huda-mustafa-louis-russell-have-been-talking-about-marriage/</guid>
+            <pubDate>Tue, 07 Apr 2026 22:07:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/04/07/c5fd06b008254e20b5e7ef98fb6b4194_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/04/07/c5fd06b008254e20b5e7ef98fb6b4194_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/04/07/c5fd06b008254e20b5e7ef98fb6b4194_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rachel Tussey&#039;s Doctor Suing Surgery Center JourneyLite Over Her Death]]></title>
+            <link>https://www.tmz.com/2026/04/07/dr-tork-suing-journeylite-after-rachel-tussey-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/dr-tork-suing-journeylite-after-rachel-tussey-death/</guid>
+            <pubDate>Tue, 07 Apr 2026 21:55:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/04/07/9cba496306d94acb8bc31bb84263b02d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/04/07/9cba496306d94acb8bc31bb84263b02d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/04/07/9cba496306d94acb8bc31bb84263b02d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Geraldo Rivera Calls Trump&#039;s Threat to End Iran&#039;s Civilization Exaggerated]]></title>
             <link>https://www.tmz.com/2026/04/07/geraldo-rivera-comments-on-trump-iran/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/07/187eb604fd9e4717af1a5c244a224bd1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Woman Falls Overboard in Bahamas, Husband Makes It to Shore, Search Underway]]></title>
-            <link>https://www.tmz.com/2026/04/07/lynette-hooker-missing-after-going-overboard-in-bahamas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/lynette-hooker-missing-after-going-overboard-in-bahamas/</guid>
-            <pubDate>Tue, 07 Apr 2026 19:42:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Boxer Alycia Baumgardner Says Amanda Serrano, Katie Taylor Are Dream Opponents]]></title>
-            <link>https://www.tmz.com/2026/04/07/alycia-baumgardner-katie-taylor-amanda-serrano-boxing-opponents/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/alycia-baumgardner-katie-taylor-amanda-serrano-boxing-opponents/</guid>
-            <pubDate>Tue, 07 Apr 2026 19:32:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/04/06/2212cf4c32dc4d51b6ccf3e406e37b27_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/06/2212cf4c32dc4d51b6ccf3e406e37b27_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/06/2212cf4c32dc4d51b6ccf3e406e37b27_xl.png">
             </media:thumbnail>
         </item>
     </channel>
