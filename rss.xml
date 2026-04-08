@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 18:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 20:22:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Lauren Kanarek Slams Netflix Doc About Shooting That Almost Killed Her]]></title>
+            <link>https://www.tmz.com/2026/04/08/lauren-kanarek-rejects-netflix-documentary-about-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/lauren-kanarek-rejects-netflix-documentary-about-shooting/</guid>
+            <pubDate>Wed, 08 Apr 2026 20:14:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cf/16by9/2026/04/07/cf9f07423b5c44e892e196c980c4977e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/04/07/cf9f07423b5c44e892e196c980c4977e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cf/16by9/2026/04/07/cf9f07423b5c44e892e196c980c4977e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dan Bilzerian Defends Calling Congressional Opponent &#039;Fat Jew,&#039; Drops N-Word]]></title>
+            <link>https://www.tmz.com/2026/04/08/dan-bilzerian-uses-n-word-while-announcing-congressional-run/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/dan-bilzerian-uses-n-word-while-announcing-congressional-run/</guid>
+            <pubDate>Wed, 08 Apr 2026 20:05:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/04/08/e84e981d6fe54b438c75c43a6bcd6be1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/04/08/e84e981d6fe54b438c75c43a6bcd6be1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/04/08/e84e981d6fe54b438c75c43a6bcd6be1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lamar Odom Taken Aback by Ex Khloe&#039;s Claims About His Late Father]]></title>
+            <link>https://www.tmz.com/2026/04/08/lamar-odom-denies-khloe-kardashian-claims-about-his-father/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/lamar-odom-denies-khloe-kardashian-claims-about-his-father/</guid>
+            <pubDate>Wed, 08 Apr 2026 19:57:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/92/16by9/2026/04/08/92a380f850cc46ce8fad1ceb3dd613b1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/92/16by9/2026/04/08/92a380f850cc46ce8fad1ceb3dd613b1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/92/16by9/2026/04/08/92a380f850cc46ce8fad1ceb3dd613b1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Michael J. Fox Is Alive, Despite Concern After CNN&#039;s &#039;Remembering&#039; Post]]></title>
+            <link>https://www.tmz.com/2026/04/08/michael-j-fox-is-not-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/michael-j-fox-is-not-dead/</guid>
+            <pubDate>Wed, 08 Apr 2026 19:21:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/04/08/293cfdc7c60e42b1ab870c4531794059_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/04/08/293cfdc7c60e42b1ab870c4531794059_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/04/08/293cfdc7c60e42b1ab870c4531794059_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Ketamine Queen&#039; Sentenced to 15 Years in Prison in Matthew Perry Death Case]]></title>
             <link>https://www.tmz.com/2026/04/08/ketamine-queen-sentenced-in-matthew-perry-death/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/40/16by9/2026/04/07/40e8204cd1ae4c6cb887946eed37ad68_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/04/07/40e8204cd1ae4c6cb887946eed37ad68_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Christian Pulisic&#039;s Ex Claims He Was On Raya Dating App Before Breakup]]></title>
-            <link>https://www.tmz.com/2026/04/08/christian-pulisic-ex-raya-claims/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/christian-pulisic-ex-raya-claims/</guid>
-            <pubDate>Wed, 08 Apr 2026 18:34:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/04/08/bed8bde681c04d2d8adb78b036313263_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/04/08/bed8bde681c04d2d8adb78b036313263_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/04/08/bed8bde681c04d2d8adb78b036313263_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tiger Woods Officially Charged With DUI]]></title>
-            <link>https://www.tmz.com/2026/04/08/tiger-woods-officially-charged-with-dui/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/tiger-woods-officially-charged-with-dui/</guid>
-            <pubDate>Wed, 08 Apr 2026 18:32:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e0/16by9/2026/04/08/e0b833a4ed1f4fa79c0c8a6a4c6e551b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/04/08/e0b833a4ed1f4fa79c0c8a6a4c6e551b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/04/08/e0b833a4ed1f4fa79c0c8a6a4c6e551b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrities Who Were Pageant Queens: Happy International Pageant Day!]]></title>
-            <link>https://www.tmz.com/2026/04/08/happy-international-pageant-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/happy-international-pageant-day/</guid>
-            <pubDate>Wed, 08 Apr 2026 18:21:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/04/08/b4ef97334ea2498b933e0816dc105d6a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/04/08/b4ef97334ea2498b933e0816dc105d6a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/04/08/b4ef97334ea2498b933e0816dc105d6a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dodgers Legend Davey Lopes Dead At 80]]></title>
-            <link>https://www.tmz.com/2026/04/08/los-angeles-dodgers-legend-davey-lopes-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/los-angeles-dodgers-legend-davey-lopes-dead/</guid>
-            <pubDate>Wed, 08 Apr 2026 18:15:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3f/16by9/2026/04/08/3f4e6ca494be43ada25a7f3bf7626e28_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3f/16by9/2026/04/08/3f4e6ca494be43ada25a7f3bf7626e28_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3f/16by9/2026/04/08/3f4e6ca494be43ada25a7f3bf7626e28_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
