@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 09:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 11:36:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Jersey Shore&#039; Ronnie Ortiz-Magro&#039;s Ex-GF Calls Cops to Miami Home Over Dispute]]></title>
+            <link>https://www.tmz.com/2026/04/08/ronnie-ortiz-magro-ex-girlfriend-called-cops-to-home-over-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/ronnie-ortiz-magro-ex-girlfriend-called-cops-to-home-over-fight/</guid>
+            <pubDate>Wed, 08 Apr 2026 10:00:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/04/07/e10575caf7d84cbc8777e1424ef0285f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/04/07/e10575caf7d84cbc8777e1424ef0285f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/04/07/e10575caf7d84cbc8777e1424ef0285f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West&#039;s Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M]]></title>
+            <link>https://www.tmz.com/2026/04/08/kanye-west-sued-by-former-bodyguard/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/kanye-west-sued-by-former-bodyguard/</guid>
+            <pubDate>Wed, 08 Apr 2026 10:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a0/16by9/2026/04/07/a0b11019a4bb44a6bff8f3d4180214e6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a0/16by9/2026/04/07/a0b11019a4bb44a6bff8f3d4180214e6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a0/16by9/2026/04/07/a0b11019a4bb44a6bff8f3d4180214e6_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Anthony Anderson Says Moon Mission&#039;s Wasting Money, Fix Earth Problems First]]></title>
             <link>https://www.tmz.com/2026/04/08/anthony-anderson-says-artemis-is-waste-of-money/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/04/07/fe365100646f4072b13c5612e511f480_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/04/07/fe365100646f4072b13c5612e511f480_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Simple Beauty Products to Aid Your Spring Glow-Up]]></title>
-            <link>https://www.tmz.com/2026/04/08/spring-glow-up-beauty-skincare/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/spring-glow-up-beauty-skincare/</guid>
-            <pubDate>Wed, 08 Apr 2026 07:05:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/03/27/d638220bf46c4c3a8836092edda7674e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/03/27/d638220bf46c4c3a8836092edda7674e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/03/27/d638220bf46c4c3a8836092edda7674e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars With Cherry Blossoms ... Bloom, Baby, Bloom!]]></title>
-            <link>https://www.tmz.com/2026/04/08/stars-with-cherry-blossoms/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/stars-with-cherry-blossoms/</guid>
-            <pubDate>Wed, 08 Apr 2026 07:01:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/04/07/1bf96f5b65ec4060965d155185e435b6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/04/07/1bf96f5b65ec4060965d155185e435b6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/04/07/1bf96f5b65ec4060965d155185e435b6_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
