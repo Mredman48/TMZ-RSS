@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 00:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 03:42:41 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tori Spelling Details Terrifying Car Crash Involving Her Kids]]></title>
+            <link>https://www.tmz.com/2026/04/07/tori-spelling/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/tori-spelling/</guid>
+            <pubDate>Wed, 08 Apr 2026 02:11:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/04/08/fffb0a7ffd7b4796adf5110ca653c074_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/04/08/fffb0a7ffd7b4796adf5110ca653c074_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/04/08/fffb0a7ffd7b4796adf5110ca653c074_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Aubrey Plaza Is Pregnant]]></title>
+            <link>https://www.tmz.com/2026/04/07/aubrey-plaza-pregnant/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/aubrey-plaza-pregnant/</guid>
+            <pubDate>Wed, 08 Apr 2026 01:23:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/04/08/4eb3449e9a864df2a3029a21a83f882d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/04/08/4eb3449e9a864df2a3029a21a83f882d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/04/08/4eb3449e9a864df2a3029a21a83f882d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Reza Farahan Says He Had Fling, Threesome With Bob Harper]]></title>
+            <link>https://www.tmz.com/2026/04/07/reza-farahan-reveals-fling-threesome-details-with-bob-harper/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/reza-farahan-reveals-fling-threesome-details-with-bob-harper/</guid>
+            <pubDate>Wed, 08 Apr 2026 00:15:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/04/07/43cd3ed97013461fa72dda3e667afbb5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/04/07/43cd3ed97013461fa72dda3e667afbb5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/04/07/43cd3ed97013461fa72dda3e667afbb5_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[David Geffen Says He Settled Nasty Divorce With David Armstrong]]></title>
             <link>https://www.tmz.com/2026/04/07/david-geffen-david-armstrong-divorce-update/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/33/16by9/2026/04/07/332ddeba1883460b9186978675c1df21_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/04/07/332ddeba1883460b9186978675c1df21_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Says He Agreed to 2-Week Ceasefire Deal With Iran]]></title>
-            <link>https://www.tmz.com/2026/04/07/donald-trump-postponing-iran-bombing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/donald-trump-postponing-iran-bombing/</guid>
-            <pubDate>Tue, 07 Apr 2026 23:00:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/07/f359b6bd888b40f887e226d3b553d6fa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/07/f359b6bd888b40f887e226d3b553d6fa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/07/f359b6bd888b40f887e226d3b553d6fa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Age of Attraction&#039;s Vanessa Says Show Didn&#039;t Show True Relationship With Logan]]></title>
-            <link>https://www.tmz.com/2026/04/07/age-of-attraction-vanessa-says-she-and-logan-got-bad-edit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/age-of-attraction-vanessa-says-she-and-logan-got-bad-edit/</guid>
-            <pubDate>Tue, 07 Apr 2026 23:00:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/04/07/cc86dfb377ff4568964d6cf9d0005aac_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/04/07/cc86dfb377ff4568964d6cf9d0005aac_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/04/07/cc86dfb377ff4568964d6cf9d0005aac_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Mormon Wives&#039; Cast Raring to Finish Season, Tease Progress]]></title>
-            <link>https://www.tmz.com/2026/04/07/mormon-wives-cast-tease-finishing-season/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/07/mormon-wives-cast-tease-finishing-season/</guid>
-            <pubDate>Tue, 07 Apr 2026 22:59:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/04/02/ea27adcc76ab42f8933bc86515aa5673_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/04/02/ea27adcc76ab42f8933bc86515aa5673_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/04/02/ea27adcc76ab42f8933bc86515aa5673_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
