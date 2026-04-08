@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 11:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 12:40:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sydney Sweeney And Zendaya Go Head-To Head at &#039;Euphoria&#039; Premiere in Hollywood]]></title>
+            <link>https://www.tmz.com/2026/04/08/sydney-sweeney-zendaya-jacob-elordi-euphoria-hollywood/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/sydney-sweeney-zendaya-jacob-elordi-euphoria-hollywood/</guid>
+            <pubDate>Wed, 08 Apr 2026 12:29:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/04/08/086779b041894e84b67daf6875471b6d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/04/08/086779b041894e84b67daf6875471b6d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/04/08/086779b041894e84b67daf6875471b6d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul Tried to &#039;Assassinate&#039; Dakota Mortensen&#039;s Character in Court, Lawyer Says]]></title>
+            <link>https://www.tmz.com/2026/04/08/taylor-frankie-paul-assassinate-dakota-mortensen-character-in-court-lawyer-says/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/taylor-frankie-paul-assassinate-dakota-mortensen-character-in-court-lawyer-says/</guid>
+            <pubDate>Wed, 08 Apr 2026 12:16:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/04/08/40512b671ab546cb9516be1795a01106_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/04/08/40512b671ab546cb9516be1795a01106_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/04/08/40512b671ab546cb9516be1795a01106_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Jersey Shore&#039; Ronnie Ortiz-Magro&#039;s Ex-GF Calls Cops to Miami Home Over Dispute]]></title>
             <link>https://www.tmz.com/2026/04/08/ronnie-ortiz-magro-ex-girlfriend-called-cops-to-home-over-fight/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/23/16by9/2026/04/07/239ba205b9f344739465048e818f9930_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/04/07/239ba205b9f344739465048e818f9930_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Detective Foster In &#039;Beverly Hills Cop&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/04/08/detective-foster-beverly-hills-cop-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/detective-foster-beverly-hills-cop-memba-him/</guid>
-            <pubDate>Wed, 08 Apr 2026 07:45:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cf/16by9/2026/04/06/cfb2fc472b9841ef9d420e2e2115478c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/04/06/cfb2fc472b9841ef9d420e2e2115478c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cf/16by9/2026/04/06/cfb2fc472b9841ef9d420e2e2115478c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Robert Griffin III Going For Olympic Gold In Flag Football]]></title>
-            <link>https://www.tmz.com/2026/04/08/robert-griffin-iii-going-for-flag-football-gold/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/robert-griffin-iii-going-for-flag-football-gold/</guid>
-            <pubDate>Wed, 08 Apr 2026 07:30:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/04/07/fe365100646f4072b13c5612e511f480_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/04/07/fe365100646f4072b13c5612e511f480_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/04/07/fe365100646f4072b13c5612e511f480_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
