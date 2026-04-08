@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 21:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 22:22:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Age of Attraction&#039; Cast Hosts &#039;TMZ After Dark&#039; Tour, Runs Into Victoria Justice]]></title>
+            <link>https://www.tmz.com/2026/04/08/age-of-attraction-stars-victoria-justice-hang-out-saddle-ranch/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/age-of-attraction-stars-victoria-justice-hang-out-saddle-ranch/</guid>
+            <pubDate>Wed, 08 Apr 2026 22:18:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/04/06/0d9fe56802a741de9f35b2daf1bc7c8b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/04/06/0d9fe56802a741de9f35b2daf1bc7c8b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/04/06/0d9fe56802a741de9f35b2daf1bc7c8b_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shannen Doherty Ex-Husband Ashley Hamilton Hospitalized After Overdose]]></title>
+            <link>https://www.tmz.com/2026/04/08/shannen-doherty-ex-husband-ashley-hamilton-overdosed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/shannen-doherty-ex-husband-ashley-hamilton-overdosed/</guid>
+            <pubDate>Wed, 08 Apr 2026 21:49:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/04/04/a53d0cc9ec47478ba9e8df740a02f6d8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/04/04/a53d0cc9ec47478ba9e8df740a02f6d8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/04/04/a53d0cc9ec47478ba9e8df740a02f6d8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Game of Thrones&#039; Actor Michael Patrick Dead at 35]]></title>
+            <link>https://www.tmz.com/2026/04/08/michael-patrick-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/michael-patrick-dead/</guid>
+            <pubDate>Wed, 08 Apr 2026 21:41:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/04/08/f2758c0309724f27a0242d8461ec99c7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/04/08/f2758c0309724f27a0242d8461ec99c7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/04/08/f2758c0309724f27a0242d8461ec99c7_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kardashian-Jenner Curves ... Guess Whose Lil&#039; White Bikini]]></title>
             <link>https://www.tmz.com/2026/04/08/kardashian-jenner-curves-guess-who/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/04/08/9d838365e8434754b50ddac9ab8f7eb7_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/04/08/9d838365e8434754b50ddac9ab8f7eb7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kendra & Joseph Duggar Reunite in Arkansas After His Jail Release]]></title>
-            <link>https://www.tmz.com/2026/04/08/kendra-joseph-duggar-reunite-in-arkansas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/kendra-joseph-duggar-reunite-in-arkansas/</guid>
-            <pubDate>Wed, 08 Apr 2026 20:30:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/04/08/0083791fd1cf4e1ea7398f2f5c99d0e1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/04/08/0083791fd1cf4e1ea7398f2f5c99d0e1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/04/08/0083791fd1cf4e1ea7398f2f5c99d0e1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dianna Russini&#039;s Past Comments About &#039;Average&#039; Husband Resurface After Vrabel Hangout]]></title>
-            <link>https://www.tmz.com/2026/04/08/dianna-russini-comments-average-husband-resurface-after-vrabel-hangout/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/dianna-russini-comments-average-husband-resurface-after-vrabel-hangout/</guid>
-            <pubDate>Wed, 08 Apr 2026 20:19:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/04/08/e72983beb7fb400f9a6d94448d6bee32_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/04/08/e72983beb7fb400f9a6d94448d6bee32_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/04/08/e72983beb7fb400f9a6d94448d6bee32_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lauren Kanarek Slams Netflix Doc About Shooting That Almost Killed Her]]></title>
-            <link>https://www.tmz.com/2026/04/08/lauren-kanarek-rejects-netflix-documentary-about-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/lauren-kanarek-rejects-netflix-documentary-about-shooting/</guid>
-            <pubDate>Wed, 08 Apr 2026 20:14:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cf/16by9/2026/04/07/cf9f07423b5c44e892e196c980c4977e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/04/07/cf9f07423b5c44e892e196c980c4977e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cf/16by9/2026/04/07/cf9f07423b5c44e892e196c980c4977e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
