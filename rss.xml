@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 07:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 08:51:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Police Arrest Man In Connection With Disappearance of Woman in Bahamas]]></title>
+            <link>https://www.tmz.com/2026/04/09/lynette-hooker-brian-bahamas/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/lynette-hooker-brian-bahamas/</guid>
+            <pubDate>Thu, 09 Apr 2026 08:34:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Throwback Thursday: Legendary Coachella Moments You Won’t Find on Instagram]]></title>
+            <link>https://www.tmz.com/2026/04/09/throwback-thursday-legendary-coachella-moments/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/throwback-thursday-legendary-coachella-moments/</guid>
+            <pubDate>Thu, 09 Apr 2026 07:45:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/04/06/d8acaa85896f447abb690b417cb2d853_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/06/d8acaa85896f447abb690b417cb2d853_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/06/d8acaa85896f447abb690b417cb2d853_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[LeSean McCoy Defends Mike Vrabel, Dianna Russini, I See Nothing Wrong!]]></title>
+            <link>https://www.tmz.com/2026/04/09/lesean-mccoy-defends-mike-vrabel-dianna-russini-pics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/lesean-mccoy-defends-mike-vrabel-dianna-russini-pics/</guid>
+            <pubDate>Thu, 09 Apr 2026 07:30:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/04/08/a46a32ba0f17453a9271acd84db7617d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/04/08/a46a32ba0f17453a9271acd84db7617d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/04/08/a46a32ba0f17453a9271acd84db7617d_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Big Deals on Tech at Amazon]]></title>
+            <link>https://www.tmz.com/2026/04/09/helpful-tech-deals/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/helpful-tech-deals/</guid>
+            <pubDate>Thu, 09 Apr 2026 07:05:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/03/30/f629df1c87624448ad74f8925b64cf18_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/03/30/f629df1c87624448ad74f8925b64cf18_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/03/30/f629df1c87624448ad74f8925b64cf18_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Guess Which Coachella Performer This Cute Kid Turned Into!]]></title>
             <link>https://www.tmz.com/2026/04/09/guess-coachella-performer-from-cute-kid/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/07/e5e7e549796e4a59a3455f6ce6807127_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/07/e5e7e549796e4a59a3455f6ce6807127_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Joey Fatone Talks Possible *NSYNC Reunion After Timberlake DUI Video Release]]></title>
-            <link>https://www.tmz.com/2026/04/09/joey-fatone-talks-nsync-reunion/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/joey-fatone-talks-nsync-reunion/</guid>
-            <pubDate>Thu, 09 Apr 2026 07:00:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/04/08/a632cd314b844c91aee93c78c0982996_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/04/08/a632cd314b844c91aee93c78c0982996_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/04/08/a632cd314b844c91aee93c78c0982996_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kendall Washington ‘Unwell Winter Games’ Dropout Not Staged, No Bad Blood Either]]></title>
-            <link>https://www.tmz.com/2026/04/08/kendall-washington-unwell-winter-games-dropout-was-real/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/kendall-washington-unwell-winter-games-dropout-was-real/</guid>
-            <pubDate>Thu, 09 Apr 2026 03:00:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/04/08/86094761c58b45d985cdd0cd7613d6b6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/08/86094761c58b45d985cdd0cd7613d6b6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/08/86094761c58b45d985cdd0cd7613d6b6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo Spins Basketball on Finger with Help of Harlem Globetrotters]]></title>
-            <link>https://www.tmz.com/2026/04/08/pope-leo-spinning-basketball-with-harlem-globetrotters/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/pope-leo-spinning-basketball-with-harlem-globetrotters/</guid>
-            <pubDate>Thu, 09 Apr 2026 01:04:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/04/08/63149f88647248429f51fec4d87bf6b2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/04/08/63149f88647248429f51fec4d87bf6b2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/04/08/63149f88647248429f51fec4d87bf6b2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ariana Grande Planning Summer Release for New Album]]></title>
-            <link>https://www.tmz.com/2026/04/08/ariana-grande-plans-summer-album-release/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/ariana-grande-plans-summer-album-release/</guid>
-            <pubDate>Thu, 09 Apr 2026 00:43:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/04/08/115203df7806427db8eb20ce367a37ea_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/04/08/115203df7806427db8eb20ce367a37ea_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/04/08/115203df7806427db8eb20ce367a37ea_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
