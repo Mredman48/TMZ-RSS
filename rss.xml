@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 05:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 07:03:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess Which Coachella Performer This Cute Kid Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/04/09/guess-coachella-performer-from-cute-kid/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/guess-coachella-performer-from-cute-kid/</guid>
+            <pubDate>Thu, 09 Apr 2026 07:01:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/04/07/e5e7e549796e4a59a3455f6ce6807127_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/07/e5e7e549796e4a59a3455f6ce6807127_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/07/e5e7e549796e4a59a3455f6ce6807127_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Joey Fatone Talks Possible *NSYNC Reunion After Timberlake DUI Video Release]]></title>
+            <link>https://www.tmz.com/2026/04/09/joey-fatone-talks-nsync-reunion/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/joey-fatone-talks-nsync-reunion/</guid>
+            <pubDate>Thu, 09 Apr 2026 07:00:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/04/08/a632cd314b844c91aee93c78c0982996_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/04/08/a632cd314b844c91aee93c78c0982996_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/04/08/a632cd314b844c91aee93c78c0982996_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kendall Washington ‘Unwell Winter Games’ Dropout Not Staged, No Bad Blood Either]]></title>
             <link>https://www.tmz.com/2026/04/08/kendall-washington-unwell-winter-games-dropout-was-real/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/11/16by9/2026/04/08/115203df7806427db8eb20ce367a37ea_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/04/08/115203df7806427db8eb20ce367a37ea_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pooh Shiesty Ordered to Remain in Custody After Arrest]]></title>
-            <link>https://www.tmz.com/2026/04/08/pooh-shiesty-remaining-in-custody/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/pooh-shiesty-remaining-in-custody/</guid>
-            <pubDate>Thu, 09 Apr 2026 00:12:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b2/16by9/2026/04/08/b230a35ebdf34ef7b84b03a7a275a458_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b2/16by9/2026/04/08/b230a35ebdf34ef7b84b03a7a275a458_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b2/16by9/2026/04/08/b230a35ebdf34ef7b84b03a7a275a458_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Erykah Badu Refuses to Talk About Attending Kanye West&#039;s SoFi Stadium Show]]></title>
-            <link>https://www.tmz.com/2026/04/08/erykah-badu-rejects-talking-about-kanye-west/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/08/erykah-badu-rejects-talking-about-kanye-west/</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/04/08/dd0cc7bb363c4a5cb3d02ac0e475ef00_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/04/08/dd0cc7bb363c4a5cb3d02ac0e475ef00_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/04/08/dd0cc7bb363c4a5cb3d02ac0e475ef00_xl.png">
             </media:thumbnail>
         </item>
     </channel>
