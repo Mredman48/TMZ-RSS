@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 12:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 14:26:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Cops Told Brian Hooker He Was Not a Suspect in Wife&#039;s Disappearance, Lawyer Says]]></title>
-            <link>https://www.tmz.com/2026/04/09/brian-hooker-lynette/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/brian-hooker-lynette/</guid>
-            <pubDate>Thu, 09 Apr 2026 12:07:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/04/09/d314537b2fb2422989b631ba678343d0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/04/09/d314537b2fb2422989b631ba678343d0_xl.jpg" medium="image">
+            <title><![CDATA[Jack Nicklaus&#039; Ceremonial Masters Tee Shot Lands In Trees]]></title>
+            <link>https://www.tmz.com/2026/04/09/jack-nicklaus-tee-shot-masters/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/jack-nicklaus-tee-shot-masters/</guid>
+            <pubDate>Thu, 09 Apr 2026 14:21:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/04/09/87300ffa70c64e43a9f0c4c288edcd4f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/04/09/87300ffa70c64e43a9f0c4c288edcd4f_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/04/09/d314537b2fb2422989b631ba678343d0_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/04/09/87300ffa70c64e43a9f0c4c288edcd4f_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Quadruple Amputee Murder Suspect Snorts Substance, Fires Gun, on Video]]></title>
-            <link>https://www.tmz.com/2026/04/09/dayton-webber-snorting-dollar-bill-and-shooting-gun-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/dayton-webber-snorting-dollar-bill-and-shooting-gun-video/</guid>
-            <pubDate>Thu, 09 Apr 2026 10:00:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/04/08/845026e3e0a94f7da90665ad995dcdb1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/04/08/845026e3e0a94f7da90665ad995dcdb1_xl.jpg" medium="image">
+            <title><![CDATA[Diddy Appeals Conviction, Says Freak-Offs Were Amateur Porno and Protected by 1st Amendment]]></title>
+            <link>https://www.tmz.com/2026/04/09/diddy-appeals-conviction-hearing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/diddy-appeals-conviction-hearing/</guid>
+            <pubDate>Thu, 09 Apr 2026 14:09:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/04/09/aadd65ceca7e4d5d8bdb75a25a4c22ae_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/04/09/aadd65ceca7e4d5d8bdb75a25a4c22ae_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/04/08/845026e3e0a94f7da90665ad995dcdb1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/04/09/aadd65ceca7e4d5d8bdb75a25a4c22ae_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jada Pinkett Smith Calls Out Will&#039;s Alleged Friend Over Weight Gain Court Claims]]></title>
-            <link>https://www.tmz.com/2026/04/09/jada-pinkett-smith-calls-out-bilaal-salaam-court-claims/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/jada-pinkett-smith-calls-out-bilaal-salaam-court-claims/</guid>
-            <pubDate>Thu, 09 Apr 2026 09:00:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/04/08/b440e5e1074e4d43a3bcf4b957f24d5c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/04/08/b440e5e1074e4d43a3bcf4b957f24d5c_xl.png" medium="image">
+            <title><![CDATA[Ivanka Trump Hits Disneyland Paris With Family as Dad Threatened Iran]]></title>
+            <link>https://www.tmz.com/2026/04/09/ivanka-trump-at-disneyland-when-president-threatened-iran/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/ivanka-trump-at-disneyland-when-president-threatened-iran/</guid>
+            <pubDate>Thu, 09 Apr 2026 13:53:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/04/09/58d877622182418e8b30b5e53c4a3adc_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/04/09/58d877622182418e8b30b5e53c4a3adc_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/04/08/b440e5e1074e4d43a3bcf4b957f24d5c_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/04/09/58d877622182418e8b30b5e53c4a3adc_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Police Arrest Husband of Missing Michigan Woman In Bahamas]]></title>
-            <link>https://www.tmz.com/2026/04/09/lynette-hooker-brian-bahamas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/lynette-hooker-brian-bahamas/</guid>
-            <pubDate>Thu, 09 Apr 2026 08:34:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg" medium="image">
+            <title><![CDATA[Wild Video Allegedly Shows Employee Set California Warehouse on Fire]]></title>
+            <link>https://www.tmz.com/2026/04/09/warehouse-fire-california-paper-company-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/warehouse-fire-california-paper-company-video/</guid>
+            <pubDate>Thu, 09 Apr 2026 13:22:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/04/09/52f660aa5de34abcb054e0303a230414_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/04/09/52f660aa5de34abcb054e0303a230414_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/04/07/b081e5b24e564231a8dbdea7702408f2_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/04/09/52f660aa5de34abcb054e0303a230414_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Throwback Thursday: Legendary Coachella Moments You Won’t Find on Instagram]]></title>
-            <link>https://www.tmz.com/2026/04/09/throwback-thursday-legendary-coachella-moments/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/throwback-thursday-legendary-coachella-moments/</guid>
-            <pubDate>Thu, 09 Apr 2026 07:45:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/04/06/d8acaa85896f447abb690b417cb2d853_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/06/d8acaa85896f447abb690b417cb2d853_xl.jpg" medium="image">
+            <title><![CDATA[&#039;The Housemaid&#039; Author Freida McFadden Reveals True Identity]]></title>
+            <link>https://www.tmz.com/2026/04/09/the-housemaid-author-freida-mcfadden-exposes-real-name/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/the-housemaid-author-freida-mcfadden-exposes-real-name/</guid>
+            <pubDate>Thu, 09 Apr 2026 13:15:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/04/09/32b523e30eee440c990fb7a32902fa83_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/04/09/32b523e30eee440c990fb7a32902fa83_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/06/d8acaa85896f447abb690b417cb2d853_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/04/09/32b523e30eee440c990fb7a32902fa83_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
