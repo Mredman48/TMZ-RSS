@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 16:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 17:42:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/04/09/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/watch-tmz-live-today/</guid>
+            <pubDate>Thu, 09 Apr 2026 17:34:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/04/09/68c6b8b11d094c7fbad0de9fd87a4fb2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/04/09/68c6b8b11d094c7fbad0de9fd87a4fb2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/04/09/68c6b8b11d094c7fbad0de9fd87a4fb2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Former Seahawks S Rickey Thenarse Shot In L.A. After Dispute]]></title>
+            <link>https://www.tmz.com/2026/04/09/seattle-seahawks-rickey-thenarse-shot-los-angeles/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/seattle-seahawks-rickey-thenarse-shot-los-angeles/</guid>
+            <pubDate>Thu, 09 Apr 2026 16:41:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/04/09/7abf60e1141a491abb0a52e94222dc6d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/04/09/7abf60e1141a491abb0a52e94222dc6d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/04/09/7abf60e1141a491abb0a52e94222dc6d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cheeks of the Week ... Guess The Coachella Booties!]]></title>
+            <link>https://www.tmz.com/2026/04/09/cheeks-of-the-week-guess-who-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/cheeks-of-the-week-guess-who-coachella/</guid>
+            <pubDate>Thu, 09 Apr 2026 16:28:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/04/08/2993f2204d7442fcb6b4b2ae574d0d0b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/04/08/2993f2204d7442fcb6b4b2ae574d0d0b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/04/08/2993f2204d7442fcb6b4b2ae574d0d0b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift Out With Friends, Wearing White Amid Rumored Wedding Planning]]></title>
             <link>https://www.tmz.com/2026/04/09/taylor-swift-seen-out-in-nyc/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/30/16by9/2026/04/09/306680e0d1084da98a0f38ad6c7fd3de_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/04/09/306680e0d1084da98a0f38ad6c7fd3de_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Natasha Lyonne Escorted Off Flight Hours After &#039;Euphoria&#039; S3 Premiere]]></title>
-            <link>https://www.tmz.com/2026/04/09/natasha-lyonne-removed-from-plane/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/natasha-lyonne-removed-from-plane/</guid>
-            <pubDate>Thu, 09 Apr 2026 15:31:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/04/09/a186effe689f45f4919c43bad3a080a0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/04/09/a186effe689f45f4919c43bad3a080a0_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/04/09/a186effe689f45f4919c43bad3a080a0_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Fleetwood Mac Drummer Mick Fleetwood Gets Married for the 5th Time]]></title>
-            <link>https://www.tmz.com/2026/04/09/mick-fleetwood-gets-married/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/mick-fleetwood-gets-married/</guid>
-            <pubDate>Thu, 09 Apr 2026 15:15:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/04/09/58149fe8cb5c4f209c9d5135c99336a9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/04/09/58149fe8cb5c4f209c9d5135c99336a9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/04/09/58149fe8cb5c4f209c9d5135c99336a9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mia Khalifa Accuses U.S. & Israel of &#039;Terrorism,&#039; War Crimes After Lebanon Strikes]]></title>
-            <link>https://www.tmz.com/2026/04/09/mia-khalifa-speaks-out-on-us-israel-lebanon-strikes/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/mia-khalifa-speaks-out-on-us-israel-lebanon-strikes/</guid>
-            <pubDate>Thu, 09 Apr 2026 15:02:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/04/09/9435c34287724ad18314d35aed88de8e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/04/09/9435c34287724ad18314d35aed88de8e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/04/09/9435c34287724ad18314d35aed88de8e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
