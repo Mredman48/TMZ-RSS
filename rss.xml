@@ -4,7 +4,7 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 10:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 11:37:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
@@ -30,7 +30,7 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Police Reportedly Arrest Husband of Missing Michigan Woman In Bahamas]]></title>
+            <title><![CDATA[Police Arrest Husband of Missing Michigan Woman In Bahamas]]></title>
             <link>https://www.tmz.com/2026/04/09/lynette-hooker-brian-bahamas/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/09/lynette-hooker-brian-bahamas/</guid>
             <pubDate>Thu, 09 Apr 2026 08:34:34 GMT</pubDate>
