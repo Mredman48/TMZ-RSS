@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 00:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 03:51:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Natasha Lyonne Attends NYC Film Premiere Days After Being Removed From Delta flight]]></title>
+            <link>https://www.tmz.com/2026/04/09/natasha-lyonne-attends-nyc-film-premiere-days-after-being-removed-from-delta-flight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/natasha-lyonne-attends-nyc-film-premiere-days-after-being-removed-from-delta-flight/</guid>
+            <pubDate>Fri, 10 Apr 2026 01:21:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/04/10/c0ae49ffe1de473fa5814969e085011e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/04/10/c0ae49ffe1de473fa5814969e085011e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/04/10/c0ae49ffe1de473fa5814969e085011e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mark Wahlberg Dishes On 4AM Workout Challenge and Which Celebs Couldn&#039;t Keep Up]]></title>
+            <link>https://www.tmz.com/2026/04/09/mark-wahlberg-talks-celebs-who-quit-4am-workout/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/mark-wahlberg-talks-celebs-who-quit-4am-workout/</guid>
+            <pubDate>Fri, 10 Apr 2026 00:47:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/04/09/21d5aacf1a7a4759a4cfc85779cb0121_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/04/09/21d5aacf1a7a4759a4cfc85779cb0121_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/04/09/21d5aacf1a7a4759a4cfc85779cb0121_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Selling the O.C.&#039; Future Unknown as Production Takes Backseat to &#039;Selling Sunset&#039;]]></title>
+            <link>https://www.tmz.com/2026/04/09/selling-the-oc-production-stalled-for-sunset/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/selling-the-oc-production-stalled-for-sunset/</guid>
+            <pubDate>Fri, 10 Apr 2026 00:21:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/04/09/d8a82fa7a2e84aa8a1ff185f09a32677_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/09/d8a82fa7a2e84aa8a1ff185f09a32677_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/09/d8a82fa7a2e84aa8a1ff185f09a32677_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[TRO Filed Against Columbus Short&#039;s Wife Aida for Physical Violence, Stalking]]></title>
             <link>https://www.tmz.com/2026/04/09/restraining-order-filed-against-columbus-shorts-wife/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/04/09/d9d4b8ddb2f74ac19b8ae9e7c8cac6d1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/04/09/d9d4b8ddb2f74ac19b8ae9e7c8cac6d1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gypsy Rose Banned by TikTok After Mass Reporting, Vows to Rise Above Haters]]></title>
-            <link>https://www.tmz.com/2026/04/09/gypsy-rose-slams-haters-after-tiktok-ban/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/gypsy-rose-slams-haters-after-tiktok-ban/</guid>
-            <pubDate>Thu, 09 Apr 2026 23:30:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/04/09/1a0d26deeb4e422da2d4b21dba5bc110_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/04/09/1a0d26deeb4e422da2d4b21dba5bc110_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/04/09/1a0d26deeb4e422da2d4b21dba5bc110_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Trump Torches Megyn Kelly, Tucker Carlson, Candace Owens, Alex Jones in Rant]]></title>
-            <link>https://www.tmz.com/2026/04/09/trump-calls-out-megyn-kelly-tucker-carlson-candace-owens-alex-jones/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/trump-calls-out-megyn-kelly-tucker-carlson-candace-owens-alex-jones/</guid>
-            <pubDate>Thu, 09 Apr 2026 23:06:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/04/09/35c3a0dbc72444aa99df7ba2d5fcb66f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/04/09/35c3a0dbc72444aa99df7ba2d5fcb66f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/04/09/35c3a0dbc72444aa99df7ba2d5fcb66f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Famous Coachella Couples Through The Years ... PDA In The Desert]]></title>
-            <link>https://www.tmz.com/2026/04/09/coachella-couples-through-the-years/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/coachella-couples-through-the-years/</guid>
-            <pubDate>Thu, 09 Apr 2026 23:00:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/04/08/6db5f510a7c344d6946aaf3c46fef104_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/04/08/6db5f510a7c344d6946aaf3c46fef104_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/04/08/6db5f510a7c344d6946aaf3c46fef104_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
