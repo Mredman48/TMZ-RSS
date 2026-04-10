@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 23:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 00:06:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[TRO Filed Against Columbus Short&#039;s Wife Aida for Physical Violence, Stalking]]></title>
+            <link>https://www.tmz.com/2026/04/09/restraining-order-filed-against-columbus-shorts-wife/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/restraining-order-filed-against-columbus-shorts-wife/</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/de/16by9/2026/03/25/de220dfefeff404ea673fee39b043a2c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/de/16by9/2026/03/25/de220dfefeff404ea673fee39b043a2c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/03/25/de220dfefeff404ea673fee39b043a2c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Christian Pulisic&#039;s Ex Backtracks After Cheating Accusation]]></title>
+            <link>https://www.tmz.com/2026/04/09/christian-pulisic-ex-girlfriend-alexa-melton-backtracks-cheating-accusation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/christian-pulisic-ex-girlfriend-alexa-melton-backtracks-cheating-accusation/</guid>
+            <pubDate>Thu, 09 Apr 2026 23:32:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/04/09/d9d4b8ddb2f74ac19b8ae9e7c8cac6d1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/04/09/d9d4b8ddb2f74ac19b8ae9e7c8cac6d1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/04/09/d9d4b8ddb2f74ac19b8ae9e7c8cac6d1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Gypsy Rose Banned by TikTok After Mass Reporting, Vows to Rise Above Haters]]></title>
+            <link>https://www.tmz.com/2026/04/09/gypsy-rose-slams-haters-after-tiktok-ban/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/gypsy-rose-slams-haters-after-tiktok-ban/</guid>
+            <pubDate>Thu, 09 Apr 2026 23:30:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/04/09/1a0d26deeb4e422da2d4b21dba5bc110_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/04/09/1a0d26deeb4e422da2d4b21dba5bc110_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/04/09/1a0d26deeb4e422da2d4b21dba5bc110_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Trump Torches Megyn Kelly, Tucker Carlson, Candace Owens, Alex Jones in Rant]]></title>
             <link>https://www.tmz.com/2026/04/09/trump-calls-out-megyn-kelly-tucker-carlson-candace-owens-alex-jones/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/04/08/6db5f510a7c344d6946aaf3c46fef104_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/04/08/6db5f510a7c344d6946aaf3c46fef104_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stormy Daniels&#039; Lawyer Michael Avenatti Seen for 1st Time Since Prison Release]]></title>
-            <link>https://www.tmz.com/2026/04/09/michael-avenatti-seen-first-time-since-prison-release/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/michael-avenatti-seen-first-time-since-prison-release/</guid>
-            <pubDate>Thu, 09 Apr 2026 22:36:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/04/09/576988f6d8c74f75bb0ce7a9eebfbd51_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/04/09/576988f6d8c74f75bb0ce7a9eebfbd51_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/04/09/576988f6d8c74f75bb0ce7a9eebfbd51_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lamar Odom Says He&#039;d Talk to Khloé Kardashian Again After Dad Diss]]></title>
-            <link>https://www.tmz.com/2026/04/09/lamar-odom-open-to-talking-to-khloe-kardashian-again/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/lamar-odom-open-to-talking-to-khloe-kardashian-again/</guid>
-            <pubDate>Thu, 09 Apr 2026 22:34:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/04/09/bc4fdd14a68f43909cad98b4a646a9a2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/04/09/bc4fdd14a68f43909cad98b4a646a9a2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/04/09/bc4fdd14a68f43909cad98b4a646a9a2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gleb Savchenko Claims Sex With Ex Brooks Nader Was Worst He&#039;s Ever Had]]></title>
-            <link>https://www.tmz.com/2026/04/09/gleb-savchenko-says-sex-with-brooks-nader-was-the-worst/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/09/gleb-savchenko-says-sex-with-brooks-nader-was-the-worst/</guid>
-            <pubDate>Thu, 09 Apr 2026 22:25:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/04/09/671498ec828144b5b5a454f9c6dd72d7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/04/09/671498ec828144b5b5a454f9c6dd72d7_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/04/09/671498ec828144b5b5a454f9c6dd72d7_xl.png">
             </media:thumbnail>
         </item>
     </channel>
