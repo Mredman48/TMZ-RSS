@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 11:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 12:32:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[White House Officials Reportedly Disagreed with Melania Trump&#039;s Jeffrey Epstein Statement]]></title>
+            <link>https://www.tmz.com/2026/04/10/white-house-officials-disagreed-with-melania-trump-jeffrey-epstein-statement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/white-house-officials-disagreed-with-melania-trump-jeffrey-epstein-statement/</guid>
+            <pubDate>Fri, 10 Apr 2026 11:43:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/04/09/b5d373988e9644d1bd69441f095e118a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/04/09/b5d373988e9644d1bd69441f095e118a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/04/09/b5d373988e9644d1bd69441f095e118a_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[University of Idaho Murders: TikToker Who Falsely Accused Professor Fights Judgment]]></title>
             <link>https://www.tmz.com/2026/04/10/university-of-idaho-murders-tiktoker-fights-back-at-idaho-professor/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/07/18d06af754534d79946dcf535b69150d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/07/18d06af754534d79946dcf535b69150d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mike Perry Ready To &#039;Spread Some Blood&#039; Against Nate Diaz]]></title>
-            <link>https://www.tmz.com/2026/04/10/mike-perry-spreading-blood-nate-diaz-fight/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/mike-perry-spreading-blood-nate-diaz-fight/</guid>
-            <pubDate>Fri, 10 Apr 2026 07:30:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/04/06/cbc0fcd22ece4c938fa26f5ffb42e9c4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/04/06/cbc0fcd22ece4c938fa26f5ffb42e9c4_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/04/06/cbc0fcd22ece4c938fa26f5ffb42e9c4_xl.png">
             </media:thumbnail>
         </item>
     </channel>
