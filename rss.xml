@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 12:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 14:01:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[White House Officials Reportedly Disagreed with Melania Trump&#039;s Jeffrey Epstein Statement]]></title>
+            <title><![CDATA[Coachella Chaos: Influencers Uninvited, With Rentals & Ticket Resales Skyrocketing]]></title>
+            <link>https://www.tmz.com/2026/04/10/coachella-influencers-uninvited-from-festival/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/coachella-influencers-uninvited-from-festival/</guid>
+            <pubDate>Fri, 10 Apr 2026 13:54:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/04/10/a19468652a684804bc4b7fe411473a0e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/04/10/a19468652a684804bc4b7fe411473a0e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/04/10/a19468652a684804bc4b7fe411473a0e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Trump Posts Horrific Video Showing Haitian Man Beating Woman With Hammer]]></title>
+            <link>https://www.tmz.com/2026/04/10/trump-shares-brutal-florida-attack-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/trump-shares-brutal-florida-attack-video/</guid>
+            <pubDate>Fri, 10 Apr 2026 13:00:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/04/10/1044e4798c3b4ce18f6c3d0d03803016_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/04/10/1044e4798c3b4ce18f6c3d0d03803016_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/04/10/1044e4798c3b4ce18f6c3d0d03803016_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Cheerleader Laken Snelling Pleads Not Guilty in Dead Baby Case]]></title>
+            <link>https://www.tmz.com/2026/04/10/laken-snelling-pleads-not-guilty-dead-baby-case/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/laken-snelling-pleads-not-guilty-dead-baby-case/</guid>
+            <pubDate>Fri, 10 Apr 2026 12:51:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/04/10/b0f0194890c94194bbc8665cb89c7038_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/04/10/b0f0194890c94194bbc8665cb89c7038_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/04/10/b0f0194890c94194bbc8665cb89c7038_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Handcuffed Brian Hooker Fell Overboard After Police Took Him Out on Boat: Lawyer]]></title>
+            <link>https://www.tmz.com/2026/04/10/brian-hooker-fell-overboard-on-police-boat/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/brian-hooker-fell-overboard-on-police-boat/</guid>
+            <pubDate>Fri, 10 Apr 2026 12:40:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c9/16by9/2026/04/10/c9a660972a5f4d50870ee4a87c4b7651_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c9/16by9/2026/04/10/c9a660972a5f4d50870ee4a87c4b7651_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c9/16by9/2026/04/10/c9a660972a5f4d50870ee4a87c4b7651_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[White House Officials Reportedly Disagreed With Melania Trump&#039;s Jeffrey Epstein Statement]]></title>
             <link>https://www.tmz.com/2026/04/10/white-house-officials-disagreed-with-melania-trump-jeffrey-epstein-statement/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/10/white-house-officials-disagreed-with-melania-trump-jeffrey-epstein-statement/</guid>
             <pubDate>Fri, 10 Apr 2026 11:43:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/04/09/b5d373988e9644d1bd69441f095e118a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/04/09/b5d373988e9644d1bd69441f095e118a_xl.png" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/04/10/1ca6bf99b70a4435b0f797cf7e29d328_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/04/10/1ca6bf99b70a4435b0f797cf7e29d328_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/04/09/b5d373988e9644d1bd69441f095e118a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[University of Idaho Murders: TikToker Who Falsely Accused Professor Fights Judgment]]></title>
-            <link>https://www.tmz.com/2026/04/10/university-of-idaho-murders-tiktoker-fights-back-at-idaho-professor/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/university-of-idaho-murders-tiktoker-fights-back-at-idaho-professor/</guid>
-            <pubDate>Fri, 10 Apr 2026 09:00:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/79/16by9/2026/04/09/7922c28d4f564b00ade3282352acad4f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/79/16by9/2026/04/09/7922c28d4f564b00ade3282352acad4f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/04/09/7922c28d4f564b00ade3282352acad4f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brian Hooker Reportedly Told Friend Heavy Winds Caused His Wife&#039;s Disappearance]]></title>
-            <link>https://www.tmz.com/2026/04/10/brian-hooker-lynette-bahamas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/brian-hooker-lynette-bahamas/</guid>
-            <pubDate>Fri, 10 Apr 2026 08:46:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/04/09/fadf1f41080b4ab1a2165359822e513d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/04/09/fadf1f41080b4ab1a2165359822e513d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/04/09/fadf1f41080b4ab1a2165359822e513d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Denise Richards&#039; Wages Can&#039;t Be Seized by Ex Aaron&#039;s Creditor, Judge Rules]]></title>
-            <link>https://www.tmz.com/2026/04/10/denise-richards-wages-cant-be-taken-by-aaron-phypers-creditor/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/denise-richards-wages-cant-be-taken-by-aaron-phypers-creditor/</guid>
-            <pubDate>Fri, 10 Apr 2026 08:00:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/04/09/1ea81a38eff24d6faddde93990fe03a0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/04/09/1ea81a38eff24d6faddde93990fe03a0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/04/09/1ea81a38eff24d6faddde93990fe03a0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chloe In &#039;The Bling Ring&#039; &#039;Memba Her?!]]></title>
-            <link>https://www.tmz.com/2026/04/10/chloe-the-bling-ring-memba-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/chloe-the-bling-ring-memba-her/</guid>
-            <pubDate>Fri, 10 Apr 2026 07:45:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/04/07/18d06af754534d79946dcf535b69150d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/07/18d06af754534d79946dcf535b69150d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/07/18d06af754534d79946dcf535b69150d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/04/10/1ca6bf99b70a4435b0f797cf7e29d328_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
