@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 20:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 21:06:40 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess The Sexy Country Singer Lookin&#039; Mean In Green!]]></title>
+            <link>https://www.tmz.com/2026/04/10/guess-the-sexy-singer-lookin-mean-in-green/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/guess-the-sexy-singer-lookin-mean-in-green/</guid>
+            <pubDate>Fri, 10 Apr 2026 21:00:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/04/10/8489d705ddd34c71aef4f2950d84620d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/04/10/8489d705ddd34c71aef4f2950d84620d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/04/10/8489d705ddd34c71aef4f2950d84620d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jordan Ngatikaura Reports Laundry Service Stole His Clothes, but Cops Drop Case]]></title>
+            <link>https://www.tmz.com/2026/04/10/jessi-draper-ex-jordan-ngatikaura-reported-his-laundry-stolen/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/jessi-draper-ex-jordan-ngatikaura-reported-his-laundry-stolen/</guid>
+            <pubDate>Fri, 10 Apr 2026 20:30:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/04/10/2e2c2c55c3b344d086e5d0f87d7396c2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/10/2e2c2c55c3b344d086e5d0f87d7396c2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/10/2e2c2c55c3b344d086e5d0f87d7396c2_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[NY Jets QB Browning Nagle Dead At 57 After Cancer Battle]]></title>
+            <link>https://www.tmz.com/2026/04/10/ny-jets-quarterback-browning-nagle-dead-cancer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/ny-jets-quarterback-browning-nagle-dead-cancer/</guid>
+            <pubDate>Fri, 10 Apr 2026 20:16:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/04/10/c2e88121c1104e67a41b7c7c44f903ce_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/04/10/c2e88121c1104e67a41b7c7c44f903ce_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/04/10/c2e88121c1104e67a41b7c7c44f903ce_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Age of Attraction&#039; Star Derrick Fleming Dated &#039;Crazy Plane Lady&#039; Tiffany Gomas]]></title>
             <link>https://www.tmz.com/2026/04/10/derrick-fleming-dated-crazy-plane-lady-tiffany-gomas/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ba/16by9/2026/04/10/bab45ca3fbc4480d9e40de1606a3c030_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ba/16by9/2026/04/10/bab45ca3fbc4480d9e40de1606a3c030_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Carl Crawford Knew Son, Phillies CF, Would Be 1st Round Pick In High School]]></title>
-            <link>https://www.tmz.com/2026/04/10/carl-crawford-justin-crawford-philadelphia-phillies-mlb/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/carl-crawford-justin-crawford-philadelphia-phillies-mlb/</guid>
-            <pubDate>Fri, 10 Apr 2026 19:21:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a2/16by9/2026/04/09/a2d9bd83a5d54e46a12c92e66131997e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a2/16by9/2026/04/09/a2d9bd83a5d54e46a12c92e66131997e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a2/16by9/2026/04/09/a2d9bd83a5d54e46a12c92e66131997e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Coachella 2026 Kicks Off With Major Celebrity Arrivals, See Pics]]></title>
-            <link>https://www.tmz.com/2026/04/10/coachella-2026-celebrities-arrive-fashion-gallery/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/coachella-2026-celebrities-arrive-fashion-gallery/</guid>
-            <pubDate>Fri, 10 Apr 2026 19:11:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/04/10/717fb176f8cb405cba21809770969edf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/04/10/717fb176f8cb405cba21809770969edf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/04/10/717fb176f8cb405cba21809770969edf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donnell Rawlings to Host TMZ Comedy Crawl After Mateen Stewart Cracks Up Bus]]></title>
-            <link>https://www.tmz.com/2026/04/10/donnell-rawlings-next-to-host-comedy-crawl-bus-tour/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/donnell-rawlings-next-to-host-comedy-crawl-bus-tour/</guid>
-            <pubDate>Fri, 10 Apr 2026 18:57:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/04/07/e2a4479a37934bbc9db3df1efb7709fd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/04/07/e2a4479a37934bbc9db3df1efb7709fd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/04/07/e2a4479a37934bbc9db3df1efb7709fd_xl.png">
             </media:thumbnail>
         </item>
     </channel>
