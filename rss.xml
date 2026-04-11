@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 23:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 00:03:40 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Eric Swalwell&#039;s Former Staffer Accuses Him of Rape in CNN Interview]]></title>
+            <link>https://www.tmz.com/2026/04/10/eric-swalwell-former-staffer-accuses-him-rape/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/eric-swalwell-former-staffer-accuses-him-rape/</guid>
+            <pubDate>Fri, 10 Apr 2026 23:54:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/04/10/b101f86e01384ddf94a3336ba5c84248_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/04/10/b101f86e01384ddf94a3336ba5c84248_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/04/10/b101f86e01384ddf94a3336ba5c84248_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[The Athletic Investigating Vrabel Photos, Dianna Russini Sidelined During Probe]]></title>
+            <link>https://www.tmz.com/2026/04/10/the-athletic-investigating-mike-vrabel-photos-dianna-russini-sidelined/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/the-athletic-investigating-mike-vrabel-photos-dianna-russini-sidelined/</guid>
+            <pubDate>Fri, 10 Apr 2026 23:40:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/04/10/dfdeb2c6a9b0439480147115c979e826_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/04/10/dfdeb2c6a9b0439480147115c979e826_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/04/10/dfdeb2c6a9b0439480147115c979e826_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cardi B Seeks Sanctions Against Tasha K For Talking Offset & Stefon Diggs]]></title>
+            <link>https://www.tmz.com/2026/04/10/cardi-b-wants-tasha-k-penalized-for-talking-offset-stefon-diggs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/cardi-b-wants-tasha-k-penalized-for-talking-offset-stefon-diggs/</guid>
+            <pubDate>Fri, 10 Apr 2026 23:31:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/04/10/bc6fd29310114bd980a3e7c1844c893a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/04/10/bc6fd29310114bd980a3e7c1844c893a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/04/10/bc6fd29310114bd980a3e7c1844c893a_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[West Wilson Attending ‘Summer House’ Reunion Amid Amanda Batula Scandal]]></title>
             <link>https://www.tmz.com/2026/04/10/west-wilson-will-attend-summer-house-reunion-amid-scamanda/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/30/16by9/2026/04/10/305fbe1630834e9bba4a34cb60bb5464_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/04/10/305fbe1630834e9bba4a34cb60bb5464_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Artemis II Flight Returns to Earth After Historic Mission, Watch Livestream]]></title>
-            <link>https://www.tmz.com/2026/04/10/artemis-shuttle-lunar-historic-moon-land-earth/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/artemis-shuttle-lunar-historic-moon-land-earth/</guid>
-            <pubDate>Fri, 10 Apr 2026 22:54:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/04/10/95ac8ba7f2834535a049f3f3fe249634_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/04/10/95ac8ba7f2834535a049f3f3fe249634_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/04/10/95ac8ba7f2834535a049f3f3fe249634_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Donald Trump Promises Mass Pardons for White House Staff: Report]]></title>
-            <link>https://www.tmz.com/2026/04/10/trump-allegedly-promises-pardons-to-staff-members/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/trump-allegedly-promises-pardons-to-staff-members/</guid>
-            <pubDate>Fri, 10 Apr 2026 22:50:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/04/10/c231fc61df2e4e7988da65fb68c88526_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/04/10/c231fc61df2e4e7988da65fb68c88526_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/04/10/c231fc61df2e4e7988da65fb68c88526_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[DHS Denies Natasha Lyonne Was Detained by ICE After Flight Removal]]></title>
-            <link>https://www.tmz.com/2026/04/10/dhs-spokesperson-denies-detaining-natasha-lyonne/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/dhs-spokesperson-denies-detaining-natasha-lyonne/</guid>
-            <pubDate>Fri, 10 Apr 2026 22:41:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/04/10/c3a840ac1a9b47cea52c405bbe7013fc_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/04/10/c3a840ac1a9b47cea52c405bbe7013fc_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/04/10/c3a840ac1a9b47cea52c405bbe7013fc_xl.png">
             </media:thumbnail>
         </item>
     </channel>
