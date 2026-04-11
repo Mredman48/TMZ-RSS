@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 15:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 16:01:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ex-Maroon 5 Bassist Mickey Madden Officially Single After Divorce Finalized]]></title>
+            <link>https://www.tmz.com/2026/04/11/mickey-madden-kate-bowman-divorce-finalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/mickey-madden-kate-bowman-divorce-finalized/</guid>
+            <pubDate>Sat, 11 Apr 2026 15:30:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/04/11/96088d07515d48ecaac6d6b5ef8011ed_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/04/11/96088d07515d48ecaac6d6b5ef8011ed_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/04/11/96088d07515d48ecaac6d6b5ef8011ed_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Sabrina Carpenter, KATSEYE, John Summit Energize Coachella Day 1]]></title>
             <link>https://www.tmz.com/2026/04/11/coachella-first-night-performances/</link>
@@ -19,7 +30,7 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Swae Lee&#039;s Coachella&#039;s Set Reportedly Cut Off Before &#039;Black Beatles&#039;]]></title>
+            <title><![CDATA[Swae Lee&#039;s Coachella&#039;s Set Appears to Get Cut Off Before &#039;Black Beatles&#039;]]></title>
             <link>https://www.tmz.com/2026/04/11/swae-lee-coachella-performance-cut-short/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/11/swae-lee-coachella-performance-cut-short/</guid>
             <pubDate>Sat, 11 Apr 2026 13:57:56 GMT</pubDate>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kyle Richards Sued to Evict Sister Kim Richards From L.A. Condo]]></title>
-            <link>https://www.tmz.com/2026/04/11/kyle-richards-sued-sister-to-kick-her-out-of-home/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/kyle-richards-sued-sister-to-kick-her-out-of-home/</guid>
-            <pubDate>Sat, 11 Apr 2026 10:00:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/98/16by9/2026/03/27/988b1b1995f54fc983ed54d79a46e59c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/98/16by9/2026/03/27/988b1b1995f54fc983ed54d79a46e59c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2026/03/27/988b1b1995f54fc983ed54d79a46e59c_xl.png">
             </media:thumbnail>
         </item>
     </channel>
