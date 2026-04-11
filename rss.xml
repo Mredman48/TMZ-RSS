@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 21:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 23:03:53 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Eric Swalwell&#039;s Senior Staffers Release Joint Statement Slamming Him]]></title>
+            <link>https://www.tmz.com/2026/04/11/eric-swalwell-staff-slams-congressman-statement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/eric-swalwell-staff-slams-congressman-statement/</guid>
+            <pubDate>Sat, 11 Apr 2026 22:48:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/04/11/e5ace8c1bb2848a7b1d7fad5c554c175_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/11/e5ace8c1bb2848a7b1d7fad5c554c175_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/11/e5ace8c1bb2848a7b1d7fad5c554c175_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Chanel West Coast, Lexy Panterra Urge People to Stop Peeing in Coachella Crowd]]></title>
+            <link>https://www.tmz.com/2026/04/11/chanel-west-coast-lexy-panterra-warn-people-no-peeing-at-justin-bieber-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/chanel-west-coast-lexy-panterra-warn-people-no-peeing-at-justin-bieber-coachella/</guid>
+            <pubDate>Sat, 11 Apr 2026 22:34:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/04/11/2dbb6b9313bb466ab98bfb11fa4f910e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/04/11/2dbb6b9313bb466ab98bfb11fa4f910e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/04/11/2dbb6b9313bb466ab98bfb11fa4f910e_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tom Sandoval & Ariana Madix&#039;s Home in Escrow, Sold Off-Market]]></title>
+            <link>https://www.tmz.com/2026/04/11/tom-sandoval-ariana-madix-house-sells-off-market/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/tom-sandoval-ariana-madix-house-sells-off-market/</guid>
+            <pubDate>Sat, 11 Apr 2026 22:33:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/04/11/86d0cf29398648ae83858bcee42af7df_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/11/86d0cf29398648ae83858bcee42af7df_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/11/86d0cf29398648ae83858bcee42af7df_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Artemis II Commander Reid Wiseman Gets Emotional During Post-Flight Press Conference]]></title>
+            <link>https://www.tmz.com/2026/04/11/artemis-ii-commander-reid-wiseman-emotional-speech/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/artemis-ii-commander-reid-wiseman-emotional-speech/</guid>
+            <pubDate>Sat, 11 Apr 2026 22:03:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/04/11/28ebfc980a814a299382f8adc0b83dfd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/04/11/28ebfc980a814a299382f8adc0b83dfd_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/04/11/28ebfc980a814a299382f8adc0b83dfd_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Liam Payne&#039;s Former Girlfriend Kate Cassidy Spills Out of Top at Coachella]]></title>
             <link>https://www.tmz.com/2026/04/11/liam-payne-ex-kate-cassidy-at-coachella/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/04/11/c88a6c28dfc34ee4866e5b4f663a9483_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/04/11/c88a6c28dfc34ee4866e5b4f663a9483_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sabrina Carpenter Confuses Cultural Cry For Yodeling During Coachella Set]]></title>
-            <link>https://www.tmz.com/2026/04/11/sabrina-carpenter-slammed-for-disliking-cultural-cry-at-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/sabrina-carpenter-slammed-for-disliking-cultural-cry-at-coachella/</guid>
-            <pubDate>Sat, 11 Apr 2026 20:35:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/04/11/ac7c3308121d4647bbeba66064cf811e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/04/11/ac7c3308121d4647bbeba66064cf811e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/04/11/ac7c3308121d4647bbeba66064cf811e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Baldoni Claims Blake Lively Put Taylor Swift&#039;s Cookie Recipe in Trial Discovery]]></title>
-            <link>https://www.tmz.com/2026/04/11/justin-baldoni-claims-blake-put-taylor-swift-cookie-recipe-in-discovery-docs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/justin-baldoni-claims-blake-put-taylor-swift-cookie-recipe-in-discovery-docs/</guid>
-            <pubDate>Sat, 11 Apr 2026 19:53:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/04/11/fd5dd73ea9174f38b81084bb66933ded_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/04/11/fd5dd73ea9174f38b81084bb66933ded_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/04/11/fd5dd73ea9174f38b81084bb66933ded_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love on the Spectrum&#039;s Abbey Romeo and David Isaacman Confirm Breakup]]></title>
-            <link>https://www.tmz.com/2026/04/11/abbey-romeo-david-isaacman-speak-about-breakup/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/abbey-romeo-david-isaacman-speak-about-breakup/</guid>
-            <pubDate>Sat, 11 Apr 2026 19:12:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bd/16by9/2026/04/11/bd4f5d7c704d4538a48ada1e6f9535dd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/bd/16by9/2026/04/11/bd4f5d7c704d4538a48ada1e6f9535dd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bd/16by9/2026/04/11/bd4f5d7c704d4538a48ada1e6f9535dd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Coachella Crochet Cuties -- Guess The Knotty Lewks!]]></title>
-            <link>https://www.tmz.com/2026/04/11/coachella-crochet-cuties-guess-knotty-lewks/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/coachella-crochet-cuties-guess-knotty-lewks/</guid>
-            <pubDate>Sat, 11 Apr 2026 19:00:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/04/06/dad0211f2ed9417486ebf0ca0f0bdb6a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/04/06/dad0211f2ed9417486ebf0ca0f0bdb6a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/04/06/dad0211f2ed9417486ebf0ca0f0bdb6a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
