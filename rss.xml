@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 19:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 19:59:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Justin Baldoni Claims Blake Lively Put Taylor Swift&#039;s Cookie Recipe in Trial Discovery]]></title>
+            <link>https://www.tmz.com/2026/04/11/justin-baldoni-claims-blake-put-taylor-swift-cookie-recipe-in-discovery-docs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/justin-baldoni-claims-blake-put-taylor-swift-cookie-recipe-in-discovery-docs/</guid>
+            <pubDate>Sat, 11 Apr 2026 19:53:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/04/11/fd5dd73ea9174f38b81084bb66933ded_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/04/11/fd5dd73ea9174f38b81084bb66933ded_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/04/11/fd5dd73ea9174f38b81084bb66933ded_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Love on the Spectrum&#039;s Abbey Romeo and David Isaacman Confirm Breakup]]></title>
             <link>https://www.tmz.com/2026/04/11/abbey-romeo-david-isaacman-speak-about-breakup/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Batman&#039; and &#039;Person of Interest&#039; Star John Nolan Dead at 87]]></title>
-            <link>https://www.tmz.com/2026/04/11/actor-john-nolan-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/actor-john-nolan-dead/</guid>
-            <pubDate>Sat, 11 Apr 2026 17:17:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/53/16by9/2026/04/11/534a77be6e78423087ffcd50dcffcaf9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/53/16by9/2026/04/11/534a77be6e78423087ffcd50dcffcaf9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/53/16by9/2026/04/11/534a77be6e78423087ffcd50dcffcaf9_xl.png">
             </media:thumbnail>
         </item>
     </channel>
