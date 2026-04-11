@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 03:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 05:14:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Eric Swalwell Apologizes to Wife, Denies Rape Claims in Fiery Video]]></title>
+            <link>https://www.tmz.com/2026/04/10/eric-swalwell-apologizes-to-wife-denies-assault-allegations-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/eric-swalwell-apologizes-to-wife-denies-assault-allegations-video/</guid>
+            <pubDate>Sat, 11 Apr 2026 03:53:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/11/f0085d4f30554cb083ed8f610f7d85f4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/11/f0085d4f30554cb083ed8f610f7d85f4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/11/f0085d4f30554cb083ed8f610f7d85f4_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Quincy Jones III Named Executor of Dad&#039;s Estate After Rashida, Richard Jones Declined]]></title>
             <link>https://www.tmz.com/2026/04/10/quincy-jones-iii-named-executor-of-dad-estate/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/28/16by9/2026/04/07/289273386f7b4ff19daf57e64c184f9a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/04/07/289273386f7b4ff19daf57e64c184f9a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jason Oppenheim Says He Might Stop Driving Roll-Royces After Car Theft]]></title>
-            <link>https://www.tmz.com/2026/04/10/jason-oppenheim-thinking-about-downgrading-cars-after-theft/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/10/jason-oppenheim-thinking-about-downgrading-cars-after-theft/</guid>
-            <pubDate>Sat, 11 Apr 2026 00:20:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/04/10/3b7a3eebb3fb45eebbbd1235b343ed7c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/04/10/3b7a3eebb3fb45eebbbd1235b343ed7c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/04/10/3b7a3eebb3fb45eebbbd1235b343ed7c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
