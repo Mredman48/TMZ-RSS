@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 11:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 13:40:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sabrina Carpenter Goes Full-On Hollywood With Major Star Power at Coachella]]></title>
+            <link>https://www.tmz.com/2026/04/11/sabrina-carpenter-brings-celebs-to-coachella-performance/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/sabrina-carpenter-brings-celebs-to-coachella-performance/</guid>
+            <pubDate>Sat, 11 Apr 2026 13:00:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/04/11/a82d960ce32947e893fe1c11794f6f12_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/04/11/a82d960ce32947e893fe1c11794f6f12_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/04/11/a82d960ce32947e893fe1c11794f6f12_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lizzo Bares Her Bum, Twerks on Labubu at Coachella]]></title>
+            <link>https://www.tmz.com/2026/04/11/lizzo-shows-off-butt-going-to-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/lizzo-shows-off-butt-going-to-coachella/</guid>
+            <pubDate>Sat, 11 Apr 2026 12:06:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kyle Richards Sued to Evict Sister Kim Richards From L.A. Condo]]></title>
             <link>https://www.tmz.com/2026/04/11/kyle-richards-sued-sister-to-kick-her-out-of-home/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/04/06/b14bfd191038470fa75a700116174d35_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/04/06/b14bfd191038470fa75a700116174d35_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Who&#039;d You Rather?! Celebs At Coachella Edition!]]></title>
-            <link>https://www.tmz.com/2026/04/11/whod-you-rather-celebs-at-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/whod-you-rather-celebs-at-coachella/</guid>
-            <pubDate>Sat, 11 Apr 2026 07:45:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/07/d48a8e8e5997496aa5cead8e1de7255f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/07/d48a8e8e5997496aa5cead8e1de7255f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/07/d48a8e8e5997496aa5cead8e1de7255f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nick Nemeth Calls Having Bernie Kosar In His Corner For TNA Rebellion A Dream Come True]]></title>
-            <link>https://www.tmz.com/2026/04/11/nick-nemeth-says-bernie-kosar-will-support-him-in-tna-rebellion/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/nick-nemeth-says-bernie-kosar-will-support-him-in-tna-rebellion/</guid>
-            <pubDate>Sat, 11 Apr 2026 07:30:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/04/09/dc78884d28634834a47654872068fa9b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/04/09/dc78884d28634834a47654872068fa9b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/04/09/dc78884d28634834a47654872068fa9b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
