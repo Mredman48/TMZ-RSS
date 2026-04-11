@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 18:01:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 19:22:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Love on the Spectrum&#039;s Abbey Romeo and David Isaacman Confirm Breakup]]></title>
+            <link>https://www.tmz.com/2026/04/11/abbey-romeo-david-isaacman-speak-about-breakup/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/abbey-romeo-david-isaacman-speak-about-breakup/</guid>
+            <pubDate>Sat, 11 Apr 2026 19:12:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bd/16by9/2026/04/11/bd4f5d7c704d4538a48ada1e6f9535dd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bd/16by9/2026/04/11/bd4f5d7c704d4538a48ada1e6f9535dd_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bd/16by9/2026/04/11/bd4f5d7c704d4538a48ada1e6f9535dd_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Coachella Crochet Cuties -- Guess The Knotty Lewks!]]></title>
+            <link>https://www.tmz.com/2026/04/11/coachella-crochet-cuties-guess-knotty-lewks/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/coachella-crochet-cuties-guess-knotty-lewks/</guid>
+            <pubDate>Sat, 11 Apr 2026 19:00:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/04/06/dad0211f2ed9417486ebf0ca0f0bdb6a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/04/06/dad0211f2ed9417486ebf0ca0f0bdb6a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/04/06/dad0211f2ed9417486ebf0ca0f0bdb6a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Eric Swalwell Under Investigation by Manhattan D.A. After Rape Allegation]]></title>
+            <link>https://www.tmz.com/2026/04/11/eric-swalwell-under-manhattan-da-investigation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/eric-swalwell-under-manhattan-da-investigation/</guid>
+            <pubDate>Sat, 11 Apr 2026 18:48:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/04/11/aa8a10a0953442d89852fdce66e42093_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/04/11/aa8a10a0953442d89852fdce66e42093_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/04/11/aa8a10a0953442d89852fdce66e42093_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Blake Lively & Justin Baldoni Want to Ask Potential Jurors About Taylor Swift, Ryan Reynolds]]></title>
+            <link>https://www.tmz.com/2026/04/11/blake-lively-justin-baldoni-wants-ask-jurors-about-taylor-swift-ryan-reynolds/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/blake-lively-justin-baldoni-wants-ask-jurors-about-taylor-swift-ryan-reynolds/</guid>
+            <pubDate>Sat, 11 Apr 2026 18:27:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Batman&#039; and &#039;Person of Interest&#039; Star John Nolan Dead at 87]]></title>
             <link>https://www.tmz.com/2026/04/11/actor-john-nolan-dead/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/53/16by9/2026/04/11/534a77be6e78423087ffcd50dcffcaf9_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/53/16by9/2026/04/11/534a77be6e78423087ffcd50dcffcaf9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Baldoni Wants Jenny Slate, Colleen Hoover&#039;s Testimony Barred in Blake Lively Trial]]></title>
-            <link>https://www.tmz.com/2026/04/11/justin-baldoni-wants-jenny-slate-colleen-hoover-testimony-not-in-trial/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/justin-baldoni-wants-jenny-slate-colleen-hoover-testimony-not-in-trial/</guid>
-            <pubDate>Sat, 11 Apr 2026 16:40:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/04/11/d9b9621fb99c466496a02dd85d4fc60d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/04/11/d9b9621fb99c466496a02dd85d4fc60d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/04/11/d9b9621fb99c466496a02dd85d4fc60d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Teddi Mellencamp Reveals Relationship with &#039;Older&#039; Man Amid Cancer Battle]]></title>
-            <link>https://www.tmz.com/2026/04/11/teddi-mellencamp-dating-older-man-during-cancer-battle/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/teddi-mellencamp-dating-older-man-during-cancer-battle/</guid>
-            <pubDate>Sat, 11 Apr 2026 16:17:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/04/11/3bd7881d2acf4ebd98746d2153969196_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/04/11/3bd7881d2acf4ebd98746d2153969196_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/04/11/3bd7881d2acf4ebd98746d2153969196_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Maroon 5 Bassist Mickey Madden Officially Single After Divorce Finalized]]></title>
-            <link>https://www.tmz.com/2026/04/11/mickey-madden-kate-bowman-divorce-finalized/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/mickey-madden-kate-bowman-divorce-finalized/</guid>
-            <pubDate>Sat, 11 Apr 2026 15:30:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/04/11/96088d07515d48ecaac6d6b5ef8011ed_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/04/11/96088d07515d48ecaac6d6b5ef8011ed_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/04/11/96088d07515d48ecaac6d6b5ef8011ed_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sabrina Carpenter, KATSEYE, John Summit Energize Coachella Day 1]]></title>
-            <link>https://www.tmz.com/2026/04/11/coachella-first-night-performances/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/coachella-first-night-performances/</guid>
-            <pubDate>Sat, 11 Apr 2026 14:56:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/04/11/6ab2be03239541b2957be119e4f01776_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/04/11/6ab2be03239541b2957be119e4f01776_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/04/11/6ab2be03239541b2957be119e4f01776_xl.png">
             </media:thumbnail>
         </item>
     </channel>
