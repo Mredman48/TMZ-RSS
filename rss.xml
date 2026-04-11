@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 09:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 10:07:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kyle Richards Sued to Evict Sister Kim Richards From L.A. Condo]]></title>
+            <link>https://www.tmz.com/2026/04/11/kyle-richards-sued-sister-to-kick-her-out-of-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/kyle-richards-sued-sister-to-kick-her-out-of-home/</guid>
+            <pubDate>Sat, 11 Apr 2026 10:00:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/98/16by9/2026/03/27/988b1b1995f54fc983ed54d79a46e59c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/98/16by9/2026/03/27/988b1b1995f54fc983ed54d79a46e59c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2026/03/27/988b1b1995f54fc983ed54d79a46e59c_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Offset Arrest Warrant Called Off Weeks Before Florida Casino Shooting]]></title>
             <link>https://www.tmz.com/2026/04/11/offset-arrest-warrant-recalled-before-florida-hard-rock-shooting/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/04/09/dc78884d28634834a47654872068fa9b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/04/09/dc78884d28634834a47654872068fa9b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/04/11/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 11 Apr 2026 07:25:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9f/16by9/2026/04/10/9f5e9997da6849cd9d1fe8fa475c2dff_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9f/16by9/2026/04/10/9f5e9997da6849cd9d1fe8fa475c2dff_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9f/16by9/2026/04/10/9f5e9997da6849cd9d1fe8fa475c2dff_xl.png">
             </media:thumbnail>
         </item>
     </channel>
