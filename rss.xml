@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 16:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 17:06:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Justin Baldoni Wants Jenny Slate, Colleen Hoover&#039;s Testimony Barred in Blake Lively Trial]]></title>
+            <link>https://www.tmz.com/2026/04/11/justin-baldoni-wants-jenny-slate-colleen-hoover-testimony-not-in-trial/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/justin-baldoni-wants-jenny-slate-colleen-hoover-testimony-not-in-trial/</guid>
+            <pubDate>Sat, 11 Apr 2026 16:40:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/04/11/d9b9621fb99c466496a02dd85d4fc60d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/04/11/d9b9621fb99c466496a02dd85d4fc60d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/04/11/d9b9621fb99c466496a02dd85d4fc60d_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Teddi Mellencamp Reveals Relationship with &#039;Older&#039; Man Amid Cancer Battle]]></title>
+            <link>https://www.tmz.com/2026/04/11/teddi-mellencamp-dating-older-man-during-cancer-battle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/teddi-mellencamp-dating-older-man-during-cancer-battle/</guid>
+            <pubDate>Sat, 11 Apr 2026 16:17:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/04/11/3bd7881d2acf4ebd98746d2153969196_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/04/11/3bd7881d2acf4ebd98746d2153969196_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/04/11/3bd7881d2acf4ebd98746d2153969196_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ex-Maroon 5 Bassist Mickey Madden Officially Single After Divorce Finalized]]></title>
             <link>https://www.tmz.com/2026/04/11/mickey-madden-kate-bowman-divorce-finalized/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/04/11/d302ae7de23a42a8909468388edc5793_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/04/11/d302ae7de23a42a8909468388edc5793_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sabrina Carpenter Goes Full-On Hollywood With Major Star Power at Coachella]]></title>
-            <link>https://www.tmz.com/2026/04/11/sabrina-carpenter-brings-celebs-to-coachella-performance/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/sabrina-carpenter-brings-celebs-to-coachella-performance/</guid>
-            <pubDate>Sat, 11 Apr 2026 13:00:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/04/11/a82d960ce32947e893fe1c11794f6f12_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/04/11/a82d960ce32947e893fe1c11794f6f12_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/04/11/a82d960ce32947e893fe1c11794f6f12_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lizzo Bares Her Bum, Twerks on Labubu at Coachella]]></title>
-            <link>https://www.tmz.com/2026/04/11/lizzo-shows-off-butt-going-to-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/lizzo-shows-off-butt-going-to-coachella/</guid>
-            <pubDate>Sat, 11 Apr 2026 12:06:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/11/f30a923a6fbd4770a46d0785247c4af2_xl.png">
             </media:thumbnail>
         </item>
     </channel>
