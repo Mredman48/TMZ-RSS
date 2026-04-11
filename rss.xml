@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 19:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 21:03:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sabrina Carpenter Confuses Cultural Cry For Yodeling During Coachella Set]]></title>
+            <link>https://www.tmz.com/2026/04/11/sabrina-carpenter-slammed-for-disliking-cultural-cry-at-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/sabrina-carpenter-slammed-for-disliking-cultural-cry-at-coachella/</guid>
+            <pubDate>Sat, 11 Apr 2026 20:35:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/04/11/ac7c3308121d4647bbeba66064cf811e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/04/11/ac7c3308121d4647bbeba66064cf811e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/04/11/ac7c3308121d4647bbeba66064cf811e_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Justin Baldoni Claims Blake Lively Put Taylor Swift&#039;s Cookie Recipe in Trial Discovery]]></title>
             <link>https://www.tmz.com/2026/04/11/justin-baldoni-claims-blake-put-taylor-swift-cookie-recipe-in-discovery-docs/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/04/11/aa8a10a0953442d89852fdce66e42093_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/04/11/aa8a10a0953442d89852fdce66e42093_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Blake Lively & Justin Baldoni Want to Ask Potential Jurors About Taylor Swift, Ryan Reynolds]]></title>
-            <link>https://www.tmz.com/2026/04/11/blake-lively-justin-baldoni-wants-ask-jurors-about-taylor-swift-ryan-reynolds/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/blake-lively-justin-baldoni-wants-ask-jurors-about-taylor-swift-ryan-reynolds/</guid>
-            <pubDate>Sat, 11 Apr 2026 18:27:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/04/11/f66d8c12d2934f0eb34d1bddd4e07492_xl.png">
             </media:thumbnail>
         </item>
     </channel>
