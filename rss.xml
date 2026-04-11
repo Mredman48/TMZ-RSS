@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 07:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 08:07:18 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Stars Hanging Poolside at Coachella]]></title>
+            <link>https://www.tmz.com/2026/04/11/stars-hanging-at-coachella-poolside/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/stars-hanging-at-coachella-poolside/</guid>
+            <pubDate>Sat, 11 Apr 2026 08:00:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/04/06/b14bfd191038470fa75a700116174d35_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/04/06/b14bfd191038470fa75a700116174d35_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/04/06/b14bfd191038470fa75a700116174d35_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Who&#039;d You Rather?! Celebs At Coachella Edition!]]></title>
+            <link>https://www.tmz.com/2026/04/11/whod-you-rather-celebs-at-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/whod-you-rather-celebs-at-coachella/</guid>
+            <pubDate>Sat, 11 Apr 2026 07:45:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/07/d48a8e8e5997496aa5cead8e1de7255f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/07/d48a8e8e5997496aa5cead8e1de7255f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/07/d48a8e8e5997496aa5cead8e1de7255f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nick Nemeth Calls Having Bernie Kosar In His Corner For TNA Rebellion A Dream Come True]]></title>
             <link>https://www.tmz.com/2026/04/11/nick-nemeth-says-bernie-kosar-will-support-him-in-tna-rebellion/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/47/16by9/2026/04/02/4750895604e24dd9b42ca746b82ebbfe_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/04/02/4750895604e24dd9b42ca746b82ebbfe_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Coachella What&#039;s The Big Frigin&#039; Difference?!]]></title>
-            <link>https://www.tmz.com/2026/04/11/coachella-whats-the-big-frigin-difference/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/coachella-whats-the-big-frigin-difference/</guid>
-            <pubDate>Sat, 11 Apr 2026 07:01:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/04/10/a13c14acc0f64953b8adfdbb28b63b0a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/04/10/a13c14acc0f64953b8adfdbb28b63b0a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/04/10/a13c14acc0f64953b8adfdbb28b63b0a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mark Ballas Gushes Over Whitney Leavitt&#039;s Broadway Talents, on Video]]></title>
-            <link>https://www.tmz.com/2026/04/11/mark-ballas-whitney-leavitt-broadway-chicago/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/mark-ballas-whitney-leavitt-broadway-chicago/</guid>
-            <pubDate>Sat, 11 Apr 2026 07:00:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/04/10/6424f9c2cab24042a8ecaf41e367093e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/04/10/6424f9c2cab24042a8ecaf41e367093e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/04/10/6424f9c2cab24042a8ecaf41e367093e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
