@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 06:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 07:51:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Justin Bieber Undies On Stage -- Good Genes or Good Docs?!]]></title>
+            <link>https://www.tmz.com/2026/04/12/justin-bieber-good-genes-or-good-docs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/justin-bieber-good-genes-or-good-docs/</guid>
+            <pubDate>Sun, 12 Apr 2026 07:30:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/04/07/605bfb48d50a46c88c94b6920fc66ca3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/04/07/605bfb48d50a46c88c94b6920fc66ca3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/04/07/605bfb48d50a46c88c94b6920fc66ca3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[U-M&#039;s Charlie May Exploring Coaching After Winning Championship With Dad, Dusty]]></title>
+            <link>https://www.tmz.com/2026/04/12/charlie-may-considering-coaching/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/charlie-may-considering-coaching/</guid>
+            <pubDate>Sun, 12 Apr 2026 07:15:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/04/09/a8c325c304ce47a3af28ee40db77207a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/04/09/a8c325c304ce47a3af28ee40db77207a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/04/09/a8c325c304ce47a3af28ee40db77207a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Best Spa Day Picks for Your Self-Care Sunday]]></title>
+            <link>https://www.tmz.com/2026/04/12/best-spa-day-picks-for-your-self-care-sunday/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/best-spa-day-picks-for-your-self-care-sunday/</guid>
+            <pubDate>Sun, 12 Apr 2026 07:05:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/04/02/463292aca7464d6d8908f244dbd69cfd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/04/02/463292aca7464d6d8908f244dbd69cfd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/04/02/463292aca7464d6d8908f244dbd69cfd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess The Coachella Headliner In These Sexy Shots]]></title>
+            <link>https://www.tmz.com/2026/04/12/guess-who-coachella-headliner/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/guess-who-coachella-headliner/</guid>
+            <pubDate>Sun, 12 Apr 2026 07:01:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c8d47f281b1347669fcc8c6f86d89b35_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c8d47f281b1347669fcc8c6f86d89b35_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c8d47f281b1347669fcc8c6f86d89b35_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Donald Trump Tells Reporter She &#039;Knows Nothing&#039; After Question About Iran]]></title>
             <link>https://www.tmz.com/2026/04/11/donald-trump-berates-female-reporter-for-iran-question/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/04/12/b182c635e4c547e3bd4cf7b5ab76f598_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/04/12/b182c635e4c547e3bd4cf7b5ab76f598_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Teyana Taylor, Olandria & More Stars Flaunt Abs During Day 1 of Coachella]]></title>
-            <link>https://www.tmz.com/2026/04/11/celebrities-show-abs-during-coachella-day-1/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/celebrities-show-abs-during-coachella-day-1/</guid>
-            <pubDate>Sat, 11 Apr 2026 23:55:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ef/16by9/2026/04/11/ef0c9823d6314e5cab17e590fbaf452e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ef/16by9/2026/04/11/ef0c9823d6314e5cab17e590fbaf452e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ef/16by9/2026/04/11/ef0c9823d6314e5cab17e590fbaf452e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Batula Steps Out in New York City After Apologizing For Scandal]]></title>
-            <link>https://www.tmz.com/2026/04/11/amanda-batula-walking-around-new-york-after-scandal-apology/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/amanda-batula-walking-around-new-york-after-scandal-apology/</guid>
-            <pubDate>Sat, 11 Apr 2026 23:35:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/04/11/7485cc4fbdf74e3b8550f0d1849d9b84_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/11/7485cc4fbdf74e3b8550f0d1849d9b84_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/11/7485cc4fbdf74e3b8550f0d1849d9b84_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Eric Swalwell&#039;s Senior Staffers Release Joint Statement Slamming Him]]></title>
-            <link>https://www.tmz.com/2026/04/11/eric-swalwell-staff-slams-congressman-statement/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/eric-swalwell-staff-slams-congressman-statement/</guid>
-            <pubDate>Sat, 11 Apr 2026 22:48:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/04/11/e5ace8c1bb2848a7b1d7fad5c554c175_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/11/e5ace8c1bb2848a7b1d7fad5c554c175_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/11/e5ace8c1bb2848a7b1d7fad5c554c175_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chanel West Coast, Lexy Panterra Urge People to Stop Peeing in Coachella Crowd]]></title>
-            <link>https://www.tmz.com/2026/04/11/chanel-west-coast-lexy-panterra-warn-people-no-peeing-at-justin-bieber-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/chanel-west-coast-lexy-panterra-warn-people-no-peeing-at-justin-bieber-coachella/</guid>
-            <pubDate>Sat, 11 Apr 2026 22:34:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/04/11/2dbb6b9313bb466ab98bfb11fa4f910e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/04/11/2dbb6b9313bb466ab98bfb11fa4f910e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/04/11/2dbb6b9313bb466ab98bfb11fa4f910e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
