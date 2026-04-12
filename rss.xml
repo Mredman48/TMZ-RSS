@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 20:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 21:04:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[No Doubt Guitarist Tom Dumont Reveals Parkinson&#039;s Diagnosis]]></title>
+            <link>https://www.tmz.com/2026/04/12/tom-dumont-reveals-parkinsons-diagnosis/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/tom-dumont-reveals-parkinsons-diagnosis/</guid>
+            <pubDate>Sun, 12 Apr 2026 20:09:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/04/12/e1330536a2d946dd960401177888bc17_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/04/12/e1330536a2d946dd960401177888bc17_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/04/12/e1330536a2d946dd960401177888bc17_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tate McRae Shows Off Bikini Body During Miami Studio Break]]></title>
             <link>https://www.tmz.com/2026/04/12/tate-mcrae-shows-off-bikini-body/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/87/16by9/2026/04/12/87ec4bf6d2d847619e39195bbb834303_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/04/12/87ec4bf6d2d847619e39195bbb834303_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Influencer&#039;s Husband Threatens Eric Swalwell After He Allegedly Bombarded Her With Nudes]]></title>
-            <link>https://www.tmz.com/2026/04/12/eric-swalwell-threatened-by-victim-husband-after-alleged-nudes/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/eric-swalwell-threatened-by-victim-husband-after-alleged-nudes/</guid>
-            <pubDate>Sun, 12 Apr 2026 18:21:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
