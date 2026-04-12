@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 19:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 20:03:04 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tate McRae Shows Off Bikini Body During Miami Studio Break]]></title>
+            <link>https://www.tmz.com/2026/04/12/tate-mcrae-shows-off-bikini-body/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/tate-mcrae-shows-off-bikini-body/</guid>
+            <pubDate>Sun, 12 Apr 2026 19:44:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e3/16by9/2026/04/12/e338372f4efd496db7266812c063281f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/04/12/e338372f4efd496db7266812c063281f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/04/12/e338372f4efd496db7266812c063281f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Sydney Sweeney Shocks Fans by Dressing Up As a Baby in &#039;Euphoria&#039; Trailer]]></title>
             <link>https://www.tmz.com/2026/04/12/sydney-sweeney-baby-moment-in-euphoria-shocks-fans/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chris Brown, Tyga, Rachel Zoe Spotted at Neon Carnival Coachella Party]]></title>
-            <link>https://www.tmz.com/2026/04/12/chris-brown-tyga-rachel-zoe-at-neon-carnival/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/chris-brown-tyga-rachel-zoe-at-neon-carnival/</guid>
-            <pubDate>Sun, 12 Apr 2026 17:53:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0fae67838d4342cbbf8a5ac0d559b8ef_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0fae67838d4342cbbf8a5ac0d559b8ef_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0fae67838d4342cbbf8a5ac0d559b8ef_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
