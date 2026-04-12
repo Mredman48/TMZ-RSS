@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 18:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 19:26:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sydney Sweeney Shocks Fans by Dressing Up As a Baby in &#039;Euphoria&#039; Trailer]]></title>
+            <link>https://www.tmz.com/2026/04/12/sydney-sweeney-baby-moment-in-euphoria-shocks-fans/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/sydney-sweeney-baby-moment-in-euphoria-shocks-fans/</guid>
+            <pubDate>Sun, 12 Apr 2026 19:21:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/04/12/e8fb6f4ef63042598ee8bb4c40d15be8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/04/12/e8fb6f4ef63042598ee8bb4c40d15be8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/04/12/e8fb6f4ef63042598ee8bb4c40d15be8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hot Spots For Photo Ops At Coachella ... Picture Perfect Memories]]></title>
+            <link>https://www.tmz.com/2026/04/12/hot-spots-for-photo-ops-at-coachella-picture-perfect-memories/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/hot-spots-for-photo-ops-at-coachella-picture-perfect-memories/</guid>
+            <pubDate>Sun, 12 Apr 2026 19:00:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/04/06/8f09471246964349bcfc56a556780b91_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/04/06/8f09471246964349bcfc56a556780b91_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/04/06/8f09471246964349bcfc56a556780b91_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;My 600-Lb. Life&#039; Star Dolly Martinez Dead at 30]]></title>
+            <link>https://www.tmz.com/2026/04/12/dolly-martinez-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/dolly-martinez-dead/</guid>
+            <pubDate>Sun, 12 Apr 2026 18:24:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/04/12/87ec4bf6d2d847619e39195bbb834303_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/04/12/87ec4bf6d2d847619e39195bbb834303_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/04/12/87ec4bf6d2d847619e39195bbb834303_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Influencer&#039;s Husband Threatens Eric Swalwell After He Allegedly Bombarded Her With Nudes]]></title>
+            <link>https://www.tmz.com/2026/04/12/eric-swalwell-threatened-by-victim-husband-after-alleged-nudes/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/eric-swalwell-threatened-by-victim-husband-after-alleged-nudes/</guid>
+            <pubDate>Sun, 12 Apr 2026 18:21:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/04/12/946746990f0f4fc6a6329ac0caa05e37_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chris Brown, Tyga, Rachel Zoe Spotted at Neon Carnival Coachella Party]]></title>
             <link>https://www.tmz.com/2026/04/12/chris-brown-tyga-rachel-zoe-at-neon-carnival/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0fae67838d4342cbbf8a5ac0d559b8ef_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0fae67838d4342cbbf8a5ac0d559b8ef_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;SNL&#039; Blasts Trump, Tiger, Melania and Hegseth in Hilariously Chaotic Cold Open]]></title>
-            <link>https://www.tmz.com/2026/04/12/snl-cold-open-blasts-trump-melania-tiger-woods-pete-hegseth/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/snl-cold-open-blasts-trump-melania-tiger-woods-pete-hegseth/</guid>
-            <pubDate>Sun, 12 Apr 2026 17:41:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/04/12/125ac86491fb470ea6050ebaf2f66ca8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/04/12/125ac86491fb470ea6050ebaf2f66ca8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/04/12/125ac86491fb470ea6050ebaf2f66ca8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Katy Perry and Justin Trudeau Turn Coachella Into Date Night]]></title>
-            <link>https://www.tmz.com/2026/04/12/katy-perry-justin-trudeau-coachella-date-night/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/katy-perry-justin-trudeau-coachella-date-night/</guid>
-            <pubDate>Sun, 12 Apr 2026 16:41:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/04/12/6abe5c6db3b849f097e4a5a5e7e51612_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/04/12/6abe5c6db3b849f097e4a5a5e7e51612_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/04/12/6abe5c6db3b849f097e4a5a5e7e51612_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[North West Turns Coachella Into Her Own Meet and Greet]]></title>
-            <link>https://www.tmz.com/2026/04/12/north-west-turns-coachella-into-meet-and-greet/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/north-west-turns-coachella-into-meet-and-greet/</guid>
-            <pubDate>Sun, 12 Apr 2026 16:25:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/04/12/760c38fa080f4f1a8d49382c1014369c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/04/12/760c38fa080f4f1a8d49382c1014369c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/04/12/760c38fa080f4f1a8d49382c1014369c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Natasha Lyonne Seen at NYC Bar Days After Airline Incident]]></title>
-            <link>https://www.tmz.com/2026/04/12/natasha-lyonne-at-nyc-bar-after-airline-incident/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/natasha-lyonne-at-nyc-bar-after-airline-incident/</guid>
-            <pubDate>Sun, 12 Apr 2026 16:06:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/39/16by9/2026/04/12/3913dd489952448c8209c2ed5756ffe6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/39/16by9/2026/04/12/3913dd489952448c8209c2ed5756ffe6_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/39/16by9/2026/04/12/3913dd489952448c8209c2ed5756ffe6_xl.png">
             </media:thumbnail>
         </item>
     </channel>
