@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 12:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 13:45:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Justin Bieber, Nine Inch Noize, Jack White Lead Coachella Day 2]]></title>
+            <link>https://www.tmz.com/2026/04/12/coachella-second-night-performances/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/coachella-second-night-performances/</guid>
+            <pubDate>Sun, 12 Apr 2026 13:37:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0f007b538233436092f6cb9e90b9e189_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0f007b538233436092f6cb9e90b9e189_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/04/12/0f007b538233436092f6cb9e90b9e189_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Katy Perry Jokes &#039;Thank God He Has Premium&#039; During Justin Bieber&#039;s Coachella Set]]></title>
+            <link>https://www.tmz.com/2026/04/12/katy-perry-pokes-fun-at-justin-bieber-youtube-coachella-moment/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/katy-perry-pokes-fun-at-justin-bieber-youtube-coachella-moment/</guid>
+            <pubDate>Sun, 12 Apr 2026 13:01:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/04/12/6dcc44da93f746daa25641f5fc8f8ec7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/04/12/6dcc44da93f746daa25641f5fc8f8ec7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/04/12/6dcc44da93f746daa25641f5fc8f8ec7_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[President Trump Takes a Breather From Iran War To Take In UFC Matches]]></title>
+            <link>https://www.tmz.com/2026/04/12/donald-trump-breaks-from-iran-war-for-ufc/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/donald-trump-breaks-from-iran-war-for-ufc/</guid>
+            <pubDate>Sun, 12 Apr 2026 12:12:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/04/12/2559fc05a1a3488688bc06c901f70ab9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/04/12/2559fc05a1a3488688bc06c901f70ab9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/04/12/2559fc05a1a3488688bc06c901f70ab9_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Justin Bieber Undies On Stage -- Good Genes or Good Docs?!]]></title>
             <link>https://www.tmz.com/2026/04/12/justin-bieber-good-genes-or-good-docs/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/04/09/a8c325c304ce47a3af28ee40db77207a_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/04/09/a8c325c304ce47a3af28ee40db77207a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Best Spa Day Picks for Your Self-Care Sunday]]></title>
-            <link>https://www.tmz.com/2026/04/12/best-spa-day-picks-for-your-self-care-sunday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/best-spa-day-picks-for-your-self-care-sunday/</guid>
-            <pubDate>Sun, 12 Apr 2026 07:05:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/04/02/463292aca7464d6d8908f244dbd69cfd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/04/02/463292aca7464d6d8908f244dbd69cfd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/04/02/463292aca7464d6d8908f244dbd69cfd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess The Coachella Headliner In These Sexy Shots]]></title>
-            <link>https://www.tmz.com/2026/04/12/guess-who-coachella-headliner/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/guess-who-coachella-headliner/</guid>
-            <pubDate>Sun, 12 Apr 2026 07:01:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c8d47f281b1347669fcc8c6f86d89b35_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c8d47f281b1347669fcc8c6f86d89b35_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/04/07/c8d47f281b1347669fcc8c6f86d89b35_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Tells Reporter She &#039;Knows Nothing&#039; After Question About Iran]]></title>
-            <link>https://www.tmz.com/2026/04/11/donald-trump-berates-female-reporter-for-iran-question/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/donald-trump-berates-female-reporter-for-iran-question/</guid>
-            <pubDate>Sun, 12 Apr 2026 00:40:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/04/12/b182c635e4c547e3bd4cf7b5ab76f598_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/04/12/b182c635e4c547e3bd4cf7b5ab76f598_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/04/12/b182c635e4c547e3bd4cf7b5ab76f598_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
