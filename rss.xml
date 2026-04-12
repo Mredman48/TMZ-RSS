@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 23:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 00:02:39 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Teyana Taylor, Olandria & More Stars Flaunt Abs During Day 1 of Coachella]]></title>
+            <link>https://www.tmz.com/2026/04/11/celebrities-show-abs-during-coachella-day-1/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/celebrities-show-abs-during-coachella-day-1/</guid>
+            <pubDate>Sat, 11 Apr 2026 23:55:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ef/16by9/2026/04/11/ef0c9823d6314e5cab17e590fbaf452e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ef/16by9/2026/04/11/ef0c9823d6314e5cab17e590fbaf452e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ef/16by9/2026/04/11/ef0c9823d6314e5cab17e590fbaf452e_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Amanda Batula Steps Out in New York City After Apologizing For Scandal]]></title>
+            <link>https://www.tmz.com/2026/04/11/amanda-batula-walking-around-new-york-after-scandal-apology/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/amanda-batula-walking-around-new-york-after-scandal-apology/</guid>
+            <pubDate>Sat, 11 Apr 2026 23:35:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/04/11/7485cc4fbdf74e3b8550f0d1849d9b84_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/11/7485cc4fbdf74e3b8550f0d1849d9b84_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/11/7485cc4fbdf74e3b8550f0d1849d9b84_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Eric Swalwell&#039;s Senior Staffers Release Joint Statement Slamming Him]]></title>
             <link>https://www.tmz.com/2026/04/11/eric-swalwell-staff-slams-congressman-statement/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/11/86d0cf29398648ae83858bcee42af7df_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/11/86d0cf29398648ae83858bcee42af7df_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Artemis II Commander Reid Wiseman Gets Emotional During Post-Flight Press Conference]]></title>
-            <link>https://www.tmz.com/2026/04/11/artemis-ii-commander-reid-wiseman-emotional-speech/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/artemis-ii-commander-reid-wiseman-emotional-speech/</guid>
-            <pubDate>Sat, 11 Apr 2026 22:03:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/04/11/28ebfc980a814a299382f8adc0b83dfd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/04/11/28ebfc980a814a299382f8adc0b83dfd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/04/11/28ebfc980a814a299382f8adc0b83dfd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Liam Payne&#039;s Former Girlfriend Kate Cassidy Spills Out of Top at Coachella]]></title>
-            <link>https://www.tmz.com/2026/04/11/liam-payne-ex-kate-cassidy-at-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/11/liam-payne-ex-kate-cassidy-at-coachella/</guid>
-            <pubDate>Sat, 11 Apr 2026 21:04:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/04/11/c88a6c28dfc34ee4866e5b4f663a9483_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/04/11/c88a6c28dfc34ee4866e5b4f663a9483_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/04/11/c88a6c28dfc34ee4866e5b4f663a9483_xl.png">
             </media:thumbnail>
         </item>
     </channel>
