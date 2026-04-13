@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 00:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 04:01:57 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Eric Swalwell Suspends Campaign for Governor Amid Sexual Assault Accusations]]></title>
+            <link>https://www.tmz.com/2026/04/12/eric-swalwell-suspends-governor-campaign-amid-sexual-assault-accusations/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/eric-swalwell-suspends-governor-campaign-amid-sexual-assault-accusations/</guid>
+            <pubDate>Mon, 13 Apr 2026 01:14:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/04/10/1611e89c04374f9c9eac94d738571fae_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/04/10/1611e89c04374f9c9eac94d738571fae_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/04/10/1611e89c04374f9c9eac94d738571fae_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kourtney Kardashian&#039;s Camp Poosh Destroyed By Sandstorm at Coachella 2026]]></title>
+            <link>https://www.tmz.com/2026/04/12/kourtney-kardashians-camp-poosh-destroyed-by-sandstorm-at-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/kourtney-kardashians-camp-poosh-destroyed-by-sandstorm-at-coachella/</guid>
+            <pubDate>Mon, 13 Apr 2026 00:47:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/04/13/45ac219cb34a4c0db28726f8907f9fad_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/04/13/45ac219cb34a4c0db28726f8907f9fad_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/04/13/45ac219cb34a4c0db28726f8907f9fad_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Late Influencer Ashlee Jenae&#039;s Family Speaks Out on Mysterious Death]]></title>
+            <link>https://www.tmz.com/2026/04/12/late-influencer-ashlee-jenaes-family-speaks-out-on-mysterious-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/late-influencer-ashlee-jenaes-family-speaks-out-on-mysterious-death/</guid>
+            <pubDate>Mon, 13 Apr 2026 00:22:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/04/12/512695b4b6044dadb2dc3977a0aba084_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/04/12/512695b4b6044dadb2dc3977a0aba084_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/04/12/512695b4b6044dadb2dc3977a0aba084_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Eric Swalwell Under Investigation For Hiring Nanny From Brazil Without Authorization]]></title>
+            <link>https://www.tmz.com/2026/04/12/eric-swalwell-under-investigation-for-hiring-nanny-from-brazil-without-authorization/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/eric-swalwell-under-investigation-for-hiring-nanny-from-brazil-without-authorization/</guid>
+            <pubDate>Mon, 13 Apr 2026 00:08:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5f/16by9/2026/04/12/5f81ae5976a54cab80f9382460f709b2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5f/16by9/2026/04/12/5f81ae5976a54cab80f9382460f709b2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5f/16by9/2026/04/12/5f81ae5976a54cab80f9382460f709b2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chappell Roan Resurfaces at Coachella For First Appearance Since Security Debacle]]></title>
             <link>https://www.tmz.com/2026/04/12/chappell-roan-makes-first-appearance-since-security-incident/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/04/12/9e147516455f4ac59337a451ff904f5e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/04/12/9e147516455f4ac59337a451ff904f5e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[See the Celebs Sporting Beautiful Braids at Coachella to Celebrate Weekend 1]]></title>
-            <link>https://www.tmz.com/2026/04/12/coachella-braids-celebrity-hairstyles-photo-gallery/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/coachella-braids-celebrity-hairstyles-photo-gallery/</guid>
-            <pubDate>Sun, 12 Apr 2026 23:00:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/07/f01e49efb26a47598e94d8a0bb5fa473_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/07/f01e49efb26a47598e94d8a0bb5fa473_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/07/f01e49efb26a47598e94d8a0bb5fa473_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears in Rehab for Substance Abuse]]></title>
-            <link>https://www.tmz.com/2026/04/12/britney-spears-in-rehab-for-substance-abuse/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/britney-spears-in-rehab-for-substance-abuse/</guid>
-            <pubDate>Sun, 12 Apr 2026 22:57:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/03/07/a938d1a1834f464bb32e9e5238cba1fb_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/03/07/a938d1a1834f464bb32e9e5238cba1fb_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/03/07/a938d1a1834f464bb32e9e5238cba1fb_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lauren Sánchez Says She &#039;Would Have a Baby Tomorrow&#039; With Husband Jeff Bezos]]></title>
-            <link>https://www.tmz.com/2026/04/12/lauren-sanchez-bezos-morning-billionaire-routine-with-jeff/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/lauren-sanchez-bezos-morning-billionaire-routine-with-jeff/</guid>
-            <pubDate>Sun, 12 Apr 2026 22:55:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/04/12/ea3953317db8443abfb72e60a0b4608d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/04/12/ea3953317db8443abfb72e60a0b4608d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/04/12/ea3953317db8443abfb72e60a0b4608d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kim Kardashian and Lewis Hamilton Take Romance to Coachella]]></title>
-            <link>https://www.tmz.com/2026/04/12/kim-kardashian-lewis-hamilton-at-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/12/kim-kardashian-lewis-hamilton-at-coachella/</guid>
-            <pubDate>Sun, 12 Apr 2026 22:17:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/04/12/3c6eb86ec54b4c1dba588e7a4df06b90_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/04/12/3c6eb86ec54b4c1dba588e7a4df06b90_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/04/12/3c6eb86ec54b4c1dba588e7a4df06b90_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
