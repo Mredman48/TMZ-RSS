@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 01:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 04:32:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Selena Gomez Supports Demi Lovato On Tour, First Time Together In Years]]></title>
+            <link>https://www.tmz.com/2026/04/13/selena-gomez-supports-demi-lovato-at-tour-opening-first-time-together-in-years/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/selena-gomez-supports-demi-lovato-at-tour-opening-first-time-together-in-years/</guid>
+            <pubDate>Tue, 14 Apr 2026 02:58:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f1/16by9/2026/04/14/f1db1ffff2b94ca4ba214c3847831f7d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f1/16by9/2026/04/14/f1db1ffff2b94ca4ba214c3847831f7d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2026/04/14/f1db1ffff2b94ca4ba214c3847831f7d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jessi Draper and Jordan Ngatikaura Bought $2.5 Million Home Months Before Divorce]]></title>
+            <link>https://www.tmz.com/2026/04/13/jessi-draper-jordan-ngatikaura-bought-home-before-divorce/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/jessi-draper-jordan-ngatikaura-bought-home-before-divorce/</guid>
+            <pubDate>Tue, 14 Apr 2026 01:30:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/04/13/fd54e08a176845518618876c53ed19fe_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/04/13/fd54e08a176845518618876c53ed19fe_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/04/13/fd54e08a176845518618876c53ed19fe_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jesse Jackson&#039;s Son, Congressman Jonathan Jackson, Backs Pope In Trump Beef]]></title>
+            <link>https://www.tmz.com/2026/04/13/jonathan-jackson-speaks-against-trump-in-pope-argument/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/jonathan-jackson-speaks-against-trump-in-pope-argument/</guid>
+            <pubDate>Tue, 14 Apr 2026 01:10:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/04/13/ac7321f514494088bf6e279fda67d38e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/04/13/ac7321f514494088bf6e279fda67d38e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/04/13/ac7321f514494088bf6e279fda67d38e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lindsie Chrisley&#039;s Ex Boyfriend Says She Beat His Face, Made Him Bleed]]></title>
+            <link>https://www.tmz.com/2026/04/13/david-landsman-911-call-about-lindsie-chrisley-before-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/david-landsman-911-call-about-lindsie-chrisley-before-arrest/</guid>
+            <pubDate>Tue, 14 Apr 2026 01:08:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/04/13/c7ee99f3ca3f4a9193c6361845a1df0c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/04/13/c7ee99f3ca3f4a9193c6361845a1df0c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/04/13/c7ee99f3ca3f4a9193c6361845a1df0c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Brian Hooker Released in Bahamas After Wife Lynette Disappears From Boat]]></title>
             <link>https://www.tmz.com/2026/04/13/brian-hooker-released-after-wife-lynette-disappearance/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/24/16by9/2026/04/14/240717593e6c4709ac0681eed230c241_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/04/14/240717593e6c4709ac0681eed230c241_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[King Harris Arrested for Drug Possession While Wearing Pokémon Onesie, See Pics]]></title>
-            <link>https://www.tmz.com/2026/04/13/king-harris-arrested-in-pokemon-onesie/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/king-harris-arrested-in-pokemon-onesie/</guid>
-            <pubDate>Tue, 14 Apr 2026 01:00:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/04/13/e5e68ad37ea842d0bd2efd5b7c08ba2c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/13/e5e68ad37ea842d0bd2efd5b7c08ba2c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/13/e5e68ad37ea842d0bd2efd5b7c08ba2c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Anna Kepner And Brother Had No Issues Before Alleged Murder, Prosecutors Say]]></title>
-            <link>https://www.tmz.com/2026/04/13/anna-kepner-no-issues-with-brother-before-alleged-murder/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/anna-kepner-no-issues-with-brother-before-alleged-murder/</guid>
-            <pubDate>Tue, 14 Apr 2026 00:03:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/04/13/bf55397aab5a401f9c5e05fe1996717b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/04/13/bf55397aab5a401f9c5e05fe1996717b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/04/13/bf55397aab5a401f9c5e05fe1996717b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ted Cruz Won&#039;t Say if He&#039;s Team Trump or Team Pope]]></title>
-            <link>https://www.tmz.com/2026/04/13/ted-cruz-not-picking-sides-with-trump-or-pope/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/ted-cruz-not-picking-sides-with-trump-or-pope/</guid>
-            <pubDate>Mon, 13 Apr 2026 23:33:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d5/16by9/2026/04/13/d59fa9c75822454faa94c17f8e7f4291_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d5/16by9/2026/04/13/d59fa9c75822454faa94c17f8e7f4291_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d5/16by9/2026/04/13/d59fa9c75822454faa94c17f8e7f4291_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;RHOA&#039; Star Pinky Cole Begs Judge Not to Expose Her Finances]]></title>
-            <link>https://www.tmz.com/2026/04/13/pinky-cole-wants-judge-to-keep-finances-private/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/13/pinky-cole-wants-judge-to-keep-finances-private/</guid>
-            <pubDate>Mon, 13 Apr 2026 23:30:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/04/13/a3f1fa9b74264f6dabc6dce93ba8e8aa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/04/13/a3f1fa9b74264f6dabc6dce93ba8e8aa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/04/13/a3f1fa9b74264f6dabc6dce93ba8e8aa_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
