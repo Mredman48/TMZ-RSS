@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 08:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 09:59:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;RHOA&#039;s Drew Sidora&#039;s Monthly Income Revealed in Divorce Battle]]></title>
+            <link>https://www.tmz.com/2026/04/14/drew-sidora-monthly-income-revealed-in-divorce-battle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/14/drew-sidora-monthly-income-revealed-in-divorce-battle/</guid>
+            <pubDate>Tue, 14 Apr 2026 09:00:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7e/16by9/2026/04/13/7e0a5d03b149406081201f1089ec7d50_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/04/13/7e0a5d03b149406081201f1089ec7d50_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/04/13/7e0a5d03b149406081201f1089ec7d50_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Rapper Swae Lee&#039;s Secret Settlement With Alleged Baby Mama Revealed]]></title>
             <link>https://www.tmz.com/2026/04/14/swae-lee-secretly-makes-settlement-with-alleged-baby-mama/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/79/16by9/2026/04/02/79a23060dfa945618dd733f576c514fb_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/04/02/79a23060dfa945618dd733f576c514fb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kevin In &#039;Mr. Deeds&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/04/14/kevin-in-mr-deeds-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/14/kevin-in-mr-deeds-memba-him/</guid>
-            <pubDate>Tue, 14 Apr 2026 07:01:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cf/16by9/2026/04/02/cf1c840aae6e4ad9870c79dbd504cb79_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/04/02/cf1c840aae6e4ad9870c79dbd504cb79_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cf/16by9/2026/04/02/cf1c840aae6e4ad9870c79dbd504cb79_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
