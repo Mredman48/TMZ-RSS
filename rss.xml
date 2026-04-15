@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 08:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 10:00:51 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kanye West Postpones Concert in France Amid Nazi Backlash]]></title>
+            <link>https://www.tmz.com/2026/04/15/kanye-west-france-ye-marseille/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/kanye-west-france-ye-marseille/</guid>
+            <pubDate>Wed, 15 Apr 2026 08:59:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/04/14/25a9dabc3ed3450aacdf759b1682eccb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/04/14/25a9dabc3ed3450aacdf759b1682eccb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/04/14/25a9dabc3ed3450aacdf759b1682eccb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Heather Locklear Meets BF Lorenzo Lamas&#039; Family After Romance Reveal]]></title>
             <link>https://www.tmz.com/2026/04/15/heather-locklear-meets-lorenzo-lamas-family/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/41/16by9/2026/04/03/41940a90c87741268432b525354c2f61_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/04/03/41940a90c87741268432b525354c2f61_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Blonde Girlie Turned Into!]]></title>
-            <link>https://www.tmz.com/2026/04/15/guess-who-blonde-girlie-turned-into/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/guess-who-blonde-girlie-turned-into/</guid>
-            <pubDate>Wed, 15 Apr 2026 07:01:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ad/16by9/2026/03/25/ade39035d7fb443993a9f0bce7703c71_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ad/16by9/2026/03/25/ade39035d7fb443993a9f0bce7703c71_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ad/16by9/2026/03/25/ade39035d7fb443993a9f0bce7703c71_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
