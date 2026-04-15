@@ -4,11 +4,22 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 11:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 12:42:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Katy Perry Under Investigation for Alleged Sex Assault of Ruby Rose]]></title>
+            <title><![CDATA[Clavicular Home from Hospital After Suspected Overdose]]></title>
+            <link>https://www.tmz.com/2026/04/15/clavicular-home-from-hospital-after-suspected-overdose/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/clavicular-home-from-hospital-after-suspected-overdose/</guid>
+            <pubDate>Wed, 15 Apr 2026 11:55:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/04/15/357a7fc2142e4dd5a832b83b3ac77a48_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/04/15/357a7fc2142e4dd5a832b83b3ac77a48_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/04/15/357a7fc2142e4dd5a832b83b3ac77a48_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Katy Perry Under Investigation for Alleged Sexual Assault of Ruby Rose]]></title>
             <link>https://www.tmz.com/2026/04/15/katy-perry-reportedly-under-investigation-for-alleged-sex-assault-of-ruby-rose/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/15/katy-perry-reportedly-under-investigation-for-alleged-sex-assault-of-ruby-rose/</guid>
             <pubDate>Wed, 15 Apr 2026 10:12:00 GMT</pubDate>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/04/14/6a13e490ae7d42afa537fdf7dd18981b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/04/14/6a13e490ae7d42afa537fdf7dd18981b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Channing Frye Says LeBron James Focused on Winning, Not Age, In Playoff Series]]></title>
-            <link>https://www.tmz.com/2026/04/15/channing-frye-weighs-in-on-lebron-james-playoffs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/channing-frye-weighs-in-on-lebron-james-playoffs/</guid>
-            <pubDate>Wed, 15 Apr 2026 07:30:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/04/14/a87c79008ff94c89b474cf21b54d6246_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/04/14/a87c79008ff94c89b474cf21b54d6246_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/04/14/a87c79008ff94c89b474cf21b54d6246_xl.png">
             </media:thumbnail>
         </item>
     </channel>
