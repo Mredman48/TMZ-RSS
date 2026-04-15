@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 01:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 04:32:18 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Clavicular Suffers Suspected Overdose, Hospitalized]]></title>
+            <link>https://www.tmz.com/2026/04/14/clavicular-suffers-suspected-overdose-hospitalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/14/clavicular-suffers-suspected-overdose-hospitalized/</guid>
+            <pubDate>Wed, 15 Apr 2026 01:36:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2025/12/25/a177504ccfaa46889500aa482d12059b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a1/16by9/2025/12/25/a177504ccfaa46889500aa482d12059b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2025/12/25/a177504ccfaa46889500aa482d12059b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Pardoned Jan. 6 Rioter Cutting Plea Deal In Child Porn Case]]></title>
             <link>https://www.tmz.com/2026/04/14/pardoned-rioter-cutting-child-porn-case-plea-deal/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/04/14/7efe07e280b04136b755656c53d7785d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/04/14/7efe07e280b04136b755656c53d7785d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Private Chef Makes $11K Cooking for Influencers at Coachella Weekend 1, See the Eats]]></title>
-            <link>https://www.tmz.com/2026/04/14/coachella-chef-croux-koplins-big-payday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/14/coachella-chef-croux-koplins-big-payday/</guid>
-            <pubDate>Wed, 15 Apr 2026 00:00:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/14/f0914ba2f3c04be7965f10a40fe788ca_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/14/f0914ba2f3c04be7965f10a40fe788ca_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/14/f0914ba2f3c04be7965f10a40fe788ca_xl.png">
             </media:thumbnail>
         </item>
     </channel>
