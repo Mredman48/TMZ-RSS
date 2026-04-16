@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 08:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 10:00:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[President Trump&#039;s Military Blows Up Alleged Narco Traffickers in Boat: Video]]></title>
+            <link>https://www.tmz.com/2026/04/16/president-trump-military-southern-command-narco-trafficker/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/president-trump-military-southern-command-narco-trafficker/</guid>
+            <pubDate>Thu, 16 Apr 2026 09:20:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/04/12/2559fc05a1a3488688bc06c901f70ab9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/04/12/2559fc05a1a3488688bc06c901f70ab9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/04/12/2559fc05a1a3488688bc06c901f70ab9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rapper Future&#039;s Baby Mama Claims He Hasn&#039;t Seen Son in Over a Year]]></title>
+            <link>https://www.tmz.com/2026/04/16/futures-baby-mama-slams-him-for-allegedly-not-seeing-son/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/futures-baby-mama-slams-him-for-allegedly-not-seeing-son/</guid>
+            <pubDate>Thu, 16 Apr 2026 09:00:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/04/15/c598badf284542509f64b431e6c46944_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/04/15/c598badf284542509f64b431e6c46944_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/04/15/c598badf284542509f64b431e6c46944_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;RHOBH&#039; Star Kathy Hilton&#039;s Injured House Guest Demanding $55K Per Year]]></title>
             <link>https://www.tmz.com/2026/04/16/kathy-hilton-hurt-tenant-wants-big-pay-day/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/04/16/e6ffafeee12c46a3aa338c40ee91b8d1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/04/16/e6ffafeee12c46a3aa338c40ee91b8d1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Learn to Date Yourself Essentials]]></title>
-            <link>https://www.tmz.com/2026/04/16/weekend-solo-outing-products/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/weekend-solo-outing-products/</guid>
-            <pubDate>Thu, 16 Apr 2026 07:05:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/04/03/dd256ef7c0ed455da82094beab7442f1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/04/03/dd256ef7c0ed455da82094beab7442f1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/04/03/dd256ef7c0ed455da82094beab7442f1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cheek of the Week -- Shay Mitchell’s &#039;Baywatch&#039; Buns Are Making Waves]]></title>
-            <link>https://www.tmz.com/2026/04/16/cheek-of-the-week-shay-mitchell-baywatch-buns/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/cheek-of-the-week-shay-mitchell-baywatch-buns/</guid>
-            <pubDate>Thu, 16 Apr 2026 07:01:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/04/15/407bda76faf5437aba14dc1ee53d6631_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/04/15/407bda76faf5437aba14dc1ee53d6631_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/04/15/407bda76faf5437aba14dc1ee53d6631_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
