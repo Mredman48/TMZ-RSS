@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 08:16:03 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Yolanda Hadid & David Foster&#039;s Former Malibu Property Sells for $6.5M]]></title>
-            <link>https://www.tmz.com/2026/04/15/yolanda-hadid-david-foster-sell-malibu-property/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/yolanda-hadid-david-foster-sell-malibu-property/</guid>
-            <pubDate>Thu, 16 Apr 2026 01:30:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/04/15/8a41d7565f244216a185fbb1c2e1549b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/04/15/8a41d7565f244216a185fbb1c2e1549b_xl.png" medium="image">
+            <title><![CDATA[&#039;RHOBH&#039; Star Kathy Hilton&#039;s Injured House Guest Demanding $55K Per Year]]></title>
+            <link>https://www.tmz.com/2026/04/16/kathy-hilton-hurt-tenant-wants-big-pay-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/kathy-hilton-hurt-tenant-wants-big-pay-day/</guid>
+            <pubDate>Thu, 16 Apr 2026 08:00:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/82/16by9/2026/04/15/82606fbd5a1e440280a16e33284a8953_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/82/16by9/2026/04/15/82606fbd5a1e440280a16e33284a8953_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/04/15/8a41d7565f244216a185fbb1c2e1549b_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/82/16by9/2026/04/15/82606fbd5a1e440280a16e33284a8953_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Aaron Carter&#039;s Mom Launches GoFundMe to Get Him Walk of Fame Star]]></title>
-            <link>https://www.tmz.com/2026/04/15/aaron-carter-mom-launches-walk-of-fame-gofundme/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/aaron-carter-mom-launches-walk-of-fame-gofundme/</guid>
-            <pubDate>Thu, 16 Apr 2026 01:00:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/04/15/d0d3e228cb2749cc8b78ad1292fd129b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/04/15/d0d3e228cb2749cc8b78ad1292fd129b_xl.png" medium="image">
+            <title><![CDATA[Talan Torriero On &#039;Laguna Beach&#039; &#039;Memba Him?!]]></title>
+            <link>https://www.tmz.com/2026/04/16/talan-torriero-laguna-beach-memba-him/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/talan-torriero-laguna-beach-memba-him/</guid>
+            <pubDate>Thu, 16 Apr 2026 07:45:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/04/13/559fc98d57b345a5b10ac5b81386476d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/04/13/559fc98d57b345a5b10ac5b81386476d_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/04/15/d0d3e228cb2749cc8b78ad1292fd129b_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/04/13/559fc98d57b345a5b10ac5b81386476d_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Dr. Miami Fires Back At Former Employee Alleging Unfair Pay]]></title>
-            <link>https://www.tmz.com/2026/04/15/dr-miami-responds-former-employee-unfair-pay-accusations/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/dr-miami-responds-former-employee-unfair-pay-accusations/</guid>
-            <pubDate>Thu, 16 Apr 2026 00:59:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a2/16by9/2026/04/15/a23772ea36564e55b2fc3834e7840782_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a2/16by9/2026/04/15/a23772ea36564e55b2fc3834e7840782_xl.png" medium="image">
+            <title><![CDATA[Curtis Blaydes Says He Beat Josh Hokit At UFC 327, Judges Got It Wrong]]></title>
+            <link>https://www.tmz.com/2026/04/16/curtis-blaydes-believes-he-beat-josh-hokit-in-ufc-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/curtis-blaydes-believes-he-beat-josh-hokit-in-ufc-fight/</guid>
+            <pubDate>Thu, 16 Apr 2026 07:30:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2026/04/16/e6ffafeee12c46a3aa338c40ee91b8d1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e6/16by9/2026/04/16/e6ffafeee12c46a3aa338c40ee91b8d1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a2/16by9/2026/04/15/a23772ea36564e55b2fc3834e7840782_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2026/04/16/e6ffafeee12c46a3aa338c40ee91b8d1_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Robert F. Kennedy Jr. Cut Penis off Raccoon]]></title>
-            <link>https://www.tmz.com/2026/04/15/rfk-jr-cut-raccoon-penis/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/rfk-jr-cut-raccoon-penis/</guid>
-            <pubDate>Thu, 16 Apr 2026 00:09:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/04/15/226bb7cd7f024c058f4795d11a60b36f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/15/226bb7cd7f024c058f4795d11a60b36f_xl.jpg" medium="image">
+            <title><![CDATA[Learn to Date Yourself Essentials]]></title>
+            <link>https://www.tmz.com/2026/04/16/weekend-solo-outing-products/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/weekend-solo-outing-products/</guid>
+            <pubDate>Thu, 16 Apr 2026 07:05:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/04/03/dd256ef7c0ed455da82094beab7442f1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/04/03/dd256ef7c0ed455da82094beab7442f1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/15/226bb7cd7f024c058f4795d11a60b36f_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/04/03/dd256ef7c0ed455da82094beab7442f1_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ben & Jerry&#039;s Co-Founder Says Parent Company Does Not Support Brand&#039;s Mission]]></title>
-            <link>https://www.tmz.com/2026/04/15/ben-and-jerrys-originator-beefing-with-parent-company/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/15/ben-and-jerrys-originator-beefing-with-parent-company/</guid>
-            <pubDate>Wed, 15 Apr 2026 23:41:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/04/15/05f564def88547b4b207b76856dcccd3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/04/15/05f564def88547b4b207b76856dcccd3_xl.jpg" medium="image">
+            <title><![CDATA[Cheek of the Week -- Shay Mitchell’s &#039;Baywatch&#039; Buns Are Making Waves]]></title>
+            <link>https://www.tmz.com/2026/04/16/cheek-of-the-week-shay-mitchell-baywatch-buns/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/16/cheek-of-the-week-shay-mitchell-baywatch-buns/</guid>
+            <pubDate>Thu, 16 Apr 2026 07:01:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/04/15/407bda76faf5437aba14dc1ee53d6631_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/04/15/407bda76faf5437aba14dc1ee53d6631_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/04/15/05f564def88547b4b207b76856dcccd3_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/04/15/407bda76faf5437aba14dc1ee53d6631_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
