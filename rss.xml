@@ -4,13 +4,35 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 12:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 14:06:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
+            <title><![CDATA[Cher&#039;s Son Elijah Blue Allman in Psychiatric Hospital as She Fights to Appoint Conservator]]></title>
+            <link>https://www.tmz.com/2026/04/17/cher-son-elijah-blue-allman-in-psychiatric-hospital/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/cher-son-elijah-blue-allman-in-psychiatric-hospital/</guid>
+            <pubDate>Fri, 17 Apr 2026 13:31:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/04/17/acbcfce5a81a4e54a9f6fa0ca4e76e1a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/04/17/acbcfce5a81a4e54a9f6fa0ca4e76e1a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/04/17/acbcfce5a81a4e54a9f6fa0ca4e76e1a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[See LAPD Detectives at the Scene of D4vd&#039;s Arrest]]></title>
+            <link>https://www.tmz.com/2026/04/17/lapd-detectives-at-d4vd-arrest-site/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/lapd-detectives-at-d4vd-arrest-site/</guid>
+            <pubDate>Fri, 17 Apr 2026 13:10:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/04/17/b8c4c838daab4a118bb62909fe4e0451_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/04/17/b8c4c838daab4a118bb62909fe4e0451_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/04/17/b8c4c838daab4a118bb62909fe4e0451_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
             <title><![CDATA[D4vd Booked Into L.A. Jail After Arrest for Allegedly Murdering Celeste Rivas]]></title>
-            <link>https://www.tmz.com/2026/04/17/d4vd-celeste-rivas-lapd/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/d4vd-celeste-rivas-lapd/</guid>
+            <link>https://www.tmz.com/2026/04/17/d4vd-booked-in-los-angeles-jail/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/d4vd-booked-in-los-angeles-jail/</guid>
             <pubDate>Fri, 17 Apr 2026 09:24:09 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/04/17/377be75ef25c4f4bb21cea66c7d69216_xl.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/37/16by9/2026/04/17/377be75ef25c4f4bb21cea66c7d69216_xl.jpg" medium="image">
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6b/16by9/2026/04/16/6b16bf672b23406db2ecc0ec418d2b9a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6b/16by9/2026/04/16/6b16bf672b23406db2ecc0ec418d2b9a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Super Bowl Champion Alshon Jeffery Arrested]]></title>
-            <link>https://www.tmz.com/2026/04/17/alshon-jeffery-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/alshon-jeffery-arrested/</guid>
-            <pubDate>Fri, 17 Apr 2026 07:30:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/04/16/f2ad483c6946418bac8e1e98eb2dbe01_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/04/16/f2ad483c6946418bac8e1e98eb2dbe01_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/04/16/f2ad483c6946418bac8e1e98eb2dbe01_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sweat-Proof Skincare & Makeup Products]]></title>
-            <link>https://www.tmz.com/2026/04/17/sweatproof-makeup-prep/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/sweatproof-makeup-prep/</guid>
-            <pubDate>Fri, 17 Apr 2026 07:05:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/04/07/b165ca791570404e9d5191d43ec9d7f9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/04/07/b165ca791570404e9d5191d43ec9d7f9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/04/07/b165ca791570404e9d5191d43ec9d7f9_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
