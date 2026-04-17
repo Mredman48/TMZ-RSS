@@ -4,18 +4,18 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 11:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 12:41:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[D4vd Booked Into L.A. County Jail After Arrest for Allegedly Murdering Celeste Rivas]]></title>
+            <title><![CDATA[D4vd Booked Into L.A. Jail After Arrest for Allegedly Murdering Celeste Rivas]]></title>
             <link>https://www.tmz.com/2026/04/17/d4vd-celeste-rivas-lapd/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/17/d4vd-celeste-rivas-lapd/</guid>
             <pubDate>Fri, 17 Apr 2026 09:24:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/17/f0bbeab43c9e4c33a07ae7ba55838e81_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/17/f0bbeab43c9e4c33a07ae7ba55838e81_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/04/17/377be75ef25c4f4bb21cea66c7d69216_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/04/17/377be75ef25c4f4bb21cea66c7d69216_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/17/f0bbeab43c9e4c33a07ae7ba55838e81_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/04/17/377be75ef25c4f4bb21cea66c7d69216_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
