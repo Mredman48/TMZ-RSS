@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 20:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 21:24:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ex-Prosecutor Says Celeste Rivas Body Decomposition Won&#039;t Derail D4vd Murder Case]]></title>
+            <link>https://www.tmz.com/2026/04/17/celeste-rivas-body-decaying-wont-slow-murder-case-against-d4vd/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/celeste-rivas-body-decaying-wont-slow-murder-case-against-d4vd/</guid>
+            <pubDate>Fri, 17 Apr 2026 21:08:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/04/17/ed12f883624e4b429c56ef0c090f9d52_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/04/17/ed12f883624e4b429c56ef0c090f9d52_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/04/17/ed12f883624e4b429c56ef0c090f9d52_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Leah Remini: Scientology Wants LAPD to Answer Questions About Shelly Miscavige Leak]]></title>
+            <link>https://www.tmz.com/2026/04/17/church-of-scientology-wants-cops-answer-over-leak/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/church-of-scientology-wants-cops-answer-over-leak/</guid>
+            <pubDate>Fri, 17 Apr 2026 20:45:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/04/17/fbe9a5cf5dbf48bb94b79d8678ced1f0_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/04/17/fbe9a5cf5dbf48bb94b79d8678ced1f0_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/04/17/fbe9a5cf5dbf48bb94b79d8678ced1f0_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Eminem&#039;s Daughter Alaina Marie Scott Announces Birth of Her New Baby Girl]]></title>
+            <link>https://www.tmz.com/2026/04/17/eminem-daughter-alaina-marie-scott-gives-birth/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/eminem-daughter-alaina-marie-scott-gives-birth/</guid>
+            <pubDate>Fri, 17 Apr 2026 20:31:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4b/16by9/2026/04/17/4b899f63d8dd4ecc9218c9f0b1be47d8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/04/17/4b899f63d8dd4ecc9218c9f0b1be47d8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/04/17/4b899f63d8dd4ecc9218c9f0b1be47d8_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Megan Rapinoe, Sue Bird Announce Split]]></title>
             <link>https://www.tmz.com/2026/04/17/megan-rapinoe-sue-bird-breakup/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/04/17/3c6f63ad9d7f43a9a835a7e608246d77_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/04/17/3c6f63ad9d7f43a9a835a7e608246d77_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Grammy-Winning Songwriter Don Schlitz Dead at 73]]></title>
-            <link>https://www.tmz.com/2026/04/17/songwriter-don-schlitz-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/songwriter-don-schlitz-dead/</guid>
-            <pubDate>Fri, 17 Apr 2026 18:47:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d5/16by9/2026/04/17/d56626f78f3042119ea028b8630763f4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d5/16by9/2026/04/17/d56626f78f3042119ea028b8630763f4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d5/16by9/2026/04/17/d56626f78f3042119ea028b8630763f4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sexyy Red Celebrates 28th Birthday With Star-Studded Coachella Blowout]]></title>
-            <link>https://www.tmz.com/2026/04/17/sexyy-red-birthday-coachella-party/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/sexyy-red-birthday-coachella-party/</guid>
-            <pubDate>Fri, 17 Apr 2026 18:31:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/04/17/291e03bb16394fa7a60c2bca54fc4503_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/04/17/291e03bb16394fa7a60c2bca54fc4503_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/04/17/291e03bb16394fa7a60c2bca54fc4503_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dylan Sprouse Tackles Trespasser At His House, Sources Say]]></title>
-            <link>https://www.tmz.com/2026/04/17/dylan-sprouse-tackles-trespasser/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/dylan-sprouse-tackles-trespasser/</guid>
-            <pubDate>Fri, 17 Apr 2026 18:30:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f4/16by9/2026/04/17/f4bd1b9209904cfabc6666f517d7f0b4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/04/17/f4bd1b9209904cfabc6666f517d7f0b4_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/04/17/f4bd1b9209904cfabc6666f517d7f0b4_xl.png">
             </media:thumbnail>
         </item>
     </channel>
