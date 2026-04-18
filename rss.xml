@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 23:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 00:07:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kyrsten Sinema&#039;s Alleged Private Texts To Married BF Revealed in Court]]></title>
+            <link>https://www.tmz.com/2026/04/17/kyrsten-sinema-apparent-texts-to-married-bf-revealed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/kyrsten-sinema-apparent-texts-to-married-bf-revealed/</guid>
+            <pubDate>Fri, 17 Apr 2026 23:23:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/04/17/c35d8e3b93dc4408b4f6668121dae409_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/04/17/c35d8e3b93dc4408b4f6668121dae409_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/04/17/c35d8e3b93dc4408b4f6668121dae409_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Natasha Lyonne Taking Things &#039;One Flight At a Time&#039; After Getting Kicked Off Plane]]></title>
             <link>https://www.tmz.com/2026/04/17/natasha-lyonne-one-flight-at-a-time/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/17/74ca24e22fca427b8a74583cef7a2f16_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/17/74ca24e22fca427b8a74583cef7a2f16_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[TMZ Brunch Bus Hosted By &#039;Bachelor&#039; Alum Turned Lawyer Erica Rose Sanders]]></title>
-            <link>https://www.tmz.com/2026/04/17/bachelor-alum-erica-rose-parties-on-brunch-bus/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/bachelor-alum-erica-rose-parties-on-brunch-bus/</guid>
-            <pubDate>Fri, 17 Apr 2026 22:44:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/17/d482e5e5a3134af8a240e689dc412c94_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/17/d482e5e5a3134af8a240e689dc412c94_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/17/d482e5e5a3134af8a240e689dc412c94_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
