@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 00:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 03:38:53 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Celeste Rivas&#039;s Family Plans To Release Statement In Reaction To D4vd Arrest]]></title>
+            <link>https://www.tmz.com/2026/04/17/celeste-rivas-family-plans-to-speak-out-after-d4vd-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/celeste-rivas-family-plans-to-speak-out-after-d4vd-arrest/</guid>
+            <pubDate>Sat, 18 Apr 2026 01:13:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/18/f0c84efb301744008274a862f0d3fc34_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/18/f0c84efb301744008274a862f0d3fc34_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/18/f0c84efb301744008274a862f0d3fc34_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tory Lanez Sues For $100 Million Over Prison Stabbing]]></title>
+            <link>https://www.tmz.com/2026/04/17/tory-lanez-sues-prison-over-stabbing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/tory-lanez-sues-prison-over-stabbing/</guid>
+            <pubDate>Sat, 18 Apr 2026 00:44:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/04/18/1a982f59ce9f42c1bf5eeaf34ffaa73b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/04/18/1a982f59ce9f42c1bf5eeaf34ffaa73b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/04/18/1a982f59ce9f42c1bf5eeaf34ffaa73b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[‘Owning Manhattan’ Star Jade Shenker Questions Circumstances of Father’s Death]]></title>
+            <link>https://www.tmz.com/2026/04/17/jade-shenker-questioning-fathers-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/jade-shenker-questioning-fathers-death/</guid>
+            <pubDate>Sat, 18 Apr 2026 00:30:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/07/16by9/2026/04/17/074efc66359448f1a5d6477b76c009ac_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/07/16by9/2026/04/17/074efc66359448f1a5d6477b76c009ac_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/04/17/074efc66359448f1a5d6477b76c009ac_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[King Combs Says Diddy Holding Up OK in Prison, But Free Him]]></title>
+            <link>https://www.tmz.com/2026/04/17/king-combs-says-free-diddy/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/king-combs-says-free-diddy/</guid>
+            <pubDate>Sat, 18 Apr 2026 00:14:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/04/17/1a8b058d9ec041a88bc346482803ff52_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/04/17/1a8b058d9ec041a88bc346482803ff52_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/04/17/1a8b058d9ec041a88bc346482803ff52_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kyrsten Sinema&#039;s Alleged Private Texts To Married BF Revealed in Court]]></title>
             <link>https://www.tmz.com/2026/04/17/kyrsten-sinema-apparent-texts-to-married-bf-revealed/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/04/17/c35d8e3b93dc4408b4f6668121dae409_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/04/17/c35d8e3b93dc4408b4f6668121dae409_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Natasha Lyonne Taking Things &#039;One Flight At a Time&#039; After Getting Kicked Off Plane]]></title>
-            <link>https://www.tmz.com/2026/04/17/natasha-lyonne-one-flight-at-a-time/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/natasha-lyonne-one-flight-at-a-time/</guid>
-            <pubDate>Fri, 17 Apr 2026 23:17:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a2/16by9/2026/04/17/a23646aff00049a6893bc7e7353b31e6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a2/16by9/2026/04/17/a23646aff00049a6893bc7e7353b31e6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a2/16by9/2026/04/17/a23646aff00049a6893bc7e7353b31e6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[D4vd&#039;s Parents Knew Arrest Was Possibility, Will Go to L.A. to See Him]]></title>
-            <link>https://www.tmz.com/2026/04/17/d4vd-parents-not-surprised-by-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/d4vd-parents-not-surprised-by-arrest/</guid>
-            <pubDate>Fri, 17 Apr 2026 23:00:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7e/16by9/2026/04/17/7ead60c4601b4e22be17f6dbe7774132_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/04/17/7ead60c4601b4e22be17f6dbe7774132_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/04/17/7ead60c4601b4e22be17f6dbe7774132_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chloe Veitch Brings the Heat in Green Bikini on Chic Boat Ride]]></title>
-            <link>https://www.tmz.com/2026/04/17/chloe-veitch-green-bikini-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/chloe-veitch-green-bikini-photos/</guid>
-            <pubDate>Fri, 17 Apr 2026 23:00:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/04/17/961789cae92b4b12a34205fa2ca9ae22_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/04/17/961789cae92b4b12a34205fa2ca9ae22_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/04/17/961789cae92b4b12a34205fa2ca9ae22_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Logan Paul Not Worried About Tom Brady Showing Up at WrestleMania]]></title>
-            <link>https://www.tmz.com/2026/04/17/logan-paul-not-worried-tom-brady-showing-up-wrestlemania/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/17/logan-paul-not-worried-tom-brady-showing-up-wrestlemania/</guid>
-            <pubDate>Fri, 17 Apr 2026 22:49:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/04/17/74ca24e22fca427b8a74583cef7a2f16_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/17/74ca24e22fca427b8a74583cef7a2f16_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/17/74ca24e22fca427b8a74583cef7a2f16_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
