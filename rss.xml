@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 17:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 18:07:03 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Downton Abbey&#039; Star Nathalie Baye Dead at 77 After Dementia Diagnosis]]></title>
+            <link>https://www.tmz.com/2026/04/18/actress-nathalie-baye-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/actress-nathalie-baye-dead/</guid>
+            <pubDate>Sat, 18 Apr 2026 17:17:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/04/18/fbe786cf8d2446769e3317bec1d06e5f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/04/18/fbe786cf8d2446769e3317bec1d06e5f_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/04/18/fbe786cf8d2446769e3317bec1d06e5f_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nikki Bella on WrestleMania Red Carpet in Walking Boot As Rumors Fly About Big Return]]></title>
             <link>https://www.tmz.com/2026/04/18/nikki-bella-wears-injury-boot-at-wrestlemania/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/04/18/4fbdc62a06cd44e4849461042d8b00d3_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/04/18/4fbdc62a06cd44e4849461042d8b00d3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Batula & West Wilson Kiss at Yankees Game]]></title>
-            <link>https://www.tmz.com/2026/04/18/amanda-batula-west-wilson-kissing-at-yankees-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/amanda-batula-west-wilson-kissing-at-yankees-game/</guid>
-            <pubDate>Sat, 18 Apr 2026 12:59:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/04/18/9e8475e82fbe48849a0406703d5fd14f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/04/18/9e8475e82fbe48849a0406703d5fd14f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/04/18/9e8475e82fbe48849a0406703d5fd14f_xl.png">
             </media:thumbnail>
         </item>
     </channel>
