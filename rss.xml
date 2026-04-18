@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 12:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 13:46:52 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kylie Jenner Shows Off Abs with Belly Chain for Coachella Weekend 2]]></title>
+            <link>https://www.tmz.com/2026/04/18/kylie-jenner-shows-off-abs-for-final-coachella-weekend/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/kylie-jenner-shows-off-abs-for-final-coachella-weekend/</guid>
+            <pubDate>Sat, 18 Apr 2026 13:44:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4f/16by9/2026/04/18/4fbdc62a06cd44e4849461042d8b00d3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/04/18/4fbdc62a06cd44e4849461042d8b00d3_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/04/18/4fbdc62a06cd44e4849461042d8b00d3_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Amanda Batula & West Wilson Kiss at Yankees Game]]></title>
+            <link>https://www.tmz.com/2026/04/18/amanda-batula-west-wilson-kissing-at-yankees-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/amanda-batula-west-wilson-kissing-at-yankees-game/</guid>
+            <pubDate>Sat, 18 Apr 2026 12:59:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/04/18/9e8475e82fbe48849a0406703d5fd14f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/04/18/9e8475e82fbe48849a0406703d5fd14f_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/04/18/9e8475e82fbe48849a0406703d5fd14f_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Madonna Performs with Sabrina Carpenter in Lingerie On Coachella Stage]]></title>
+            <link>https://www.tmz.com/2026/04/18/madonna-performs-with-sabrina-carpenter-at-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/madonna-performs-with-sabrina-carpenter-at-coachella/</guid>
+            <pubDate>Sat, 18 Apr 2026 12:21:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/04/18/09ad4fd472434f62a6fe0c798b2c6d07_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/04/18/09ad4fd472434f62a6fe0c798b2c6d07_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/04/18/09ad4fd472434f62a6fe0c798b2c6d07_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ice Spice Jokes About McDonald&#039;s Brawl]]></title>
+            <link>https://www.tmz.com/2026/04/18/ice-spice-responds-to-mcdonalds-fight-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/ice-spice-responds-to-mcdonalds-fight-video/</guid>
+            <pubDate>Sat, 18 Apr 2026 12:11:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/04/18/76d65ab2b41143dab7a61bc76a1b72ef_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/04/18/76d65ab2b41143dab7a61bc76a1b72ef_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/04/18/76d65ab2b41143dab7a61bc76a1b72ef_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Youtube Star The Fitness Marshall Getting Divorced]]></title>
             <link>https://www.tmz.com/2026/04/18/youtuber-the-fitness-marshall-filed-for-divorce/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/04/16/fe250ed750304860b4ae425fb01a74f6_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/04/16/fe250ed750304860b4ae425fb01a74f6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Music Producer to Offset: Where Is My Money?!]]></title>
-            <link>https://www.tmz.com/2026/04/18/offset-sued-by-producer-amid-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/offset-sued-by-producer-amid-shooting/</guid>
-            <pubDate>Sat, 18 Apr 2026 09:00:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4b/16by9/2026/04/17/4b99278e895a475a9d9ced847d0e70b7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/04/17/4b99278e895a475a9d9ced847d0e70b7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/04/17/4b99278e895a475a9d9ced847d0e70b7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kourtney Kardashian Hot Shots to Slay Her 47th Birthday]]></title>
-            <link>https://www.tmz.com/2026/04/18/kourtney-kardashian-47th-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/kourtney-kardashian-47th-birthday-hot-shots/</guid>
-            <pubDate>Sat, 18 Apr 2026 08:00:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/04/14/a15be906924945b7a66442303fb26c11_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/04/14/a15be906924945b7a66442303fb26c11_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/04/14/a15be906924945b7a66442303fb26c11_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Prosecutors Will File Charges Monday Against D4vd After Arrest in Celeste Rivas Case]]></title>
-            <link>https://www.tmz.com/2026/04/18/d4vd-prosecutors-to-file-charges-monday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/d4vd-prosecutors-to-file-charges-monday/</guid>
-            <pubDate>Sat, 18 Apr 2026 08:00:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/04/17/71eef17391c84557b74f5ec1429cec0c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/04/17/71eef17391c84557b74f5ec1429cec0c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/04/17/71eef17391c84557b74f5ec1429cec0c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[WrestleMania 42 -- Choose Your Winners!]]></title>
-            <link>https://www.tmz.com/2026/04/18/wrestlemania-42-whod-you-rather/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/wrestlemania-42-whod-you-rather/</guid>
-            <pubDate>Sat, 18 Apr 2026 07:45:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/04/14/94eed1c9344b4cc99eff8d8f5aa52aec_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/04/14/94eed1c9344b4cc99eff8d8f5aa52aec_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/04/14/94eed1c9344b4cc99eff8d8f5aa52aec_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
