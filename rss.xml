@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 22:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 23:07:12 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[John Cena Talks Hair Transplant, AJ Styles Retiring at WWE Hall of Fame Red Carpet]]></title>
+            <link>https://www.tmz.com/2026/04/18/john-cena-at-wwe-hall-of-fame/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/john-cena-at-wwe-hall-of-fame/</guid>
+            <pubDate>Sat, 18 Apr 2026 22:30:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/04/18/97b8fd24a08d4c15851b2b3f696d6b9d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/04/18/97b8fd24a08d4c15851b2b3f696d6b9d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/04/18/97b8fd24a08d4c15851b2b3f696d6b9d_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Justin Theroux Welcomes Baby Boy with Wife Nicole Bloom]]></title>
+            <link>https://www.tmz.com/2026/04/18/justin-theroux-wife-gives-birth/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/justin-theroux-wife-gives-birth/</guid>
+            <pubDate>Sat, 18 Apr 2026 22:28:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Celeste Rivas&#039; Dad&#039;s Reaction to D4vd&#039;s Arrest Revealed]]></title>
+            <link>https://www.tmz.com/2026/04/18/celeste-rivas-father-reacts-to-d4vd-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/celeste-rivas-father-reacts-to-d4vd-arrest/</guid>
+            <pubDate>Sat, 18 Apr 2026 22:02:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/04/18/6794f4f89b8948828e04bc6035b073ee_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/04/18/6794f4f89b8948828e04bc6035b073ee_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/04/18/6794f4f89b8948828e04bc6035b073ee_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bam Margera Files For Joint Custody of Son Phoenix]]></title>
+            <link>https://www.tmz.com/2026/04/18/bam-margera-files-joint-custody-of-son/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/bam-margera-files-joint-custody-of-son/</guid>
+            <pubDate>Sat, 18 Apr 2026 21:58:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/07/16by9/2026/04/18/0741460fd522491699699ed78ae6d406_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/07/16by9/2026/04/18/0741460fd522491699699ed78ae6d406_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/04/18/0741460fd522491699699ed78ae6d406_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Rep. Ilhan Omar Claims Accounting Error Made It Appear Net Worth Exploded]]></title>
             <link>https://www.tmz.com/2026/04/18/ilhan-omar-claims-accounting-error-made-net-worth-look-higher/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/19/16by9/2026/04/18/1961dffa7f5d41218038680560ba36fe_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/04/18/1961dffa7f5d41218038680560ba36fe_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ruby Rose Said &#039;Nothing Horrific Happened&#039; Night Katy Perry Allegedly Assaulted Her in 2011 Essay]]></title>
-            <link>https://www.tmz.com/2026/04/18/ruby-rose-talked-about-night-of-alleged-katy-perry-assault-in-past-essay/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/ruby-rose-talked-about-night-of-alleged-katy-perry-assault-in-past-essay/</guid>
-            <pubDate>Sat, 18 Apr 2026 19:31:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/04/18/0d00a5e6c4cd47c1a118c1ae0fb81f8c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/04/18/0d00a5e6c4cd47c1a118c1ae0fb81f8c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/04/18/0d00a5e6c4cd47c1a118c1ae0fb81f8c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Madonna Dances with Boyfriend Akeem Morris at Coachella After Surprise Performance]]></title>
-            <link>https://www.tmz.com/2026/04/18/madonna-dancing-at-coachella-with-boyfriend/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/madonna-dancing-at-coachella-with-boyfriend/</guid>
-            <pubDate>Sat, 18 Apr 2026 19:18:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/77/16by9/2026/04/18/776d118221104f3e8191be3df8120aea_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/77/16by9/2026/04/18/776d118221104f3e8191be3df8120aea_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/77/16by9/2026/04/18/776d118221104f3e8191be3df8120aea_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rosie Huntington-Whiteley Sexy Shots to Celebrate Her 39th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/04/18/rosie-huntington-whiteley-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/rosie-huntington-whiteley-birthday-hot-shots/</guid>
-            <pubDate>Sat, 18 Apr 2026 19:00:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/04/14/3283df2c12494ace9660cb49d26a069e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/04/14/3283df2c12494ace9660cb49d26a069e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/04/14/3283df2c12494ace9660cb49d26a069e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sabrina Carpenter&#039;s New Cameos, French Montana Performs at Coachella&#039;s 2nd Weekend]]></title>
-            <link>https://www.tmz.com/2026/04/18/coachella-second-weekend-first-night-performances/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/coachella-second-weekend-first-night-performances/</guid>
-            <pubDate>Sat, 18 Apr 2026 18:45:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/04/18/75bb8b76ccf446dfbca1b869b94f5042_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/04/18/75bb8b76ccf446dfbca1b869b94f5042_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/04/18/75bb8b76ccf446dfbca1b869b94f5042_xl.png">
             </media:thumbnail>
         </item>
     </channel>
