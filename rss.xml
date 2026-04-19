@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 00:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 03:58:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Zayn Malik Allegedly Punched Louis Tomlinson Leaving Him Concussed: Report]]></title>
+            <link>https://www.tmz.com/2026/04/18/zayn-malik-punched-louis-tomlinson-report/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/zayn-malik-punched-louis-tomlinson-report/</guid>
+            <pubDate>Sun, 19 Apr 2026 00:52:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/04/18/dbbc8c9f72ba4459b410f44a468fd243_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/04/18/dbbc8c9f72ba4459b410f44a468fd243_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/04/18/dbbc8c9f72ba4459b410f44a468fd243_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lexi Wood Says &#039;Summer House&#039; Stars Need to Stop Dating Each Other]]></title>
+            <link>https://www.tmz.com/2026/04/18/lexi-wood-summer-house-stars-need-to-stop-dating/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/lexi-wood-summer-house-stars-need-to-stop-dating/</guid>
+            <pubDate>Sun, 19 Apr 2026 00:34:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/04/18/623b20049e3d4905bd8cb97aed9f1598_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/18/623b20049e3d4905bd8cb97aed9f1598_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/18/623b20049e3d4905bd8cb97aed9f1598_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hunter Biden Poses with Rapper Fakemink at Coachella]]></title>
+            <link>https://www.tmz.com/2026/04/18/hunter-biden-poses-picture-with-fakemink-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/hunter-biden-poses-picture-with-fakemink-coachella/</guid>
+            <pubDate>Sun, 19 Apr 2026 00:18:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3ee445029514c74a587962efabbfda9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3ee445029514c74a587962efabbfda9_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3ee445029514c74a587962efabbfda9_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Logan Paul Turns on iShowSpeed at WrestleMania 42]]></title>
             <link>https://www.tmz.com/2026/04/18/logan-paul-turns-on-ishow-speed-at-wrestlemania-42/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/04/18/e88a7a0f8f3e4ea093b651e2bbcaf0ca_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/04/18/e88a7a0f8f3e4ea093b651e2bbcaf0ca_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Actress Nadia Farès Dead at 57]]></title>
-            <link>https://www.tmz.com/2026/04/18/actress-nadia-fares-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/actress-nadia-fares-dead/</guid>
-            <pubDate>Sat, 18 Apr 2026 23:18:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/04/18/165616391dfa4e309e75952a3cb3d6a3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/04/18/165616391dfa4e309e75952a3cb3d6a3_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/04/18/165616391dfa4e309e75952a3cb3d6a3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[John Cena Talks Hair Transplant, AJ Styles Retiring at WWE Hall of Fame Red Carpet]]></title>
-            <link>https://www.tmz.com/2026/04/18/john-cena-at-wwe-hall-of-fame/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/john-cena-at-wwe-hall-of-fame/</guid>
-            <pubDate>Sat, 18 Apr 2026 22:30:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/04/18/97b8fd24a08d4c15851b2b3f696d6b9d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/97/16by9/2026/04/18/97b8fd24a08d4c15851b2b3f696d6b9d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/97/16by9/2026/04/18/97b8fd24a08d4c15851b2b3f696d6b9d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Theroux Welcomes Baby Boy with Wife Nicole Bloom]]></title>
-            <link>https://www.tmz.com/2026/04/18/justin-theroux-wife-gives-birth/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/justin-theroux-wife-gives-birth/</guid>
-            <pubDate>Sat, 18 Apr 2026 22:28:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png">
             </media:thumbnail>
         </item>
     </channel>
