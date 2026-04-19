@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 23:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 00:04:28 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Logan Paul Turns on iShowSpeed at WrestleMania 42]]></title>
+            <link>https://www.tmz.com/2026/04/18/logan-paul-turns-on-ishow-speed-at-wrestlemania-42/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/logan-paul-turns-on-ishow-speed-at-wrestlemania-42/</guid>
+            <pubDate>Sat, 18 Apr 2026 23:45:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/04/18/2968c15b2ebe4305a0e6c3f7cb16b85a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/04/18/2968c15b2ebe4305a0e6c3f7cb16b85a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/04/18/2968c15b2ebe4305a0e6c3f7cb16b85a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cops Reportedly Wanted to Arrest Rep. Cory Mills After Assault Call]]></title>
+            <link>https://www.tmz.com/2026/04/18/police-wanted-arrest-cory-mills-assault-call/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/police-wanted-arrest-cory-mills-assault-call/</guid>
+            <pubDate>Sat, 18 Apr 2026 23:25:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/04/18/e88a7a0f8f3e4ea093b651e2bbcaf0ca_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/04/18/e88a7a0f8f3e4ea093b651e2bbcaf0ca_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/04/18/e88a7a0f8f3e4ea093b651e2bbcaf0ca_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Actress Nadia Farès Dead at 57]]></title>
+            <link>https://www.tmz.com/2026/04/18/actress-nadia-fares-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/actress-nadia-fares-dead/</guid>
+            <pubDate>Sat, 18 Apr 2026 23:18:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/04/18/165616391dfa4e309e75952a3cb3d6a3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/04/18/165616391dfa4e309e75952a3cb3d6a3_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/04/18/165616391dfa4e309e75952a3cb3d6a3_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[John Cena Talks Hair Transplant, AJ Styles Retiring at WWE Hall of Fame Red Carpet]]></title>
             <link>https://www.tmz.com/2026/04/18/john-cena-at-wwe-hall-of-fame/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/18/f3468450624c498e8b29ee555288a904_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celeste Rivas&#039; Dad&#039;s Reaction to D4vd&#039;s Arrest Revealed]]></title>
-            <link>https://www.tmz.com/2026/04/18/celeste-rivas-father-reacts-to-d4vd-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/celeste-rivas-father-reacts-to-d4vd-arrest/</guid>
-            <pubDate>Sat, 18 Apr 2026 22:02:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/04/18/6794f4f89b8948828e04bc6035b073ee_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/04/18/6794f4f89b8948828e04bc6035b073ee_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/04/18/6794f4f89b8948828e04bc6035b073ee_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bam Margera Files For Joint Custody of Son Phoenix]]></title>
-            <link>https://www.tmz.com/2026/04/18/bam-margera-files-joint-custody-of-son/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/bam-margera-files-joint-custody-of-son/</guid>
-            <pubDate>Sat, 18 Apr 2026 21:58:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/07/16by9/2026/04/18/0741460fd522491699699ed78ae6d406_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/07/16by9/2026/04/18/0741460fd522491699699ed78ae6d406_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/04/18/0741460fd522491699699ed78ae6d406_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rep. Ilhan Omar Claims Accounting Error Made It Appear Net Worth Exploded]]></title>
-            <link>https://www.tmz.com/2026/04/18/ilhan-omar-claims-accounting-error-made-net-worth-look-higher/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/18/ilhan-omar-claims-accounting-error-made-net-worth-look-higher/</guid>
-            <pubDate>Sat, 18 Apr 2026 19:56:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/04/18/1961dffa7f5d41218038680560ba36fe_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/04/18/1961dffa7f5d41218038680560ba36fe_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/04/18/1961dffa7f5d41218038680560ba36fe_xl.png">
             </media:thumbnail>
         </item>
     </channel>
