@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 20:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 21:07:28 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Eric Swalwell Accused of Charging Alcohol Deliveries to Campaign Funds]]></title>
+            <link>https://www.tmz.com/2026/04/19/eric-swalwell-charged-booze-to-campaign-funds/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/eric-swalwell-charged-booze-to-campaign-funds/</guid>
+            <pubDate>Sun, 19 Apr 2026 20:42:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/04/19/4e97af753b3a422f870b5b679e370eff_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/04/19/4e97af753b3a422f870b5b679e370eff_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/04/19/4e97af753b3a422f870b5b679e370eff_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tucker Carlson’s Son Leaves J.D. Vance&#039;s Office as Trump Attacks Continue]]></title>
             <link>https://www.tmz.com/2026/04/19/tucker-carlson-son-leaves-jd-vance-office/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/21/16by9/2026/04/19/21ed5ae0e4894cad8e100f2983b54d11_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/04/19/21ed5ae0e4894cad8e100f2983b54d11_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dylan Sprouse&#039;s Wife Barbara Palvin Spotted After Intruder Incident]]></title>
-            <link>https://www.tmz.com/2026/04/19/dylan-sprouse-wife-barbara-palvin-spotted-after-intruder-incident/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/dylan-sprouse-wife-barbara-palvin-spotted-after-intruder-incident/</guid>
-            <pubDate>Sun, 19 Apr 2026 17:16:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
