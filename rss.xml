@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 14:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 15:22:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Justin Bieber, SZA, Big Sean Highlight Coachella Weekend 2]]></title>
+            <link>https://www.tmz.com/2026/04/19/justin-bieber-sza-big-sean-coachella-second-weekend/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/justin-bieber-sza-big-sean-coachella-second-weekend/</guid>
+            <pubDate>Sun, 19 Apr 2026 15:10:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/04/19/18ca09f22dfd4bd8ab526a6519247913_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/19/18ca09f22dfd4bd8ab526a6519247913_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/19/18ca09f22dfd4bd8ab526a6519247913_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jennifer Aniston Reacts to Ex Justin Theroux&#039;s Baby News]]></title>
             <link>https://www.tmz.com/2026/04/19/jennifer-aniston-reaction-justin-theroux-baby-news/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ad/16by9/2026/04/19/ad1c9c62ce4b453299e064debb3f71cf_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ad/16by9/2026/04/19/ad1c9c62ce4b453299e064debb3f71cf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hollywood&#039;s Biggest Stars Come Out For the &#039;Oscars of Science&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/19/hollywood-shows-up-to-oscars-of-science/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/hollywood-shows-up-to-oscars-of-science/</guid>
-            <pubDate>Sun, 19 Apr 2026 12:15:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/04/19/ce33b4a07a81413ab8c03f2a7e982fa5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/04/19/ce33b4a07a81413ab8c03f2a7e982fa5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/04/19/ce33b4a07a81413ab8c03f2a7e982fa5_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
