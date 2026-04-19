@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 19:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 20:04:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tucker Carlson’s Son Leaves J.D. Vance&#039;s Office as Trump Attacks Continue]]></title>
+            <link>https://www.tmz.com/2026/04/19/tucker-carlson-son-leaves-jd-vance-office/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/tucker-carlson-son-leaves-jd-vance-office/</guid>
+            <pubDate>Sun, 19 Apr 2026 19:42:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/04/19/590355e99d024bd88141194123c4d433_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/04/19/590355e99d024bd88141194123c4d433_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/04/19/590355e99d024bd88141194123c4d433_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Timothée Chalamet Parties at E11EVEN Miami Without Kylie Jenner]]></title>
+            <link>https://www.tmz.com/2026/04/19/timothee-chalamet-e11even-miami-sighting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/timothee-chalamet-e11even-miami-sighting/</guid>
+            <pubDate>Sun, 19 Apr 2026 19:25:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/04/19/9a262b67b35b4dbaa1c5163e00658488_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/04/19/9a262b67b35b4dbaa1c5163e00658488_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/04/19/9a262b67b35b4dbaa1c5163e00658488_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jessi Draper, Marciano Brunette Raise Eyebrows With Nashville Night Out]]></title>
             <link>https://www.tmz.com/2026/04/19/jessi-draper-marciano-brunette-spark-dating-rumors-in-nashville/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[8 Children Killed in Louisiana Mass Shooting]]></title>
-            <link>https://www.tmz.com/2026/04/19/children-killed-in-louisiana-mass-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/children-killed-in-louisiana-mass-shooting/</guid>
-            <pubDate>Sun, 19 Apr 2026 16:49:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/04/19/c658f71e862a440ba3639d6a0b73d26e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/04/19/c658f71e862a440ba3639d6a0b73d26e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/04/19/c658f71e862a440ba3639d6a0b73d26e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West Seen for First Time Since Europe Ban Drama]]></title>
-            <link>https://www.tmz.com/2026/04/19/kanye-west-seen-first-time-since-europe-ban/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/kanye-west-seen-first-time-since-europe-ban/</guid>
-            <pubDate>Sun, 19 Apr 2026 16:48:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/04/19/fdc8a3f153a04a21bbf215d403d9c800_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/04/19/fdc8a3f153a04a21bbf215d403d9c800_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/04/19/fdc8a3f153a04a21bbf215d403d9c800_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
