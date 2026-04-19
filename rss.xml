@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 16:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 17:18:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Dylan Sprouse&#039;s Wife Barbara Palvin Spotted After Intruder Incident]]></title>
+            <link>https://www.tmz.com/2026/04/19/dylan-sprouse-wife-barbara-palvin-spotted-after-intruder-incident/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/dylan-sprouse-wife-barbara-palvin-spotted-after-intruder-incident/</guid>
+            <pubDate>Sun, 19 Apr 2026 17:16:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/04/19/1243c9b16f1e48d490224c559dc0b1b4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[8 Children Killed in Louisiana Mass Shooting]]></title>
+            <link>https://www.tmz.com/2026/04/19/children-killed-in-louisiana-mass-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/children-killed-in-louisiana-mass-shooting/</guid>
+            <pubDate>Sun, 19 Apr 2026 16:49:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/04/19/c658f71e862a440ba3639d6a0b73d26e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/04/19/c658f71e862a440ba3639d6a0b73d26e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/04/19/c658f71e862a440ba3639d6a0b73d26e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West Seen for First Time Since Europe Ban Drama]]></title>
+            <link>https://www.tmz.com/2026/04/19/kanye-west-seen-first-time-since-europe-ban/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/kanye-west-seen-first-time-since-europe-ban/</guid>
+            <pubDate>Sun, 19 Apr 2026 16:48:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/04/19/fdc8a3f153a04a21bbf215d403d9c800_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/04/19/fdc8a3f153a04a21bbf215d403d9c800_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/04/19/fdc8a3f153a04a21bbf215d403d9c800_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[University of Iowa Students Shot Near Campus During Brawl]]></title>
+            <link>https://www.tmz.com/2026/04/19/iowa-university-students-shot-near-campus/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/iowa-university-students-shot-near-campus/</guid>
+            <pubDate>Sun, 19 Apr 2026 16:45:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b2/16by9/2026/04/19/b2a098e17017453dbde0c1490a60de3e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b2/16by9/2026/04/19/b2a098e17017453dbde0c1490a60de3e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b2/16by9/2026/04/19/b2a098e17017453dbde0c1490a60de3e_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Justin Bieber, SZA, Big Sean Highlight Coachella Weekend 2]]></title>
             <link>https://www.tmz.com/2026/04/19/justin-bieber-sza-big-sean-coachella-second-weekend/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/19/18ca09f22dfd4bd8ab526a6519247913_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/19/18ca09f22dfd4bd8ab526a6519247913_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jennifer Aniston Reacts to Ex Justin Theroux&#039;s Baby News]]></title>
-            <link>https://www.tmz.com/2026/04/19/jennifer-aniston-reaction-justin-theroux-baby-news/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/jennifer-aniston-reaction-justin-theroux-baby-news/</guid>
-            <pubDate>Sun, 19 Apr 2026 14:03:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2026/04/19/c13d8be30b5a4547b40037310431c52d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c1/16by9/2026/04/19/c13d8be30b5a4547b40037310431c52d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2026/04/19/c13d8be30b5a4547b40037310431c52d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Skydiver Crashes Into Scoreboard at Virginia Tech Game]]></title>
-            <link>https://www.tmz.com/2026/04/19/skydiver-crashes-into-virginia-tech-scoreboard/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/skydiver-crashes-into-virginia-tech-scoreboard/</guid>
-            <pubDate>Sun, 19 Apr 2026 13:40:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/04/19/c3458fafe88044afad4bb08d29b033a1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/04/19/c3458fafe88044afad4bb08d29b033a1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/04/19/c3458fafe88044afad4bb08d29b033a1_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Bieber Serenades Billie Eilish at Coachella]]></title>
-            <link>https://www.tmz.com/2026/04/19/justin-bieber-serenades-billie-eilish-at-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/justin-bieber-serenades-billie-eilish-at-coachella/</guid>
-            <pubDate>Sun, 19 Apr 2026 13:06:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ec/16by9/2026/04/19/ec20bdfb0ba34267997a6632ad4cf74d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/04/19/ec20bdfb0ba34267997a6632ad4cf74d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/04/19/ec20bdfb0ba34267997a6632ad4cf74d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jelly Roll Smashes Pat McAfee Through a Table at WrestleMania]]></title>
-            <link>https://www.tmz.com/2026/04/19/jelly-roll-smashes-pat-mcafee-through-wrestlemania-table/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/jelly-roll-smashes-pat-mcafee-through-wrestlemania-table/</guid>
-            <pubDate>Sun, 19 Apr 2026 12:27:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/04/19/7c4116fca3164ea6be9743f8664fb4cc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/04/19/7c4116fca3164ea6be9743f8664fb4cc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/04/19/7c4116fca3164ea6be9743f8664fb4cc_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
