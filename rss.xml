@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 22:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 23:25:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[D4vd Rental Where Celeste Rivas Spent Time Before Her Death Hits Market]]></title>
+            <link>https://www.tmz.com/2026/04/20/d4vds-rental-home-linked-to-celeste-case-back-on-market/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/d4vds-rental-home-linked-to-celeste-case-back-on-market/</guid>
+            <pubDate>Mon, 20 Apr 2026 23:15:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/04/20/a510f318759540c8b77e655ab661cc34_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/04/20/a510f318759540c8b77e655ab661cc34_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/04/20/a510f318759540c8b77e655ab661cc34_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cops Don’t Believe Madonna Was Targeted for Missing Clothes, Jewelry]]></title>
+            <link>https://www.tmz.com/2026/04/20/cops-dont-believe-madonna-was-targeted-over-missing-clothes/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/cops-dont-believe-madonna-was-targeted-over-missing-clothes/</guid>
+            <pubDate>Mon, 20 Apr 2026 22:57:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/04/20/a1fee8c34da8441a9562cdc789162c8e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/04/20/a1fee8c34da8441a9562cdc789162c8e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/04/20/a1fee8c34da8441a9562cdc789162c8e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[UFC&#039;s Rose Namajunas Shares Gruesome Footage of Silicone Tube Removal From Eye]]></title>
+            <link>https://www.tmz.com/2026/04/20/ufcs-rose-namajunas-eye-tube-removal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/ufcs-rose-namajunas-eye-tube-removal/</guid>
+            <pubDate>Mon, 20 Apr 2026 22:32:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/04/20/45f447519c2a4ffc9cfcc6b911d0aeaf_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/04/20/45f447519c2a4ffc9cfcc6b911d0aeaf_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/04/20/45f447519c2a4ffc9cfcc6b911d0aeaf_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Quinton Aaron Says He Saw Jesus Christ While In Coma]]></title>
+            <link>https://www.tmz.com/2026/04/20/quinton-aaron-saw-jesus-during-coma/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/quinton-aaron-saw-jesus-during-coma/</guid>
+            <pubDate>Mon, 20 Apr 2026 22:30:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/04/16/4808c4b821f34779a9b7d446533e4d7c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/04/16/4808c4b821f34779a9b7d446533e4d7c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/04/16/4808c4b821f34779a9b7d446533e4d7c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jesse James Hangs With Wife Bonnie Rotten at Auto Show After Court Showdown, on Video]]></title>
             <link>https://www.tmz.com/2026/04/20/jesse-james-bonnie-rotten-spotted-at-auto-show/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/13/16by9/2026/04/20/1338d1f521c44874941aa788e4dc9bfa_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/04/20/1338d1f521c44874941aa788e4dc9bfa_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tucker Carlson&#039;s Son Leaving JD Vance&#039;s Team Has Nothing to Do With Trump-Dad Rift]]></title>
-            <link>https://www.tmz.com/2026/04/20/tucker-carlsons-son-leaving-jd-vances-team-unrelated-to-feud-with-trump/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/tucker-carlsons-son-leaving-jd-vances-team-unrelated-to-feud-with-trump/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:50:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/04/20/62a34141869845d1a5154ca2c5a450a5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/20/62a34141869845d1a5154ca2c5a450a5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/20/62a34141869845d1a5154ca2c5a450a5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celeste Rivas&#039; Family Speaks Out After D4vd Charged With Her Murder, Watch Live Stream]]></title>
-            <link>https://www.tmz.com/2026/04/20/celeste-rivas-hernandez-family-at-court-after-d4vd-charged/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/celeste-rivas-hernandez-family-at-court-after-d4vd-charged/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:32:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/04/20/be0064d19a6d49c1862304a319f14ec2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/04/20/be0064d19a6d49c1862304a319f14ec2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/04/20/be0064d19a6d49c1862304a319f14ec2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rep. Lateefah Simon Asked About Members of Congress Partaking in 4/20 Festivities]]></title>
-            <link>https://www.tmz.com/2026/04/20/congresswoman-lateefah-simon-gets-serious-after-marijuana-question/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/congresswoman-lateefah-simon-gets-serious-after-marijuana-question/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:31:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/20/f0c4ba87b83e44b09c76135782137a03_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/20/f0c4ba87b83e44b09c76135782137a03_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/20/f0c4ba87b83e44b09c76135782137a03_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[D4vd Pleads Not Guilty, Demands Immediate Preliminary Hearing]]></title>
-            <link>https://www.tmz.com/2026/04/20/d4vd-pleads-not-guilty-celeste-rivas-murder/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/d4vd-pleads-not-guilty-celeste-rivas-murder/</guid>
-            <pubDate>Mon, 20 Apr 2026 21:30:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c9/16by9/2026/04/20/c92995c8e9024d088d746e0909d6d42e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c9/16by9/2026/04/20/c92995c8e9024d088d746e0909d6d42e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c9/16by9/2026/04/20/c92995c8e9024d088d746e0909d6d42e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
