@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 06:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 08:59:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tennis Pro-Turned-Playboy Model&#039;s Husband Files For Separation]]></title>
+            <link>https://www.tmz.com/2026/04/20/ashley-harkleroad-separation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/ashley-harkleroad-separation/</guid>
+            <pubDate>Mon, 20 Apr 2026 07:30:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/04/17/5ab68052ee4b4eccb4a9b2a0f7992516_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/04/17/5ab68052ee4b4eccb4a9b2a0f7992516_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/04/17/5ab68052ee4b4eccb4a9b2a0f7992516_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Best Sandals & Summer Shoes to Rock in the Warmer Weather]]></title>
+            <link>https://www.tmz.com/2026/04/20/best-sandals-summer-shoes/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/best-sandals-summer-shoes/</guid>
+            <pubDate>Mon, 20 Apr 2026 07:05:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/04/08/1266d110eec2459e8513383e8297b592_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/04/08/1266d110eec2459e8513383e8297b592_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/04/08/1266d110eec2459e8513383e8297b592_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mrs. Ari Gold In &#039;Entourage&#039; &#039;Memba Her?!]]></title>
+            <link>https://www.tmz.com/2026/04/20/ari-gold-entourage-memba-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/ari-gold-entourage-memba-her/</guid>
+            <pubDate>Mon, 20 Apr 2026 07:01:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/04/14/f528bad66edd4a56b39941c625cef179_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/04/14/f528bad66edd4a56b39941c625cef179_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/04/14/f528bad66edd4a56b39941c625cef179_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kim Kardashian, Lewis Hamilton Step Out for Romantic Nobu Date Night]]></title>
             <link>https://www.tmz.com/2026/04/19/kim-kardashian-lewis-hamilton-nobu-date-night/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/19/629b17a10aed49d1bd538209afdbe8f0_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/19/629b17a10aed49d1bd538209afdbe8f0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brock Lesnar Seemingly Retires at WrestleMania 42]]></title>
-            <link>https://www.tmz.com/2026/04/19/brock-lesnar-retires-at-wrestlemania/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/brock-lesnar-retires-at-wrestlemania/</guid>
-            <pubDate>Sun, 19 Apr 2026 23:50:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f1/16by9/2026/04/19/f17170b51d5f4f018fe02f3559707737_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f1/16by9/2026/04/19/f17170b51d5f4f018fe02f3559707737_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2026/04/19/f17170b51d5f4f018fe02f3559707737_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cher Allegedly Discovers She Has a Granddaughter She Didn’t Know About]]></title>
-            <link>https://www.tmz.com/2026/04/19/cher-secret-granddaughter-surprise-reveal/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/cher-secret-granddaughter-surprise-reveal/</guid>
-            <pubDate>Sun, 19 Apr 2026 23:47:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/04/19/e5ac11947f2949df99ea6fe634a234a4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/19/e5ac11947f2949df99ea6fe634a234a4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/19/e5ac11947f2949df99ea6fe634a234a4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Joe Jonas Performs at WrestleMania After Going IG Official with New GF]]></title>
-            <link>https://www.tmz.com/2026/04/19/joe-jonas-performs-at-wrestlemania/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/joe-jonas-performs-at-wrestlemania/</guid>
-            <pubDate>Sun, 19 Apr 2026 23:23:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/04/19/9a0da233c1a847aea6fbdd76d61b9e81_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/04/19/9a0da233c1a847aea6fbdd76d61b9e81_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/04/19/9a0da233c1a847aea6fbdd76d61b9e81_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
