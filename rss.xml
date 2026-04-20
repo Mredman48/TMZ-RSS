@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 08:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 11:06:06 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Melrose Place&#039; Actor Patrick Muldoon Dead at 57 After Heart Attack]]></title>
+            <link>https://www.tmz.com/2026/04/20/patrick-muldoon-dead-at-57-after-sudden-heart-attack/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/patrick-muldoon-dead-at-57-after-sudden-heart-attack/</guid>
+            <pubDate>Mon, 20 Apr 2026 09:57:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/82/16by9/2013/03/12/82b9859d3d7d536d8f497669b57470d2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/82/16by9/2013/03/12/82b9859d3d7d536d8f497669b57470d2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/82/16by9/2013/03/12/82b9859d3d7d536d8f497669b57470d2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tennis Pro-Turned-Playboy Model&#039;s Husband Files For Separation]]></title>
             <link>https://www.tmz.com/2026/04/20/ashley-harkleroad-separation/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/04/19/1f54940d4d014a8abea88ce9fa1f0db3_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/04/19/1f54940d4d014a8abea88ce9fa1f0db3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mindy Cohn Shares Secret Cancer Fight, Says She Beat It Again]]></title>
-            <link>https://www.tmz.com/2026/04/19/mindy-cohn-beats-cancer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/19/mindy-cohn-beats-cancer/</guid>
-            <pubDate>Mon, 20 Apr 2026 00:38:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/04/19/629b17a10aed49d1bd538209afdbe8f0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/19/629b17a10aed49d1bd538209afdbe8f0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/19/629b17a10aed49d1bd538209afdbe8f0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
