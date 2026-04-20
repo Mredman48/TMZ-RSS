@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 16:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 17:40:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Prosecutors Expected To Announce Murder Charges Against D4vd, Watch Live Stream]]></title>
+            <title><![CDATA[Drake Spotted Filming Music Video With Son Adonis, See the Photos]]></title>
+            <link>https://www.tmz.com/2026/04/20/drake-filming-music-video-with-son-adonis/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/drake-filming-music-video-with-son-adonis/</guid>
+            <pubDate>Mon, 20 Apr 2026 17:37:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/04/20/b6bbbaf7c2f448449cb38b0c3354bbcd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/04/20/b6bbbaf7c2f448449cb38b0c3354bbcd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/04/20/b6bbbaf7c2f448449cb38b0c3354bbcd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Yolanda Hadid Re-Lists Pennsylvania Family Farm for $10.8 Million]]></title>
+            <link>https://www.tmz.com/2026/04/20/yolanda-hadid-selling-pennsylvania-mansion-for-millions/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/yolanda-hadid-selling-pennsylvania-mansion-for-millions/</guid>
+            <pubDate>Mon, 20 Apr 2026 17:37:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/04/20/ce24350712b94a3684fa2ac2decea872_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/04/20/ce24350712b94a3684fa2ac2decea872_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/04/20/ce24350712b94a3684fa2ac2decea872_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Christina Applegate Thanks Fans for Concern After Hospitalization]]></title>
+            <link>https://www.tmz.com/2026/04/20/christina-applegate-thanks-fans-for-concern-after-hospitalization/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/christina-applegate-thanks-fans-for-concern-after-hospitalization/</guid>
+            <pubDate>Mon, 20 Apr 2026 17:16:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/04/20/2dff8ef18d55451782d03fde38155eb8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/04/20/2dff8ef18d55451782d03fde38155eb8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/04/20/2dff8ef18d55451782d03fde38155eb8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[D4vd Mugshot Released After Arrest In Celeste Rivas Murder Case]]></title>
+            <link>https://www.tmz.com/2026/04/20/d4vd-mugshot-released-celeste-rivas-murder/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/d4vd-mugshot-released-celeste-rivas-murder/</guid>
+            <pubDate>Mon, 20 Apr 2026 16:59:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/04/20/45dfc50ebbc64485a09b6dd38e3fa772_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/04/20/45dfc50ebbc64485a09b6dd38e3fa772_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/04/20/45dfc50ebbc64485a09b6dd38e3fa772_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Singer D4vd Charged with Murder of Celeste Rivas, Death Penalty On the Table]]></title>
             <link>https://www.tmz.com/2026/04/20/d4vd-prosecutors-expected-to-announce-charges-in-celeste-rivas-hernandez-case/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/20/d4vd-prosecutors-expected-to-announce-charges-in-celeste-rivas-hernandez-case/</guid>
             <pubDate>Mon, 20 Apr 2026 16:42:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/04/20/70783d77b60d49179870b1a6131c6982_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/04/20/70783d77b60d49179870b1a6131c6982_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/ef/16by9/2026/04/20/ef806456f2bf49c3ac19a3f903fc6bda_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ef/16by9/2026/04/20/ef806456f2bf49c3ac19a3f903fc6bda_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/04/20/70783d77b60d49179870b1a6131c6982_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Massive Viral Brawl Breaks Out at Texas Whataburger, on Video]]></title>
-            <link>https://www.tmz.com/2026/04/20/whataburger-fight-video-in-texas-goes-viral/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/whataburger-fight-video-in-texas-goes-viral/</guid>
-            <pubDate>Mon, 20 Apr 2026 16:40:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/04/20/85d8d741098a4b73ad6bc616b74c3db3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/20/85d8d741098a4b73ad6bc616b74c3db3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/20/85d8d741098a4b73ad6bc616b74c3db3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[FBI Director Kash Patel Sues The Atlantic Magazine Over Alcohol Abuse Story]]></title>
-            <link>https://www.tmz.com/2026/04/20/kash-patel-sues-the-atlantic-magazine-for-drinking-report/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/kash-patel-sues-the-atlantic-magazine-for-drinking-report/</guid>
-            <pubDate>Mon, 20 Apr 2026 16:10:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/04/20/6aa2ff5880164a36b8879a02ca530aaf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/04/20/6aa2ff5880164a36b8879a02ca530aaf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/04/20/6aa2ff5880164a36b8879a02ca530aaf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Katy Perry: No Statute of Limitations in Alleged Ruby Rose Sexual Assault, Prosecutors Say]]></title>
-            <link>https://www.tmz.com/2026/04/20/katy-perry-has-no-statute-of-limitations-in-ruby-rose-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/katy-perry-has-no-statute-of-limitations-in-ruby-rose-case/</guid>
-            <pubDate>Mon, 20 Apr 2026 16:01:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/04/20/fe406cb6e8194bedb1d8679732dc08da_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/04/20/fe406cb6e8194bedb1d8679732dc08da_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/04/20/fe406cb6e8194bedb1d8679732dc08da_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Virginia Senator Mark Warner’s Daughter Madison Dies, Family Heartbroken]]></title>
-            <link>https://www.tmz.com/2026/04/20/senator-mark-warner-daughter-dead-after-health-issues/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/senator-mark-warner-daughter-dead-after-health-issues/</guid>
-            <pubDate>Mon, 20 Apr 2026 15:50:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/04/20/9470d2c218414a2c866eb68bdf0ffd4a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/04/20/9470d2c218414a2c866eb68bdf0ffd4a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/04/20/9470d2c218414a2c866eb68bdf0ffd4a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ef/16by9/2026/04/20/ef806456f2bf49c3ac19a3f903fc6bda_xl.png">
             </media:thumbnail>
         </item>
     </channel>
