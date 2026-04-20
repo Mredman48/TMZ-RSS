@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 19:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 20:26:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Madonna Says Her Clothes Went Missing at Coachella, Calls Cops]]></title>
+            <link>https://www.tmz.com/2026/04/20/madonna-clothes-went-missing-at-coachella/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/madonna-clothes-went-missing-at-coachella/</guid>
+            <pubDate>Mon, 20 Apr 2026 19:55:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/04/20/f622ab2d1dc749fd814a6d38c719ee31_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/04/20/f622ab2d1dc749fd814a6d38c719ee31_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/04/20/f622ab2d1dc749fd814a6d38c719ee31_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Justin Fairfax and Wife&#039;s Causes of Death Revealed After Murder-Suicide]]></title>
+            <link>https://www.tmz.com/2026/04/20/justin-fairfax-murder-suicide-cause-of-deaths-released/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/justin-fairfax-murder-suicide-cause-of-deaths-released/</guid>
+            <pubDate>Mon, 20 Apr 2026 19:52:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/04/20/087a9c728ee243958d29036703ee958b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/04/20/087a9c728ee243958d29036703ee958b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/04/20/087a9c728ee243958d29036703ee958b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bomb Threat Chaos Erupts at L.A. Courthouse Amid D4vd Murder Charges]]></title>
             <link>https://www.tmz.com/2026/04/20/bomb-threat-at-los-angeles-courthouse-during-d4vd-case/</link>
@@ -23,10 +45,10 @@
             <link>https://www.tmz.com/2026/04/20/coach-k-grandson-arrested-fatal-dwi-crash/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/20/coach-k-grandson-arrested-fatal-dwi-crash/</guid>
             <pubDate>Mon, 20 Apr 2026 19:19:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/04/20/89d5064111dd405f8d7ebeb28c654b6f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/04/20/89d5064111dd405f8d7ebeb28c654b6f_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/04/20/e1541c861f484539bd52fd519c9e9a85_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/04/20/e1541c861f484539bd52fd519c9e9a85_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/04/20/89d5064111dd405f8d7ebeb28c654b6f_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/04/20/e1541c861f484539bd52fd519c9e9a85_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/04/20/6c13e2d850e64c62b17583eb2513cfa4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/04/20/6c13e2d850e64c62b17583eb2513cfa4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Coachella Gets $44K Fine After Anyma, Justin Bieber Sets Run Overtime]]></title>
-            <link>https://www.tmz.com/2026/04/20/coachella-fined-for-going-past-curfew/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/coachella-fined-for-going-past-curfew/</guid>
-            <pubDate>Mon, 20 Apr 2026 18:48:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/04/20/737fe569408d4be2853a98c7c39aa0b6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/04/20/737fe569408d4be2853a98c7c39aa0b6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/04/20/737fe569408d4be2853a98c7c39aa0b6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[D4vd&#039;s Family Speaks Out in Support After Murder Charges in Celeste Rivas Case]]></title>
-            <link>https://www.tmz.com/2026/04/20/d4vds-family-speaks-out-after-murder-charges-in-celeste-rivas-hernandez-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/20/d4vds-family-speaks-out-after-murder-charges-in-celeste-rivas-hernandez-case/</guid>
-            <pubDate>Mon, 20 Apr 2026 18:48:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/04/20/93509fdac01b46918553e513a7fdb07a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/04/20/93509fdac01b46918553e513a7fdb07a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/04/20/93509fdac01b46918553e513a7fdb07a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
