@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 19:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 21:27:55 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Rep. Jack Bergman Passes the Buck on Funding DHS, TMZ DC Challenges Him]]></title>
-            <link>https://www.tmz.com/2026/04/21/jack-bergman-says-funding-dhs-not-his-job/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/jack-bergman-says-funding-dhs-not-his-job/</guid>
-            <pubDate>Tue, 21 Apr 2026 19:30:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/04/21/9a3c72f894514113a0c7eb4c9551769c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/04/21/9a3c72f894514113a0c7eb4c9551769c_xl.png" medium="image">
+            <title><![CDATA[Donald Trump Jr. & Bettina Anderson Weighing Elopement vs. Intimate Ceremony]]></title>
+            <link>https://www.tmz.com/2026/04/21/donald-trump-jr-bettina-anderson-deciding-wedding-ceremony/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/donald-trump-jr-bettina-anderson-deciding-wedding-ceremony/</guid>
+            <pubDate>Tue, 21 Apr 2026 21:18:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/04/21/34ae4966528c458db25172c88b2eb935_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/21/34ae4966528c458db25172c88b2eb935_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/04/21/9a3c72f894514113a0c7eb4c9551769c_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/21/34ae4966528c458db25172c88b2eb935_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Call of Duty&#039; Creator Vince Zampella&#039;s Cause of Death Revealed]]></title>
-            <link>https://www.tmz.com/2026/04/21/call-of-duty-creator-vince-zampella-cause-of-death-revealed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/call-of-duty-creator-vince-zampella-cause-of-death-revealed/</guid>
-            <pubDate>Tue, 21 Apr 2026 19:24:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4f/16by9/2026/04/21/4f076e52a9ab439f88dd2e7837669ddc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4f/16by9/2026/04/21/4f076e52a9ab439f88dd2e7837669ddc_xl.jpg" medium="image">
+            <title><![CDATA[Woman Accused of Shooting at Rihanna’s Home Loses Custody of Child]]></title>
+            <link>https://www.tmz.com/2026/04/21/ivanna-ortiz-the-rihanna-home-shooting-suspect-loses-child-custody/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/ivanna-ortiz-the-rihanna-home-shooting-suspect-loses-child-custody/</guid>
+            <pubDate>Tue, 21 Apr 2026 21:12:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/04/21/c79be67555c44ded987955100c982a11_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/04/21/c79be67555c44ded987955100c982a11_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4f/16by9/2026/04/21/4f076e52a9ab439f88dd2e7837669ddc_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/04/21/c79be67555c44ded987955100c982a11_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jack Quaid Marries &#039;The Boys&#039; Costar Claudia Doumit in Australia]]></title>
-            <link>https://www.tmz.com/2026/04/21/jack-quaid-reportedly-marries-claudia-doumit-in-australia/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/jack-quaid-reportedly-marries-claudia-doumit-in-australia/</guid>
-            <pubDate>Tue, 21 Apr 2026 19:10:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/21/d4ecc1fa61144ed4a4297293140feaa2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/21/d4ecc1fa61144ed4a4297293140feaa2_xl.jpg" medium="image">
+            <title><![CDATA[&#039;The Great Christmas Light Fight&#039; Not Picked Up at ABC, Source Says]]></title>
+            <link>https://www.tmz.com/2026/04/21/the-great-christmas-light-fight-not-returning-this-season/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/the-great-christmas-light-fight-not-returning-this-season/</guid>
+            <pubDate>Tue, 21 Apr 2026 21:01:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/21/f0d435bdba6f40afa7309bd381f70ed5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/21/f0d435bdba6f40afa7309bd381f70ed5_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/21/d4ecc1fa61144ed4a4297293140feaa2_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/21/f0d435bdba6f40afa7309bd381f70ed5_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Colorado Political Candidate Arrested for Felony Child Neglect in Key West]]></title>
-            <link>https://www.tmz.com/2026/04/21/frederick-alfred-jr-arrested-in-florida-for-child-neglect/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/frederick-alfred-jr-arrested-in-florida-for-child-neglect/</guid>
-            <pubDate>Tue, 21 Apr 2026 19:08:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/81/16by9/2026/04/21/81a509b5148647a48115cee87e697473_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/81/16by9/2026/04/21/81a509b5148647a48115cee87e697473_xl.jpg" medium="image">
+            <title><![CDATA[Rep. Chris Deluzio Scoffs at Trump&#039;s Claim He Would&#039;ve Quickly Won Vietnam War]]></title>
+            <link>https://www.tmz.com/2026/04/21/rep-chris-deluzio-doubts-trump-vietnam-war-claim/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/rep-chris-deluzio-doubts-trump-vietnam-war-claim/</guid>
+            <pubDate>Tue, 21 Apr 2026 20:46:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/04/21/ea339c9e013e47158f2dcd23d1d27b8c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/04/21/ea339c9e013e47158f2dcd23d1d27b8c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/81/16by9/2026/04/21/81a509b5148647a48115cee87e697473_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/04/21/ea339c9e013e47158f2dcd23d1d27b8c_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[OnlyFans Skylar Mae Says Sydney Sweeney&#039;s &#039;Euphoria&#039; Plot Is Good for Business]]></title>
-            <link>https://www.tmz.com/2026/04/21/skylar-mae-says-sydney-sweeney-onlyfans-euphoria-plot-good-for-business/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/skylar-mae-says-sydney-sweeney-onlyfans-euphoria-plot-good-for-business/</guid>
-            <pubDate>Tue, 21 Apr 2026 19:00:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/04/20/5720ba1c8aa44f40b4bcf34df64555c4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/04/20/5720ba1c8aa44f40b4bcf34df64555c4_xl.png" medium="image">
+            <title><![CDATA[TLC &#039;Unexpected&#039; Star&#039;s Mom Falen Vaughn Arrested in Arkansas]]></title>
+            <link>https://www.tmz.com/2026/04/21/falen-vaughn-from-unexpected-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/falen-vaughn-from-unexpected-arrested/</guid>
+            <pubDate>Tue, 21 Apr 2026 20:30:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cd/16by9/2026/04/21/cd2d47d382744b3a8fa46544fc3687c7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cd/16by9/2026/04/21/cd2d47d382744b3a8fa46544fc3687c7_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/04/20/5720ba1c8aa44f40b4bcf34df64555c4_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/cd/16by9/2026/04/21/cd2d47d382744b3a8fa46544fc3687c7_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
