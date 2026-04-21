@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 21:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 22:24:18 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Donald Trump Jr. & Bettina Anderson Weighing Elopement vs. Intimate Ceremony]]></title>
-            <link>https://www.tmz.com/2026/04/21/donald-trump-jr-bettina-anderson-deciding-wedding-ceremony/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/donald-trump-jr-bettina-anderson-deciding-wedding-ceremony/</guid>
-            <pubDate>Tue, 21 Apr 2026 21:18:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/04/21/34ae4966528c458db25172c88b2eb935_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/21/34ae4966528c458db25172c88b2eb935_xl.jpg" medium="image">
+            <title><![CDATA[Mark Geragos Calls BS on LAPD, Prosecutors Being in Lockstep in D4vd Murder Case]]></title>
+            <link>https://www.tmz.com/2026/04/21/mark-geragos-calls-bs-lapd-prosecutors-lockstep-in-d4vd-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/mark-geragos-calls-bs-lapd-prosecutors-lockstep-in-d4vd-arrest/</guid>
+            <pubDate>Tue, 21 Apr 2026 22:15:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/04/21/2175166e9fac41148801f3a51afeba41_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/04/21/2175166e9fac41148801f3a51afeba41_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/21/34ae4966528c458db25172c88b2eb935_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/04/21/2175166e9fac41148801f3a51afeba41_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Woman Accused of Shooting at Rihanna’s Home Loses Custody of Child]]></title>
-            <link>https://www.tmz.com/2026/04/21/ivanna-ortiz-the-rihanna-home-shooting-suspect-loses-child-custody/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/ivanna-ortiz-the-rihanna-home-shooting-suspect-loses-child-custody/</guid>
-            <pubDate>Tue, 21 Apr 2026 21:12:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/04/21/c79be67555c44ded987955100c982a11_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/04/21/c79be67555c44ded987955100c982a11_xl.jpg" medium="image">
+            <title><![CDATA[Tucker Carlson&#039;s &#039;Sorry for Backing Trump&#039; Statement Triggers Congressmen]]></title>
+            <link>https://www.tmz.com/2026/04/21/congressmen-respond-to-tucker-carlson-trump-apology/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/congressmen-respond-to-tucker-carlson-trump-apology/</guid>
+            <pubDate>Tue, 21 Apr 2026 22:11:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6b/16by9/2026/04/21/6b3e64b90d724a8ca4c5f61d0959962a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6b/16by9/2026/04/21/6b3e64b90d724a8ca4c5f61d0959962a_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/04/21/c79be67555c44ded987955100c982a11_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/6b/16by9/2026/04/21/6b3e64b90d724a8ca4c5f61d0959962a_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;The Great Christmas Light Fight&#039; Not Picked Up at ABC, Source Says]]></title>
-            <link>https://www.tmz.com/2026/04/21/the-great-christmas-light-fight-not-returning-this-season/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/the-great-christmas-light-fight-not-returning-this-season/</guid>
-            <pubDate>Tue, 21 Apr 2026 21:01:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/21/f0d435bdba6f40afa7309bd381f70ed5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/21/f0d435bdba6f40afa7309bd381f70ed5_xl.jpg" medium="image">
+            <title><![CDATA[&#039;BodyPartz&#039; Rapper Luci4 Cause of Death Revealed]]></title>
+            <link>https://www.tmz.com/2026/04/21/luci4-cause-of-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/luci4-cause-of-death/</guid>
+            <pubDate>Tue, 21 Apr 2026 22:11:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/04/21/279eb6a15c534a97b21d9a176c2960d7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/04/21/279eb6a15c534a97b21d9a176c2960d7_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/21/f0d435bdba6f40afa7309bd381f70ed5_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/04/21/279eb6a15c534a97b21d9a176c2960d7_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rep. Chris Deluzio Scoffs at Trump&#039;s Claim He Would&#039;ve Quickly Won Vietnam War]]></title>
-            <link>https://www.tmz.com/2026/04/21/rep-chris-deluzio-doubts-trump-vietnam-war-claim/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/rep-chris-deluzio-doubts-trump-vietnam-war-claim/</guid>
-            <pubDate>Tue, 21 Apr 2026 20:46:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/04/21/ea339c9e013e47158f2dcd23d1d27b8c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/04/21/ea339c9e013e47158f2dcd23d1d27b8c_xl.png" medium="image">
+            <title><![CDATA[Rep. James Comer Says Missing Scientists Not Alien-Related, Still a Security Risk]]></title>
+            <link>https://www.tmz.com/2026/04/21/james-comer-thinks-missing-scientists-not-due-to-aliens/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/james-comer-thinks-missing-scientists-not-due-to-aliens/</guid>
+            <pubDate>Tue, 21 Apr 2026 22:09:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/04/21/f72375a18bca4e9890e7c8ad954baa38_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/04/21/f72375a18bca4e9890e7c8ad954baa38_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/04/21/ea339c9e013e47158f2dcd23d1d27b8c_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/04/21/f72375a18bca4e9890e7c8ad954baa38_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[TLC &#039;Unexpected&#039; Star&#039;s Mom Falen Vaughn Arrested in Arkansas]]></title>
-            <link>https://www.tmz.com/2026/04/21/falen-vaughn-from-unexpected-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/falen-vaughn-from-unexpected-arrested/</guid>
-            <pubDate>Tue, 21 Apr 2026 20:30:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cd/16by9/2026/04/21/cd2d47d382744b3a8fa46544fc3687c7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cd/16by9/2026/04/21/cd2d47d382744b3a8fa46544fc3687c7_xl.jpg" medium="image">
+            <title><![CDATA[Anna Kepner&#039;s Stepbrother Enters Not Guilty Plea in Cruise Ship Murder Case]]></title>
+            <link>https://www.tmz.com/2026/04/21/anna-kepner-stepbrother-pleads-not-guilty-cruise-murder/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/anna-kepner-stepbrother-pleads-not-guilty-cruise-murder/</guid>
+            <pubDate>Tue, 21 Apr 2026 21:46:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/04/21/1c88878c83b248e59b735d56aa6a0eeb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/04/21/1c88878c83b248e59b735d56aa6a0eeb_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cd/16by9/2026/04/21/cd2d47d382744b3a8fa46544fc3687c7_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/04/21/1c88878c83b248e59b735d56aa6a0eeb_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
