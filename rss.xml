@@ -4,18 +4,40 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 11:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 12:45:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Alan Osmond, Eldest Brother of The Osmond Brothers, Dead at 76]]></title>
+            <link>https://www.tmz.com/2026/04/21/alan-osmond-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/alan-osmond-dead/</guid>
+            <pubDate>Tue, 21 Apr 2026 12:02:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/04/21/26ae7771c7e14a34a52354700c060dea_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/04/21/26ae7771c7e14a34a52354700c060dea_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/04/21/26ae7771c7e14a34a52354700c060dea_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Eric Swalwell Wasn&#039;t at DNC Event Where Accuser Said He Made Her &#039;Uncomfortable&#039;]]></title>
+            <link>https://www.tmz.com/2026/04/21/eric-swalwell-photos-show-absence-from-dnc-event-despite-accuser-claim/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/eric-swalwell-photos-show-absence-from-dnc-event-despite-accuser-claim/</guid>
+            <pubDate>Tue, 21 Apr 2026 12:00:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/04/20/e5e49730397a42509dfb25a05934673d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/20/e5e49730397a42509dfb25a05934673d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/20/e5e49730397a42509dfb25a05934673d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[D4vd Transferred To L.A. County Men&#039;s Central Jail, Placed In Segregation]]></title>
             <link>https://www.tmz.com/2026/04/21/d4vd-transferred-to-la-county-mens-central-jail-placed-segregation/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/21/d4vd-transferred-to-la-county-mens-central-jail-placed-segregation/</guid>
             <pubDate>Tue, 21 Apr 2026 10:50:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2025/10/09/d65dee4853e34a9c9f281c3d2eed110b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2025/10/09/d65dee4853e34a9c9f281c3d2eed110b_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/04/21/40fdca8215234e04850ccda119784961_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/04/21/40fdca8215234e04850ccda119784961_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2025/10/09/d65dee4853e34a9c9f281c3d2eed110b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/04/21/40fdca8215234e04850ccda119784961_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/21/f3dfaf3f19104e6db19963708734ef4c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/21/f3dfaf3f19104e6db19963708734ef4c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nepo Babe -- Guess the Sexy Star in This Breast-Taking Selfie]]></title>
-            <link>https://www.tmz.com/2026/04/21/nepo-babe-guess-sexy-star-selfie/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/nepo-babe-guess-sexy-star-selfie/</guid>
-            <pubDate>Tue, 21 Apr 2026 07:45:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/04/20/aa377b87df4f4fc4831e95dbb01e44d9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/04/20/aa377b87df4f4fc4831e95dbb01e44d9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/04/20/aa377b87df4f4fc4831e95dbb01e44d9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[CM Punk Fan Not Going To Cops or Suing Over Phone Smack, Just Wants Apology]]></title>
-            <link>https://www.tmz.com/2026/04/21/cm-punk-fan-not-suing-for-phone-slap-just-wants-apology/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/21/cm-punk-fan-not-suing-for-phone-slap-just-wants-apology/</guid>
-            <pubDate>Tue, 21 Apr 2026 07:30:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/04/20/2209134bc6ad413a8e71efd89da2802c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/20/2209134bc6ad413a8e71efd89da2802c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/20/2209134bc6ad413a8e71efd89da2802c_xl.png">
             </media:thumbnail>
         </item>
     </channel>
