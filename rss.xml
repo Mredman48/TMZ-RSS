@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 22:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 23:30:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Don&#039;t Let Palisades Wildfire Suspect Point Finger at Firefighters, Prosecutors Ask Judge]]></title>
+            <link>https://www.tmz.com/2026/04/22/alleged-arsonist-should-not-attack-fire-dept-response-according-to-prosecutors/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/alleged-arsonist-should-not-attack-fire-dept-response-according-to-prosecutors/</guid>
+            <pubDate>Wed, 22 Apr 2026 23:02:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/04/22/9e4770d617ce4fe884f5740a38bef3b3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/04/22/9e4770d617ce4fe884f5740a38bef3b3_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/04/22/9e4770d617ce4fe884f5740a38bef3b3_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sexy Stars Going Green (Bikinis) ... Happy Earth Day!]]></title>
+            <link>https://www.tmz.com/2026/04/22/celebrities-in-bikinis-celebrating-earth-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/celebrities-in-bikinis-celebrating-earth-day/</guid>
+            <pubDate>Wed, 22 Apr 2026 23:00:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/04/22/64e2796553154eb6bd68a9561f90392f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/04/22/64e2796553154eb6bd68a9561f90392f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/04/22/64e2796553154eb6bd68a9561f90392f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[D4vd Transferred to Same L.A. Jail Where Nick Reiner Is Held]]></title>
+            <link>https://www.tmz.com/2026/04/22/d4vd-in-same-jail-as-nick-reiner/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/d4vd-in-same-jail-as-nick-reiner/</guid>
+            <pubDate>Wed, 22 Apr 2026 22:31:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/04/22/86923e1ce8714fc584f0965572bd3292_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/22/86923e1ce8714fc584f0965572bd3292_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/22/86923e1ce8714fc584f0965572bd3292_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[TLC &#039;Unexpected&#039; Star&#039;s Mom Falen Vaughn Will Fight Arrest Charges]]></title>
             <link>https://www.tmz.com/2026/04/22/falen-vaughn-to-fight-arrest-charges/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/76/16by9/2026/04/22/764d2ecc4d364a3a83e51527a5b88df2_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/04/22/764d2ecc4d364a3a83e51527a5b88df2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Storage Wars&#039; Darrell Sheets Was Cyberbullied Before Suicide, Costar Says]]></title>
-            <link>https://www.tmz.com/2026/04/22/rene-nezhoda-says-darrell-sheets-was-cyberbullied/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/rene-nezhoda-says-darrell-sheets-was-cyberbullied/</guid>
-            <pubDate>Wed, 22 Apr 2026 21:42:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/04/22/46d99d74def14a2c8191b2e6ebe9f7ce_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/04/22/46d99d74def14a2c8191b2e6ebe9f7ce_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/04/22/46d99d74def14a2c8191b2e6ebe9f7ce_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brian McKnight Sues Ex-Wife and Son Over Allegations About His Late Son]]></title>
-            <link>https://www.tmz.com/2026/04/22/brian-mcknight-sues-over-false-narrative-about-dying-son/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/brian-mcknight-sues-over-false-narrative-about-dying-son/</guid>
-            <pubDate>Wed, 22 Apr 2026 21:26:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/04/22/1a6c9558b0c5454c9f56432f72c26885_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/04/22/1a6c9558b0c5454c9f56432f72c26885_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/04/22/1a6c9558b0c5454c9f56432f72c26885_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[MrBeast&#039;s Company Sued for Wrongful Termination by Former Staffer]]></title>
-            <link>https://www.tmz.com/2026/04/22/mrbeasts-company-sued-for-wrongful-termination/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/mrbeasts-company-sued-for-wrongful-termination/</guid>
-            <pubDate>Wed, 22 Apr 2026 21:12:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/80/16by9/2026/04/22/801e6b32de53470b9e218f8fcfb68a8a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/80/16by9/2026/04/22/801e6b32de53470b9e218f8fcfb68a8a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/80/16by9/2026/04/22/801e6b32de53470b9e218f8fcfb68a8a_xl.png">
             </media:thumbnail>
         </item>
     </channel>
