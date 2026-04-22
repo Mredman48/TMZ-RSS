@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 08:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 10:04:28 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Former Kidnap Victim Elizabeth Smart is Now a Competitive Bodybuilder]]></title>
+            <link>https://www.tmz.com/2026/04/22/elizabeth-smart-bodybuilder/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/elizabeth-smart-bodybuilder/</guid>
+            <pubDate>Wed, 22 Apr 2026 09:10:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2025/05/09/67853d316ed74d94b1f78505d7597cde_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2025/05/09/67853d316ed74d94b1f78505d7597cde_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2025/05/09/67853d316ed74d94b1f78505d7597cde_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Blake Lively to Judge: Jury Needs to Hear Comments About My Weight]]></title>
+            <link>https://www.tmz.com/2026/04/22/blake-lively-wants-jury-to-hear-remarks-about-her-weight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/blake-lively-wants-jury-to-hear-remarks-about-her-weight/</guid>
+            <pubDate>Wed, 22 Apr 2026 09:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/04/21/faa443de317c4fabb453c4bdb6bd4b47_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/04/21/faa443de317c4fabb453c4bdb6bd4b47_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/04/21/faa443de317c4fabb453c4bdb6bd4b47_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Rapper Xzibit Reveals Monthly Income and $1 Million Tax Debt]]></title>
             <link>https://www.tmz.com/2026/04/22/xzibit-reveals-monthly-income-and-tax-debt/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/04/21/e9d0268a00594fbaa6b60bcd12933405_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/04/21/e9d0268a00594fbaa6b60bcd12933405_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Action Hero Watches You Can Buy Now on Amazon]]></title>
-            <link>https://www.tmz.com/2026/04/22/watches-worn-by-action-heroes/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/watches-worn-by-action-heroes/</guid>
-            <pubDate>Wed, 22 Apr 2026 07:05:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2025/10/29/75c90bca016e432c8d47b7c5bb54dff4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2025/10/29/75c90bca016e432c8d47b7c5bb54dff4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2025/10/29/75c90bca016e432c8d47b7c5bb54dff4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Henry In &#039;What I like About You&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/04/22/henry-in-what-i-like-about-you-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/henry-in-what-i-like-about-you-memba-him/</guid>
-            <pubDate>Wed, 22 Apr 2026 07:01:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/04/16/9a99adf6ece44bcf8d4c03fa8410485d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/04/16/9a99adf6ece44bcf8d4c03fa8410485d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/04/16/9a99adf6ece44bcf8d4c03fa8410485d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
