@@ -4,11 +4,44 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 21:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 22:28:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Brian McKnight Sues Over Allegations He Refused to Tell Dying Son He Loved Him]]></title>
+            <title><![CDATA[TLC &#039;Unexpected&#039; Star&#039;s Mom Falen Vaughn Will Fight Arrest Charges]]></title>
+            <link>https://www.tmz.com/2026/04/22/falen-vaughn-to-fight-arrest-charges/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/falen-vaughn-to-fight-arrest-charges/</guid>
+            <pubDate>Wed, 22 Apr 2026 22:03:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/04/22/eb54f83fda2d45dc8573ce4b685e4508_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/04/22/eb54f83fda2d45dc8573ce4b685e4508_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/04/22/eb54f83fda2d45dc8573ce4b685e4508_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[David Del Rio Spotted in Paris With His Wife After &#039;Matlock&#039; Firing]]></title>
+            <link>https://www.tmz.com/2026/04/22/david-del-rio-in-paris-with-wife/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/david-del-rio-in-paris-with-wife/</guid>
+            <pubDate>Wed, 22 Apr 2026 22:00:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/04/22/764d2ecc4d364a3a83e51527a5b88df2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/04/22/764d2ecc4d364a3a83e51527a5b88df2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/04/22/764d2ecc4d364a3a83e51527a5b88df2_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Storage Wars&#039; Darrell Sheets Was Cyberbullied Before Suicide, Costar Says]]></title>
+            <link>https://www.tmz.com/2026/04/22/rene-nezhoda-says-darrell-sheets-was-cyberbullied/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/rene-nezhoda-says-darrell-sheets-was-cyberbullied/</guid>
+            <pubDate>Wed, 22 Apr 2026 21:42:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/04/22/46d99d74def14a2c8191b2e6ebe9f7ce_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/04/22/46d99d74def14a2c8191b2e6ebe9f7ce_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/04/22/46d99d74def14a2c8191b2e6ebe9f7ce_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brian McKnight Sues Ex-Wife and Son Over Allegations About His Late Son]]></title>
             <link>https://www.tmz.com/2026/04/22/brian-mcknight-sues-over-false-narrative-about-dying-son/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/22/brian-mcknight-sues-over-false-narrative-about-dying-son/</guid>
             <pubDate>Wed, 22 Apr 2026 21:26:55 GMT</pubDate>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/80/16by9/2026/04/22/801e6b32de53470b9e218f8fcfb68a8a_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/80/16by9/2026/04/22/801e6b32de53470b9e218f8fcfb68a8a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul Never Booked &#039;DWTS,&#039; Confusion Is From &#039;Bachelorette&#039; Date]]></title>
-            <link>https://www.tmz.com/2026/04/22/taylor-frankie-paul-was-never-going-on-dancing-with-the-stars/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/taylor-frankie-paul-was-never-going-on-dancing-with-the-stars/</guid>
-            <pubDate>Wed, 22 Apr 2026 20:56:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/04/22/91deb21d7b3a431a9439eaa71d420dce_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/04/22/91deb21d7b3a431a9439eaa71d420dce_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/04/22/91deb21d7b3a431a9439eaa71d420dce_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Paul Pierce Admits He&#039;s the Father of 2-Month-Old Child, Demands Joint Custody]]></title>
-            <link>https://www.tmz.com/2026/04/22/paul-pierce-admits-to-fathering-princess-santiagos-baby/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/paul-pierce-admits-to-fathering-princess-santiagos-baby/</guid>
-            <pubDate>Wed, 22 Apr 2026 20:54:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/04/13/6041b9e9426d4802905158665123eee4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/04/13/6041b9e9426d4802905158665123eee4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/04/13/6041b9e9426d4802905158665123eee4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Russell Brand Says He Slept With a 16-Year-Old When He Was 30]]></title>
-            <link>https://www.tmz.com/2026/04/22/russell-brand-says-he-slept-with-teenager-as-an-adult/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/russell-brand-says-he-slept-with-teenager-as-an-adult/</guid>
-            <pubDate>Wed, 22 Apr 2026 20:37:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/04/22/602887aa2b8445b39f9bf8033409a35b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/04/22/602887aa2b8445b39f9bf8033409a35b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/04/22/602887aa2b8445b39f9bf8033409a35b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
