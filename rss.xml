@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 10:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 11:42:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Hulk Hogan Took Lethal Amounts of Fentanyl Daily After Divorce from Linda]]></title>
+            <link>https://www.tmz.com/2026/04/22/hulk-hogan-took-lethal-amounts-fentanyl-daily-after-divorce-from-linda/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/hulk-hogan-took-lethal-amounts-fentanyl-daily-after-divorce-from-linda/</guid>
+            <pubDate>Wed, 22 Apr 2026 10:57:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e6/16by9/2025/09/10/e6caa509df024a57ba095989d66ca80c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e6/16by9/2025/09/10/e6caa509df024a57ba095989d66ca80c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e6/16by9/2025/09/10/e6caa509df024a57ba095989d66ca80c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kendall Jenner Reportedly Spending Time With Jacob Elordi Amid Romance Rumors]]></title>
+            <link>https://www.tmz.com/2026/04/22/kendall-jenner-jacob-elordi-romance/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/kendall-jenner-jacob-elordi-romance/</guid>
+            <pubDate>Wed, 22 Apr 2026 10:20:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/01/27/466c0b1dcbbd478cbbc6f4a81eb000e8_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/01/27/466c0b1dcbbd478cbbc6f4a81eb000e8_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/01/27/466c0b1dcbbd478cbbc6f4a81eb000e8_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Former Kidnap Victim Elizabeth Smart is Now a Competitive Bodybuilder]]></title>
             <link>https://www.tmz.com/2026/04/22/elizabeth-smart-bodybuilder/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/04/21/fb552496a7eb456c991d2fa0335e3ac5_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/04/21/fb552496a7eb456c991d2fa0335e3ac5_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tammy Hembrow&#039;s Bootyful Hot Shots ... Happy 32nd Birthday!]]></title>
-            <link>https://www.tmz.com/2026/04/22/tammy-hembrow-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/tammy-hembrow-birthday-hot-shots/</guid>
-            <pubDate>Wed, 22 Apr 2026 07:45:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fc/16by9/2026/04/21/fcd7abbe2ee34ab3a4adbfb5e8077cad_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/04/21/fcd7abbe2ee34ab3a4adbfb5e8077cad_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/04/21/fcd7abbe2ee34ab3a4adbfb5e8077cad_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Iman Shumpert Says LeBron Playing Final Season With Cavs Would Be &#039;Coolest Story&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/22/iman-shumpert-says-lebron-james-final-season-with-cleveland-would-be-the-coolest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/22/iman-shumpert-says-lebron-james-final-season-with-cleveland-would-be-the-coolest/</guid>
-            <pubDate>Wed, 22 Apr 2026 07:30:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/04/21/e9d0268a00594fbaa6b60bcd12933405_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/04/21/e9d0268a00594fbaa6b60bcd12933405_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/04/21/e9d0268a00594fbaa6b60bcd12933405_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
