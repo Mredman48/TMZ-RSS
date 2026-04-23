@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 08:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 10:08:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Superman&#039; Production Upsets Atlanta Prisoners Over Alleged Security Restrictions]]></title>
+            <link>https://www.tmz.com/2026/04/23/superman-production-angers-atlanta-prisoners/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/superman-production-angers-atlanta-prisoners/</guid>
+            <pubDate>Thu, 23 Apr 2026 09:00:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/04/20/09b6deeea64441f198d330e1de0dda87_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/04/20/09b6deeea64441f198d330e1de0dda87_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/04/20/09b6deeea64441f198d330e1de0dda87_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Patriots Coach Mike Vrabel Seeking Counseling Amid Tawdry Scandal]]></title>
+            <link>https://www.tmz.com/2026/04/23/patriots-coach-mike-vrabel-diana-russini/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/patriots-coach-mike-vrabel-diana-russini/</guid>
+            <pubDate>Thu, 23 Apr 2026 08:55:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/04/22/1ef7e289aae2451cbc0c0e353553054b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/04/22/1ef7e289aae2451cbc0c0e353553054b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/04/22/1ef7e289aae2451cbc0c0e353553054b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Viral Creepy Doorbell Guy Officially Charged, Bail Increases to $250K]]></title>
             <link>https://www.tmz.com/2026/04/23/viral-doorbell-suspect-jason-nichols-charged/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/bc/16by9/2025/04/22/bc56ba211a4c4e7db578fd2623c65740_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2025/04/22/bc56ba211a4c4e7db578fd2623c65740_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Top NFL Prospect Arvell Reese Says He&#039;s the Best Defensive Player in Draft]]></title>
-            <link>https://www.tmz.com/2026/04/23/arvell-reese-calls-himself-best-defensive-player-in-draft/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/arvell-reese-calls-himself-best-defensive-player-in-draft/</guid>
-            <pubDate>Thu, 23 Apr 2026 07:30:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/04/22/69a8a60acd394f4ba9c3fc8c5c00adbe_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/04/22/69a8a60acd394f4ba9c3fc8c5c00adbe_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/04/22/69a8a60acd394f4ba9c3fc8c5c00adbe_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[AI Smart Glasses: Deals on Amazon]]></title>
-            <link>https://www.tmz.com/2026/04/23/ai-smart-glasses-available-on-amazon/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/ai-smart-glasses-available-on-amazon/</guid>
-            <pubDate>Thu, 23 Apr 2026 07:05:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/04/15/db29a815c9de46b48fbac26a5a90e597_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/04/15/db29a815c9de46b48fbac26a5a90e597_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/04/15/db29a815c9de46b48fbac26a5a90e597_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
