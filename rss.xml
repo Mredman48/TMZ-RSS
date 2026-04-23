@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 21:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 22:25:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sandra Lee&#039;s Ex Ben Youcef Says &#039;Beautiful Chapter&#039; Over After Engagement Ends]]></title>
+            <link>https://www.tmz.com/2026/04/23/ben-youcef-talks-about-sandra-lee-engagement-ending/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/ben-youcef-talks-about-sandra-lee-engagement-ending/</guid>
+            <pubDate>Thu, 23 Apr 2026 21:48:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/04/22/3c1c4b84f23e4d039183e58ff488682b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/04/22/3c1c4b84f23e4d039183e58ff488682b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/04/22/3c1c4b84f23e4d039183e58ff488682b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Beyoncé Choreographer Walks Back Claim She Was Kicked Off Cruise Ship Stage]]></title>
+            <link>https://www.tmz.com/2026/04/23/beyonce-choreographer-ashley-everett-sorry-for-cruise-ship-misunderstanding/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/beyonce-choreographer-ashley-everett-sorry-for-cruise-ship-misunderstanding/</guid>
+            <pubDate>Thu, 23 Apr 2026 21:44:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/04/23/d19a5bcc86054bf1bcdc6e7862b96d8f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/04/23/d19a5bcc86054bf1bcdc6e7862b96d8f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/04/23/d19a5bcc86054bf1bcdc6e7862b96d8f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Sherrone Moore&#039;s Former Mistress Says He Had &#039;Complete Control&#039; During Affair]]></title>
             <link>https://www.tmz.com/2026/04/23/sherrone-moore-former-mistress-paige-shiver-gma-interview/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/04/23/0e4877321fa84902a8328ecbd1411816_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/04/23/0e4877321fa84902a8328ecbd1411816_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[10 People Injured in Louisiana Mall Shooting, 2 in Critical Condition]]></title>
-            <link>https://www.tmz.com/2026/04/23/multiple-people-injured-in-baton-rouge-louisiana-mall-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/multiple-people-injured-in-baton-rouge-louisiana-mall-shooting/</guid>
-            <pubDate>Thu, 23 Apr 2026 20:44:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/04/23/35a8ba283f8c4bd3b1025e5f03c68ecd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/04/23/35a8ba283f8c4bd3b1025e5f03c68ecd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/04/23/35a8ba283f8c4bd3b1025e5f03c68ecd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mike Vrabel, Dianna Russini All Smiles At Casino Weeks After Titans Firing In 2024]]></title>
-            <link>https://www.tmz.com/2026/04/23/mike-vrabel-dianna-russini-smile-at-mississippi-casino-after-titans-firing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/mike-vrabel-dianna-russini-smile-at-mississippi-casino-after-titans-firing/</guid>
-            <pubDate>Thu, 23 Apr 2026 20:40:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/04/23/1cc1c1d91c204f2c9439ff72a20eb2aa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/04/23/1cc1c1d91c204f2c9439ff72a20eb2aa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/04/23/1cc1c1d91c204f2c9439ff72a20eb2aa_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
