@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 16:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 17:56:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/04/23/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/watch-tmz-live-today/</guid>
+            <pubDate>Thu, 23 Apr 2026 17:38:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/23/d47d03d5dc574f8388c88495eb56149f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/23/d47d03d5dc574f8388c88495eb56149f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/23/d47d03d5dc574f8388c88495eb56149f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Andrzej Chyra Portrays Pope John Paul II in Assassination Attempt on Film Shoot]]></title>
+            <link>https://www.tmz.com/2026/04/23/pope-john-paul-ii-assassination-attempt-recreated-in-new-film/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/pope-john-paul-ii-assassination-attempt-recreated-in-new-film/</guid>
+            <pubDate>Thu, 23 Apr 2026 17:33:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/92/16by9/2026/04/23/926137a81b864385bc99849be630609b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/92/16by9/2026/04/23/926137a81b864385bc99849be630609b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/92/16by9/2026/04/23/926137a81b864385bc99849be630609b_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna Shows Off Her Butt in Tiny Floral Lingerie]]></title>
+            <link>https://www.tmz.com/2026/04/23/rihanna-showcases-lingerie/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/rihanna-showcases-lingerie/</guid>
+            <pubDate>Thu, 23 Apr 2026 16:59:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/04/23/dc2e04abe68849799884411ff713f283_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/04/23/dc2e04abe68849799884411ff713f283_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/04/23/dc2e04abe68849799884411ff713f283_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mike Vrabel and Dianna Russini&#039;s Kissing Photos From 2020 Surface]]></title>
+            <link>https://www.tmz.com/2026/04/23/mike-vrabel-dianna-russini-affectionate-pics-from-2020/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/mike-vrabel-dianna-russini-affectionate-pics-from-2020/</guid>
+            <pubDate>Thu, 23 Apr 2026 16:21:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/04/22/1ef7e289aae2451cbc0c0e353553054b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/04/22/1ef7e289aae2451cbc0c0e353553054b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/04/22/1ef7e289aae2451cbc0c0e353553054b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[D4vd Had Tons of Child Pornography on His Phone, Prosecutors Claim]]></title>
             <link>https://www.tmz.com/2026/04/23/d4vd-has-child-porn-on-his-phone-according-to-prosecutors/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/04/23/4b93c93cdc9f43acb32042a7559580ae_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/04/23/4b93c93cdc9f43acb32042a7559580ae_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dave Portnoy Criticizes Mike Vrabel, Can&#039;t Get Counseling After Draft?]]></title>
-            <link>https://www.tmz.com/2026/04/23/dave-portnoy-criticizes-mike-vrabel-counseling/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/dave-portnoy-criticizes-mike-vrabel-counseling/</guid>
-            <pubDate>Thu, 23 Apr 2026 15:58:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/23/d4f72c9d62324bd98bf99d97aaa0ef0c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/23/d4f72c9d62324bd98bf99d97aaa0ef0c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/23/d4f72c9d62324bd98bf99d97aaa0ef0c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[TMZ Comedy Crawl Gets Wild With Free Drinks & Secret Vampire Hideout]]></title>
-            <link>https://www.tmz.com/2026/04/23/free-booze-and-vampires-at-comedy-crawl/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/free-booze-and-vampires-at-comedy-crawl/</guid>
-            <pubDate>Thu, 23 Apr 2026 15:44:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/04/22/129c93a0026c4b74932bfc224acca39b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/04/22/129c93a0026c4b74932bfc224acca39b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/04/22/129c93a0026c4b74932bfc224acca39b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Any Rep. Who Thinks Congress Is Doing Good Job Should Be Booted Out]]></title>
-            <link>https://www.tmz.com/2026/04/23/even-congressmen-think-congress-not-doing-good-job/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/even-congressmen-think-congress-not-doing-good-job/</guid>
-            <pubDate>Thu, 23 Apr 2026 15:33:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/04/23/62314a13628c49918217e887f2f053b3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/23/62314a13628c49918217e887f2f053b3_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/23/62314a13628c49918217e887f2f053b3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Bieber Celebrates Coachella Success With Cigar After Sushi Date]]></title>
-            <link>https://www.tmz.com/2026/04/23/justin-bieber-smokes-cigar-after-coachella/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/justin-bieber-smokes-cigar-after-coachella/</guid>
-            <pubDate>Thu, 23 Apr 2026 15:25:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/04/23/bfaef62fe27343a88a27cace2bca1904_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/04/23/bfaef62fe27343a88a27cace2bca1904_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/04/23/bfaef62fe27343a88a27cace2bca1904_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
