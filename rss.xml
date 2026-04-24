@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 01:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 04:41:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Mike Vrabel Speaks On Dianna Russini Scandal Before NFL Draft]]></title>
+            <link>https://www.tmz.com/2026/04/23/mike-vrabel-speaks-dianna-russini-scandal-before-draft/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/mike-vrabel-speaks-dianna-russini-scandal-before-draft/</guid>
+            <pubDate>Fri, 24 Apr 2026 01:11:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f1/16by9/2026/04/23/f152246fd1a34572a2d21b59849ba5f0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f1/16by9/2026/04/23/f152246fd1a34572a2d21b59849ba5f0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2026/04/23/f152246fd1a34572a2d21b59849ba5f0_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Las Vegas Raiders Draft Fernando Mendoza With First Pick]]></title>
             <link>https://www.tmz.com/2026/04/23/las-vegas-raiders-draft-fernando-mendoza-first-pick/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/04/23/a5807cc2031e4bd18c42f4bb4c28d56a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/04/23/a5807cc2031e4bd18c42f4bb4c28d56a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stagecoach Music Festival: Hottest Headliners, History Highlights & WTF Moments!]]></title>
-            <link>https://www.tmz.com/2026/04/23/stagecoach-music-festival-every-iconic-moment/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/stagecoach-music-festival-every-iconic-moment/</guid>
-            <pubDate>Thu, 23 Apr 2026 23:00:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2024/04/24/d0af219b327a434ebe39ede3537ca004_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d0/16by9/2024/04/24/d0af219b327a434ebe39ede3537ca004_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2024/04/24/d0af219b327a434ebe39ede3537ca004_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
