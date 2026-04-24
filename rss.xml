@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 18:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 19:37:04 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Cher&#039;s Son Elijah Blue Allman Entering Treatment Facility as He Fights Mom in Court]]></title>
+            <link>https://www.tmz.com/2026/04/24/cher-son-entering-treatment-facility/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/cher-son-entering-treatment-facility/</guid>
+            <pubDate>Fri, 24 Apr 2026 19:20:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/04/24/0fae215dd9b24cb9868adafa7ba44a89_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/04/24/0fae215dd9b24cb9868adafa7ba44a89_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/04/24/0fae215dd9b24cb9868adafa7ba44a89_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Knife Fight Erupts After Dog Pees on Neighbor&#039;s Lawn, 3 Injured]]></title>
+            <link>https://www.tmz.com/2026/04/24/dog-peeing-on-yard-ignites-knife-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/dog-peeing-on-yard-ignites-knife-fight/</guid>
+            <pubDate>Fri, 24 Apr 2026 19:00:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[No One Fired Over &#039;Summer House&#039; Reunion Audio Leak, Despite Speculation]]></title>
             <link>https://www.tmz.com/2026/04/24/summer-house-audio-leak-is-an-ongoing-investigation/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/87/16by9/2026/04/24/87f92c68184a4f53877cdebfdd995429_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/04/24/87f92c68184a4f53877cdebfdd995429_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[D4vd&#039;s Legal Team Getting Jewish Hate Mail, Read One Horrendous Note]]></title>
-            <link>https://www.tmz.com/2026/04/24/d4vd-legal-team-getting-jewish-hate-mail/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/d4vd-legal-team-getting-jewish-hate-mail/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:06:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/04/24/1f798d7b66954c388d055fb19b1d6a4d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/04/24/1f798d7b66954c388d055fb19b1d6a4d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/04/24/1f798d7b66954c388d055fb19b1d6a4d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Rush Hour 4&#039; Still a Go, Despite Report of Financial Hang-Ups]]></title>
-            <link>https://www.tmz.com/2026/04/24/rush-hour-film-still-going-despite-reports-of-financial-issues/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/rush-hour-film-still-going-despite-reports-of-financial-issues/</guid>
-            <pubDate>Fri, 24 Apr 2026 17:33:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/04/24/7828bd702853461db3410e82f5e5de75_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/04/24/7828bd702853461db3410e82f5e5de75_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/04/24/7828bd702853461db3410e82f5e5de75_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
