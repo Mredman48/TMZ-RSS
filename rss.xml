@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 19:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 20:27:29 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Mike Vrabel, Dianna Russini Photog NOT Private Eye Hired By Suspecting Spouse]]></title>
+            <link>https://www.tmz.com/2026/04/24/vrabel-russini-photographer-not-a-private-eye/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/vrabel-russini-photographer-not-a-private-eye/</guid>
+            <pubDate>Fri, 24 Apr 2026 20:15:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/04/24/8ac62758d5104f94b92ca96f96a3b80d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/04/24/8ac62758d5104f94b92ca96f96a3b80d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/04/24/8ac62758d5104f94b92ca96f96a3b80d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cher&#039;s Conservatorship Request for Son Elijah Blue Allman Denied by Judge]]></title>
+            <link>https://www.tmz.com/2026/04/24/cher-elijah-blue-allman-conservatorship-denied/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/cher-elijah-blue-allman-conservatorship-denied/</guid>
+            <pubDate>Fri, 24 Apr 2026 20:08:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/04/24/b724c2ad782e424d90dc8b5c6f05eb65_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/04/24/b724c2ad782e424d90dc8b5c6f05eb65_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/04/24/b724c2ad782e424d90dc8b5c6f05eb65_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[FBI Director Kash Patel Previously Admitted to 2 Alcohol-Related Arrests]]></title>
+            <link>https://www.tmz.com/2026/04/24/kash-patel-was-arrested-for-public-urination/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/kash-patel-was-arrested-for-public-urination/</guid>
+            <pubDate>Fri, 24 Apr 2026 19:43:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/04/24/b5813b830d514ee1851df5973f1d2116_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/04/24/b5813b830d514ee1851df5973f1d2116_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/04/24/b5813b830d514ee1851df5973f1d2116_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Cher&#039;s Son Elijah Blue Allman Entering Treatment Facility as He Fights Mom in Court]]></title>
             <link>https://www.tmz.com/2026/04/24/cher-son-entering-treatment-facility/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[No One Fired Over &#039;Summer House&#039; Reunion Audio Leak, Despite Speculation]]></title>
-            <link>https://www.tmz.com/2026/04/24/summer-house-audio-leak-is-an-ongoing-investigation/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/summer-house-audio-leak-is-an-ongoing-investigation/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:23:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/04/24/d84c757b548947daafa1ab54353ee974_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/24/d84c757b548947daafa1ab54353ee974_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/24/d84c757b548947daafa1ab54353ee974_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Beyoncé Seen Fawning Over Michael Jackson in Unaired Reality Show Video]]></title>
-            <link>https://www.tmz.com/2026/04/24/beyonce-seen-fawning-over-michael-jackson-in-unseen-reality-show-footage/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/beyonce-seen-fawning-over-michael-jackson-in-unseen-reality-show-footage/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:15:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/04/23/d93d0ed25e5d4c6aad72dbe83b451ea4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/04/23/d93d0ed25e5d4c6aad72dbe83b451ea4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/04/23/d93d0ed25e5d4c6aad72dbe83b451ea4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Bynes Looking Good on Solo Coffee Run Amid Weight Loss Effort]]></title>
-            <link>https://www.tmz.com/2026/04/24/amanda-bynes-grabbing-coffee-in-los-angeles/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/amanda-bynes-grabbing-coffee-in-los-angeles/</guid>
-            <pubDate>Fri, 24 Apr 2026 18:08:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/04/24/87f92c68184a4f53877cdebfdd995429_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/04/24/87f92c68184a4f53877cdebfdd995429_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/04/24/87f92c68184a4f53877cdebfdd995429_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
