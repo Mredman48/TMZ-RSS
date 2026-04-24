@@ -4,18 +4,29 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 11:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 12:42:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sherrone Moore&#039;s Ex-Mistress Paige Shiver Says He Got Her Pregnant]]></title>
+            <link>https://www.tmz.com/2026/04/24/paige-shiver-claims-sherrone-moore-got-her-pregnant/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/paige-shiver-claims-sherrone-moore-got-her-pregnant/</guid>
+            <pubDate>Fri, 24 Apr 2026 12:22:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/24/31c9c1c506d94c1991c416a979021d20_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/24/31c9c1c506d94c1991c416a979021d20_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/24/31c9c1c506d94c1991c416a979021d20_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jack Nicholson Seen in Rare Photo Celebrating 89th Birthday]]></title>
             <link>https://www.tmz.com/2026/04/24/jack-nicholson-birthday-lorraine/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/24/jack-nicholson-birthday-lorraine/</guid>
             <pubDate>Fri, 24 Apr 2026 09:14:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/40/16by9/2012/05/03/4016080604ac5ec3bef8c32e6708fe24_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/40/16by9/2012/05/03/4016080604ac5ec3bef8c32e6708fe24_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/04/24/15285cde91054e4cb13368ef2b82336b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/04/24/15285cde91054e4cb13368ef2b82336b_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2012/05/03/4016080604ac5ec3bef8c32e6708fe24_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/04/24/15285cde91054e4cb13368ef2b82336b_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/04/22/b6409a2db40c4cc7add5ce3bab645f52_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/04/22/b6409a2db40c4cc7add5ce3bab645f52_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Simple Gadgets To Transform Your Life]]></title>
-            <link>https://www.tmz.com/2026/04/24/simple-gadgets-life-hacks-on-amazon/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/simple-gadgets-life-hacks-on-amazon/</guid>
-            <pubDate>Fri, 24 Apr 2026 07:05:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/04/15/613471c820d846359cfda658a5faf1bf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/04/15/613471c820d846359cfda658a5faf1bf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/04/15/613471c820d846359cfda658a5faf1bf_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
