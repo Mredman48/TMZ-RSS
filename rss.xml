@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 20:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 21:31:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Crochet Cutie -- Guess The Bikini Babe!]]></title>
+            <link>https://www.tmz.com/2026/04/24/crochet-cutie-guess-who/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/crochet-cutie-guess-who/</guid>
+            <pubDate>Fri, 24 Apr 2026 21:00:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/04/24/a68dccce1e574eeba45131b84b48ef83_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/04/24/a68dccce1e574eeba45131b84b48ef83_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/04/24/a68dccce1e574eeba45131b84b48ef83_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;RHOA&#039; Kenya Moore Vacates Salon After Legal Battle With Landlord]]></title>
+            <link>https://www.tmz.com/2026/04/24/kenya-moore-vacates-atlanta-salon/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/kenya-moore-vacates-atlanta-salon/</guid>
+            <pubDate>Fri, 24 Apr 2026 20:46:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/04/24/6a0abeadd52a43fdaa7eb1e14f8ea567_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/04/24/6a0abeadd52a43fdaa7eb1e14f8ea567_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/04/24/6a0abeadd52a43fdaa7eb1e14f8ea567_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mike Vrabel, Dianna Russini Photog NOT Private Eye Hired By Suspecting Spouse]]></title>
             <link>https://www.tmz.com/2026/04/24/vrabel-russini-photographer-not-a-private-eye/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/04/24/b5813b830d514ee1851df5973f1d2116_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/04/24/b5813b830d514ee1851df5973f1d2116_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cher&#039;s Son Elijah Blue Allman Entering Treatment Facility as He Fights Mom in Court]]></title>
-            <link>https://www.tmz.com/2026/04/24/cher-son-entering-treatment-facility/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/cher-son-entering-treatment-facility/</guid>
-            <pubDate>Fri, 24 Apr 2026 19:20:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/04/24/0fae215dd9b24cb9868adafa7ba44a89_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/04/24/0fae215dd9b24cb9868adafa7ba44a89_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/04/24/0fae215dd9b24cb9868adafa7ba44a89_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Knife Fight Erupts After Dog Pees on Neighbor&#039;s Lawn, 3 Injured]]></title>
-            <link>https://www.tmz.com/2026/04/24/dog-peeing-on-yard-ignites-knife-fight/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/dog-peeing-on-yard-ignites-knife-fight/</guid>
-            <pubDate>Fri, 24 Apr 2026 19:00:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/04/24/19e63d96bed34ad4852c0ef6f053939b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
