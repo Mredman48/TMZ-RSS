@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 23:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 01:11:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Las Vegas Raiders Draft Fernando Mendoza With First Pick]]></title>
+            <link>https://www.tmz.com/2026/04/23/las-vegas-raiders-draft-fernando-mendoza-first-pick/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/las-vegas-raiders-draft-fernando-mendoza-first-pick/</guid>
+            <pubDate>Fri, 24 Apr 2026 00:24:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/04/23/b7f19eeb22624c12b264592e80b8cb1e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/04/23/b7f19eeb22624c12b264592e80b8cb1e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/04/23/b7f19eeb22624c12b264592e80b8cb1e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Storage Wars&#039; Star Dave Hester Says Frenemy Darrell Sheets&#039; Was Family]]></title>
+            <link>https://www.tmz.com/2026/04/23/dave-hester-reacts-to-darrell-sheets-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/dave-hester-reacts-to-darrell-sheets-death/</guid>
+            <pubDate>Thu, 23 Apr 2026 23:25:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/04/23/b9f001750868471fa7fb33f72932e41e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/04/23/b9f001750868471fa7fb33f72932e41e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/04/23/b9f001750868471fa7fb33f72932e41e_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Brandi Glanville Backs Lisa Vanderpump Over Scheana Shay&#039;s Memoir Diss]]></title>
             <link>https://www.tmz.com/2026/04/23/brandi-glanville-backs-lisa-vanderpump-in-scheana-shay-diss/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d0/16by9/2024/04/24/d0af219b327a434ebe39ede3537ca004_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2024/04/24/d0af219b327a434ebe39ede3537ca004_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sandra Lee&#039;s Ex Ben Youcef Says &#039;Beautiful Chapter&#039; Over After Engagement Ends]]></title>
-            <link>https://www.tmz.com/2026/04/23/ben-youcef-talks-about-sandra-lee-engagement-ending/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/ben-youcef-talks-about-sandra-lee-engagement-ending/</guid>
-            <pubDate>Thu, 23 Apr 2026 21:48:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/04/22/3c1c4b84f23e4d039183e58ff488682b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/04/22/3c1c4b84f23e4d039183e58ff488682b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/04/22/3c1c4b84f23e4d039183e58ff488682b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Beyoncé Choreographer Walks Back Claim She Was Kicked Off Cruise Ship Stage]]></title>
-            <link>https://www.tmz.com/2026/04/23/beyonce-choreographer-ashley-everett-sorry-for-cruise-ship-misunderstanding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/23/beyonce-choreographer-ashley-everett-sorry-for-cruise-ship-misunderstanding/</guid>
-            <pubDate>Thu, 23 Apr 2026 21:44:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/04/23/d19a5bcc86054bf1bcdc6e7862b96d8f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/04/23/d19a5bcc86054bf1bcdc6e7862b96d8f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/04/23/d19a5bcc86054bf1bcdc6e7862b96d8f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
