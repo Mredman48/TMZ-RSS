@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 19:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 20:07:53 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Megan Thee Stallion and Klay Thompson Split]]></title>
+            <link>https://www.tmz.com/2026/04/25/megan-thee-stallion-klay-thompson-break-up/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/megan-thee-stallion-klay-thompson-break-up/</guid>
+            <pubDate>Sat, 25 Apr 2026 19:58:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/04/25/343caddcb1cd4e98a8c3846d0f34d542_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/25/343caddcb1cd4e98a8c3846d0f34d542_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/25/343caddcb1cd4e98a8c3846d0f34d542_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Influencer Dead at 19 from Rare Cancer After Pleading for More Time]]></title>
+            <link>https://www.tmz.com/2026/04/25/influencer-jade-kops-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/influencer-jade-kops-dead/</guid>
+            <pubDate>Sat, 25 Apr 2026 19:45:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/04/25/64c8c7e9dc05474897fc27d0811c179d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/04/25/64c8c7e9dc05474897fc27d0811c179d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/04/25/64c8c7e9dc05474897fc27d0811c179d_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bianca Censori Flaunts Chest at Chateau Marmont with Kanye West]]></title>
+            <link>https://www.tmz.com/2026/04/25/kanye-west-bianca-censori-at-chateau-marmont/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/kanye-west-bianca-censori-at-chateau-marmont/</guid>
+            <pubDate>Sat, 25 Apr 2026 19:36:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Meryl Streep&#039;s Daughter Mamie Gummer Settles Divorce]]></title>
             <link>https://www.tmz.com/2026/04/25/mamie-gummer-settles-divorce/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[West Wilson, Amanda Batula Leave &#039;Summer House&#039; Reunion Together]]></title>
-            <link>https://www.tmz.com/2026/04/25/west-wilson-amanda-batula-leave-summer-house-reunion-together/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/west-wilson-amanda-batula-leave-summer-house-reunion-together/</guid>
-            <pubDate>Sat, 25 Apr 2026 16:31:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/04/25/67e7683bec1b4402abde038bab62c51f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/04/25/67e7683bec1b4402abde038bab62c51f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/04/25/67e7683bec1b4402abde038bab62c51f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love on the Spectrum&#039; Stars Tina Zhu Xi Caruso and Pari Kim Split]]></title>
-            <link>https://www.tmz.com/2026/04/25/tina-zhu-xi-caruso-and-pari-kim-break-up/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/tina-zhu-xi-caruso-and-pari-kim-break-up/</guid>
-            <pubDate>Sat, 25 Apr 2026 16:00:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b9230cc80c154556bd43832574ba2da4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b9230cc80c154556bd43832574ba2da4_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b9230cc80c154556bd43832574ba2da4_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Spencer Pratt Reportedly Raised More Money for L.A. Mayoral Race Than Karen Bass]]></title>
-            <link>https://www.tmz.com/2026/04/25/spencer-pratt-raises-more-funds-than-karen-bass/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/spencer-pratt-raises-more-funds-than-karen-bass/</guid>
-            <pubDate>Sat, 25 Apr 2026 15:49:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f4/16by9/2026/04/25/f45121961e5a485b8eec833967d46434_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/04/25/f45121961e5a485b8eec833967d46434_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/04/25/f45121961e5a485b8eec833967d46434_xl.png">
             </media:thumbnail>
         </item>
     </channel>
