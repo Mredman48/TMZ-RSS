@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 21:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 22:05:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Katie Couric Calls Matt Lauer&#039;s Rape Accuser &#039;Very Brave&#039;]]></title>
+            <link>https://www.tmz.com/2026/04/25/katie-couric-calls-matt-lauer-rape-accuser-brave/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/katie-couric-calls-matt-lauer-rape-accuser-brave/</guid>
+            <pubDate>Sat, 25 Apr 2026 22:02:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/04/25/faf7892147844fb3ad10c6b1959d1fb6_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/04/25/faf7892147844fb3ad10c6b1959d1fb6_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/04/25/faf7892147844fb3ad10c6b1959d1fb6_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brian Hooker Tells Story of Wife Lynette Going Overboard to Fellow Boat, Video]]></title>
+            <link>https://www.tmz.com/2026/04/25/brian-hooker-on-video-after-wife-disappeared/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/brian-hooker-on-video-after-wife-disappeared/</guid>
+            <pubDate>Sat, 25 Apr 2026 21:43:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/04/25/f0304684dc904041aacb5348641f902c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/04/25/f0304684dc904041aacb5348641f902c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/04/25/f0304684dc904041aacb5348641f902c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Stagecoach 2026&#039;s First Day Brings Out Big-Time Stars]]></title>
             <link>https://www.tmz.com/2026/04/25/stagecoach-2026-photos/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/25/343caddcb1cd4e98a8c3846d0f34d542_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/25/343caddcb1cd4e98a8c3846d0f34d542_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Influencer Dead at 19 from Rare Cancer After Pleading for More Time]]></title>
-            <link>https://www.tmz.com/2026/04/25/influencer-jade-kops-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/influencer-jade-kops-dead/</guid>
-            <pubDate>Sat, 25 Apr 2026 19:45:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/04/25/64c8c7e9dc05474897fc27d0811c179d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/04/25/64c8c7e9dc05474897fc27d0811c179d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/04/25/64c8c7e9dc05474897fc27d0811c179d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bianca Censori Flaunts Chest at Chateau Marmont with Kanye West]]></title>
-            <link>https://www.tmz.com/2026/04/25/kanye-west-bianca-censori-at-chateau-marmont/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/kanye-west-bianca-censori-at-chateau-marmont/</guid>
-            <pubDate>Sat, 25 Apr 2026 19:36:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png">
             </media:thumbnail>
         </item>
     </channel>
