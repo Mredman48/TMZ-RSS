@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 13:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 15:25:01 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Michael&#039; Biopic Honchos Were Reportedly Paid Extra $25M After Scrubbing Sexual Assault Allegations from Film]]></title>
+            <link>https://www.tmz.com/2026/04/25/michael-movie-heads-got-millions-after-removing-abuse-allegations/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/michael-movie-heads-got-millions-after-removing-abuse-allegations/</guid>
+            <pubDate>Sat, 25 Apr 2026 15:21:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Stars at Stagecoach: Sunburnt, Singin’ and Slightly Unhinged!]]></title>
+            <link>https://www.tmz.com/2026/04/25/hot-pics-of-stars-at-stagecoach/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/hot-pics-of-stars-at-stagecoach/</guid>
+            <pubDate>Sat, 25 Apr 2026 15:00:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/04/21/93525b50562644aea28b40e97c87cf16_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/04/21/93525b50562644aea28b40e97c87cf16_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/04/21/93525b50562644aea28b40e97c87cf16_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Grindr Party in D.C. Was Hottest Ticket in Town]]></title>
+            <link>https://www.tmz.com/2026/04/25/washington-dc-grindr-party/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/washington-dc-grindr-party/</guid>
+            <pubDate>Sat, 25 Apr 2026 14:42:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/04/25/3710e56c7da149879996cde84f663abd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/04/25/3710e56c7da149879996cde84f663abd_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/04/25/3710e56c7da149879996cde84f663abd_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Streaming Platforms Pressured to Cut D4vd&#039;s Music Out of Catalogs Following Murder Charge]]></title>
             <link>https://www.tmz.com/2026/04/25/d4vd-music-pressured-to-be-removed-from-streamers/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3616cfe4d2430a85e39e2426ea3a43_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3616cfe4d2430a85e39e2426ea3a43_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bryan Kohberger&#039;s Mom Reportedly Told FBI Her Killer Son is an &#039;Angel&#039; After His Arrest]]></title>
-            <link>https://www.tmz.com/2026/04/25/bryan-kohberger-maryann-idaho-murder/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/bryan-kohberger-maryann-idaho-murder/</guid>
-            <pubDate>Sat, 25 Apr 2026 08:59:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2025/08/19/c2a879c1e91b4a64bf1b988b4f5dbbc2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c2/16by9/2025/08/19/c2a879c1e91b4a64bf1b988b4f5dbbc2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2025/08/19/c2a879c1e91b4a64bf1b988b4f5dbbc2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Molly Smith Hot Shots to Celebrate Her 32nd Birthday]]></title>
-            <link>https://www.tmz.com/2026/04/25/molly-smith-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/molly-smith-birthday-hot-shots/</guid>
-            <pubDate>Sat, 25 Apr 2026 08:00:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/20/f3b354c9b99540eeb7bc5a6b8dadc823_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/20/f3b354c9b99540eeb7bc5a6b8dadc823_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/20/f3b354c9b99540eeb7bc5a6b8dadc823_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Anthony Edwards&#039; Baby Mamas Join Forces to Take on NBA Star in Court]]></title>
-            <link>https://www.tmz.com/2026/04/25/anthony-edwards-baby-mamas-join-forces-in-court/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/anthony-edwards-baby-mamas-join-forces-in-court/</guid>
-            <pubDate>Sat, 25 Apr 2026 08:00:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/04/24/8fdec4735eed4c23a150c42435c8e448_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/04/24/8fdec4735eed4c23a150c42435c8e448_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/04/24/8fdec4735eed4c23a150c42435c8e448_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
