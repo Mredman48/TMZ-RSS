@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 07:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 09:34:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Cops Called to Addison Rae&#039;s Dad&#039;s Home, Cars Lined Up Outside, on Video]]></title>
+            <link>https://www.tmz.com/2026/04/25/police-at-addison-rae-fathers-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/police-at-addison-rae-fathers-house/</guid>
+            <pubDate>Sat, 25 Apr 2026 09:00:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3616cfe4d2430a85e39e2426ea3a43_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3616cfe4d2430a85e39e2426ea3a43_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3616cfe4d2430a85e39e2426ea3a43_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bryan Kohberger&#039;s Mom Reportedly Told FBI Her Killer Son is an &#039;Angel&#039; After His Arrest]]></title>
+            <link>https://www.tmz.com/2026/04/25/bryan-kohberger-maryann-idaho-murder/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/bryan-kohberger-maryann-idaho-murder/</guid>
+            <pubDate>Sat, 25 Apr 2026 08:59:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2025/08/19/c2a879c1e91b4a64bf1b988b4f5dbbc2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2025/08/19/c2a879c1e91b4a64bf1b988b4f5dbbc2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2025/08/19/c2a879c1e91b4a64bf1b988b4f5dbbc2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Molly Smith Hot Shots to Celebrate Her 32nd Birthday]]></title>
+            <link>https://www.tmz.com/2026/04/25/molly-smith-birthday-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/molly-smith-birthday-hot-shots/</guid>
+            <pubDate>Sat, 25 Apr 2026 08:00:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/20/f3b354c9b99540eeb7bc5a6b8dadc823_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/20/f3b354c9b99540eeb7bc5a6b8dadc823_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/20/f3b354c9b99540eeb7bc5a6b8dadc823_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Anthony Edwards&#039; Baby Mamas Join Forces to Take on NBA Star in Court]]></title>
+            <link>https://www.tmz.com/2026/04/25/anthony-edwards-baby-mamas-join-forces-in-court/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/anthony-edwards-baby-mamas-join-forces-in-court/</guid>
+            <pubDate>Sat, 25 Apr 2026 08:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/04/24/8fdec4735eed4c23a150c42435c8e448_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/04/24/8fdec4735eed4c23a150c42435c8e448_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/04/24/8fdec4735eed4c23a150c42435c8e448_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Paris Hilton&#039;s Pussycat Pic -- What&#039;s The Big Frigin&#039; Difference?!]]></title>
             <link>https://www.tmz.com/2026/04/25/paris-hiltons-big-pussycat-whats-the-big-frigin-difference/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/41/16by9/2026/04/22/41beb9d04ae94ff896af520ecab84f8c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/04/22/41beb9d04ae94ff896af520ecab84f8c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Michael Irvin Raves About &#039;Bad Dude&#039; Caleb Downs, Cowboys Will Win It All!]]></title>
-            <link>https://www.tmz.com/2026/04/25/michael-irvin-reacts-to-caleb-downs-cowboys-draft-pick/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/michael-irvin-reacts-to-caleb-downs-cowboys-draft-pick/</guid>
-            <pubDate>Sat, 25 Apr 2026 07:30:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/04/24/d6181ba777dd4fee91d60c5cc72d1905_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/04/24/d6181ba777dd4fee91d60c5cc72d1905_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/04/24/d6181ba777dd4fee91d60c5cc72d1905_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/04/25/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 25 Apr 2026 07:25:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/88/16by9/2026/04/24/88e572a4c639423bab52b57945cbd1d7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/88/16by9/2026/04/24/88e572a4c639423bab52b57945cbd1d7_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/88/16by9/2026/04/24/88e572a4c639423bab52b57945cbd1d7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;The Challenge&#039; Star CT Tamburello&#039;s Ex-Wife Seeking Child Support Increase]]></title>
-            <link>https://www.tmz.com/2026/04/25/ct-tamburello-hit-with-child-support-increase-request-by-ex/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/ct-tamburello-hit-with-child-support-increase-request-by-ex/</guid>
-            <pubDate>Sat, 25 Apr 2026 07:00:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/57/16by9/2026/04/23/5729cb6994ed4889a96b1db40b0d9dec_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/57/16by9/2026/04/23/5729cb6994ed4889a96b1db40b0d9dec_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/57/16by9/2026/04/23/5729cb6994ed4889a96b1db40b0d9dec_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Helena Bonham Carter Drops Out of &#039;White Lotus&#039; Days After Filming Begins]]></title>
-            <link>https://www.tmz.com/2026/04/24/helena-bonham-carter-exits-the-white-lotus/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/helena-bonham-carter-exits-the-white-lotus/</guid>
-            <pubDate>Sat, 25 Apr 2026 01:05:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/04/25/47ca43a63acc41bb951c77b519da677e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/04/25/47ca43a63acc41bb951c77b519da677e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/04/25/47ca43a63acc41bb951c77b519da677e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
