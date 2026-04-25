@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 20:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 21:19:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Stagecoach 2026&#039;s First Day Brings Out Big-Time Stars]]></title>
+            <link>https://www.tmz.com/2026/04/25/stagecoach-2026-photos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/stagecoach-2026-photos/</guid>
+            <pubDate>Sat, 25 Apr 2026 20:37:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/04/25/46dc9f513c754dd9acbefadc1f8c7f78_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/04/25/46dc9f513c754dd9acbefadc1f8c7f78_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/04/25/46dc9f513c754dd9acbefadc1f8c7f78_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sophia Hutchins&#039; Estate, Caitlyn Jenner Request Access to Sophia&#039;s Apple ID]]></title>
+            <link>https://www.tmz.com/2026/04/25/sophia-hutchins-estate-and-caitlyn-jenner-want-into-her-apple-id/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/sophia-hutchins-estate-and-caitlyn-jenner-want-into-her-apple-id/</guid>
+            <pubDate>Sat, 25 Apr 2026 20:30:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/04/25/cc2f66e45a70415a8d4c2712fab34212_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/04/25/cc2f66e45a70415a8d4c2712fab34212_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/04/25/cc2f66e45a70415a8d4c2712fab34212_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Megan Thee Stallion and Klay Thompson Split]]></title>
             <link>https://www.tmz.com/2026/04/25/megan-thee-stallion-klay-thompson-break-up/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/04/25/b99c7bc7f8a6443bb494847b8974d9ff_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Meryl Streep&#039;s Daughter Mamie Gummer Settles Divorce]]></title>
-            <link>https://www.tmz.com/2026/04/25/mamie-gummer-settles-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/mamie-gummer-settles-divorce/</guid>
-            <pubDate>Sat, 25 Apr 2026 18:32:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/04/25/bfca137574f04318949323fab144c755_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/04/25/bfca137574f04318949323fab144c755_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/04/25/bfca137574f04318949323fab144c755_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cyndi Lauper Jokingly Threatens Heckler During Las Vegas Residency Concert]]></title>
-            <link>https://www.tmz.com/2026/04/25/cyndi-lauper-playfully-threatens-vegas-concert-heckler/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/cyndi-lauper-playfully-threatens-vegas-concert-heckler/</guid>
-            <pubDate>Sat, 25 Apr 2026 16:59:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png">
             </media:thumbnail>
         </item>
     </channel>
