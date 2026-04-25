@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 23:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 01:04:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Michael Jackson Accuser James Safechuck Speaks Out Amid Biopic Release]]></title>
+            <link>https://www.tmz.com/2026/04/24/michael-jackson-accuser-james-safechuck-shares-message-to-survivors/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/michael-jackson-accuser-james-safechuck-shares-message-to-survivors/</guid>
+            <pubDate>Sat, 25 Apr 2026 00:12:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/04/24/4832618f103f4addbed0ec71c6bf4205_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/04/24/4832618f103f4addbed0ec71c6bf4205_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/04/24/4832618f103f4addbed0ec71c6bf4205_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Below Deck&#039; Transport Vessel Catches Fire at Sea, On Video]]></title>
+            <link>https://www.tmz.com/2026/04/24/below-deck-boat-on-fire-at-sea-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/below-deck-boat-on-fire-at-sea-video/</guid>
+            <pubDate>Fri, 24 Apr 2026 23:55:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/04/24/2c8ed5e7e10a4137804a7c210c491355_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/04/24/2c8ed5e7e10a4137804a7c210c491355_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/04/24/2c8ed5e7e10a4137804a7c210c491355_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shuki Diamonds Says He Doesn&#039;t Want Antonio Brown&#039;s Money, Just Return My Rings!]]></title>
+            <link>https://www.tmz.com/2026/04/24/shuki-diamonds-wants-antonio-brown-diamond-rings-back/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/shuki-diamonds-wants-antonio-brown-diamond-rings-back/</guid>
+            <pubDate>Fri, 24 Apr 2026 23:46:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/04/24/6e962d4382944deb88c6f12caf12546e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/04/24/6e962d4382944deb88c6f12caf12546e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/04/24/6e962d4382944deb88c6f12caf12546e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Stefon Diggs&#039; Accuser Asking For Answers About NFL Star&#039;s Security Footage]]></title>
+            <link>https://www.tmz.com/2026/04/24/stefon-diggs-accuser-seeking-security-camera-footage/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/stefon-diggs-accuser-seeking-security-camera-footage/</guid>
+            <pubDate>Fri, 24 Apr 2026 23:30:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/04/24/56c7e07d4f7b4a6eb149969eb373933e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/04/24/56c7e07d4f7b4a6eb149969eb373933e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/04/24/56c7e07d4f7b4a6eb149969eb373933e_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Summer House&#039; Alum Luke Gulbranson Says Amanda, West Have No Loyalty]]></title>
             <link>https://www.tmz.com/2026/04/24/summer-house-alum-slams-amanda-and-west-for-romance/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/de/16by9/2026/04/24/de09de6ad3424f20b75b3eefa267ca84_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/04/24/de09de6ad3424f20b75b3eefa267ca84_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Singer Chef Sean Turns TMZ Brunch Bus Tour Into Rolling Celebrity Tea Session]]></title>
-            <link>https://www.tmz.com/2026/04/24/chef-sean-makes-jada-pinkett-smith-dig-on-brunch-bus/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/chef-sean-makes-jada-pinkett-smith-dig-on-brunch-bus/</guid>
-            <pubDate>Fri, 24 Apr 2026 23:08:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/04/24/d4175d7650664ff385af8ab2deb524b4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/04/24/d4175d7650664ff385af8ab2deb524b4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/04/24/d4175d7650664ff385af8ab2deb524b4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Raiders&#039; Fernando Mendoza Top Selling Athlete Across Fanatics]]></title>
-            <link>https://www.tmz.com/2026/04/24/raiders-fernando-mendoza-top-selling-athlete-fanatics/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/raiders-fernando-mendoza-top-selling-athlete-fanatics/</guid>
-            <pubDate>Fri, 24 Apr 2026 23:03:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/04/24/9d86b7eebcad40058f03e42108eee51f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/04/24/9d86b7eebcad40058f03e42108eee51f_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/04/24/9d86b7eebcad40058f03e42108eee51f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Teddy Swims Says Coachella Sun Badly Burned Him, Going Back for Stagecoach]]></title>
-            <link>https://www.tmz.com/2026/04/24/coachella-sun-gave-teddy-swims-insane-burns/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/coachella-sun-gave-teddy-swims-insane-burns/</guid>
-            <pubDate>Fri, 24 Apr 2026 23:00:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/04/24/e7bfbacd664c44df9c4edd53c87e0eee_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/04/24/e7bfbacd664c44df9c4edd53c87e0eee_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/04/24/e7bfbacd664c44df9c4edd53c87e0eee_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey Scoffs at Estranged Bro&#039;s Claims in Bitter Court Battle]]></title>
-            <link>https://www.tmz.com/2026/04/24/mariah-carey-laughs-off-estranged-brothers-claims-in-court/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/24/mariah-carey-laughs-off-estranged-brothers-claims-in-court/</guid>
-            <pubDate>Fri, 24 Apr 2026 22:59:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3128b6cea04e458e5124d4a55e8816_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3128b6cea04e458e5124d4a55e8816_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/04/24/db3128b6cea04e458e5124d4a55e8816_xl.png">
             </media:thumbnail>
         </item>
     </channel>
