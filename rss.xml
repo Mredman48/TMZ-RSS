@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 16:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 17:22:32 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Cyndi Lauper Jokingly Threatens Heckler During Las Vegas Residency Concert]]></title>
+            <link>https://www.tmz.com/2026/04/25/cyndi-lauper-playfully-threatens-vegas-concert-heckler/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/cyndi-lauper-playfully-threatens-vegas-concert-heckler/</guid>
+            <pubDate>Sat, 25 Apr 2026 16:59:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/25/31ec99d0cef34603a47c6f7d265eeb47_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[West Wilson, Amanda Batula Leave &#039;Summer House&#039; Reunion Together]]></title>
+            <link>https://www.tmz.com/2026/04/25/west-wilson-amanda-batula-leave-summer-house-reunion-together/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/west-wilson-amanda-batula-leave-summer-house-reunion-together/</guid>
+            <pubDate>Sat, 25 Apr 2026 16:31:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/04/25/67e7683bec1b4402abde038bab62c51f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/04/25/67e7683bec1b4402abde038bab62c51f_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/04/25/67e7683bec1b4402abde038bab62c51f_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Love on the Spectrum&#039; Stars Tina Zhu Xi Caruso and Pari Kim Split]]></title>
             <link>https://www.tmz.com/2026/04/25/tina-zhu-xi-caruso-and-pari-kim-break-up/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars at Stagecoach: Sunburnt, Singin’ and Slightly Unhinged!]]></title>
-            <link>https://www.tmz.com/2026/04/25/hot-pics-of-stars-at-stagecoach/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/hot-pics-of-stars-at-stagecoach/</guid>
-            <pubDate>Sat, 25 Apr 2026 15:00:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/04/21/93525b50562644aea28b40e97c87cf16_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/04/21/93525b50562644aea28b40e97c87cf16_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/04/21/93525b50562644aea28b40e97c87cf16_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Grindr Party in D.C. Was Hottest Ticket in Town]]></title>
-            <link>https://www.tmz.com/2026/04/25/washington-dc-grindr-party/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/washington-dc-grindr-party/</guid>
-            <pubDate>Sat, 25 Apr 2026 14:42:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/04/25/3710e56c7da149879996cde84f663abd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/04/25/3710e56c7da149879996cde84f663abd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/04/25/3710e56c7da149879996cde84f663abd_xl.png">
             </media:thumbnail>
         </item>
     </channel>
