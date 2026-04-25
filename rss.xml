@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 18:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 19:31:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Meryl Streep&#039;s Daughter Mamie Gummer Settles Divorce]]></title>
+            <link>https://www.tmz.com/2026/04/25/mamie-gummer-settles-divorce/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/mamie-gummer-settles-divorce/</guid>
+            <pubDate>Sat, 25 Apr 2026 18:32:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/04/25/bfca137574f04318949323fab144c755_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/04/25/bfca137574f04318949323fab144c755_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/04/25/bfca137574f04318949323fab144c755_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Cyndi Lauper Jokingly Threatens Heckler During Las Vegas Residency Concert]]></title>
             <link>https://www.tmz.com/2026/04/25/cyndi-lauper-playfully-threatens-vegas-concert-heckler/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/04/25/f45121961e5a485b8eec833967d46434_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/04/25/f45121961e5a485b8eec833967d46434_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Michael&#039; Biopic Honchos Were Reportedly Paid Extra $25M After Scrubbing Sexual Assault Allegations from Film]]></title>
-            <link>https://www.tmz.com/2026/04/25/michael-movie-heads-got-millions-after-removing-abuse-allegations/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/michael-movie-heads-got-millions-after-removing-abuse-allegations/</guid>
-            <pubDate>Sat, 25 Apr 2026 15:21:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/04/25/3d2fc12b2feb445c85e0845bf0261e86_xl.png">
             </media:thumbnail>
         </item>
     </channel>
