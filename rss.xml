@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 20:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 21:19:41 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Alleged WHCD Gunman Cole Allen&#039;s LinkedIn Gives Glance Into His Background]]></title>
+            <link>https://www.tmz.com/2026/04/26/cole-allen-work-school-history/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/cole-allen-work-school-history/</guid>
+            <pubDate>Sun, 26 Apr 2026 20:36:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/04/26/8695835d192e46d79b559dd6764686fa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/26/8695835d192e46d79b559dd6764686fa_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/26/8695835d192e46d79b559dd6764686fa_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Singer Is Showing Off Her Toned Body!]]></title>
+            <link>https://www.tmz.com/2026/04/26/guess-who-singer-toned-abs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/guess-who-singer-toned-abs/</guid>
+            <pubDate>Sun, 26 Apr 2026 20:23:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/04/26/62c260213c5145da8a5e578ace5207e6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/26/62c260213c5145da8a5e578ace5207e6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/26/62c260213c5145da8a5e578ace5207e6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Bravo&#039;s &#039;Summer House&#039; Investigation Complete, Source of Reunion Audio Leak Found]]></title>
+            <link>https://www.tmz.com/2026/04/26/summer-house-audio-leaker-found-and-fired/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/summer-house-audio-leaker-found-and-fired/</guid>
+            <pubDate>Sun, 26 Apr 2026 20:20:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Viral Correspondents’ Dinner Attendee Eating Salad Amid Chaos Speaks Out]]></title>
             <link>https://www.tmz.com/2026/04/26/whcd-attendee-michael-glantz-talks-about-eating-salad-after-shooting/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/20/86cc29c201aa4a0893cdac79674893e5_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/20/86cc29c201aa4a0893cdac79674893e5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Alleged WHCD Gunman Designed Wheelchair Emergency Brake, Resurfaced Clip Shows]]></title>
-            <link>https://www.tmz.com/2026/04/26/cole-allen-2017-resurfaced-interview/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/cole-allen-2017-resurfaced-interview/</guid>
-            <pubDate>Sun, 26 Apr 2026 18:24:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/04/26/d0bc4804a4064349aabec99d75d2d952_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/04/26/d0bc4804a4064349aabec99d75d2d952_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/04/26/d0bc4804a4064349aabec99d75d2d952_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Megan Thee Stallion Breaks Down During Broadway Show After Klay Thompson Split]]></title>
-            <link>https://www.tmz.com/2026/04/26/megan-thee-stallion-cries-after-klay-thompson-breakup/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/megan-thee-stallion-cries-after-klay-thompson-breakup/</guid>
-            <pubDate>Sun, 26 Apr 2026 17:28:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/26/3124693ef80d403b8ec907d164eb8004_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/26/3124693ef80d403b8ec907d164eb8004_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/26/3124693ef80d403b8ec907d164eb8004_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Addresses Suspect Cole Allen&#039;s Alleged Manifesto]]></title>
-            <link>https://www.tmz.com/2026/04/26/trump-talks-about-whcd-suspect-manifesto/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/trump-talks-about-whcd-suspect-manifesto/</guid>
-            <pubDate>Sun, 26 Apr 2026 16:52:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png">
             </media:thumbnail>
         </item>
     </channel>
