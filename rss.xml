@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 16:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 17:22:59 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Donald Trump Addresses Suspect Cole Allen&#039;s Alleged Manifesto]]></title>
+            <link>https://www.tmz.com/2026/04/26/trump-talks-about-whcd-suspect-manifesto/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/trump-talks-about-whcd-suspect-manifesto/</guid>
+            <pubDate>Sun, 26 Apr 2026 16:52:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[White House Correspondents’ Dinner Suspect Not Cooperating with Authorities, Acting AG Says]]></title>
             <link>https://www.tmz.com/2026/04/26/whcd-shooting-suspect-cole-allen-not-cooperating/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/91/16by9/2026/04/26/9157e7211286445a91beb50b08c5d212_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/04/26/9157e7211286445a91beb50b08c5d212_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Armed Suspect Identified in Shooting at White House Correspondents&#039; Dinner]]></title>
-            <link>https://www.tmz.com/2026/04/26/white-house-correspondents-dinner-shooting-suspect-identified/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/white-house-correspondents-dinner-shooting-suspect-identified/</guid>
-            <pubDate>Sun, 26 Apr 2026 12:16:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a2/16by9/2026/04/26/a243a4c3458b490e963c3f0eb8cf046a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a2/16by9/2026/04/26/a243a4c3458b490e963c3f0eb8cf046a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a2/16by9/2026/04/26/a243a4c3458b490e963c3f0eb8cf046a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
