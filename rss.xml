@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 22:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 23:22:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Madonna Performs At The Abbey, Addison Rae Hypes Up Crowd]]></title>
+            <link>https://www.tmz.com/2026/04/26/madonna-performs-the-abbey-addison-rae/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/madonna-performs-the-abbey-addison-rae/</guid>
+            <pubDate>Sun, 26 Apr 2026 23:05:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/38/16by9/2026/04/26/38232b2d3ce44b63b251f344e4c6c851_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/38/16by9/2026/04/26/38232b2d3ce44b63b251f344e4c6c851_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/04/26/38232b2d3ce44b63b251f344e4c6c851_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Sitcom Star Is!]]></title>
+            <link>https://www.tmz.com/2026/04/26/guess-who-sitcom-star/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/guess-who-sitcom-star/</guid>
+            <pubDate>Sun, 26 Apr 2026 23:00:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/04/21/009be7739e0e4b9494e7b12969ea0fce_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/04/21/009be7739e0e4b9494e7b12969ea0fce_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/04/21/009be7739e0e4b9494e7b12969ea0fce_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ronettes Singer Nedra Talley Ross Dead at 80]]></title>
+            <link>https://www.tmz.com/2026/04/26/ronettes-nedra-talley-ross-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/ronettes-nedra-talley-ross-dead/</guid>
+            <pubDate>Sun, 26 Apr 2026 22:32:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Alleged WHCD Gunman Cole Allen&#039;s College Professor Recalls How He Was As Student]]></title>
+            <link>https://www.tmz.com/2026/04/26/cole-allen-professor-describes-him-as-good-student/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/cole-allen-professor-describes-him-as-good-student/</guid>
+            <pubDate>Sun, 26 Apr 2026 22:08:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/99/16by9/2026/04/26/995e27bf68c24c0aa3ed11dcc421e3b9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/99/16by9/2026/04/26/995e27bf68c24c0aa3ed11dcc421e3b9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/04/26/995e27bf68c24c0aa3ed11dcc421e3b9_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tom Hanks Rocks Along to Son Chet&#039;s Stagecoach Performance]]></title>
             <link>https://www.tmz.com/2026/04/26/tom-hanks-enjoys-chet-stagecoach-concert/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/91/16by9/2026/04/26/91a8a4f32c4848ff92bff077c4864cdd_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/04/26/91a8a4f32c4848ff92bff077c4864cdd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Alleged WHCD Gunman Cole Allen&#039;s LinkedIn Gives Glance Into His Background]]></title>
-            <link>https://www.tmz.com/2026/04/26/cole-allen-work-school-history/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/cole-allen-work-school-history/</guid>
-            <pubDate>Sun, 26 Apr 2026 20:36:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/04/26/8695835d192e46d79b559dd6764686fa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/26/8695835d192e46d79b559dd6764686fa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/26/8695835d192e46d79b559dd6764686fa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Singer Is Showing Off Her Toned Body!]]></title>
-            <link>https://www.tmz.com/2026/04/26/guess-who-singer-toned-abs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/guess-who-singer-toned-abs/</guid>
-            <pubDate>Sun, 26 Apr 2026 20:23:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/04/26/62c260213c5145da8a5e578ace5207e6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/26/62c260213c5145da8a5e578ace5207e6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/26/62c260213c5145da8a5e578ace5207e6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bravo&#039;s &#039;Summer House&#039; Investigation Complete, Source of Reunion Audio Leak Found]]></title>
-            <link>https://www.tmz.com/2026/04/26/summer-house-audio-leaker-found-and-fired/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/summer-house-audio-leaker-found-and-fired/</guid>
-            <pubDate>Sun, 26 Apr 2026 20:20:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Viral Correspondents’ Dinner Attendee Eating Salad Amid Chaos Speaks Out]]></title>
-            <link>https://www.tmz.com/2026/04/26/whcd-attendee-michael-glantz-talks-about-eating-salad-after-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/whcd-attendee-michael-glantz-talks-about-eating-salad-after-shooting/</guid>
-            <pubDate>Sun, 26 Apr 2026 19:00:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/04/26/363d0fc0aa4149e1bc6ec1b6dc4d4e0a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/04/26/363d0fc0aa4149e1bc6ec1b6dc4d4e0a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/04/26/363d0fc0aa4149e1bc6ec1b6dc4d4e0a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
