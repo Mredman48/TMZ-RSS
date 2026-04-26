@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 01:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 04:46:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[President Trump Addresses White House Correspondents&#039; Dinner Shooting, Live Stream]]></title>
+            <link>https://www.tmz.com/2026/04/25/president-trump-addresses-white-house-correspondents-dinner-shooting-live-stream/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/president-trump-addresses-white-house-correspondents-dinner-shooting-live-stream/</guid>
+            <pubDate>Sun, 26 Apr 2026 02:14:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/04/26/9adc053c90ea45f39012f2b2294a414e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/04/26/9adc053c90ea45f39012f2b2294a414e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/04/26/9adc053c90ea45f39012f2b2294a414e_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[2026 White House Correspondents&#039; Dinner Brings Out Style in D.C.&#039;s Politically Powerful]]></title>
             <link>https://www.tmz.com/2026/04/25/the-2026-white-house-correspondents-dinner/</link>
@@ -19,14 +30,14 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Shooter Killed in Lobby at  White House Correspondents&#039; Dinner]]></title>
+            <title><![CDATA[Shooter Fires Shots in Lobby at White House Correspondents&#039; Dinner]]></title>
             <link>https://www.tmz.com/2026/04/25/shots-fired-at-white-house-correspondents-dinner/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/04/25/shots-fired-at-white-house-correspondents-dinner/</guid>
             <pubDate>Sun, 26 Apr 2026 00:47:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/04/26/7a6e88447c8d43b494aa5a2d9fe772ef_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/04/26/7a6e88447c8d43b494aa5a2d9fe772ef_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/04/26/b897f61896da4cdf8a70f06219ef72a2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/04/26/b897f61896da4cdf8a70f06219ef72a2_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/04/26/7a6e88447c8d43b494aa5a2d9fe772ef_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/04/26/b897f61896da4cdf8a70f06219ef72a2_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/04/25/f63f3d34ce3d47b1a2dc5a453f3b4ff8_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/04/25/f63f3d34ce3d47b1a2dc5a453f3b4ff8_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Summer House&#039; Reunion: Amanda Reveals Who Wrote West Wilson Relationship Announcement]]></title>
-            <link>https://www.tmz.com/2026/04/25/amanda-batula-says-chatgpt-wrote-west-wilson-dating-announcement/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/amanda-batula-says-chatgpt-wrote-west-wilson-dating-announcement/</guid>
-            <pubDate>Sat, 25 Apr 2026 23:01:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/04/25/e24cbc3182fd4048a881c60fb2542048_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/04/25/e24cbc3182fd4048a881c60fb2542048_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/04/25/e24cbc3182fd4048a881c60fb2542048_xl.png">
             </media:thumbnail>
         </item>
     </channel>
