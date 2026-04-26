@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 04:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 07:11:29 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Budget Buys: At-Home Massager Edition]]></title>
+            <link>https://www.tmz.com/2026/04/26/massagers-on-a-budget/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/massagers-on-a-budget/</guid>
+            <pubDate>Sun, 26 Apr 2026 07:05:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/04/21/2ed68a8ad29b454b88db9aa12415271e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/21/2ed68a8ad29b454b88db9aa12415271e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/21/2ed68a8ad29b454b88db9aa12415271e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dip Into Stagecoach With Daddy Diplo&#039;s Hot Shots ... Honky Tonk!]]></title>
+            <link>https://www.tmz.com/2026/04/26/diplo-hot-shots-stagecoach/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/diplo-hot-shots-stagecoach/</guid>
+            <pubDate>Sun, 26 Apr 2026 07:01:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/04/21/1c928d73f44c4189b628fe737394ceb2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/04/21/1c928d73f44c4189b628fe737394ceb2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/04/21/1c928d73f44c4189b628fe737394ceb2_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[President Trump Addresses White House Correspondents&#039; Dinner Shooting, Live Stream]]></title>
             <link>https://www.tmz.com/2026/04/25/president-trump-addresses-white-house-correspondents-dinner-shooting-live-stream/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/04/26/b897f61896da4cdf8a70f06219ef72a2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/04/26/b897f61896da4cdf8a70f06219ef72a2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Fans Dance to &#039;Michael&#039; Biopic in Theaters During Debut Weekend]]></title>
-            <link>https://www.tmz.com/2026/04/25/fans-dance-to-michael-biopic-in-theaters-during-debut-weekend/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/fans-dance-to-michael-biopic-in-theaters-during-debut-weekend/</guid>
-            <pubDate>Sun, 26 Apr 2026 00:10:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/04/25/9e5ed208395644fca13907c80cfc253d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/04/25/9e5ed208395644fca13907c80cfc253d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/04/25/9e5ed208395644fca13907c80cfc253d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sydney Sweeney Sits on Scooter Braun&#039;s Shoulders During Stagecoach]]></title>
-            <link>https://www.tmz.com/2026/04/25/sydney-sweeney-scooter-braun-party-stagecoach/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/25/sydney-sweeney-scooter-braun-party-stagecoach/</guid>
-            <pubDate>Sat, 25 Apr 2026 23:24:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/04/25/f63f3d34ce3d47b1a2dc5a453f3b4ff8_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/04/25/f63f3d34ce3d47b1a2dc5a453f3b4ff8_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/04/25/f63f3d34ce3d47b1a2dc5a453f3b4ff8_xl.png">
             </media:thumbnail>
         </item>
     </channel>
