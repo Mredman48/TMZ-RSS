@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 17:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 18:26:43 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Megan Thee Stallion Breaks Down During Broadway Show After Klay Thompson Split]]></title>
+            <link>https://www.tmz.com/2026/04/26/megan-thee-stallion-cries-after-klay-thompson-breakup/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/megan-thee-stallion-cries-after-klay-thompson-breakup/</guid>
+            <pubDate>Sun, 26 Apr 2026 17:28:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/26/3124693ef80d403b8ec907d164eb8004_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/26/3124693ef80d403b8ec907d164eb8004_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/26/3124693ef80d403b8ec907d164eb8004_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Donald Trump Addresses Suspect Cole Allen&#039;s Alleged Manifesto]]></title>
             <link>https://www.tmz.com/2026/04/26/trump-talks-about-whcd-suspect-manifesto/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/05/16by9/2026/04/26/0501cef904c14b47809e10ca07a3576e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/04/26/0501cef904c14b47809e10ca07a3576e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[White House Correspondents&#039; Dinner Shooting Suspect Seen in Ambulance]]></title>
-            <link>https://www.tmz.com/2026/04/26/shooting-suspect-cole-allen-in-ambulance/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/shooting-suspect-cole-allen-in-ambulance/</guid>
-            <pubDate>Sun, 26 Apr 2026 13:02:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/04/26/9157e7211286445a91beb50b08c5d212_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/04/26/9157e7211286445a91beb50b08c5d212_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/04/26/9157e7211286445a91beb50b08c5d212_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
