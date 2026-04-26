@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 18:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 19:33:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Viral Correspondents’ Dinner Attendee Eating Salad Amid Chaos Speaks Out]]></title>
+            <link>https://www.tmz.com/2026/04/26/whcd-attendee-michael-glantz-talks-about-eating-salad-after-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/whcd-attendee-michael-glantz-talks-about-eating-salad-after-shooting/</guid>
+            <pubDate>Sun, 26 Apr 2026 19:00:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/04/26/363d0fc0aa4149e1bc6ec1b6dc4d4e0a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/04/26/363d0fc0aa4149e1bc6ec1b6dc4d4e0a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/04/26/363d0fc0aa4149e1bc6ec1b6dc4d4e0a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hailey Bieber, Kylie Jenner, Sabrina Carpenter & More Rock the Clean Girl Look]]></title>
+            <link>https://www.tmz.com/2026/04/26/stars-who-rock-clean-girl-look/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/stars-who-rock-clean-girl-look/</guid>
+            <pubDate>Sun, 26 Apr 2026 19:00:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/04/20/86cc29c201aa4a0893cdac79674893e5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/04/20/86cc29c201aa4a0893cdac79674893e5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/04/20/86cc29c201aa4a0893cdac79674893e5_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Alleged WHCD Gunman Designed Wheelchair Emergency Brake, Resurfaced Clip Shows]]></title>
+            <link>https://www.tmz.com/2026/04/26/cole-allen-2017-resurfaced-interview/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/cole-allen-2017-resurfaced-interview/</guid>
+            <pubDate>Sun, 26 Apr 2026 18:24:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/04/26/d0bc4804a4064349aabec99d75d2d952_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/04/26/d0bc4804a4064349aabec99d75d2d952_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/04/26/d0bc4804a4064349aabec99d75d2d952_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Megan Thee Stallion Breaks Down During Broadway Show After Klay Thompson Split]]></title>
             <link>https://www.tmz.com/2026/04/26/megan-thee-stallion-cries-after-klay-thompson-breakup/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/04/26/5007091bc92a4d59a738f60192ef86a8_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[White House Correspondents’ Dinner Suspect Not Cooperating with Authorities, Acting AG Says]]></title>
-            <link>https://www.tmz.com/2026/04/26/whcd-shooting-suspect-cole-allen-not-cooperating/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/whcd-shooting-suspect-cole-allen-not-cooperating/</guid>
-            <pubDate>Sun, 26 Apr 2026 15:38:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/40/16by9/2026/04/26/408e4dc8d3a8471e8565484d70b1df8c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/40/16by9/2026/04/26/408e4dc8d3a8471e8565484d70b1df8c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/40/16by9/2026/04/26/408e4dc8d3a8471e8565484d70b1df8c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[White House Correspondents’ Dinner Host Oz Pearlman Thought They Were Going to Die]]></title>
-            <link>https://www.tmz.com/2026/04/26/mentalist-oz-pearlman-feared-for-life-at-whcd-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/mentalist-oz-pearlman-feared-for-life-at-whcd-shooting/</guid>
-            <pubDate>Sun, 26 Apr 2026 15:08:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/04/26/68ca8f6cccfd45bd95bf80a0db7f1417_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/04/26/68ca8f6cccfd45bd95bf80a0db7f1417_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/04/26/68ca8f6cccfd45bd95bf80a0db7f1417_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Erika Kirk Evacuating White House Correspondents&#039; Dinner in Tears]]></title>
-            <link>https://www.tmz.com/2026/04/26/erika-kirk-crying-while-leaving-white-house-correspondents-dinner/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/erika-kirk-crying-while-leaving-white-house-correspondents-dinner/</guid>
-            <pubDate>Sun, 26 Apr 2026 14:24:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/04/26/0501cef904c14b47809e10ca07a3576e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/04/26/0501cef904c14b47809e10ca07a3576e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/04/26/0501cef904c14b47809e10ca07a3576e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
