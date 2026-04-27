@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 04:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 07:54:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Smart Rings That Make Tracking Your Fitness Easier Than Ever]]></title>
+            <link>https://www.tmz.com/2026/04/27/smart-rings-fitness-tracking-available-on-amazon/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/smart-rings-fitness-tracking-available-on-amazon/</guid>
+            <pubDate>Mon, 27 Apr 2026 07:05:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/04/22/4217f43a52e64581b7947ba502f5a329_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/04/22/4217f43a52e64581b7947ba502f5a329_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/04/22/4217f43a52e64581b7947ba502f5a329_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Happy Boy Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/04/27/guess-who-this-happy-boy-turned-into/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/guess-who-this-happy-boy-turned-into/</guid>
+            <pubDate>Mon, 27 Apr 2026 07:01:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/04/16/0b861bfc9bdf436a87ee01fb84611d78_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/04/16/0b861bfc9bdf436a87ee01fb84611d78_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/04/16/0b861bfc9bdf436a87ee01fb84611d78_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tristan Thompson Takes Photos With Fans Before White House Correspondents Dinner]]></title>
             <link>https://www.tmz.com/2026/04/26/tristan-thompson-white-house-correspondents-dinner-arrival-video/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/38/16by9/2026/04/26/38232b2d3ce44b63b251f344e4c6c851_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/04/26/38232b2d3ce44b63b251f344e4c6c851_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Sitcom Star Is!]]></title>
-            <link>https://www.tmz.com/2026/04/26/guess-who-sitcom-star/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/guess-who-sitcom-star/</guid>
-            <pubDate>Sun, 26 Apr 2026 23:00:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/04/21/009be7739e0e4b9494e7b12969ea0fce_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/04/21/009be7739e0e4b9494e7b12969ea0fce_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/04/21/009be7739e0e4b9494e7b12969ea0fce_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ronettes Singer Nedra Talley Ross Dead at 80]]></title>
-            <link>https://www.tmz.com/2026/04/26/ronettes-nedra-talley-ross-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/ronettes-nedra-talley-ross-dead/</guid>
-            <pubDate>Sun, 26 Apr 2026 22:32:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
