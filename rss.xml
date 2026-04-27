@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 23:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 01:13:13 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tristan Thompson Takes Photos With Fans Before White House Correspondents Dinner]]></title>
+            <link>https://www.tmz.com/2026/04/26/tristan-thompson-white-house-correspondents-dinner-arrival-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/tristan-thompson-white-house-correspondents-dinner-arrival-video/</guid>
+            <pubDate>Mon, 27 Apr 2026 00:30:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/04/26/ceedbd38a8224d92bece79247ff4cdf7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/04/26/ceedbd38a8224d92bece79247ff4cdf7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/04/26/ceedbd38a8224d92bece79247ff4cdf7_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Trump Says He Wanted To See What Was Going On After WHCD Shooting]]></title>
+            <link>https://www.tmz.com/2026/04/26/trump-reacts-white-house-correspondents-dinner-shooting-60-minutes/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/trump-reacts-white-house-correspondents-dinner-shooting-60-minutes/</guid>
+            <pubDate>Sun, 26 Apr 2026 23:40:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/04/26/3782b197f14549339239c966a4cac69b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/04/26/3782b197f14549339239c966a4cac69b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/04/26/3782b197f14549339239c966a4cac69b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Madonna Performs At The Abbey, Addison Rae Hypes Up Crowd]]></title>
             <link>https://www.tmz.com/2026/04/26/madonna-performs-the-abbey-addison-rae/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/04/26/1fe136d8e19343118d1e49ccbca8000b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Alleged WHCD Gunman Cole Allen&#039;s College Professor Recalls How He Was As Student]]></title>
-            <link>https://www.tmz.com/2026/04/26/cole-allen-professor-describes-him-as-good-student/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/cole-allen-professor-describes-him-as-good-student/</guid>
-            <pubDate>Sun, 26 Apr 2026 22:08:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/99/16by9/2026/04/26/995e27bf68c24c0aa3ed11dcc421e3b9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/99/16by9/2026/04/26/995e27bf68c24c0aa3ed11dcc421e3b9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/04/26/995e27bf68c24c0aa3ed11dcc421e3b9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tom Hanks Rocks Along to Son Chet&#039;s Stagecoach Performance]]></title>
-            <link>https://www.tmz.com/2026/04/26/tom-hanks-enjoys-chet-stagecoach-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/26/tom-hanks-enjoys-chet-stagecoach-concert/</guid>
-            <pubDate>Sun, 26 Apr 2026 21:43:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/04/26/91a8a4f32c4848ff92bff077c4864cdd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/04/26/91a8a4f32c4848ff92bff077c4864cdd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/04/26/91a8a4f32c4848ff92bff077c4864cdd_xl.png">
             </media:thumbnail>
         </item>
     </channel>
