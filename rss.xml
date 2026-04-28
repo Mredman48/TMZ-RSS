@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 05:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 07:54:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Jimmy Kimmel Addresses Donald and Melania Trump Calling for ABC to Fire Him]]></title>
-            <link>https://www.tmz.com/2026/04/27/jimmy-kimmel-on-donald-melania-trump-calling-for-his-canning/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/jimmy-kimmel-on-donald-melania-trump-calling-for-his-canning/</guid>
-            <pubDate>Tue, 28 Apr 2026 04:25:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51f1ee4885f74290b121669a08d730cb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51f1ee4885f74290b121669a08d730cb_xl.jpg" medium="image">
+            <title><![CDATA[Jeanie Stangle In &#039;Mike & Dave Need Wedding Dates&#039; &#039;Memba Her?!]]></title>
+            <link>https://www.tmz.com/2026/04/28/jeanie-stangle-in-mike-and-dave-need-wedding-dates-memba-her-adam-devine-anna-kendrick-zac-efron/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/jeanie-stangle-in-mike-and-dave-need-wedding-dates-memba-her-adam-devine-anna-kendrick-zac-efron/</guid>
+            <pubDate>Tue, 28 Apr 2026 07:45:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/02/06/03ba69e63a0e4d24900ee28e3be81891_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/02/06/03ba69e63a0e4d24900ee28e3be81891_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51f1ee4885f74290b121669a08d730cb_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/02/06/03ba69e63a0e4d24900ee28e3be81891_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift Grabs Dinner With Dad Amid NYC Wedding Speculation]]></title>
-            <link>https://www.tmz.com/2026/04/27/taylor-swift-seen-with-dad-as-possible-nyc-wedding-looms/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/taylor-swift-seen-with-dad-as-possible-nyc-wedding-looms/</guid>
-            <pubDate>Tue, 28 Apr 2026 01:14:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/04/28/bec2a294c0d044aeb3098916c718731e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/04/28/bec2a294c0d044aeb3098916c718731e_xl.jpg" medium="image">
+            <title><![CDATA[Diego Pavia Made It Rain At Strip Club Weeks Before NFL Draft]]></title>
+            <link>https://www.tmz.com/2026/04/28/diego-pavia-at-strip-club/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/diego-pavia-at-strip-club/</guid>
+            <pubDate>Tue, 28 Apr 2026 07:30:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/04/27/91d147876b1d4bf7bac5a9acb116780e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/04/27/91d147876b1d4bf7bac5a9acb116780e_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/04/28/bec2a294c0d044aeb3098916c718731e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/04/27/91d147876b1d4bf7bac5a9acb116780e_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Megan Thee Stallion Exiting Broadway Show Early After Klay Thompson Split]]></title>
-            <link>https://www.tmz.com/2026/04/27/megan-thee-stallion-leaving-broadway-after-klay-thompson-split/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/megan-thee-stallion-leaving-broadway-after-klay-thompson-split/</guid>
-            <pubDate>Tue, 28 Apr 2026 00:57:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/04/28/1fe1827db343476da41930c0d40c38f6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/04/28/1fe1827db343476da41930c0d40c38f6_xl.jpg" medium="image">
+            <title><![CDATA[Jessica Alba&#039;s Honest Beauty Essentials]]></title>
+            <link>https://www.tmz.com/2026/04/28/jessica-alba-honest-beauty-must-haves/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/jessica-alba-honest-beauty-must-haves/</guid>
+            <pubDate>Tue, 28 Apr 2026 07:05:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/04/13/288530f0846d4e08a109d8d753eb2ef8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/04/13/288530f0846d4e08a109d8d753eb2ef8_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/04/28/1fe1827db343476da41930c0d40c38f6_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/04/13/288530f0846d4e08a109d8d753eb2ef8_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[John Branca Gushes Over Miles Teller&#039;s Portrayal of Him in &#039;Michael&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/27/john-branca-loved-miles-teller-in-michael-jackson-biopic/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/john-branca-loved-miles-teller-in-michael-jackson-biopic/</guid>
-            <pubDate>Tue, 28 Apr 2026 00:30:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/04/27/8eecf3ddc0f14d05a6732938a7d1b373_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/04/27/8eecf3ddc0f14d05a6732938a7d1b373_xl.jpg" medium="image">
+            <title><![CDATA[Jessica Alba&#039;s Hot Shots To Kick Off Her 45th Bday!]]></title>
+            <link>https://www.tmz.com/2026/04/28/jessica-alba-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/jessica-alba-hot-shots/</guid>
+            <pubDate>Tue, 28 Apr 2026 07:01:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/04/27/52414e509d3140d5808a14a077ea52a1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/04/27/52414e509d3140d5808a14a077ea52a1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/04/27/8eecf3ddc0f14d05a6732938a7d1b373_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/04/27/52414e509d3140d5808a14a077ea52a1_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ashlee Jenae&#039;s Engagement Ring Still Unaccounted for After Body Returned to Family]]></title>
-            <link>https://www.tmz.com/2026/04/27/ashlee-jenae-body-back-with-family-ring-missing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/ashlee-jenae-body-back-with-family-ring-missing/</guid>
-            <pubDate>Tue, 28 Apr 2026 00:30:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/04/27/6309b126f16f4f5185d6151ef3994fb5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/04/27/6309b126f16f4f5185d6151ef3994fb5_xl.jpg" medium="image">
+            <title><![CDATA[Huda Mustafa&#039;s BF Louis&#039; Baby Mama Claims &#039;Love Island&#039; Star Is &#039;Evading&#039; Court Battle]]></title>
+            <link>https://www.tmz.com/2026/04/28/huda-mustafa-bf-louis-ex-gf-claims-love-island-star-is-evading-court-battle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/huda-mustafa-bf-louis-ex-gf-claims-love-island-star-is-evading-court-battle/</guid>
+            <pubDate>Tue, 28 Apr 2026 07:00:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/04/27/2458f50e0a33458aa58fd7b8b0a3b01f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/04/27/2458f50e0a33458aa58fd7b8b0a3b01f_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/04/27/6309b126f16f4f5185d6151ef3994fb5_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/04/27/2458f50e0a33458aa58fd7b8b0a3b01f_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
