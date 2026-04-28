@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 22:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 23:34:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kylie Jenner vs. Halle Bailey Who&#039;d You Rather?! Babes In Orange Edition]]></title>
+            <link>https://www.tmz.com/2026/04/28/kylie-jenner-halle-bailey-hot-pics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/kylie-jenner-halle-bailey-hot-pics/</guid>
+            <pubDate>Tue, 28 Apr 2026 23:16:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/04/28/42cc15d09b014bc1a107ee3036939749_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/04/28/42cc15d09b014bc1a107ee3036939749_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/04/28/42cc15d09b014bc1a107ee3036939749_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Menace II Society&#039; Actor Samuel Monroe Jr.&#039;s Family Gets More Bad Medical News]]></title>
+            <link>https://www.tmz.com/2026/04/28/menace-ii-society-actor-samuel-monroe-jr-mrsa-infection/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/menace-ii-society-actor-samuel-monroe-jr-mrsa-infection/</guid>
+            <pubDate>Tue, 28 Apr 2026 23:05:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/04/28/952b10b1c7254ca0823e0aee77c6860b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/04/28/952b10b1c7254ca0823e0aee77c6860b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/04/28/952b10b1c7254ca0823e0aee77c6860b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brooke Shields Reveals Whether She&#039;s Watched Michael Jackson&#039;s Biopic]]></title>
+            <link>https://www.tmz.com/2026/04/28/brooke-shields-on-michael-jackson-biopic-movie/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/brooke-shields-on-michael-jackson-biopic-movie/</guid>
+            <pubDate>Tue, 28 Apr 2026 22:51:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/04/28/5eadec55eb7b4828a7518baf84ed8feb_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/04/28/5eadec55eb7b4828a7518baf84ed8feb_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/04/28/5eadec55eb7b4828a7518baf84ed8feb_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Khloé Kardashian&#039;s BFF, &#039;The Girls&#039; Star Natalie Halcro Spotted With Mike Majlak]]></title>
             <link>https://www.tmz.com/2026/04/28/khloe-kardashians-best-friend-natalie-halcro-spotted-on-date-with-mike-majlak/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/99/16by9/2026/04/28/990e8b0e30dd4541b36ee084f47db6f7_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/04/28/990e8b0e30dd4541b36ee084f47db6f7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Secret Lives of Mormon Wives&#039; Orange County Spinoff Seen Filming]]></title>
-            <link>https://www.tmz.com/2026/04/28/orange-county-spinoff-secret-lives-of-mormon-wives-seen-filming/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/orange-county-spinoff-secret-lives-of-mormon-wives-seen-filming/</guid>
-            <pubDate>Tue, 28 Apr 2026 22:18:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/04/28/e526dda36dd94b0b9f69ffbf68ff8eb4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/04/28/e526dda36dd94b0b9f69ffbf68ff8eb4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/04/28/e526dda36dd94b0b9f69ffbf68ff8eb4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ice Spice Shows Off Backside, Calls Herself the &#039;Birthday Cake&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/28/ice-spice-poses-instagram-pics-of-her-butt/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/ice-spice-poses-instagram-pics-of-her-butt/</guid>
-            <pubDate>Tue, 28 Apr 2026 22:11:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/04/28/269ff830813f4cae8df1614af9f3959c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/04/28/269ff830813f4cae8df1614af9f3959c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/04/28/269ff830813f4cae8df1614af9f3959c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;He-Man&#039; Creator Roger Sweet Dead at 91]]></title>
-            <link>https://www.tmz.com/2026/04/28/he-man-creator-roger-sweet-dead-at-91/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/he-man-creator-roger-sweet-dead-at-91/</guid>
-            <pubDate>Tue, 28 Apr 2026 21:54:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/04/28/03bf45395f264aa9b0f10ada6fb103f6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/04/28/03bf45395f264aa9b0f10ada6fb103f6_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/04/28/03bf45395f264aa9b0f10ada6fb103f6_xl.png">
             </media:thumbnail>
         </item>
     </channel>
