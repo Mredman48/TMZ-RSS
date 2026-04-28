@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 01:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 05:01:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jimmy Kimmel Addresses Donald and Melania Trump Calling for ABC to Fire Him]]></title>
+            <link>https://www.tmz.com/2026/04/27/jimmy-kimmel-on-donald-melania-trump-calling-for-his-canning/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/jimmy-kimmel-on-donald-melania-trump-calling-for-his-canning/</guid>
+            <pubDate>Tue, 28 Apr 2026 04:25:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51f1ee4885f74290b121669a08d730cb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51f1ee4885f74290b121669a08d730cb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51f1ee4885f74290b121669a08d730cb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift Grabs Dinner With Dad Amid NYC Wedding Speculation]]></title>
             <link>https://www.tmz.com/2026/04/27/taylor-swift-seen-with-dad-as-possible-nyc-wedding-looms/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/63/16by9/2026/04/27/6309b126f16f4f5185d6151ef3994fb5_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/04/27/6309b126f16f4f5185d6151ef3994fb5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;General Hospital&#039; Star Kirsten Storms&#039; Ex Granted Restraining Order Due to &#039;Mental Health Crisis&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/27/kirsten-storms-ex-granted-restraining-order/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/27/kirsten-storms-ex-granted-restraining-order/</guid>
-            <pubDate>Tue, 28 Apr 2026 00:00:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/04/27/242501a85033486a86797797610f6317_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/04/27/242501a85033486a86797797610f6317_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/04/27/242501a85033486a86797797610f6317_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
