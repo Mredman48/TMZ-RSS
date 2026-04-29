@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 23:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 01:21:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ray J Claims He&#039;s Slept With 12,500 Women]]></title>
+            <link>https://www.tmz.com/2026/04/28/ray-j-women-sex-relationships/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/ray-j-women-sex-relationships/</guid>
+            <pubDate>Wed, 29 Apr 2026 00:50:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/04/28/345f7cde8f9246ea8e0d99cd27e4aebd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/04/28/345f7cde8f9246ea8e0d99cd27e4aebd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/04/28/345f7cde8f9246ea8e0d99cd27e4aebd_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kylie Jenner vs. Halle Bailey Who&#039;d You Rather?! Babes In Orange Edition]]></title>
             <link>https://www.tmz.com/2026/04/28/kylie-jenner-halle-bailey-hot-pics/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/04/28/2d5a5ea255b84739a72f576ae3f71d76_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/04/28/2d5a5ea255b84739a72f576ae3f71d76_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Viral Sydney Sweeney &#039;Euphoria&#039; On-Set Fart Video Clip Isn&#039;t Real]]></title>
-            <link>https://www.tmz.com/2026/04/28/sydney-sweeney-euphoria-fart-clip-not-real/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/28/sydney-sweeney-euphoria-fart-clip-not-real/</guid>
-            <pubDate>Tue, 28 Apr 2026 22:20:42 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/99/16by9/2026/04/28/990e8b0e30dd4541b36ee084f47db6f7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/99/16by9/2026/04/28/990e8b0e30dd4541b36ee084f47db6f7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/99/16by9/2026/04/28/990e8b0e30dd4541b36ee084f47db6f7_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
