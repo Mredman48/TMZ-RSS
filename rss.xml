@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 22:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 23:35:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Patrick Muldoon&#039;s Cause of Death Revealed]]></title>
+            <link>https://www.tmz.com/2026/04/29/patrick-muldoon-cause-of-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/29/patrick-muldoon-cause-of-death/</guid>
+            <pubDate>Wed, 29 Apr 2026 23:21:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9f/16by9/2026/04/29/9feb961b86a443428183d1212ba61f52_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9f/16by9/2026/04/29/9feb961b86a443428183d1212ba61f52_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9f/16by9/2026/04/29/9feb961b86a443428183d1212ba61f52_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;SNL&#039; Writer Jimmy Fowlie&#039;s Missing Sister Is Dead, Cops Investigating Homicide]]></title>
+            <link>https://www.tmz.com/2026/04/29/jimmy-fowlie-missing-sister-dead-cops-investigate-homicide/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/29/jimmy-fowlie-missing-sister-dead-cops-investigate-homicide/</guid>
+            <pubDate>Wed, 29 Apr 2026 23:01:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/04/29/74f6217e47bb4276ab59665159183beb_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/04/29/74f6217e47bb4276ab59665159183beb_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/04/29/74f6217e47bb4276ab59665159183beb_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[AOC Says It&#039;s Possible We&#039;ve Already Had A Gay President]]></title>
+            <link>https://www.tmz.com/2026/04/29/aoc-explains-possibility-of-a-prior-gay-president/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/29/aoc-explains-possibility-of-a-prior-gay-president/</guid>
+            <pubDate>Wed, 29 Apr 2026 22:44:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cd/16by9/2026/04/29/cdd54980b355489e83b35c9eaa5104f4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/cd/16by9/2026/04/29/cdd54980b355489e83b35c9eaa5104f4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cd/16by9/2026/04/29/cdd54980b355489e83b35c9eaa5104f4_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[D4vd Bought Two Chainsaws, Shovel After Killing Celeste Rivas, Prosecutors Claim]]></title>
             <link>https://www.tmz.com/2026/04/29/d4vd-bought-chainsaws-after-killing-celeste-rivas/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/db/16by9/2026/04/29/dbe4236c10aa4c53a112ff59ab425541_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/04/29/dbe4236c10aa4c53a112ff59ab425541_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Alleged WHCD Gunman&#039;s Lawyer Files Emergency Motion To Visit Him In Jail]]></title>
-            <link>https://www.tmz.com/2026/04/29/cole-allen-lawyer-files-motion-for-jail-visit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/29/cole-allen-lawyer-files-motion-for-jail-visit/</guid>
-            <pubDate>Wed, 29 Apr 2026 21:49:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/04/29/a8adb23e282f40ddbc96b17e4cf6b20a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/04/29/a8adb23e282f40ddbc96b17e4cf6b20a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/04/29/a8adb23e282f40ddbc96b17e4cf6b20a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Mission: Impossible&#039; Star Ving Rhames Collapses In Restaurant]]></title>
-            <link>https://www.tmz.com/2026/04/29/ving-rhames-mission-impossible-collapses-medical-restaurant/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/29/ving-rhames-mission-impossible-collapses-medical-restaurant/</guid>
-            <pubDate>Wed, 29 Apr 2026 21:27:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/04/29/51252c8f23044a2da6466a581ac5dbc9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/04/29/51252c8f23044a2da6466a581ac5dbc9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/04/29/51252c8f23044a2da6466a581ac5dbc9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Senator Katie Britt To Go on D.C. Date with Jacob!!!]]></title>
-            <link>https://www.tmz.com/2026/04/29/senator-katie-britt-to-go-on-date-with-our-reporter/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/29/senator-katie-britt-to-go-on-date-with-our-reporter/</guid>
-            <pubDate>Wed, 29 Apr 2026 20:55:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/04/29/e4d8fce8354041a28b3857d8dc247ca9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/04/29/e4d8fce8354041a28b3857d8dc247ca9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/04/29/e4d8fce8354041a28b3857d8dc247ca9_xl.png">
             </media:thumbnail>
         </item>
     </channel>
