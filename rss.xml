@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 14:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 16:07:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Shilo Sanders Tells Browns Reporter To &#039;Go Make a Sandwich&#039; Over QB Battle Comment]]></title>
+            <link>https://www.tmz.com/2026/04/30/shilo-sanders-go-make-a-sandwich/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/shilo-sanders-go-make-a-sandwich/</guid>
+            <pubDate>Thu, 30 Apr 2026 15:52:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/04/30/f3736dc0db0d4989a7f4f79ebd4ebd35_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/04/30/f3736dc0db0d4989a7f4f79ebd4ebd35_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/04/30/f3736dc0db0d4989a7f4f79ebd4ebd35_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dan Meuser Says He Knows Who to Blame for Shutdown, &#039;Talk to the F***ing Democrats&#039;]]></title>
+            <link>https://www.tmz.com/2026/04/30/dan-meuser-slams-democrats-for-shutdown/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/dan-meuser-slams-democrats-for-shutdown/</guid>
+            <pubDate>Thu, 30 Apr 2026 15:13:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/04/30/278456e00d304fb4ad66f25d705cec9e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/04/30/278456e00d304fb4ad66f25d705cec9e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/04/30/278456e00d304fb4ad66f25d705cec9e_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[LeBron James Destoys Alperen Sengun During Free Throws, &#039;Soft Ass Tall Guy&#039;]]></title>
+            <link>https://www.tmz.com/2026/04/30/lebron-james-rips-alperen-sengun-free-throw-exchange/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/lebron-james-rips-alperen-sengun-free-throw-exchange/</guid>
+            <pubDate>Thu, 30 Apr 2026 15:03:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/04/30/046f910deb99467a80e5025da68b3801_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/04/30/046f910deb99467a80e5025da68b3801_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/04/30/046f910deb99467a80e5025da68b3801_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Stassi Schroeder Shades ‘Vanderpump Rules’ Coworkers, Praises New Show, on Video]]></title>
+            <link>https://www.tmz.com/2026/04/30/stassi-schroeder-vanderpump-vs-house-of-stassi/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/stassi-schroeder-vanderpump-vs-house-of-stassi/</guid>
+            <pubDate>Thu, 30 Apr 2026 14:33:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/04/28/19dce2d785ae4405b103dfe41ec20997_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/04/28/19dce2d785ae4405b103dfe41ec20997_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/04/28/19dce2d785ae4405b103dfe41ec20997_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Senate Candidate Mallory McMorrow Clears X Account After Complaining About State]]></title>
             <link>https://www.tmz.com/2026/04/30/michigans-mallory-mcmorrow-scrubs-social-media-account/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/48/16by9/2026/04/30/48ed2f18abb6481eb24aaea4b786868d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/04/30/48ed2f18abb6481eb24aaea4b786868d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Liam Payne&#039;s Former GF Kate Cassidy Shares Video From Last Outing With Star]]></title>
-            <link>https://www.tmz.com/2026/04/30/kate-cassidy-shares-video-from-last-outing-with-liam-payne/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/kate-cassidy-shares-video-from-last-outing-with-liam-payne/</guid>
-            <pubDate>Thu, 30 Apr 2026 14:04:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/04/30/c2074523b419475f8b2d1093c9668947_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/04/30/c2074523b419475f8b2d1093c9668947_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/04/30/c2074523b419475f8b2d1093c9668947_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Drake Maye Supports Mike Vrabel Amid Russini Scandal, &#039;We Love Coach&#039;]]></title>
-            <link>https://www.tmz.com/2026/04/30/drake-maye-supports-mike-vrabel-amid-russini-scandal/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/drake-maye-supports-mike-vrabel-amid-russini-scandal/</guid>
-            <pubDate>Thu, 30 Apr 2026 14:03:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/04/30/174eb2b2d44b422e8d3f01bab0687cfa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/04/30/174eb2b2d44b422e8d3f01bab0687cfa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/04/30/174eb2b2d44b422e8d3f01bab0687cfa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Calls James Comey a &#039;Dirty Cop,&#039; Claims &#039;86 47&#039; Is Deadly Code]]></title>
-            <link>https://www.tmz.com/2026/04/30/trump-calls-james-comey-a-dirty-cop/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/trump-calls-james-comey-a-dirty-cop/</guid>
-            <pubDate>Thu, 30 Apr 2026 13:57:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/04/30/160ad7c68677412db041e5d7990dd395_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/04/30/160ad7c68677412db041e5d7990dd395_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/04/30/160ad7c68677412db041e5d7990dd395_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jimmy Kimmel Fires Back at the Trumps, Mocks Their Hand-Holding]]></title>
-            <link>https://www.tmz.com/2026/04/30/jimmy-kimmel-mocks-donald-melania-trump-hand-holding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/jimmy-kimmel-mocks-donald-melania-trump-hand-holding/</guid>
-            <pubDate>Thu, 30 Apr 2026 13:46:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e901372dc084bdbb794e4701a3af383_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e901372dc084bdbb794e4701a3af383_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e901372dc084bdbb794e4701a3af383_xl.png">
             </media:thumbnail>
         </item>
     </channel>
