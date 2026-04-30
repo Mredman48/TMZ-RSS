@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 07:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 10:28:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kyrsten Sinema No Longer Sleeping With Married Man, BF’s Divorce Finalized]]></title>
+            <link>https://www.tmz.com/2026/04/30/kyrsten-sinema-boyfriend-divorce-finalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/kyrsten-sinema-boyfriend-divorce-finalized/</guid>
+            <pubDate>Thu, 30 Apr 2026 09:00:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/04/29/2c17dd2a7adc4419b5d8d0783eb5d88c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/04/29/2c17dd2a7adc4419b5d8d0783eb5d88c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/04/29/2c17dd2a7adc4419b5d8d0783eb5d88c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[‘Owning Manhattan&#039; Jade Shenker Fought Dad&#039;s Guardian Over Home Before Death]]></title>
+            <link>https://www.tmz.com/2026/04/30/jade-shenker-fought-late-fathers-guardian-over-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/jade-shenker-fought-late-fathers-guardian-over-home/</guid>
+            <pubDate>Thu, 30 Apr 2026 08:00:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/04/28/10bce98fb58242ada47f4823c74f8456_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/04/28/10bce98fb58242ada47f4823c74f8456_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/04/28/10bce98fb58242ada47f4823c74f8456_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Cheek of the Week -- Alessandra Ambrosio Slays At 44!]]></title>
             <link>https://www.tmz.com/2026/04/30/alessandra-ambrosio-cheeky-bikini-pics/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51a7444cd1414f54b709d6706ccb3425_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/04/28/51a7444cd1414f54b709d6706ccb3425_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gal Gadot Hot Shots To Celebrate 41st Birthday]]></title>
-            <link>https://www.tmz.com/2026/04/30/gal-gadot-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/gal-gadot-birthday-hot-shots/</guid>
-            <pubDate>Thu, 30 Apr 2026 07:01:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/04/29/2055d55269564b7da380beb4d3d8cb1f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/04/29/2055d55269564b7da380beb4d3d8cb1f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/04/29/2055d55269564b7da380beb4d3d8cb1f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pooh Shiesty’s Dad to Feds: No Evidence I Helped Kidnap Gucci Mane!]]></title>
-            <link>https://www.tmz.com/2026/04/30/pooh-shiesty-dad-responds-to-gucci-mane-kidnapping-claims/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/pooh-shiesty-dad-responds-to-gucci-mane-kidnapping-claims/</guid>
-            <pubDate>Thu, 30 Apr 2026 07:00:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/29/31cffc285922401d903ded573b7191ba_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/29/31cffc285922401d903ded573b7191ba_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/29/31cffc285922401d903ded573b7191ba_xl.png">
             </media:thumbnail>
         </item>
     </channel>
