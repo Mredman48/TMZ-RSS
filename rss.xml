@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 21:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 22:33:12 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Michael Jackson&#039;s Crystal Gloves, Fedora for Sale at Auction]]></title>
+            <link>https://www.tmz.com/2026/04/30/michael-jackson-items-auction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/michael-jackson-items-auction/</guid>
+            <pubDate>Thu, 30 Apr 2026 21:54:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/04/30/639cb3b6eca54d42aa3fd5e2037d1161_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/04/30/639cb3b6eca54d42aa3fd5e2037d1161_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/04/30/639cb3b6eca54d42aa3fd5e2037d1161_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[TMZ Comedy Crawl Packs 10 Comedians on Bus Across Hollywood Stops]]></title>
+            <link>https://www.tmz.com/2026/04/30/comedy-crawl-packs-in-ten-comedians/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/comedy-crawl-packs-in-ten-comedians/</guid>
+            <pubDate>Thu, 30 Apr 2026 21:54:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/04/29/19b661b2d6dd4052872b50ad63c6bf47_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/04/29/19b661b2d6dd4052872b50ad63c6bf47_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/04/29/19b661b2d6dd4052872b50ad63c6bf47_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hip Hop Hotties &#039;Cherish&#039; &#039;Memba Them?!]]></title>
+            <link>https://www.tmz.com/2026/04/30/hip-hop-hotties-cherish-memba-them/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/hip-hop-hotties-cherish-memba-them/</guid>
+            <pubDate>Thu, 30 Apr 2026 21:53:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/04/23/850c4b42aa0b46399b30975309bcbd08_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/23/850c4b42aa0b46399b30975309bcbd08_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/23/850c4b42aa0b46399b30975309bcbd08_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Celeste Rivas&#039; Family Reacts to Horrific Details of Her Death]]></title>
+            <link>https://www.tmz.com/2026/04/30/celeste-rivas-family-reacts-to-death-details/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/celeste-rivas-family-reacts-to-death-details/</guid>
+            <pubDate>Thu, 30 Apr 2026 21:43:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/04/30/1a207899a96643cb8931f60160763bb3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/04/30/1a207899a96643cb8931f60160763bb3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/04/30/1a207899a96643cb8931f60160763bb3_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Britney Spears Spotted for First Time Since Finishing Rehab, See Pics]]></title>
             <link>https://www.tmz.com/2026/04/30/britney-spears-spotted-for-first-time-since-finishing-rehab-dui-charges/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/04/30/b9495568c4f64b5b9d10c96dc00f4bcf_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/04/30/b9495568c4f64b5b9d10c96dc00f4bcf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul, Dakota Mortensen In Court Amid Custody Battle, Live Stream]]></title>
-            <link>https://www.tmz.com/2026/04/30/taylor-frankie-paul-dakota-mortensen-in-court/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/taylor-frankie-paul-dakota-mortensen-in-court/</guid>
-            <pubDate>Thu, 30 Apr 2026 21:20:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a0/16by9/2026/04/30/a0dc2a43293945fcbf0b6a40757e6c7c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a0/16by9/2026/04/30/a0dc2a43293945fcbf0b6a40757e6c7c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a0/16by9/2026/04/30/a0dc2a43293945fcbf0b6a40757e6c7c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Michael&#039; Star Colman Domingo Sells Los Angeles Home for $2.1M]]></title>
-            <link>https://www.tmz.com/2026/04/30/colman-domingo-sells-los-angeles-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/colman-domingo-sells-los-angeles-house/</guid>
-            <pubDate>Thu, 30 Apr 2026 21:00:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/04/30/15cbc46a3c7348efa7bc7298f206dc0a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/04/30/15cbc46a3c7348efa7bc7298f206dc0a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/04/30/15cbc46a3c7348efa7bc7298f206dc0a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jeffrey Epstein&#039;s Possible Suicide Note Sealed by Court: Report]]></title>
-            <link>https://www.tmz.com/2026/04/30/jeffrey-epstein-alleged-suicide-note-sealed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/jeffrey-epstein-alleged-suicide-note-sealed/</guid>
-            <pubDate>Thu, 30 Apr 2026 20:51:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/04/30/08cdaa19453f441697338c7b9c60059e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/04/30/08cdaa19453f441697338c7b9c60059e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/04/30/08cdaa19453f441697338c7b9c60059e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[50 Cent Sued by Ex-Staffer Claiming Retaliation, Harassment, Witness Intimidation]]></title>
-            <link>https://www.tmz.com/2026/04/30/50-cent-sued-by-former-staffer/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/50-cent-sued-by-former-staffer/</guid>
-            <pubDate>Thu, 30 Apr 2026 20:33:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/04/30/17f3468de4ea45f4b53004168a5f7204_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/04/30/17f3468de4ea45f4b53004168a5f7204_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/04/30/17f3468de4ea45f4b53004168a5f7204_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
