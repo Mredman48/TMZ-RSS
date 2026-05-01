@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 22:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 23:34:32 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Selena Gomez Selling Los Angeles Home a Year After Buying With Benny Blanco]]></title>
+            <link>https://www.tmz.com/2026/05/01/selena-gomez-lists-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/selena-gomez-lists-home/</guid>
+            <pubDate>Fri, 01 May 2026 23:29:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/05/01/556fb20b6ec1457db7d84511de5202a6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/05/01/556fb20b6ec1457db7d84511de5202a6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/05/01/556fb20b6ec1457db7d84511de5202a6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Mormon Wives&#039; Chase McWhorter Leaves Filming Up to the Women]]></title>
+            <link>https://www.tmz.com/2026/05/01/chase-mcwhorter-on-slomw-filming/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/chase-mcwhorter-on-slomw-filming/</guid>
+            <pubDate>Fri, 01 May 2026 22:37:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/05/01/e2857a80182f4272b6def3bb597ea699_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/05/01/e2857a80182f4272b6def3bb597ea699_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/05/01/e2857a80182f4272b6def3bb597ea699_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bella Hadid & Adan Banuelos Seen Together Months After Breakup Reports]]></title>
             <link>https://www.tmz.com/2026/05/01/bella-hadid-adan-banuelos-seen-after-breakup-reports/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kara Swisher Says Humans Connecting, Not Technology, Extends Your Life]]></title>
-            <link>https://www.tmz.com/2026/05/01/kara-swisher-thinks-people-need-to-connect-personally/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/kara-swisher-thinks-people-need-to-connect-personally/</guid>
-            <pubDate>Fri, 01 May 2026 20:37:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/53/16by9/2026/05/01/53397ebbb48b47f48fe656769c95e30c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/53/16by9/2026/05/01/53397ebbb48b47f48fe656769c95e30c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/53/16by9/2026/05/01/53397ebbb48b47f48fe656769c95e30c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celeste Rivas Honored With Growing Memorial of Flowers at Gravesite]]></title>
-            <link>https://www.tmz.com/2026/05/01/celeste-rivas-hernandez-gravesite-filled-with-flowers/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/celeste-rivas-hernandez-gravesite-filled-with-flowers/</guid>
-            <pubDate>Fri, 01 May 2026 20:30:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/05/01/95c5a135cddc4539b0934aefd29ea9b9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/05/01/95c5a135cddc4539b0934aefd29ea9b9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/05/01/95c5a135cddc4539b0934aefd29ea9b9_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
