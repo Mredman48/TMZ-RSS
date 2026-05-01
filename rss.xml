@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 23:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 01:25:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;General Hospital&#039; Star Kirsten Storms: Police Investigating Alleged Phone Hacking]]></title>
+            <link>https://www.tmz.com/2026/04/30/police-investigating-kirsten-storms-phone-hacking-claim/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/police-investigating-kirsten-storms-phone-hacking-claim/</guid>
+            <pubDate>Fri, 01 May 2026 00:30:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ee/16by9/2026/04/30/ee036104a1a8478abd3ca53c2bc5f890_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ee/16by9/2026/04/30/ee036104a1a8478abd3ca53c2bc5f890_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ee/16by9/2026/04/30/ee036104a1a8478abd3ca53c2bc5f890_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Celeste Rivas&#039; Parents Investigated, Cleared Over Child Neglect Allegations]]></title>
+            <link>https://www.tmz.com/2026/04/30/celeste-rivas-family-child-neglect-abuse-allegations-cleared/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/celeste-rivas-family-child-neglect-abuse-allegations-cleared/</guid>
+            <pubDate>Thu, 30 Apr 2026 23:57:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/04/30/85bd10d397a1464898dbc5405f96f9f6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/30/85bd10d397a1464898dbc5405f96f9f6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/30/85bd10d397a1464898dbc5405f96f9f6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[JPMorgan Exec Claims in Lawsuit Female Boss Drugged Him, Forced Him to Have Sex]]></title>
+            <link>https://www.tmz.com/2026/04/30/jpmorgan-chase-executive-claims-boss-forced-him-to-have-sex/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/jpmorgan-chase-executive-claims-boss-forced-him-to-have-sex/</guid>
+            <pubDate>Thu, 30 Apr 2026 23:38:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/04/30/2272d965fc3c48e794f9f9bc8e084465_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/30/2272d965fc3c48e794f9f9bc8e084465_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/30/2272d965fc3c48e794f9f9bc8e084465_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Video Shows WHCD Suspect Cole Allen Shooting Secret Service Officer]]></title>
             <link>https://www.tmz.com/2026/04/30/cole-allen-shooting-officer-at-washington-dc-hilton/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/04/30/0a231bd7eeb642a5848b7f2a958b4329_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/04/30/0a231bd7eeb642a5848b7f2a958b4329_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celeste Rivas&#039; Memorial Outside Family Home Seen After D4VD&#039;s Arrest]]></title>
-            <link>https://www.tmz.com/2026/04/30/celeste-rivas-memorial-today/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/celeste-rivas-memorial-today/</guid>
-            <pubDate>Thu, 30 Apr 2026 23:00:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/04/30/18ede6db2eb849c5ba2254d46704ee6d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/04/30/18ede6db2eb849c5ba2254d46704ee6d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/04/30/18ede6db2eb849c5ba2254d46704ee6d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dwayne &#039;The Rock&#039; Johnson Pulled Over by Police After Walk of Fame Event]]></title>
-            <link>https://www.tmz.com/2026/04/30/dwayne-johnson-pulled-over-in-los-angeles/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/dwayne-johnson-pulled-over-in-los-angeles/</guid>
-            <pubDate>Thu, 30 Apr 2026 22:41:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/04/30/20c2f15a298a49d6b12f9712d89ab092_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/04/30/20c2f15a298a49d6b12f9712d89ab092_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/04/30/20c2f15a298a49d6b12f9712d89ab092_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kylie Jenner Slashes Millions Off Mansion Price One Month After Listing]]></title>
-            <link>https://www.tmz.com/2026/04/30/kylie-jenner-cuts-price-of-hidden-hills-home/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/04/30/kylie-jenner-cuts-price-of-hidden-hills-home/</guid>
-            <pubDate>Thu, 30 Apr 2026 22:37:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/04/30/9aa817272ae7415b8c23cb975d368082_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/04/30/9aa817272ae7415b8c23cb975d368082_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/04/30/9aa817272ae7415b8c23cb975d368082_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
