@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 07:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 10:10:20 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Chris Brown’s Ex-Housekeeper Fighting To Show Horrific Dog Attack Photos in Court]]></title>
+            <link>https://www.tmz.com/2026/05/01/chris-brown-ex-housekeeper-fights-for-dog-attack-photos-in-court/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/chris-brown-ex-housekeeper-fights-for-dog-attack-photos-in-court/</guid>
+            <pubDate>Fri, 01 May 2026 09:00:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/04/30/d68e9d30edf94b4ba8d5410634f8a45c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/04/30/d68e9d30edf94b4ba8d5410634f8a45c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/04/30/d68e9d30edf94b4ba8d5410634f8a45c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Addison Rae’s Dad Claims Wife Pulled Gun During Argument, Granted Restraining Order]]></title>
+            <link>https://www.tmz.com/2026/05/01/addison-rae-dad-alleges-wife-pulled-gun-during-argument/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/addison-rae-dad-alleges-wife-pulled-gun-during-argument/</guid>
+            <pubDate>Fri, 01 May 2026 08:30:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e26784e4c1b4a829a4f4f945dff5fff_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e26784e4c1b4a829a4f4f945dff5fff_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e26784e4c1b4a829a4f4f945dff5fff_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sen. Mark Kelly: Next POTUS Will Remove Trump&#039;s &#039;Hobby Lobby Gold Crap&#039; From White House]]></title>
+            <link>https://www.tmz.com/2026/05/01/mark-kelly-says-future-president-will-remove-trump-gold-white-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/mark-kelly-says-future-president-will-remove-trump-gold-white-house/</guid>
+            <pubDate>Fri, 01 May 2026 08:00:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/05/01/6d6723069922490580c4e24c395ee5b8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/05/01/6d6723069922490580c4e24c395ee5b8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/05/01/6d6723069922490580c4e24c395ee5b8_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Charli D&#039;Amelio Is Feelin&#039; 22! Check Out Her Bday Hot Shots!]]></title>
             <link>https://www.tmz.com/2026/05/01/charli-damelio-hot-pics-for-22nd-bday/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/04/28/8c30da1ccaa04afd8a6fc289f8b02ff1_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/04/28/8c30da1ccaa04afd8a6fc289f8b02ff1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[How to Celebrate The Devil Wears Prada 2 Premiere]]></title>
-            <link>https://www.tmz.com/2026/05/01/devil-wears-prada-2-gift-ideas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/devil-wears-prada-2-gift-ideas/</guid>
-            <pubDate>Fri, 01 May 2026 07:05:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/04/24/9cbac0eb8f39460687d9e59b6fc05655_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/04/24/9cbac0eb8f39460687d9e59b6fc05655_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9c/16by9/2026/04/24/9cbac0eb8f39460687d9e59b6fc05655_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess the Met Gala Legend This Cute Kid Turned Into]]></title>
-            <link>https://www.tmz.com/2026/05/01/guess-met-gala-legend/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/guess-met-gala-legend/</guid>
-            <pubDate>Fri, 01 May 2026 07:01:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cd/16by9/2026/04/29/cd8644b4c1764766824f4969bc4e34cf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cd/16by9/2026/04/29/cd8644b4c1764766824f4969bc4e34cf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cd/16by9/2026/04/29/cd8644b4c1764766824f4969bc4e34cf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love Island&#039; Star Huda Mustafa&#039;s BF Drops Custody Battle Over Son]]></title>
-            <link>https://www.tmz.com/2026/05/01/love-island-star-huda-mustafa-bf-ends-custody-battle/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/love-island-star-huda-mustafa-bf-ends-custody-battle/</guid>
-            <pubDate>Fri, 01 May 2026 07:00:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/04/30/3a10b7f3a14246dab49f5776495f42f0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/04/30/3a10b7f3a14246dab49f5776495f42f0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/04/30/3a10b7f3a14246dab49f5776495f42f0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
