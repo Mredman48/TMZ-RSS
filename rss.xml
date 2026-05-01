@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 12:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 14:04:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Chris Brown’s Ex-Housekeeper Fighting To Show Horrific Dog Attack Photos in Court]]></title>
-            <link>https://www.tmz.com/2026/05/01/chris-brown-ex-housekeeper-fights-for-dog-attack-photos-in-court/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/chris-brown-ex-housekeeper-fights-for-dog-attack-photos-in-court/</guid>
-            <pubDate>Fri, 01 May 2026 09:00:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/04/30/d68e9d30edf94b4ba8d5410634f8a45c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/04/30/d68e9d30edf94b4ba8d5410634f8a45c_xl.jpg" medium="image">
+            <title><![CDATA[Courtney Stodden Shares Bloody Video After Banging Her Head in Public]]></title>
+            <link>https://www.tmz.com/2026/05/01/courtney-stodden-posts-video-after-injuring-her-head/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/courtney-stodden-posts-video-after-injuring-her-head/</guid>
+            <pubDate>Fri, 01 May 2026 13:56:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/05/01/6ff53bf3c29e41df9eea5a6caa8bcd50_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/05/01/6ff53bf3c29e41df9eea5a6caa8bcd50_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/04/30/d68e9d30edf94b4ba8d5410634f8a45c_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/05/01/6ff53bf3c29e41df9eea5a6caa8bcd50_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Addison Rae’s Dad Claims Wife Pulled Gun During Argument, Granted Restraining Order]]></title>
-            <link>https://www.tmz.com/2026/05/01/addison-rae-dad-alleges-wife-pulled-gun-during-argument/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/addison-rae-dad-alleges-wife-pulled-gun-during-argument/</guid>
-            <pubDate>Fri, 01 May 2026 08:30:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e26784e4c1b4a829a4f4f945dff5fff_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e26784e4c1b4a829a4f4f945dff5fff_xl.jpg" medium="image">
+            <title><![CDATA[Dianna Russini Was No Hero In Car Crash Rescue, Witness Now Claims]]></title>
+            <link>https://www.tmz.com/2026/05/01/dianna-russini-car-crash-witness/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/dianna-russini-car-crash-witness/</guid>
+            <pubDate>Fri, 01 May 2026 13:55:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/05/01/72470e7f44f14529b9ae59a84cdcac56_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/05/01/72470e7f44f14529b9ae59a84cdcac56_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/04/30/2e26784e4c1b4a829a4f4f945dff5fff_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/05/01/72470e7f44f14529b9ae59a84cdcac56_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Sen. Mark Kelly: Next POTUS Will Remove Trump&#039;s &#039;Hobby Lobby Gold Crap&#039; From White House]]></title>
-            <link>https://www.tmz.com/2026/05/01/mark-kelly-says-future-president-will-remove-trump-gold-white-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/mark-kelly-says-future-president-will-remove-trump-gold-white-house/</guid>
-            <pubDate>Fri, 01 May 2026 08:00:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/05/01/6d6723069922490580c4e24c395ee5b8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/05/01/6d6723069922490580c4e24c395ee5b8_xl.jpg" medium="image">
+            <title><![CDATA[Kim Zolciak Temporarily Loses Primary Custody of Kids in Kroy Biermann Divorce Battle]]></title>
+            <link>https://www.tmz.com/2026/05/01/kim-zolciak-temporarily-loses-custody-of-kids/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/kim-zolciak-temporarily-loses-custody-of-kids/</guid>
+            <pubDate>Fri, 01 May 2026 13:53:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/04/29/457995b6ce144d9397919430213b37d1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/04/29/457995b6ce144d9397919430213b37d1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/05/01/6d6723069922490580c4e24c395ee5b8_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/04/29/457995b6ce144d9397919430213b37d1_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Charli D&#039;Amelio Is Feelin&#039; 22! Check Out Her Bday Hot Shots!]]></title>
-            <link>https://www.tmz.com/2026/05/01/charli-damelio-hot-pics-for-22nd-bday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/charli-damelio-hot-pics-for-22nd-bday/</guid>
-            <pubDate>Fri, 01 May 2026 07:45:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/04/30/b6949001ce8d47ffaf5ff61a6a6a7ee1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/04/30/b6949001ce8d47ffaf5ff61a6a6a7ee1_xl.jpg" medium="image">
+            <title><![CDATA[Pete Davidson & Elsie Hewitt Working Through Relationship Issues After Welcoming Baby]]></title>
+            <link>https://www.tmz.com/2026/05/01/pete-davidson-elsie-hewitt-working-on-relationship-struggles/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/pete-davidson-elsie-hewitt-working-on-relationship-struggles/</guid>
+            <pubDate>Fri, 01 May 2026 13:40:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/05/01/a5ffa8ef2e4f4ac4859a87c2081c54da_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/05/01/a5ffa8ef2e4f4ac4859a87c2081c54da_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/04/30/b6949001ce8d47ffaf5ff61a6a6a7ee1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/05/01/a5ffa8ef2e4f4ac4859a87c2081c54da_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jorge Masvidal Explains Why Chael Sonnen Is Beefing With Him]]></title>
-            <link>https://www.tmz.com/2026/05/01/jorge-masvidal-explains-chael-sonnen-feud/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/jorge-masvidal-explains-chael-sonnen-feud/</guid>
-            <pubDate>Fri, 01 May 2026 07:30:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/04/28/8c30da1ccaa04afd8a6fc289f8b02ff1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/04/28/8c30da1ccaa04afd8a6fc289f8b02ff1_xl.jpg" medium="image">
+            <title><![CDATA[Ciara Miller Puts &#039;Summer House&#039; Drama Behind Her, Parties at Guggenheim, on Video]]></title>
+            <link>https://www.tmz.com/2026/05/01/ciara-miller-lets-loose-at-guggenheim/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/ciara-miller-lets-loose-at-guggenheim/</guid>
+            <pubDate>Fri, 01 May 2026 13:39:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/05/01/7c451436f5c548938ff790999a0a973b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/05/01/7c451436f5c548938ff790999a0a973b_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/04/28/8c30da1ccaa04afd8a6fc289f8b02ff1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/05/01/7c451436f5c548938ff790999a0a973b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
