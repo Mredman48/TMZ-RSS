@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 21:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 22:32:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bella Hadid & Adan Banuelos Seen Together Months After Breakup Reports]]></title>
+            <link>https://www.tmz.com/2026/05/01/bella-hadid-adan-banuelos-seen-after-breakup-reports/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/bella-hadid-adan-banuelos-seen-after-breakup-reports/</guid>
+            <pubDate>Fri, 01 May 2026 22:00:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/05/01/dbad3347c43a4c01a55d239a8e5c9d79_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/05/01/dbad3347c43a4c01a55d239a8e5c9d79_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/05/01/dbad3347c43a4c01a55d239a8e5c9d79_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[D4vd Seen Apologizing for &#039;Smell&#039; in Home of Celeste&#039;s Alleged Murder, on Video]]></title>
+            <link>https://www.tmz.com/2026/05/01/d4vd-apologizes-for-smell/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/d4vd-apologizes-for-smell/</guid>
+            <pubDate>Fri, 01 May 2026 21:50:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/05/01/b6c58a0156784deba32f54a675340bfd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/05/01/b6c58a0156784deba32f54a675340bfd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/05/01/b6c58a0156784deba32f54a675340bfd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Nia Long &#039;Quietly Fighting&#039; Lionsgate Over &#039;Michael&#039; Pay, Report]]></title>
+            <link>https://www.tmz.com/2026/05/01/nia-long-fighting-lionsgate-over-michael-movie-pay/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/nia-long-fighting-lionsgate-over-michael-movie-pay/</guid>
+            <pubDate>Fri, 01 May 2026 21:37:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kara Swisher Says Humans Connecting, Not Technology, Extends Your Life]]></title>
             <link>https://www.tmz.com/2026/05/01/kara-swisher-thinks-people-need-to-connect-personally/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/95/16by9/2026/05/01/95c5a135cddc4539b0934aefd29ea9b9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/05/01/95c5a135cddc4539b0934aefd29ea9b9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dakota Mortensen&#039;s Return to &#039;SLOMW&#039; Highly Unlikely After TFP Court Hearing]]></title>
-            <link>https://www.tmz.com/2026/05/01/dakota-mortensen-return-to-mormon-wives-show-unlikely/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/dakota-mortensen-return-to-mormon-wives-show-unlikely/</guid>
-            <pubDate>Fri, 01 May 2026 20:30:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/05/01/9e07233789c84a489cfa8ecf746dc8d4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/05/01/9e07233789c84a489cfa8ecf746dc8d4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/05/01/9e07233789c84a489cfa8ecf746dc8d4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[DK Metcalf Won&#039;t Face Criminal Charges For Fan Incident]]></title>
-            <link>https://www.tmz.com/2026/05/01/dk-metcalf-no-criminal-charges-fan-incident/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/dk-metcalf-no-criminal-charges-fan-incident/</guid>
-            <pubDate>Fri, 01 May 2026 20:25:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/05/01/cafcb807008c4e2db8a803a6af3b12b8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/05/01/cafcb807008c4e2db8a803a6af3b12b8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/05/01/cafcb807008c4e2db8a803a6af3b12b8_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celeste Rivas’ Father Denies Ever Meeting D4vd, Rejects Payment Rumors]]></title>
-            <link>https://www.tmz.com/2026/05/01/celeste-rivas-dad-says-d4vd-never-gave-family-money/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/celeste-rivas-dad-says-d4vd-never-gave-family-money/</guid>
-            <pubDate>Fri, 01 May 2026 20:21:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/05/01/f73f56acd4444e5b8c01c96776ffb266_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/05/01/f73f56acd4444e5b8c01c96776ffb266_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/05/01/f73f56acd4444e5b8c01c96776ffb266_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
