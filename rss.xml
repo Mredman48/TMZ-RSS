@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 23:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 01:16:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Selena Gomez Selling Los Angeles Home a Year After Buying With Benny Blanco]]></title>
-            <link>https://www.tmz.com/2026/05/01/selena-gomez-lists-home/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/selena-gomez-lists-home/</guid>
-            <pubDate>Fri, 01 May 2026 23:29:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/05/01/556fb20b6ec1457db7d84511de5202a6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/05/01/556fb20b6ec1457db7d84511de5202a6_xl.jpg" medium="image">
+            <title><![CDATA[Courtney Stodden Shrugs Off Bloody Injury, Says Mistreated Animals Have It Worse]]></title>
+            <link>https://www.tmz.com/2026/05/01/courtney-stodden-shakes-off-injury-advocates-for-animals/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/courtney-stodden-shakes-off-injury-advocates-for-animals/</guid>
+            <pubDate>Sat, 02 May 2026 01:00:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/05/01/1e5bcc6aa6c741fa83f867e27e09b9f5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/05/01/1e5bcc6aa6c741fa83f867e27e09b9f5_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/05/01/556fb20b6ec1457db7d84511de5202a6_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/05/01/1e5bcc6aa6c741fa83f867e27e09b9f5_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Mormon Wives&#039; Chase McWhorter Leaves Filming Up to the Women]]></title>
-            <link>https://www.tmz.com/2026/05/01/chase-mcwhorter-on-slomw-filming/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/chase-mcwhorter-on-slomw-filming/</guid>
-            <pubDate>Fri, 01 May 2026 22:37:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/05/01/e2857a80182f4272b6def3bb597ea699_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/05/01/e2857a80182f4272b6def3bb597ea699_xl.png" medium="image">
+            <title><![CDATA[Michael Jackson &#039;Thriller&#039; Date Says They Had Sexual Tension On Music Video Set]]></title>
+            <link>https://www.tmz.com/2026/05/01/michael-jackson-thriller-actress-claims-they-had-sexual-tension/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/michael-jackson-thriller-actress-claims-they-had-sexual-tension/</guid>
+            <pubDate>Sat, 02 May 2026 00:45:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/05/01/32b3a6c915b24c83938003838adcb83c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/05/01/32b3a6c915b24c83938003838adcb83c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/05/01/e2857a80182f4272b6def3bb597ea699_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/05/01/32b3a6c915b24c83938003838adcb83c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Bella Hadid & Adan Banuelos Seen Together Months After Breakup Reports]]></title>
-            <link>https://www.tmz.com/2026/05/01/bella-hadid-adan-banuelos-seen-after-breakup-reports/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/bella-hadid-adan-banuelos-seen-after-breakup-reports/</guid>
-            <pubDate>Fri, 01 May 2026 22:00:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/05/01/dbad3347c43a4c01a55d239a8e5c9d79_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/05/01/dbad3347c43a4c01a55d239a8e5c9d79_xl.jpg" medium="image">
+            <title><![CDATA[&#039;M*A*S*H&#039; Actress Gwen Farrell Adair Dead at 94]]></title>
+            <link>https://www.tmz.com/2026/05/01/mash-actress-gwen-farrell-dead-at-93/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/mash-actress-gwen-farrell-dead-at-93/</guid>
+            <pubDate>Sat, 02 May 2026 00:15:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/05/01/c2393639df0b44fda493b1e93b69a23d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/05/01/c2393639df0b44fda493b1e93b69a23d_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/05/01/dbad3347c43a4c01a55d239a8e5c9d79_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/05/01/c2393639df0b44fda493b1e93b69a23d_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[D4vd Seen Apologizing for &#039;Smell&#039; in Home of Celeste&#039;s Alleged Murder, on Video]]></title>
-            <link>https://www.tmz.com/2026/05/01/d4vd-apologizes-for-smell/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/d4vd-apologizes-for-smell/</guid>
-            <pubDate>Fri, 01 May 2026 21:50:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/05/01/b6c58a0156784deba32f54a675340bfd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/05/01/b6c58a0156784deba32f54a675340bfd_xl.jpg" medium="image">
+            <title><![CDATA[Matt Lauer Rape Accuser&#039;s Emotional First TV Interview Following New Memoir]]></title>
+            <link>https://www.tmz.com/2026/05/01/matt-lauer-accuser-memoir-details-alleged-assault/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/matt-lauer-accuser-memoir-details-alleged-assault/</guid>
+            <pubDate>Sat, 02 May 2026 00:00:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/05/01/cbd31b4c5d5743f0938724be70dd7d07_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/05/01/cbd31b4c5d5743f0938724be70dd7d07_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/05/01/b6c58a0156784deba32f54a675340bfd_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/05/01/cbd31b4c5d5743f0938724be70dd7d07_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Nia Long &#039;Quietly Fighting&#039; Lionsgate Over &#039;Michael&#039; Pay, Report]]></title>
-            <link>https://www.tmz.com/2026/05/01/nia-long-fighting-lionsgate-over-michael-movie-pay/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/nia-long-fighting-lionsgate-over-michael-movie-pay/</guid>
-            <pubDate>Fri, 01 May 2026 21:37:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png" medium="image">
+            <title><![CDATA[Kardashian-Jenner Crew: Met Gala Looks Still Break The Internet]]></title>
+            <link>https://www.tmz.com/2026/05/01/kardashian-jenner-met-gala-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/kardashian-jenner-met-gala-pictures/</guid>
+            <pubDate>Fri, 01 May 2026 23:39:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5f/16by9/2026/04/29/5f5e918f23be4ce5aa84e28dd61899be_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5f/16by9/2026/04/29/5f5e918f23be4ce5aa84e28dd61899be_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/79/16by9/2026/05/01/792e2eef8f874b7c8bdcf8d93bb21ce3_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/5f/16by9/2026/04/29/5f5e918f23be4ce5aa84e28dd61899be_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
