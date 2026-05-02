@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 16:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 17:28:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kanye West and Bianca Censori Make Surprise Appearance at North West Pop-Up in L.A.]]></title>
+            <link>https://www.tmz.com/2026/05/02/kanye-west-bianca-censori-at-north-west-store/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/kanye-west-bianca-censori-at-north-west-store/</guid>
+            <pubDate>Sat, 02 May 2026 17:19:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/05/02/6c70100bff6c4796880ecd15d08974dc_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/05/02/6c70100bff6c4796880ecd15d08974dc_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/05/02/6c70100bff6c4796880ecd15d08974dc_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Megan Thee Stallion Seen Leaving Final &#039;Moulin Rouge!&#039; Performance]]></title>
             <link>https://www.tmz.com/2026/05/02/megan-thee-stallion-leaves-moulin-rouge-last-performance/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ef/16by9/2026/04/30/ef628531e2cd404384142af1c8244b63_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ef/16by9/2026/04/30/ef628531e2cd404384142af1c8244b63_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shooting Outside Chris Brown’s Home, Suspect Arrested]]></title>
-            <link>https://www.tmz.com/2026/05/02/chris-brown-shooting-outside-his-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/chris-brown-shooting-outside-his-house/</guid>
-            <pubDate>Sat, 02 May 2026 14:28:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/05/02/9edae5a552d04373a8a5f3e48fa48021_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/05/02/9edae5a552d04373a8a5f3e48fa48021_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/05/02/9edae5a552d04373a8a5f3e48fa48021_xl.png">
             </media:thumbnail>
         </item>
     </channel>
