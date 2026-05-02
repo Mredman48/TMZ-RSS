@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 11:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 12:33:53 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Paralympian Star Alex Zanardi Dead at 59]]></title>
+            <link>https://www.tmz.com/2026/05/02/alex-zanardi-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/alex-zanardi-dead/</guid>
+            <pubDate>Sat, 02 May 2026 12:14:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/05/02/5edfa06dd201415f97b12e76b2740979_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/05/02/5edfa06dd201415f97b12e76b2740979_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/05/02/5edfa06dd201415f97b12e76b2740979_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nancy Mace&#039;s Email to Judge Name-Dropping Trump Revealed in Court]]></title>
             <link>https://www.tmz.com/2026/05/02/nancy-mace-name-dropping-the-president-revealed-in-court/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/04/28/e0660892e2ab4551b19386f4d5730241_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/04/28/e0660892e2ab4551b19386f4d5730241_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Teyana Taylor Met Gala Madness -- Find The Sneaky Switches!]]></title>
-            <link>https://www.tmz.com/2026/05/02/teyana-taylor-met-gala-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/teyana-taylor-met-gala-game/</guid>
-            <pubDate>Sat, 02 May 2026 07:45:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/04/29/d8d6aaae453947349d074152a73232b7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/29/d8d6aaae453947349d074152a73232b7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/29/d8d6aaae453947349d074152a73232b7_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
