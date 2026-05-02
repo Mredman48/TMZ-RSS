@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 18:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 19:39:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tucker Carlson&#039;s Stolen Nicotine Recovered By Police]]></title>
+            <link>https://www.tmz.com/2026/05/02/tucker-carlsons-stolen-nicotine-recovered-by-police/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/tucker-carlsons-stolen-nicotine-recovered-by-police/</guid>
+            <pubDate>Sat, 02 May 2026 19:24:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2a/16by9/2026/05/02/2ad033fcedf848d9bc73528a0fbb4791_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/05/02/2ad033fcedf848d9bc73528a0fbb4791_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/05/02/2ad033fcedf848d9bc73528a0fbb4791_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[David Beckham&#039;s Shredded Shots to Celebrate His 51st Birthday!]]></title>
+            <link>https://www.tmz.com/2026/05/02/david-beckham-shredded-abs-see-pics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/david-beckham-shredded-abs-see-pics/</guid>
+            <pubDate>Sat, 02 May 2026 19:00:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/04/27/b4e1f1ebd6d64d8d81e3d6aa6cd92ea4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/04/27/b4e1f1ebd6d64d8d81e3d6aa6cd92ea4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/04/27/b4e1f1ebd6d64d8d81e3d6aa6cd92ea4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Suggests His Dance Moves Made &#039;Y.M.C.A.&#039; Popular Again]]></title>
+            <link>https://www.tmz.com/2026/05/02/donald-trump-thinks-his-dancing-helped-ymca/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/donald-trump-thinks-his-dancing-helped-ymca/</guid>
+            <pubDate>Sat, 02 May 2026 18:53:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/05/02/95f63eb5ed404cf291706ab9ab9bbbb0_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/05/02/95f63eb5ed404cf291706ab9ab9bbbb0_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/05/02/95f63eb5ed404cf291706ab9ab9bbbb0_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nick Cannon Has Double Standard For His Teenage Twins Dating]]></title>
             <link>https://www.tmz.com/2026/05/02/nick-cannon-on-kids-dating/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/42/16by9/2026/05/02/4264be85f610463a95dbbbfe1fd3a4fc_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/05/02/4264be85f610463a95dbbbfe1fd3a4fc_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[‘Dance Moms’ Star Kalani Goldman Buys New Dance Studio in Arizona]]></title>
-            <link>https://www.tmz.com/2026/05/02/kalani-goldman-buys-arizona-dance-studio/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/kalani-goldman-buys-arizona-dance-studio/</guid>
-            <pubDate>Sat, 02 May 2026 18:15:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/05/01/4ea7597a285f418d8ab88d5ef042318f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/05/01/4ea7597a285f418d8ab88d5ef042318f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/05/01/4ea7597a285f418d8ab88d5ef042318f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West and Bianca Censori Make Surprise Appearance at North West Pop-Up in L.A.]]></title>
-            <link>https://www.tmz.com/2026/05/02/kanye-west-bianca-censori-at-north-west-store/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/kanye-west-bianca-censori-at-north-west-store/</guid>
-            <pubDate>Sat, 02 May 2026 17:19:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/05/02/6c70100bff6c4796880ecd15d08974dc_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/05/02/6c70100bff6c4796880ecd15d08974dc_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/05/02/6c70100bff6c4796880ecd15d08974dc_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Megan Thee Stallion Seen Leaving Final &#039;Moulin Rouge!&#039; Performance]]></title>
-            <link>https://www.tmz.com/2026/05/02/megan-thee-stallion-leaves-moulin-rouge-last-performance/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/megan-thee-stallion-leaves-moulin-rouge-last-performance/</guid>
-            <pubDate>Sat, 02 May 2026 16:02:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/05/02/c082e927d4ee49bf8a7bc950ebebf497_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/05/02/c082e927d4ee49bf8a7bc950ebebf497_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/05/02/c082e927d4ee49bf8a7bc950ebebf497_xl.png">
             </media:thumbnail>
         </item>
     </channel>
