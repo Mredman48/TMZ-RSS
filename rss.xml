@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 17:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 18:33:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Nick Cannon Has Double Standard For His Teenage Twins Dating]]></title>
+            <link>https://www.tmz.com/2026/05/02/nick-cannon-on-kids-dating/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/nick-cannon-on-kids-dating/</guid>
+            <pubDate>Sat, 02 May 2026 18:29:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/05/02/84588a0eda1c472bb2cf225762ec61e5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/05/02/84588a0eda1c472bb2cf225762ec61e5_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/05/02/84588a0eda1c472bb2cf225762ec61e5_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kris Jenner Relists Kardashian Mansion After Second Thoughts on Keeping It]]></title>
+            <link>https://www.tmz.com/2026/05/02/kris-jenner-relists-kardashian-family-mansion/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/kris-jenner-relists-kardashian-family-mansion/</guid>
+            <pubDate>Sat, 02 May 2026 18:27:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/05/02/4264be85f610463a95dbbbfe1fd3a4fc_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/05/02/4264be85f610463a95dbbbfe1fd3a4fc_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/05/02/4264be85f610463a95dbbbfe1fd3a4fc_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[‘Dance Moms’ Star Kalani Goldman Buys New Dance Studio in Arizona]]></title>
+            <link>https://www.tmz.com/2026/05/02/kalani-goldman-buys-arizona-dance-studio/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/kalani-goldman-buys-arizona-dance-studio/</guid>
+            <pubDate>Sat, 02 May 2026 18:15:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/05/01/4ea7597a285f418d8ab88d5ef042318f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/05/01/4ea7597a285f418d8ab88d5ef042318f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/05/01/4ea7597a285f418d8ab88d5ef042318f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kanye West and Bianca Censori Make Surprise Appearance at North West Pop-Up in L.A.]]></title>
             <link>https://www.tmz.com/2026/05/02/kanye-west-bianca-censori-at-north-west-store/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/05/02/c082e927d4ee49bf8a7bc950ebebf497_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/05/02/c082e927d4ee49bf8a7bc950ebebf497_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Anna Nicole Smith&#039;s Daughter Dannielynn Debuts New Look Ahead of Kentucky Derby]]></title>
-            <link>https://www.tmz.com/2026/05/02/dannielynn-birkhead-new-look-for-kentucky-derby/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/dannielynn-birkhead-new-look-for-kentucky-derby/</guid>
-            <pubDate>Sat, 02 May 2026 15:34:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/05/02/76d560c1d4d6458bb1bc39e555b5068d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/05/02/76d560c1d4d6458bb1bc39e555b5068d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/05/02/76d560c1d4d6458bb1bc39e555b5068d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Post Malone Cancels First Few Weeks of Upcoming Tour]]></title>
-            <link>https://www.tmz.com/2026/05/02/post-malone-cancels-beginning-of-tour/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/post-malone-cancels-beginning-of-tour/</guid>
-            <pubDate>Sat, 02 May 2026 15:15:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a2/16by9/2026/05/02/a2d4796150d04e1c9bf8b4d2403342fa_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a2/16by9/2026/05/02/a2d4796150d04e1c9bf8b4d2403342fa_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a2/16by9/2026/05/02/a2d4796150d04e1c9bf8b4d2403342fa_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[D4vd and Celeste Rivas Timeline, From Romantic Relationship to Tragic Death]]></title>
-            <link>https://www.tmz.com/2026/05/02/d4vd-and-celeste-rivas-timeline/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/d4vd-and-celeste-rivas-timeline/</guid>
-            <pubDate>Sat, 02 May 2026 14:30:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ef/16by9/2026/04/30/ef628531e2cd404384142af1c8244b63_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ef/16by9/2026/04/30/ef628531e2cd404384142af1c8244b63_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ef/16by9/2026/04/30/ef628531e2cd404384142af1c8244b63_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
