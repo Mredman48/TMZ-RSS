@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 08:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 10:31:13 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Nancy Mace&#039;s Email to Judge Name-Dropping Trump Revealed in Court]]></title>
+            <link>https://www.tmz.com/2026/05/02/nancy-mace-name-dropping-the-president-revealed-in-court/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/nancy-mace-name-dropping-the-president-revealed-in-court/</guid>
+            <pubDate>Sat, 02 May 2026 09:00:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/05/01/26658591bdf547d69be14041a0f47f82_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/05/01/26658591bdf547d69be14041a0f47f82_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/05/01/26658591bdf547d69be14041a0f47f82_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Olivia Attwood&#039;s Hot Shots to Kick Off Her 35th Birthday!]]></title>
             <link>https://www.tmz.com/2026/05/02/olivia-attwood-hot-pics/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/04/29/d8d6aaae453947349d074152a73232b7_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/04/29/d8d6aaae453947349d074152a73232b7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Khamzat Chimaev Says He Wants To Box Conor McGregor]]></title>
-            <link>https://www.tmz.com/2026/05/02/khamzat-chimaev-wants-box-fight-conor-mcgregor/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/khamzat-chimaev-wants-box-fight-conor-mcgregor/</guid>
-            <pubDate>Sat, 02 May 2026 07:30:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/05/01/a3edaa997d074e96967a870a27252f3c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/05/01/a3edaa997d074e96967a870a27252f3c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/05/01/a3edaa997d074e96967a870a27252f3c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
