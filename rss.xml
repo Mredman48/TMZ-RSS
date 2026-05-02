@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 04:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 07:13:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Best Jeans for Women on Amazon (Straight, Wide-Leg, Skinny & More)]]></title>
+            <link>https://www.tmz.com/2026/05/02/good-jeans-on-amazon/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/good-jeans-on-amazon/</guid>
+            <pubDate>Sat, 02 May 2026 07:05:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/04/23/965adb09d433459cbdded80de1749ebf_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/04/23/965adb09d433459cbdded80de1749ebf_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/04/23/965adb09d433459cbdded80de1749ebf_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Met Gala Timeline: The Most Talked-About Red Carpet Moments Ever]]></title>
+            <link>https://www.tmz.com/2026/05/02/met-gala-timeline-best-moments-beyonce-taylor-swift-madonna/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/met-gala-timeline-best-moments-beyonce-taylor-swift-madonna/</guid>
+            <pubDate>Sat, 02 May 2026 07:01:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c9/16by9/2026/04/29/c98804ab73814fbdbb755667ee2413ac_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c9/16by9/2026/04/29/c98804ab73814fbdbb755667ee2413ac_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c9/16by9/2026/04/29/c98804ab73814fbdbb755667ee2413ac_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Marlon Wayans&#039; 3-Year-Old Daughter Getting Into Fam Biz]]></title>
+            <link>https://www.tmz.com/2026/05/02/marlon-wayans-3-year-old-kid-is-working-in-family-business/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/marlon-wayans-3-year-old-kid-is-working-in-family-business/</guid>
+            <pubDate>Sat, 02 May 2026 07:00:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/05/01/e197f9f88c0648319756f6416745ef89_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/05/01/e197f9f88c0648319756f6416745ef89_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/05/01/e197f9f88c0648319756f6416745ef89_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Courtney Stodden Shrugs Off Bloody Injury, Says Mistreated Animals Have It Worse]]></title>
             <link>https://www.tmz.com/2026/05/01/courtney-stodden-shakes-off-injury-advocates-for-animals/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/32/16by9/2026/05/01/32b3a6c915b24c83938003838adcb83c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/05/01/32b3a6c915b24c83938003838adcb83c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;M*A*S*H&#039; Actress Gwen Farrell Adair Dead at 94]]></title>
-            <link>https://www.tmz.com/2026/05/01/mash-actress-gwen-farrell-dead-at-93/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/mash-actress-gwen-farrell-dead-at-93/</guid>
-            <pubDate>Sat, 02 May 2026 00:15:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/05/01/c2393639df0b44fda493b1e93b69a23d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/05/01/c2393639df0b44fda493b1e93b69a23d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/05/01/c2393639df0b44fda493b1e93b69a23d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Matt Lauer Rape Accuser&#039;s Emotional First TV Interview Following New Memoir]]></title>
-            <link>https://www.tmz.com/2026/05/01/matt-lauer-accuser-memoir-details-alleged-assault/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/matt-lauer-accuser-memoir-details-alleged-assault/</guid>
-            <pubDate>Sat, 02 May 2026 00:00:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/05/01/cbd31b4c5d5743f0938724be70dd7d07_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/05/01/cbd31b4c5d5743f0938724be70dd7d07_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/05/01/cbd31b4c5d5743f0938724be70dd7d07_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kardashian-Jenner Crew: Met Gala Looks Still Break The Internet]]></title>
-            <link>https://www.tmz.com/2026/05/01/kardashian-jenner-met-gala-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/01/kardashian-jenner-met-gala-pictures/</guid>
-            <pubDate>Fri, 01 May 2026 23:39:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5f/16by9/2026/04/29/5f5e918f23be4ce5aa84e28dd61899be_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/5f/16by9/2026/04/29/5f5e918f23be4ce5aa84e28dd61899be_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5f/16by9/2026/04/29/5f5e918f23be4ce5aa84e28dd61899be_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
