@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 22:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 23:26:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kylie Jenner and Timothée Chalamet Watch Broadway Show with Kris and Kim]]></title>
+            <link>https://www.tmz.com/2026/05/03/kylie-jenner-timothee-chalamet-watch-broadway-show-with-kris-kim/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/kylie-jenner-timothee-chalamet-watch-broadway-show-with-kris-kim/</guid>
+            <pubDate>Sun, 03 May 2026 23:18:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/05/03/d06e95159819422c8c28de57380f24e2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/05/03/d06e95159819422c8c28de57380f24e2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/05/03/d06e95159819422c8c28de57380f24e2_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sydney Sweeney Takes Tour of Harbour Bridge in Australia]]></title>
+            <link>https://www.tmz.com/2026/05/03/sydney-sweeney-tours-harbour-bridge-australia/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/sydney-sweeney-tours-harbour-bridge-australia/</guid>
+            <pubDate>Sun, 03 May 2026 22:34:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/05/03/eba7652877794db4a3b0c6db8f144dd3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/05/03/eba7652877794db4a3b0c6db8f144dd3_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/05/03/eba7652877794db4a3b0c6db8f144dd3_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bianca Censori Wears See-Though Shirt While Walking Out of L.A. Spa]]></title>
             <link>https://www.tmz.com/2026/05/03/bianca-censori-sheer-shirt-spa-photos/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/05/03/4a1d5bf6c89c4672b55b5a3f8a98298c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/05/03/4a1d5bf6c89c4672b55b5a3f8a98298c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Former Santana Vocalist Alex Ligertwood Dead at 79]]></title>
-            <link>https://www.tmz.com/2026/05/03/alex-ligertwood-santana-vocalist-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/alex-ligertwood-santana-vocalist-dead/</guid>
-            <pubDate>Sun, 03 May 2026 19:28:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/05/03/5c026b7b43a94c65a17df9524c706a95_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/05/03/5c026b7b43a94c65a17df9524c706a95_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/05/03/5c026b7b43a94c65a17df9524c706a95_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[ICE Drags Man Out of New York City Hospital, on Video]]></title>
-            <link>https://www.tmz.com/2026/05/03/ice-drags-man-out-of-hospital/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/ice-drags-man-out-of-hospital/</guid>
-            <pubDate>Sun, 03 May 2026 19:21:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/05/03/5657c054a4024f278bcd7b109c02cfed_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/05/03/5657c054a4024f278bcd7b109c02cfed_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/05/03/5657c054a4024f278bcd7b109c02cfed_xl.png">
             </media:thumbnail>
         </item>
     </channel>
