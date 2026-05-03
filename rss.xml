@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 05:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 07:31:17 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;The Devil Wears Prada&#039; Then & Now!]]></title>
+            <link>https://www.tmz.com/2026/05/03/the-devil-wears-prada-then-and-now/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/the-devil-wears-prada-then-and-now/</guid>
+            <pubDate>Sun, 03 May 2026 07:30:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/04/28/31fffc0cfa074418a09b62be45e0d1de_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/04/28/31fffc0cfa074418a09b62be45e0d1de_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/04/28/31fffc0cfa074418a09b62be45e0d1de_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Richard Jefferson Says Knicks Are Legit Contenders, Biggest Threat Is Themselves!]]></title>
+            <link>https://www.tmz.com/2026/05/03/richard-jefferson-knicks-legit-playoffs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/richard-jefferson-knicks-legit-playoffs/</guid>
+            <pubDate>Sun, 03 May 2026 07:15:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/05/01/416889936fe840f78987d7e92795141e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/05/01/416889936fe840f78987d7e92795141e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/05/01/416889936fe840f78987d7e92795141e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ultimate Mother&#039;s Day Gift Guide -- Inspired by Famous Movie & TV Moms]]></title>
+            <link>https://www.tmz.com/2026/05/03/shop-mothers-day-gifts-by-pop-culture-mom-persona/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/shop-mothers-day-gifts-by-pop-culture-mom-persona/</guid>
+            <pubDate>Sun, 03 May 2026 07:05:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/04/28/c3d0d8c770fb4df8806c586d26ac7f2c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/04/28/c3d0d8c770fb4df8806c586d26ac7f2c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/04/28/c3d0d8c770fb4df8806c586d26ac7f2c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hot Or Not?! Met Gala Rewind: Iconic Looks]]></title>
+            <link>https://www.tmz.com/2026/05/03/hot-or-not-met-gala-rewind-through-the-years-iconic-looks/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/hot-or-not-met-gala-rewind-through-the-years-iconic-looks/</guid>
+            <pubDate>Sun, 03 May 2026 07:01:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/04/29/1aa7a0adc72b4c708ea1fcc2bf4ad39f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/04/29/1aa7a0adc72b4c708ea1fcc2bf4ad39f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/04/29/1aa7a0adc72b4c708ea1fcc2bf4ad39f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kim Kardashian Skips Early Part of Miami Grand Prix, Attends North West&#039;s L.A. Pop-Up]]></title>
             <link>https://www.tmz.com/2026/05/02/kim-kardashian-attends-north-wests-pop-up/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a2/16by9/2026/05/02/a291f4ed4af7474b95d0b289379ba4e9_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a2/16by9/2026/05/02/a291f4ed4af7474b95d0b289379ba4e9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;SLOMW&#039; Producer Says He Hopes Taylor Frankie Paul Will Be Back on Show]]></title>
-            <link>https://www.tmz.com/2026/05/02/producer-hopes-taylor-frankie-paul-will-rejoin-secret-lives-of-mormon-wives/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/producer-hopes-taylor-frankie-paul-will-rejoin-secret-lives-of-mormon-wives/</guid>
-            <pubDate>Sun, 03 May 2026 00:24:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/05/02/d79ea66d55454bb784de359abafaf82b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/05/02/d79ea66d55454bb784de359abafaf82b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/05/02/d79ea66d55454bb784de359abafaf82b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Audrina Patridge Says Spencer Pratt Will Deliver on His Mayoral Promises]]></title>
-            <link>https://www.tmz.com/2026/05/02/audrina-patridge-will-deliver-mayoral-campaign-promises/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/audrina-patridge-will-deliver-mayoral-campaign-promises/</guid>
-            <pubDate>Sat, 02 May 2026 23:26:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/05/02/a490cd4b847b4bc3a4c65170c19ca431_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/05/02/a490cd4b847b4bc3a4c65170c19ca431_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/05/02/a490cd4b847b4bc3a4c65170c19ca431_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Harry Potter&#039; Cast -- Then and Now! See How Far They&#039;ve Come!]]></title>
-            <link>https://www.tmz.com/2026/05/02/harry-potter-cast-then-and-now/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/harry-potter-cast-then-and-now/</guid>
-            <pubDate>Sat, 02 May 2026 23:00:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/04/28/3c6a2685126b4aa8af8e75b56f99f45c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/04/28/3c6a2685126b4aa8af8e75b56f99f45c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/04/28/3c6a2685126b4aa8af8e75b56f99f45c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;SLOMW&#039; Star Miranda Hope Posts Ex-Husband&#039;s Texts As Emo Song]]></title>
-            <link>https://www.tmz.com/2026/05/02/miranda-hope-posts-chase-mcwhorter-texts/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/02/miranda-hope-posts-chase-mcwhorter-texts/</guid>
-            <pubDate>Sat, 02 May 2026 22:51:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/05/02/731c89d8b6ad4ecb82b9e3258ea6f72b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/05/02/731c89d8b6ad4ecb82b9e3258ea6f72b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/05/02/731c89d8b6ad4ecb82b9e3258ea6f72b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
