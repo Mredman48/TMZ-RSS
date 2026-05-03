@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 18:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 19:39:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Former Santana Vocalist Alex Ligertwood Dead at 79]]></title>
+            <link>https://www.tmz.com/2026/05/03/alex-ligertwood-santana-vocalist-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/alex-ligertwood-santana-vocalist-dead/</guid>
+            <pubDate>Sun, 03 May 2026 19:28:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/05/03/033c11e6dd574140afe4611d83fba0cd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/05/03/033c11e6dd574140afe4611d83fba0cd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/05/03/033c11e6dd574140afe4611d83fba0cd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[ICE Drags Man Out of New York City Hospital, on Video]]></title>
+            <link>https://www.tmz.com/2026/05/03/ice-drags-man-out-of-hospital/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/ice-drags-man-out-of-hospital/</guid>
+            <pubDate>Sun, 03 May 2026 19:21:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/05/03/5657c054a4024f278bcd7b109c02cfed_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/05/03/5657c054a4024f278bcd7b109c02cfed_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/05/03/5657c054a4024f278bcd7b109c02cfed_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mel B Performs With Mel C After Shooting Down Spice Girls Reunion Tour]]></title>
             <link>https://www.tmz.com/2026/05/03/spice-girls-mini-reunion-after-mel-b-tour-comments/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/05/03/5e20f1bc47dc44dca2c1d8c85049cb88_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/05/03/5e20f1bc47dc44dca2c1d8c85049cb88_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Anna Kepner&#039;s Dad Reveals Why He Won&#039;t Attend Murder Trial]]></title>
-            <link>https://www.tmz.com/2026/05/03/anna-kepner-dad-explains-murder-trial-absence/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/anna-kepner-dad-explains-murder-trial-absence/</guid>
-            <pubDate>Sun, 03 May 2026 15:42:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/05/03/56d5722e3d7b4a3781136596d22468fd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/05/03/56d5722e3d7b4a3781136596d22468fd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/05/03/56d5722e3d7b4a3781136596d22468fd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Saturday Night Live&#039; Brutally Mocks Pete Hegseth and Kash Patel]]></title>
-            <link>https://www.tmz.com/2026/05/03/snl-mocks-pete-hegseth-and-kash-patel/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/snl-mocks-pete-hegseth-and-kash-patel/</guid>
-            <pubDate>Sun, 03 May 2026 14:36:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/05/03/11942b96bba446aa822dfacf49fa0329_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/05/03/11942b96bba446aa822dfacf49fa0329_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/05/03/11942b96bba446aa822dfacf49fa0329_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
