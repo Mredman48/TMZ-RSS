@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 12:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 14:55:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Taylor Swift&#039;s Met Gala Looks -- Will She Show With Travis Kelce?!]]></title>
-            <link>https://www.tmz.com/2026/05/04/taylor-swift-met-gala-looks-through-the-years/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/taylor-swift-met-gala-looks-through-the-years/</guid>
-            <pubDate>Mon, 04 May 2026 11:00:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/04/30/205857917c3247f089a1f5890df8e9be_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/04/30/205857917c3247f089a1f5890df8e9be_xl.jpg" medium="image">
+            <title><![CDATA[Cruise Ship Virus Outbreak Kills 3, Sickens Crew and Other Passengers]]></title>
+            <link>https://www.tmz.com/2026/05/04/cruise-ship-passengers-dead-after-hantavirus-outbreak/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/cruise-ship-passengers-dead-after-hantavirus-outbreak/</guid>
+            <pubDate>Mon, 04 May 2026 14:47:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/05/04/f37b94ec230741a69286391bd1c3a15b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/05/04/f37b94ec230741a69286391bd1c3a15b_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/04/30/205857917c3247f089a1f5890df8e9be_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/05/04/f37b94ec230741a69286391bd1c3a15b_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Met Gala Gals In Their ... Bikinis Guess Who!]]></title>
-            <link>https://www.tmz.com/2026/05/04/met-gala-girls-in-bikinis/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/met-gala-girls-in-bikinis/</guid>
-            <pubDate>Mon, 04 May 2026 07:45:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/04/30/d72f52a78aa84c7c8638d3f68c56a727_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/04/30/d72f52a78aa84c7c8638d3f68c56a727_xl.jpg" medium="image">
+            <title><![CDATA[Gordon Ramsay&#039;s Restaurant Gets Pooped On by Customer After Dog Incident]]></title>
+            <link>https://www.tmz.com/2026/05/04/gordon-ramsay-restaurant-dragged-after-viral-dog-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/gordon-ramsay-restaurant-dragged-after-viral-dog-video/</guid>
+            <pubDate>Mon, 04 May 2026 14:32:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/05/04/3d39f4c363a44492b89c10f9e0594244_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/05/04/3d39f4c363a44492b89c10f9e0594244_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/04/30/d72f52a78aa84c7c8638d3f68c56a727_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/05/04/3d39f4c363a44492b89c10f9e0594244_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Luke Rockhold Has Zero Interest In Hollywood Career, I Hate Fake Characters!]]></title>
-            <link>https://www.tmz.com/2026/05/04/luke-rockhold-no-interest-in-acting-career/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/luke-rockhold-no-interest-in-acting-career/</guid>
-            <pubDate>Mon, 04 May 2026 07:30:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/05/01/e9f2273e59c84be8bdb48ead67749986_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/05/01/e9f2273e59c84be8bdb48ead67749986_xl.jpg" medium="image">
+            <title><![CDATA[Mike Vrabel, Dianna Russini Get &#039;Titanic&#039; Treatment on &#039;Inside The NBA&#039;]]></title>
+            <link>https://www.tmz.com/2026/05/04/mike-vrabel-dianna-russini-inside-the-nba/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/mike-vrabel-dianna-russini-inside-the-nba/</guid>
+            <pubDate>Mon, 04 May 2026 14:26:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/05/04/35b4c7ef75184cbbb83e2ff6500b110b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/05/04/35b4c7ef75184cbbb83e2ff6500b110b_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/05/01/e9f2273e59c84be8bdb48ead67749986_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/05/04/35b4c7ef75184cbbb83e2ff6500b110b_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Do Your Skincare Like These Met Gala Stars, Try Their Routines!]]></title>
-            <link>https://www.tmz.com/2026/05/04/met-gala-celebrity-skincare-products/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/met-gala-celebrity-skincare-products/</guid>
-            <pubDate>Mon, 04 May 2026 07:05:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/04/28/dc044fded39149619b7ee1e3ee884e79_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/04/28/dc044fded39149619b7ee1e3ee884e79_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Jersey Shore&#039;s Ronnie Ortiz-Magro Posts Raw Depression Confession Amid Concerns]]></title>
+            <link>https://www.tmz.com/2026/05/04/ronnie-ortiz-magro-addresses-behavior/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/ronnie-ortiz-magro-addresses-behavior/</guid>
+            <pubDate>Mon, 04 May 2026 13:39:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/05/01/1534c1d048fa479c8c195fd872a16216_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/05/01/1534c1d048fa479c8c195fd872a16216_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/04/28/dc044fded39149619b7ee1e3ee884e79_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/05/01/1534c1d048fa479c8c195fd872a16216_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Secret Lives of Mormon Wives&#039; Whitney Leavitt Announces Exit During &#039;Chicago&#039; Show]]></title>
-            <link>https://www.tmz.com/2026/05/03/secret-lives-of-mormon-wives-whitney-leavitt-announces-exit-during-chicago/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/secret-lives-of-mormon-wives-whitney-leavitt-announces-exit-during-chicago/</guid>
-            <pubDate>Mon, 04 May 2026 02:54:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/05/04/7ffc4eee3d7748589bd6ea3eb08a6150_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/05/04/7ffc4eee3d7748589bd6ea3eb08a6150_xl.png" medium="image">
+            <title><![CDATA[John Sterling, Legendary Voice of the Yankees, Dead At 87]]></title>
+            <link>https://www.tmz.com/2026/05/04/john-sterling-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/john-sterling-dead/</guid>
+            <pubDate>Mon, 04 May 2026 13:22:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/05/04/4522fc677e4b4579a36b2ab5bd952f40_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/05/04/4522fc677e4b4579a36b2ab5bd952f40_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/05/04/7ffc4eee3d7748589bd6ea3eb08a6150_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/05/04/4522fc677e4b4579a36b2ab5bd952f40_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
