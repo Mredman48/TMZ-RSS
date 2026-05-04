@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 23:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 01:18:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Olivia Wilde Says She&#039;s Not Dead After Shocking Red Carpet Interview]]></title>
+            <link>https://www.tmz.com/2026/05/03/olivia-wilde-says-camera-lens-messed-with-look/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/olivia-wilde-says-camera-lens-messed-with-look/</guid>
+            <pubDate>Mon, 04 May 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Allen White Takes Kids on Ride at L.A.-Area Fair]]></title>
+            <link>https://www.tmz.com/2026/05/03/jeremy-allen-white/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/jeremy-allen-white/</guid>
+            <pubDate>Mon, 04 May 2026 00:30:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/05/03/7242a4c9e352423e97144e9a1a90e176_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/05/03/7242a4c9e352423e97144e9a1a90e176_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/05/03/7242a4c9e352423e97144e9a1a90e176_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rick Fox Offers Fake Apology For Physical Altercation in Bahamas]]></title>
+            <link>https://www.tmz.com/2026/05/03/rick-fox-apologizes-fight-bahamas/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/rick-fox-apologizes-fight-bahamas/</guid>
+            <pubDate>Sun, 03 May 2026 23:47:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/05/03/aa1879287602400c93a59abab319f284_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/05/03/aa1879287602400c93a59abab319f284_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/05/03/aa1879287602400c93a59abab319f284_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rudy Giuliani Hospitalized in Critical Condition]]></title>
+            <link>https://www.tmz.com/2026/05/03/rudy-giuliani-hospitalized-in-critical-condition/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/rudy-giuliani-hospitalized-in-critical-condition/</guid>
+            <pubDate>Sun, 03 May 2026 23:27:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2024/07/02/ff1c46f4892849bdbcd5131eaafa4024_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ff/16by9/2024/07/02/ff1c46f4892849bdbcd5131eaafa4024_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2024/07/02/ff1c46f4892849bdbcd5131eaafa4024_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kylie Jenner and Timothée Chalamet Watch Broadway Show with Kris and Kim]]></title>
             <link>https://www.tmz.com/2026/05/03/kylie-jenner-timothee-chalamet-watch-broadway-show-with-kris-kim/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/05/03/d06e95159819422c8c28de57380f24e2_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/05/03/d06e95159819422c8c28de57380f24e2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sydney Sweeney Takes Tour of Harbour Bridge in Australia]]></title>
-            <link>https://www.tmz.com/2026/05/03/sydney-sweeney-tours-harbour-bridge-australia/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/sydney-sweeney-tours-harbour-bridge-australia/</guid>
-            <pubDate>Sun, 03 May 2026 22:34:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/05/03/eba7652877794db4a3b0c6db8f144dd3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/05/03/eba7652877794db4a3b0c6db8f144dd3_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/05/03/eba7652877794db4a3b0c6db8f144dd3_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bianca Censori Wears See-Though Shirt While Walking Out of L.A. Spa]]></title>
-            <link>https://www.tmz.com/2026/05/03/bianca-censori-sheer-shirt-spa-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/bianca-censori-sheer-shirt-spa-photos/</guid>
-            <pubDate>Sun, 03 May 2026 22:16:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a7/16by9/2026/05/03/a7107f17d34d4944b10483da7b46337e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a7/16by9/2026/05/03/a7107f17d34d4944b10483da7b46337e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a7/16by9/2026/05/03/a7107f17d34d4944b10483da7b46337e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Storage Wars&#039; Star Darrell Sheets’ Son Breaks Silence on His Death]]></title>
-            <link>https://www.tmz.com/2026/05/03/brandon-sheets-breaks-silence-on-father-darrell-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/brandon-sheets-breaks-silence-on-father-darrell-death/</guid>
-            <pubDate>Sun, 03 May 2026 22:03:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4d/16by9/2026/05/03/4d0f1bc3bd014e61becdbd059948ab42_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4d/16by9/2026/05/03/4d0f1bc3bd014e61becdbd059948ab42_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4d/16by9/2026/05/03/4d0f1bc3bd014e61becdbd059948ab42_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kid Rock Filmed Concert Opening Video With Pete Hegseth]]></title>
-            <link>https://www.tmz.com/2026/05/03/pete-hegseth-in-kid-rock-concert-opening-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/pete-hegseth-in-kid-rock-concert-opening-video/</guid>
-            <pubDate>Sun, 03 May 2026 20:56:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/05/03/4a1d5bf6c89c4672b55b5a3f8a98298c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/05/03/4a1d5bf6c89c4672b55b5a3f8a98298c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/05/03/4a1d5bf6c89c4672b55b5a3f8a98298c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
