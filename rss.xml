@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 10:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 12:12:42 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Swift&#039;s Met Gala Looks -- Will She Show With Travis Kelce?!]]></title>
+            <link>https://www.tmz.com/2026/05/04/taylor-swift-met-gala-looks-through-the-years/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/taylor-swift-met-gala-looks-through-the-years/</guid>
+            <pubDate>Mon, 04 May 2026 11:00:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/20/16by9/2026/04/30/205857917c3247f089a1f5890df8e9be_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/20/16by9/2026/04/30/205857917c3247f089a1f5890df8e9be_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/20/16by9/2026/04/30/205857917c3247f089a1f5890df8e9be_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Met Gala Gals In Their ... Bikinis Guess Who!]]></title>
             <link>https://www.tmz.com/2026/05/04/met-gala-girls-in-bikinis/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/05/04/7ffc4eee3d7748589bd6ea3eb08a6150_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/05/04/7ffc4eee3d7748589bd6ea3eb08a6150_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Olivia Wilde Says She&#039;s Not Dead After Shocking Red Carpet Interview]]></title>
-            <link>https://www.tmz.com/2026/05/03/olivia-wilde-says-camera-lens-messed-with-look/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/olivia-wilde-says-camera-lens-messed-with-look/</guid>
-            <pubDate>Mon, 04 May 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png">
             </media:thumbnail>
         </item>
     </channel>
