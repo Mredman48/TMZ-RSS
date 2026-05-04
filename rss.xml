@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 05:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 08:07:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Met Gala Gals In Their ... Bikinis Guess Who!]]></title>
+            <link>https://www.tmz.com/2026/05/04/met-gala-girls-in-bikinis/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/met-gala-girls-in-bikinis/</guid>
+            <pubDate>Mon, 04 May 2026 07:45:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/04/30/d72f52a78aa84c7c8638d3f68c56a727_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/04/30/d72f52a78aa84c7c8638d3f68c56a727_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/04/30/d72f52a78aa84c7c8638d3f68c56a727_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Luke Rockhold Has Zero Interest In Hollywood Career, I Hate Fake Characters!]]></title>
+            <link>https://www.tmz.com/2026/05/04/luke-rockhold-no-interest-in-acting-career/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/luke-rockhold-no-interest-in-acting-career/</guid>
+            <pubDate>Mon, 04 May 2026 07:30:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/05/01/e9f2273e59c84be8bdb48ead67749986_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/05/01/e9f2273e59c84be8bdb48ead67749986_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/05/01/e9f2273e59c84be8bdb48ead67749986_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Do Your Skincare Like These Met Gala Stars, Try Their Routines!]]></title>
+            <link>https://www.tmz.com/2026/05/04/met-gala-celebrity-skincare-products/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/met-gala-celebrity-skincare-products/</guid>
+            <pubDate>Mon, 04 May 2026 07:05:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/04/28/dc044fded39149619b7ee1e3ee884e79_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/04/28/dc044fded39149619b7ee1e3ee884e79_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/04/28/dc044fded39149619b7ee1e3ee884e79_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Secret Lives of Mormon Wives&#039; Whitney Leavitt Announces Exit During &#039;Chicago&#039; Show]]></title>
             <link>https://www.tmz.com/2026/05/03/secret-lives-of-mormon-wives-whitney-leavitt-announces-exit-during-chicago/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/05/03/543a8163d60d4c638b9fac58ac209125_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jeremy Allen White Takes Kids on Ride at L.A.-Area Fair]]></title>
-            <link>https://www.tmz.com/2026/05/03/jeremy-allen-white/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/jeremy-allen-white/</guid>
-            <pubDate>Mon, 04 May 2026 00:30:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/05/03/7242a4c9e352423e97144e9a1a90e176_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/05/03/7242a4c9e352423e97144e9a1a90e176_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/05/03/7242a4c9e352423e97144e9a1a90e176_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rick Fox Offers Fake Apology For Physical Altercation in Bahamas]]></title>
-            <link>https://www.tmz.com/2026/05/03/rick-fox-apologizes-fight-bahamas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/rick-fox-apologizes-fight-bahamas/</guid>
-            <pubDate>Sun, 03 May 2026 23:47:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/05/03/aa1879287602400c93a59abab319f284_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/05/03/aa1879287602400c93a59abab319f284_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/05/03/aa1879287602400c93a59abab319f284_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rudy Giuliani Hospitalized in Critical Condition]]></title>
-            <link>https://www.tmz.com/2026/05/03/rudy-giuliani-hospitalized-in-critical-condition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/03/rudy-giuliani-hospitalized-in-critical-condition/</guid>
-            <pubDate>Sun, 03 May 2026 23:27:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2024/07/02/ff1c46f4892849bdbcd5131eaafa4024_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ff/16by9/2024/07/02/ff1c46f4892849bdbcd5131eaafa4024_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2024/07/02/ff1c46f4892849bdbcd5131eaafa4024_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
