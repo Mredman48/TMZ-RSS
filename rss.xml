@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 22:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 23:31:41 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Heidi Klum Channels Mother Mary For 2026 Met Gala]]></title>
+            <link>https://www.tmz.com/2026/05/04/heidi-klum-at-met-gala-as-mother-mary/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/heidi-klum-at-met-gala-as-mother-mary/</guid>
+            <pubDate>Mon, 04 May 2026 23:26:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/05/04/bc80b7e1df2c423381bf6771c46d7afd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/05/04/bc80b7e1df2c423381bf6771c46d7afd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/05/04/bc80b7e1df2c423381bf6771c46d7afd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Angelina Jolie Lists Iconic Hollywood Estate for $30 Million]]></title>
+            <link>https://www.tmz.com/2026/05/04/angelina-jolie-selling-iconic-hollywood-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/angelina-jolie-selling-iconic-hollywood-home/</guid>
+            <pubDate>Mon, 04 May 2026 23:17:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/05/04/11ec3220d9ef46aa9d14122b8bf29b75_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/05/04/11ec3220d9ef46aa9d14122b8bf29b75_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/05/04/11ec3220d9ef46aa9d14122b8bf29b75_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nicole Kidman&#039;s Daughter Makes Met Gala Debut, Keith Urban Nowhere in Sight]]></title>
             <link>https://www.tmz.com/2026/05/04/nicole-kidmans-daughter-sunday-rose-makes-met-gala-debut/</link>
@@ -23,10 +45,10 @@
             <link>https://www.tmz.com/2026/05/04/met-gala-celebrities-red-carpet-arrivals/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/04/met-gala-celebrities-red-carpet-arrivals/</guid>
             <pubDate>Mon, 04 May 2026 22:01:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/05/04/8a113dd915344a97818c7eee3944514a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/05/04/8a113dd915344a97818c7eee3944514a_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/05/04/7494b076381741c5b2b380923c07b1d3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/05/04/7494b076381741c5b2b380923c07b1d3_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/05/04/8a113dd915344a97818c7eee3944514a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/05/04/7494b076381741c5b2b380923c07b1d3_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/05/04/a9faf341561d41b5b2c0c756b114b6a7_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/05/04/a9faf341561d41b5b2c0c756b114b6a7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Ann Walter Calls Jeff Bezos &#039;Temu Lex Luthor&#039; During Met Gala Protest]]></title>
-            <link>https://www.tmz.com/2026/05/04/lisa-ann-walter-calls-out-jeff-bezos-at-met-gala-protest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/lisa-ann-walter-calls-out-jeff-bezos-at-met-gala-protest/</guid>
-            <pubDate>Mon, 04 May 2026 21:33:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/05/04/2469a5b7561542c7a527698bb318f241_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/05/04/2469a5b7561542c7a527698bb318f241_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/05/04/2469a5b7561542c7a527698bb318f241_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jesse Williams Secretly Marries Alejandra Onieva in Private Ceremony]]></title>
-            <link>https://www.tmz.com/2026/05/04/jesse-williams-secretly-has-private-wedding-to-alejandra-onieva/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/jesse-williams-secretly-has-private-wedding-to-alejandra-onieva/</guid>
-            <pubDate>Mon, 04 May 2026 21:20:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/05/04/42a1f19894f04919b6960308fa584b61_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/05/04/42a1f19894f04919b6960308fa584b61_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/05/04/42a1f19894f04919b6960308fa584b61_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
