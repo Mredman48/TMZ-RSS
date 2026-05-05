@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 07:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 09:30:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[‘General Hospital’ Star Steve Burton Drags Ex-Wife to Court Over Custody Issues]]></title>
+            <link>https://www.tmz.com/2026/05/05/steve-burton-takes-custody-issues-with-ex-wife-to-court/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/steve-burton-takes-custody-issues-with-ex-wife-to-court/</guid>
+            <pubDate>Tue, 05 May 2026 08:00:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/05/04/d02a58322abb4c60a53e922b2f2b31cd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/05/04/d02a58322abb4c60a53e922b2f2b31cd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/05/04/d02a58322abb4c60a53e922b2f2b31cd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Pawn Stars&#039; Rick Harrison Tells TMZ DC How Much White House Memorabilia&#039;s Worth]]></title>
+            <link>https://www.tmz.com/2026/05/05/pawn-stars-rick-harrison-speculates-on-white-house-auction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/pawn-stars-rick-harrison-speculates-on-white-house-auction/</guid>
+            <pubDate>Tue, 05 May 2026 08:00:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9de88688144a9b91ee9dd3360403a1_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9de88688144a9b91ee9dd3360403a1_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9de88688144a9b91ee9dd3360403a1_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Vanderpump Villa&#039;s Marciano Making Moves to Get Unaired &#039;Mormon Wives&#039; Footage]]></title>
+            <link>https://www.tmz.com/2026/05/05/marciano-brunette-attempts-to-attain-unaired-mormon-wives-footage/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/marciano-brunette-attempts-to-attain-unaired-mormon-wives-footage/</guid>
+            <pubDate>Tue, 05 May 2026 08:00:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/05/04/d6ffa547b60e4a009251d7362253f123_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/05/04/d6ffa547b60e4a009251d7362253f123_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/05/04/d6ffa547b60e4a009251d7362253f123_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess The Hot Pink Bikini Babe!]]></title>
+            <link>https://www.tmz.com/2026/05/05/guess-the-hot-pink-bikini-babe/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/guess-the-hot-pink-bikini-babe/</guid>
+            <pubDate>Tue, 05 May 2026 07:45:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mike Perry Gunning For Jake Paul MMA Fight After Nate Diaz]]></title>
             <link>https://www.tmz.com/2026/05/05/mike-perry-wants-to-fight-jake-paul-after-nate-diaz/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/78/16by9/2026/04/30/78ab241f0c154370bae399128bd046b7_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/04/30/78ab241f0c154370bae399128bd046b7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[These Are the Mother&#039;s Day Gifts Moms Actually Want]]></title>
-            <link>https://www.tmz.com/2026/05/05/best-mothers-day-gifts-in-a-pinch/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/best-mothers-day-gifts-in-a-pinch/</guid>
-            <pubDate>Tue, 05 May 2026 07:05:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/04/29/629ab0cf66644519bd6aaaf9aa0f0afc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/04/29/629ab0cf66644519bd6aaaf9aa0f0afc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/04/29/629ab0cf66644519bd6aaaf9aa0f0afc_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Epic Meal Time&#039; YouTuber Harley Morenstein &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/05/05/youtuber-harley-morenstein-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/youtuber-harley-morenstein-memba-him/</guid>
-            <pubDate>Tue, 05 May 2026 07:01:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0a/16by9/2026/04/09/0a8aabdec7604bfaa81e57a2110b210e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0a/16by9/2026/04/09/0a8aabdec7604bfaa81e57a2110b210e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0a/16by9/2026/04/09/0a8aabdec7604bfaa81e57a2110b210e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hit-Run Driver Who Killed Nicki Minaj&#039;s Dad Settles Wrongful Death Lawsuit]]></title>
-            <link>https://www.tmz.com/2026/05/05/charles-polevich-settles-nicki-minajs-dad-wrongful-death-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/charles-polevich-settles-nicki-minajs-dad-wrongful-death-lawsuit/</guid>
-            <pubDate>Tue, 05 May 2026 07:00:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9d4a36247a4b2c8c78a98f54c8faaa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9d4a36247a4b2c8c78a98f54c8faaa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9d4a36247a4b2c8c78a98f54c8faaa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kardashian-Jenner Looks From 2026 Met Gala]]></title>
-            <link>https://www.tmz.com/2026/05/04/kardashian-jenner-met-gala-looks/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/04/kardashian-jenner-met-gala-looks/</guid>
-            <pubDate>Tue, 05 May 2026 02:49:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/05/05/1b0764d5e2954b0493e2677455eabbce_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/05/05/1b0764d5e2954b0493e2677455eabbce_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/05/05/1b0764d5e2954b0493e2677455eabbce_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
