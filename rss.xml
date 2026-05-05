@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 21:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 22:36:13 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Alix Earle Keeps Tom Brady Out of Netflix Reality Show Storyline]]></title>
+            <link>https://www.tmz.com/2026/05/05/tom-brady-does-not-appear-on-alix-earle-reality-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/tom-brady-does-not-appear-on-alix-earle-reality-show/</guid>
+            <pubDate>Tue, 05 May 2026 22:00:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/05/05/71b87a2182264c98938ba69d6bea861e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/05/05/71b87a2182264c98938ba69d6bea861e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/05/05/71b87a2182264c98938ba69d6bea861e_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Car Pursues Bike-Riding Kid on Sidewalk in Alarming Video, Woman Arrested for DUI]]></title>
             <link>https://www.tmz.com/2026/05/05/reckless-driver-attempts-to-hit-juvenile-bike-rider-in-spokane-washington/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/21/16by9/2026/05/05/218e30f53c9542e68da10e4f9c8261e3_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/05/05/218e30f53c9542e68da10e4f9c8261e3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Matthew Perry&#039;s &#039;Friends&#039; Memorabilia, Art & More Items Headed for Auction]]></title>
-            <link>https://www.tmz.com/2026/05/05/matthew-perry-friends-keepsakes-for-auction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/matthew-perry-friends-keepsakes-for-auction/</guid>
-            <pubDate>Tue, 05 May 2026 21:00:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/05/05/23b299c1e9384ac89899425a38f98364_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/05/05/23b299c1e9384ac89899425a38f98364_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/05/05/23b299c1e9384ac89899425a38f98364_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
