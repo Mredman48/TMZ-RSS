@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 17:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 18:56:01 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Michael Lohan Suffers Seizure After Heart Surgery]]></title>
-            <link>https://www.tmz.com/2026/05/05/michael-lohan-hospitalized-after-health-scare/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/michael-lohan-hospitalized-after-health-scare/</guid>
-            <pubDate>Tue, 05 May 2026 17:03:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/05/05/7060ef5a138c4c3f8903a481179b1d69_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/05/05/7060ef5a138c4c3f8903a481179b1d69_xl.jpg" medium="image">
+            <title><![CDATA[Influencer Pâmela Guimarães Shot in Front of Her Kids, Dies in Hospital]]></title>
+            <link>https://www.tmz.com/2026/05/05/brazilian-influencer-pamela-guimaraes-killed-in-front-of-her-children/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/brazilian-influencer-pamela-guimaraes-killed-in-front-of-her-children/</guid>
+            <pubDate>Tue, 05 May 2026 18:53:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/05/05/c0d548765ab645e4bc880e24cb4e8c3a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/05/05/c0d548765ab645e4bc880e24cb4e8c3a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/05/05/7060ef5a138c4c3f8903a481179b1d69_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/05/05/c0d548765ab645e4bc880e24cb4e8c3a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Blake Lively&#039;s Met Gala Appearance Solidified Weeks Ago, Baldoni Settlement Irrelevant]]></title>
-            <link>https://www.tmz.com/2026/05/05/blake-lively-met-gala-invitation-came-before-settlement/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/blake-lively-met-gala-invitation-came-before-settlement/</guid>
-            <pubDate>Tue, 05 May 2026 16:43:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/05/05/47a0fba5556c49babc7b9ceaa29b91fc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/05/05/47a0fba5556c49babc7b9ceaa29b91fc_xl.jpg" medium="image">
+            <title><![CDATA[Chuck Norris Was Into All the Myths, &#039;Texas Ranger&#039; Costar Says After Sudden Death]]></title>
+            <link>https://www.tmz.com/2026/05/05/judson-mills-pays-tribute-to-chuck-norris/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/judson-mills-pays-tribute-to-chuck-norris/</guid>
+            <pubDate>Tue, 05 May 2026 18:50:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/06/16by9/2026/05/04/06909aca059942a2822774fbcb34af3a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/06/16by9/2026/05/04/06909aca059942a2822774fbcb34af3a_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/05/05/47a0fba5556c49babc7b9ceaa29b91fc_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/06/16by9/2026/05/04/06909aca059942a2822774fbcb34af3a_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Storage Wars&#039; Darrell Sheets&#039; Manner of Death Revealed]]></title>
-            <link>https://www.tmz.com/2026/05/05/darrell-sheets-manner-of-death-suicide/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/darrell-sheets-manner-of-death-suicide/</guid>
-            <pubDate>Tue, 05 May 2026 16:28:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/04/23/855cf0ea00e948b09d7994a9642fe92a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/23/855cf0ea00e948b09d7994a9642fe92a_xl.jpg" medium="image">
+            <title><![CDATA[Jennifer Lopez Lists Beverly Hills Home for $50M After Ben Gifted His Half]]></title>
+            <link>https://www.tmz.com/2026/05/05/jennifer-lopez-lists-beverly-hills-home-for-50-million/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/jennifer-lopez-lists-beverly-hills-home-for-50-million/</guid>
+            <pubDate>Tue, 05 May 2026 18:45:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6e/16by9/2026/05/05/6e0bd8a9f9074fb6b4acf17bfbc44e00_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6e/16by9/2026/05/05/6e0bd8a9f9074fb6b4acf17bfbc44e00_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/23/855cf0ea00e948b09d7994a9642fe92a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/6e/16by9/2026/05/05/6e0bd8a9f9074fb6b4acf17bfbc44e00_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Pantless Hudson Williams Ditched at Wrong Hotel at 6 AM After Met Gala Partying, on Video]]></title>
-            <link>https://www.tmz.com/2026/05/05/hudson-williams-half-naked-after-met-gala-hotel-mix-up/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/hudson-williams-half-naked-after-met-gala-hotel-mix-up/</guid>
-            <pubDate>Tue, 05 May 2026 16:28:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/05/05/5940bcde228d45908d9479b3695e6f75_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/05/05/5940bcde228d45908d9479b3695e6f75_xl.png" medium="image">
+            <title><![CDATA[Michael Jackson&#039;s Ex-Doctor Conrad Murray Sports Ponytail in New Pics]]></title>
+            <link>https://www.tmz.com/2026/05/05/michael-jackson-doctor-conrad-murray-has-ponytail-in-new-pics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/michael-jackson-doctor-conrad-murray-has-ponytail-in-new-pics/</guid>
+            <pubDate>Tue, 05 May 2026 18:30:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/05/05/22741516eb1346d6b9b0d96ece27bdb1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/05/05/22741516eb1346d6b9b0d96ece27bdb1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/05/05/5940bcde228d45908d9479b3695e6f75_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/05/05/22741516eb1346d6b9b0d96ece27bdb1_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Back to the Future&#039; Star Christopher Lloyd Sells Santa Barbara Home for $5.4M]]></title>
-            <link>https://www.tmz.com/2026/05/05/christopher-lloyd-selling-santa-barbara-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/christopher-lloyd-selling-santa-barbara-house/</guid>
-            <pubDate>Tue, 05 May 2026 16:21:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/05/05/5188c864699f4af3938f4139af1bd6b0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/05/05/5188c864699f4af3938f4139af1bd6b0_xl.jpg" medium="image">
+            <title><![CDATA[School Director Sent to Jail for Forming Child Fight Club in Arkansas]]></title>
+            <link>https://www.tmz.com/2026/05/05/arkansas-child-fight-club-teacher-sentenced-to-jail/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/arkansas-child-fight-club-teacher-sentenced-to-jail/</guid>
+            <pubDate>Tue, 05 May 2026 18:27:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/05/05/9a3837670d4146a4930226844a264529_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/05/05/9a3837670d4146a4930226844a264529_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/05/05/5188c864699f4af3938f4139af1bd6b0_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/05/05/9a3837670d4146a4930226844a264529_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
