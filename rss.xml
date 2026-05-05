@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 11:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 12:51:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Sleepaway Camp&#039; Star Jonathan Tiersten Dead at 60]]></title>
+            <link>https://www.tmz.com/2026/05/05/jonathan-tiersten-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/jonathan-tiersten-dead/</guid>
+            <pubDate>Tue, 05 May 2026 12:21:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/05/05/27f478586c7145f7a9e6cc2badfc2a5b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/05/05/27f478586c7145f7a9e6cc2badfc2a5b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/05/05/27f478586c7145f7a9e6cc2badfc2a5b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[‘General Hospital’ Star Steve Burton Drags Ex-Wife to Court Over Custody Issues]]></title>
             <link>https://www.tmz.com/2026/05/05/steve-burton-takes-custody-issues-with-ex-wife-to-court/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mike Perry Gunning For Jake Paul MMA Fight After Nate Diaz]]></title>
-            <link>https://www.tmz.com/2026/05/05/mike-perry-wants-to-fight-jake-paul-after-nate-diaz/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/mike-perry-wants-to-fight-jake-paul-after-nate-diaz/</guid>
-            <pubDate>Tue, 05 May 2026 07:30:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/04/30/78ab241f0c154370bae399128bd046b7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/04/30/78ab241f0c154370bae399128bd046b7_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/04/30/78ab241f0c154370bae399128bd046b7_xl.png">
             </media:thumbnail>
         </item>
     </channel>
