@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 12:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:06:49 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[&#039;Sleepaway Camp&#039; Star Jonathan Tiersten Dead at 60]]></title>
-            <link>https://www.tmz.com/2026/05/05/jonathan-tiersten-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/jonathan-tiersten-dead/</guid>
-            <pubDate>Tue, 05 May 2026 12:21:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/05/05/27f478586c7145f7a9e6cc2badfc2a5b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/05/05/27f478586c7145f7a9e6cc2badfc2a5b_xl.jpg" medium="image">
+            <title><![CDATA[Michael Lohan Suffers Seizure After Heart Surgery]]></title>
+            <link>https://www.tmz.com/2026/05/05/michael-lohan-hospitalized-after-health-scare/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/michael-lohan-hospitalized-after-health-scare/</guid>
+            <pubDate>Tue, 05 May 2026 17:03:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/05/05/7060ef5a138c4c3f8903a481179b1d69_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/05/05/7060ef5a138c4c3f8903a481179b1d69_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/05/05/27f478586c7145f7a9e6cc2badfc2a5b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/05/05/7060ef5a138c4c3f8903a481179b1d69_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[‘General Hospital’ Star Steve Burton Drags Ex-Wife to Court Over Custody Issues]]></title>
-            <link>https://www.tmz.com/2026/05/05/steve-burton-takes-custody-issues-with-ex-wife-to-court/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/steve-burton-takes-custody-issues-with-ex-wife-to-court/</guid>
-            <pubDate>Tue, 05 May 2026 08:00:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/05/04/d02a58322abb4c60a53e922b2f2b31cd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/05/04/d02a58322abb4c60a53e922b2f2b31cd_xl.jpg" medium="image">
+            <title><![CDATA[Blake Lively&#039;s Met Gala Appearance Solidified Weeks Ago, Baldoni Settlement Irrelevant]]></title>
+            <link>https://www.tmz.com/2026/05/05/blake-lively-met-gala-invitation-came-before-settlement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/blake-lively-met-gala-invitation-came-before-settlement/</guid>
+            <pubDate>Tue, 05 May 2026 16:43:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/05/05/47a0fba5556c49babc7b9ceaa29b91fc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/05/05/47a0fba5556c49babc7b9ceaa29b91fc_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/05/04/d02a58322abb4c60a53e922b2f2b31cd_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/05/05/47a0fba5556c49babc7b9ceaa29b91fc_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Pawn Stars&#039; Rick Harrison Tells TMZ DC How Much White House Memorabilia&#039;s Worth]]></title>
-            <link>https://www.tmz.com/2026/05/05/pawn-stars-rick-harrison-speculates-on-white-house-auction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/pawn-stars-rick-harrison-speculates-on-white-house-auction/</guid>
-            <pubDate>Tue, 05 May 2026 08:00:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9de88688144a9b91ee9dd3360403a1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9de88688144a9b91ee9dd3360403a1_xl.png" medium="image">
+            <title><![CDATA[&#039;Storage Wars&#039; Darrell Sheets&#039; Manner of Death Revealed]]></title>
+            <link>https://www.tmz.com/2026/05/05/darrell-sheets-manner-of-death-suicide/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/darrell-sheets-manner-of-death-suicide/</guid>
+            <pubDate>Tue, 05 May 2026 16:28:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/04/23/855cf0ea00e948b09d7994a9642fe92a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/04/23/855cf0ea00e948b09d7994a9642fe92a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/05/04/7a9de88688144a9b91ee9dd3360403a1_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/04/23/855cf0ea00e948b09d7994a9642fe92a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Vanderpump Villa&#039;s Marciano Making Moves to Get Unaired &#039;Mormon Wives&#039; Footage]]></title>
-            <link>https://www.tmz.com/2026/05/05/marciano-brunette-attempts-to-attain-unaired-mormon-wives-footage/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/marciano-brunette-attempts-to-attain-unaired-mormon-wives-footage/</guid>
-            <pubDate>Tue, 05 May 2026 08:00:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d6/16by9/2026/05/04/d6ffa547b60e4a009251d7362253f123_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d6/16by9/2026/05/04/d6ffa547b60e4a009251d7362253f123_xl.jpg" medium="image">
+            <title><![CDATA[Pantless Hudson Williams Ditched at Wrong Hotel at 6 AM After Met Gala Partying, on Video]]></title>
+            <link>https://www.tmz.com/2026/05/05/hudson-williams-half-naked-after-met-gala-hotel-mix-up/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/hudson-williams-half-naked-after-met-gala-hotel-mix-up/</guid>
+            <pubDate>Tue, 05 May 2026 16:28:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/05/05/5940bcde228d45908d9479b3695e6f75_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/05/05/5940bcde228d45908d9479b3695e6f75_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d6/16by9/2026/05/04/d6ffa547b60e4a009251d7362253f123_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/05/05/5940bcde228d45908d9479b3695e6f75_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Guess The Hot Pink Bikini Babe!]]></title>
-            <link>https://www.tmz.com/2026/05/05/guess-the-hot-pink-bikini-babe/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/guess-the-hot-pink-bikini-babe/</guid>
-            <pubDate>Tue, 05 May 2026 07:45:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Back to the Future&#039; Star Christopher Lloyd Sells Santa Barbara Home for $5.4M]]></title>
+            <link>https://www.tmz.com/2026/05/05/christopher-lloyd-selling-santa-barbara-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/christopher-lloyd-selling-santa-barbara-house/</guid>
+            <pubDate>Tue, 05 May 2026 16:21:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/05/05/5188c864699f4af3938f4139af1bd6b0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/05/05/5188c864699f4af3938f4139af1bd6b0_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/05/04/22945164dd54453593f7fb524b83a619_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/05/05/5188c864699f4af3938f4139af1bd6b0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
