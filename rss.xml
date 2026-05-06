@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 01:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 04:59:41 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Jersey Shore&#039; Star Ronnie Ortiz-Magro Addresses Fan Concerns Over Health]]></title>
+            <link>https://www.tmz.com/2026/05/05/ronnie-ortiz-magro-addresses-health-concerns/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/ronnie-ortiz-magro-addresses-health-concerns/</guid>
+            <pubDate>Wed, 06 May 2026 02:09:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/05/06/aa3e30daefc64b10a936136670cae7ba_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/05/06/aa3e30daefc64b10a936136670cae7ba_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/05/06/aa3e30daefc64b10a936136670cae7ba_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ashlee Jenae&#039;s Fiancé Joe McCann Breaks Silence After Tragic Death]]></title>
+            <link>https://www.tmz.com/2026/05/05/ashlee-jenae-fiance-joe-mccann-breaks-silence/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/ashlee-jenae-fiance-joe-mccann-breaks-silence/</guid>
+            <pubDate>Wed, 06 May 2026 01:45:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/05/06/ce6f03f1e5834a8ebdca007871f38449_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/05/06/ce6f03f1e5834a8ebdca007871f38449_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/05/06/ce6f03f1e5834a8ebdca007871f38449_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[FedEx Driver Who Kidnapped and Killed 7-Year-Old Girl Sentenced To Death]]></title>
             <link>https://www.tmz.com/2026/05/05/tanner-horner-the-athena-strand-murderer-death-sentence/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/05/05/6f9ffc1dde4a4251a088988450e2df71_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/05/05/6f9ffc1dde4a4251a088988450e2df71_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NY Knicks&#039; Players Turned Away From Madonna & Sabrina Carpenter&#039;s Met Gala After Party]]></title>
-            <link>https://www.tmz.com/2026/05/05/knicks-players-rejected-from-madonna-and-sabrina-carpenter-party/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/knicks-players-rejected-from-madonna-and-sabrina-carpenter-party/</guid>
-            <pubDate>Wed, 06 May 2026 00:15:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/05/05/735c44f5baa2405fa5c809f2d38c7371_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/05/05/735c44f5baa2405fa5c809f2d38c7371_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/05/05/735c44f5baa2405fa5c809f2d38c7371_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Storage Wars&#039; Star Darrell Sheets&#039; Phone Being Examined by Cops in Cyberbullying Probe]]></title>
-            <link>https://www.tmz.com/2026/05/05/darrell-sheets-police-still-investigating-cyberbullying-claims-after-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/05/darrell-sheets-police-still-investigating-cyberbullying-claims-after-death/</guid>
-            <pubDate>Tue, 05 May 2026 23:47:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/05/05/73be45e2721e4e94ba984626b1861503_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/05/05/73be45e2721e4e94ba984626b1861503_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/05/05/73be45e2721e4e94ba984626b1861503_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
