@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 23:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 01:22:01 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Jeffrey Epstein Alleged Suicide Note Released, See Image]]></title>
-            <link>https://www.tmz.com/2026/05/06/jeffrey-epstein-alleged-suicide-note-release/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/jeffrey-epstein-alleged-suicide-note-release/</guid>
-            <pubDate>Wed, 06 May 2026 23:17:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/05/06/56f6f1e38adb4d49adbb70660356557e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/05/06/56f6f1e38adb4d49adbb70660356557e_xl.jpg" medium="image">
+            <title><![CDATA[Blake Shelton Missing Gwen Stefani&#039;s No Doubt Sphere Opening Night]]></title>
+            <link>https://www.tmz.com/2026/05/06/blake-shelton-missing-gwen-stefani-opening-performance/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/blake-shelton-missing-gwen-stefani-opening-performance/</guid>
+            <pubDate>Thu, 07 May 2026 01:18:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/05/06/5a82543358914561a53d45d1362df954_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/05/06/5a82543358914561a53d45d1362df954_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/05/06/56f6f1e38adb4d49adbb70660356557e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/05/06/5a82543358914561a53d45d1362df954_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ashlee Jenae&#039;s Fiancé Joe McCann Getting Threats After Influencer&#039;s Tragic Death]]></title>
-            <link>https://www.tmz.com/2026/05/06/ashlee-jenae-fiance-joe-mccann-receives-death-threats/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/ashlee-jenae-fiance-joe-mccann-receives-death-threats/</guid>
-            <pubDate>Wed, 06 May 2026 23:15:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/05/06/ed7d6d5e0ff04180866f2e2d2d01d43e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/05/06/ed7d6d5e0ff04180866f2e2d2d01d43e_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Bob&#039;s Burgers&#039; Star Eugene Mirman Hasn&#039;t Seen His Car Crash Photos After Fiery Accident]]></title>
+            <link>https://www.tmz.com/2026/05/06/eugene-mirman-did-not-see-car-crash-photos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/eugene-mirman-did-not-see-car-crash-photos/</guid>
+            <pubDate>Thu, 07 May 2026 01:08:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/05/07/ac5a13302ea54b70a098d1b313d09f18_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/05/07/ac5a13302ea54b70a098d1b313d09f18_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/05/06/ed7d6d5e0ff04180866f2e2d2d01d43e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/05/07/ac5a13302ea54b70a098d1b313d09f18_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kristin Smart Murder: Property Searched for Remains, 30 Years After Disappearance]]></title>
-            <link>https://www.tmz.com/2026/05/06/kristin-smart-killer-susan-flores-home-searched/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/kristin-smart-killer-susan-flores-home-searched/</guid>
-            <pubDate>Wed, 06 May 2026 23:00:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4b/16by9/2026/05/06/4b2dcc8140f04d5885f7cd87906535bb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/05/06/4b2dcc8140f04d5885f7cd87906535bb_xl.jpg" medium="image">
+            <title><![CDATA[Dr. Oz Joins Feds, LAPD In Raid on &#039;Open-Air Drug Market&#039;]]></title>
+            <link>https://www.tmz.com/2026/05/06/dr-oz-joins-open-air-drug-market-raid/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/dr-oz-joins-open-air-drug-market-raid/</guid>
+            <pubDate>Thu, 07 May 2026 00:57:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/53/16by9/2026/05/07/533b2c36422040389e6b8486080c2a52_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/53/16by9/2026/05/07/533b2c36422040389e6b8486080c2a52_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/05/06/4b2dcc8140f04d5885f7cd87906535bb_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/53/16by9/2026/05/07/533b2c36422040389e6b8486080c2a52_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Brandi Glanville Trashes LeAnn Rimes Online Amid &#039;RHOBH&#039; Rumors]]></title>
-            <link>https://www.tmz.com/2026/05/06/brandi-glanville-torches-ex-husbands-wife-leann-rimes-over-rhobh/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/brandi-glanville-torches-ex-husbands-wife-leann-rimes-over-rhobh/</guid>
-            <pubDate>Wed, 06 May 2026 22:55:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a2/16by9/2026/05/06/a2992c5ebbd145c28ba56120aadacc7d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a2/16by9/2026/05/06/a2992c5ebbd145c28ba56120aadacc7d_xl.jpg" medium="image">
+            <title><![CDATA[Jet Li&#039;s Arrival Causes Chaos at LAX, Fans Mob Film Star, on Video]]></title>
+            <link>https://www.tmz.com/2026/05/06/jet-li-fans-swarm-star-at-los-angeles-international-airport/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/jet-li-fans-swarm-star-at-los-angeles-international-airport/</guid>
+            <pubDate>Thu, 07 May 2026 00:30:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/05/06/9dc832a8319d480997d7e6d4f7760e62_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/05/06/9dc832a8319d480997d7e6d4f7760e62_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a2/16by9/2026/05/06/a2992c5ebbd145c28ba56120aadacc7d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/05/06/9dc832a8319d480997d7e6d4f7760e62_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Blueface Claims He Faked Family Image With Chrisean Rock for Money]]></title>
-            <link>https://www.tmz.com/2026/05/06/blueface-claims-he-faked-chrisean-rock-family-image-for-money/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/blueface-claims-he-faked-chrisean-rock-family-image-for-money/</guid>
-            <pubDate>Wed, 06 May 2026 22:50:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/05/06/8ef2d525dd4b4a6b9b0a5b659068cd9f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/05/06/8ef2d525dd4b4a6b9b0a5b659068cd9f_xl.png" medium="image">
+            <title><![CDATA[Female JPMorgan Chase Exec Lawsuit: Alleged Sexual Harassment Victim Reveals Threats]]></title>
+            <link>https://www.tmz.com/2026/05/06/jpmorgan-alleged-sexual-harassment-victim-wants-name-sealed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/06/jpmorgan-alleged-sexual-harassment-victim-wants-name-sealed/</guid>
+            <pubDate>Thu, 07 May 2026 00:26:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/04/30/2272d965fc3c48e794f9f9bc8e084465_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/04/30/2272d965fc3c48e794f9f9bc8e084465_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/05/06/8ef2d525dd4b4a6b9b0a5b659068cd9f_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/04/30/2272d965fc3c48e794f9f9bc8e084465_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
