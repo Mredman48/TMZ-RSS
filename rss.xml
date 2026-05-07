@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 21:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 22:41:00 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;90210&#039; Star Ian Ziering Fires Back at Alleged Gang Member in Court]]></title>
+            <link>https://www.tmz.com/2026/05/07/ian-ziering-blames-alleged-gang-member-for-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/ian-ziering-blames-alleged-gang-member-for-fight/</guid>
+            <pubDate>Thu, 07 May 2026 22:35:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/05/07/1906f88d1c094d3f89d3e61abcb0c441_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/05/07/1906f88d1c094d3f89d3e61abcb0c441_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/05/07/1906f88d1c094d3f89d3e61abcb0c441_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;All My Children&#039; Star Cameron Mathison, Wife Vanessa Legally Separate]]></title>
+            <link>https://www.tmz.com/2026/05/07/cameron-mathison-wife-vanessa-file-for-legal-separation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/cameron-mathison-wife-vanessa-file-for-legal-separation/</guid>
+            <pubDate>Thu, 07 May 2026 22:11:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/05/07/d889df54292549549f64f7d356b82893_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/05/07/d889df54292549549f64f7d356b82893_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/05/07/d889df54292549549f64f7d356b82893_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Gun Rights Activist Kyle Rittenhouse Hospitalized for Spider Bite]]></title>
+            <link>https://www.tmz.com/2026/05/07/kyle-rittenhouse-hospitalized-after-brown-recluse-spider-bite/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/kyle-rittenhouse-hospitalized-after-brown-recluse-spider-bite/</guid>
+            <pubDate>Thu, 07 May 2026 22:00:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/05/07/48311affbf67426eb2a2b4a516d28188_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/05/07/48311affbf67426eb2a2b4a516d28188_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/05/07/48311affbf67426eb2a2b4a516d28188_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Co-Founder Paul Marciano Files for Separation From Wife]]></title>
+            <link>https://www.tmz.com/2026/05/07/paul-marciano-files-for-separation-from-wife/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/paul-marciano-files-for-separation-from-wife/</guid>
+            <pubDate>Thu, 07 May 2026 21:45:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7d/16by9/2026/05/07/7debd9e64e70499ea6460cc0d058524b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7d/16by9/2026/05/07/7debd9e64e70499ea6460cc0d058524b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7d/16by9/2026/05/07/7debd9e64e70499ea6460cc0d058524b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift & Travis Kelce Enjoy Pre-Wedding Date Night In London]]></title>
             <link>https://www.tmz.com/2026/05/07/taylor-swift-and-travis-kelce-seen-out-in-london/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/05/07/2a4dbb44f3124debaad88582ebd5104a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/05/07/2a4dbb44f3124debaad88582ebd5104a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin Baldoni&#039;s Attorney Trashes Blake Lively After Settlement Agreement]]></title>
-            <link>https://www.tmz.com/2026/05/07/blake-lively-flamed-by-justin-baldoni-attorney/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/blake-lively-flamed-by-justin-baldoni-attorney/</guid>
-            <pubDate>Thu, 07 May 2026 21:27:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/05/07/a45e8a1b1b7a4b77a534072ba40d863d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/05/07/a45e8a1b1b7a4b77a534072ba40d863d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/05/07/a45e8a1b1b7a4b77a534072ba40d863d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Fritz Is Not Dating Olivia Jade, Despite Recent Reports]]></title>
-            <link>https://www.tmz.com/2026/05/07/taylor-fritz-olivia-jade-are-not-together/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/taylor-fritz-olivia-jade-are-not-together/</guid>
-            <pubDate>Thu, 07 May 2026 21:21:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/de/16by9/2026/05/07/dea8fa1003124497ad73a1509dbb0e15_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/de/16by9/2026/05/07/dea8fa1003124497ad73a1509dbb0e15_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/05/07/dea8fa1003124497ad73a1509dbb0e15_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Big Meech Cleared in Paternity Case, Lab Results Show No Match]]></title>
-            <link>https://www.tmz.com/2026/05/07/big-meech-cleared-in-paternity-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/big-meech-cleared-in-paternity-case/</guid>
-            <pubDate>Thu, 07 May 2026 20:45:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/05/07/289dc63c84a842ac96b741a3541b7dde_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/05/07/289dc63c84a842ac96b741a3541b7dde_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/05/07/289dc63c84a842ac96b741a3541b7dde_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Unexpected&#039; Stars Bella Vaughn & Hunter Johnson Engaged at 16 and 14]]></title>
-            <link>https://www.tmz.com/2026/05/07/bella-vaughn-hunter-johnson-getting-married/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/07/bella-vaughn-hunter-johnson-getting-married/</guid>
-            <pubDate>Thu, 07 May 2026 20:42:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/05/07/13aae24eed3f42b9aad708014d124dfb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/05/07/13aae24eed3f42b9aad708014d124dfb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/05/07/13aae24eed3f42b9aad708014d124dfb_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
