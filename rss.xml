@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 22:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 23:36:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kendrick Lamar Reunites With Seventh-Grade Teacher, On Video]]></title>
+            <link>https://www.tmz.com/2026/05/08/kendrick-lamar-reconnects-with-middle-school-teacher/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/kendrick-lamar-reconnects-with-middle-school-teacher/</guid>
+            <pubDate>Fri, 08 May 2026 23:08:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/05/08/0ba0852f9cc44ba3bae122637eef49ba_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/05/08/0ba0852f9cc44ba3bae122637eef49ba_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/05/08/0ba0852f9cc44ba3bae122637eef49ba_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[RHOBH&#039;s Dorit Calls Ex PK A ‘Leopard’ Who Doesn’t Change Its Spots in Rambling Alleged Text]]></title>
+            <link>https://www.tmz.com/2026/05/08/real-housewife-dorit-kemsley-alleged-texts-revealed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/real-housewife-dorit-kemsley-alleged-texts-revealed/</guid>
+            <pubDate>Fri, 08 May 2026 23:00:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/05/08/28e76363b0d941ab9b19dc6cb812bda8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/05/08/28e76363b0d941ab9b19dc6cb812bda8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/05/08/28e76363b0d941ab9b19dc6cb812bda8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jeffrey Epstein&#039;s Brother Says Suicide Note is a Forgery]]></title>
+            <link>https://www.tmz.com/2026/05/08/epsteins-brother-claims-suicide-note-is-not-real/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/epsteins-brother-claims-suicide-note-is-not-real/</guid>
+            <pubDate>Fri, 08 May 2026 22:52:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/05/08/08e37a11fbce4dec92cc93a4c10cfa93_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/05/08/08e37a11fbce4dec92cc93a4c10cfa93_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/05/08/08e37a11fbce4dec92cc93a4c10cfa93_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tyreek Hill Settles With OnlyFans Model To End Broken Leg Trial]]></title>
             <link>https://www.tmz.com/2026/05/08/tyreek-hill-settles-with-onlyfans-model-in-broken-leg-trial/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/05/06/f3a977fb1477493291d5d7db5d8c29c5_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/05/06/f3a977fb1477493291d5d7db5d8c29c5_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tom Sandoval & Ariana Madix&#039;s Home Has Finally Sold 3 Years After Scandoval]]></title>
-            <link>https://www.tmz.com/2026/05/08/tom-sandoval-ariana-madix-house-sells/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/tom-sandoval-ariana-madix-house-sells/</guid>
-            <pubDate>Fri, 08 May 2026 22:05:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/05/08/11984c4d8d154506a8c61ae782e977f7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/05/08/11984c4d8d154506a8c61ae782e977f7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/05/08/11984c4d8d154506a8c61ae782e977f7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Twinning Into Mother’s Day: Celebrity Moms & Mini-Mes]]></title>
-            <link>https://www.tmz.com/2026/05/08/celebrity-mother-daughter-pics/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/celebrity-mother-daughter-pics/</guid>
-            <pubDate>Fri, 08 May 2026 22:00:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/05/04/13ec097a3d804438808c7e5dd7425a55_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/05/04/13ec097a3d804438808c7e5dd7425a55_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/05/04/13ec097a3d804438808c7e5dd7425a55_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Investigators Find Evidence of Human Remains in Kristin Smart Disappearance]]></title>
-            <link>https://www.tmz.com/2026/05/08/detectives-discover-human-remains-in-kristin-smart-case/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/detectives-discover-human-remains-in-kristin-smart-case/</guid>
-            <pubDate>Fri, 08 May 2026 21:52:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/05/08/dda7e55618524965b16a4d865f319848_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/05/08/dda7e55618524965b16a4d865f319848_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/05/08/dda7e55618524965b16a4d865f319848_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
