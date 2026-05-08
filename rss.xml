@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 08:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 10:06:45 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Rihanna and A$AP Rocky All Smiles in New Video Amid Rumors of Tension]]></title>
+            <link>https://www.tmz.com/2026/05/08/rihanna-asap-rocky-met-gala/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/rihanna-asap-rocky-met-gala/</guid>
+            <pubDate>Fri, 08 May 2026 10:03:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b7/16by9/2026/05/05/b71522cde74144a9b07de45fdf85ad35_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b7/16by9/2026/05/05/b71522cde74144a9b07de45fdf85ad35_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b7/16by9/2026/05/05/b71522cde74144a9b07de45fdf85ad35_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dianna Russini Says You Need to Close Your Eyes During Husband and Wife Sex]]></title>
+            <link>https://www.tmz.com/2026/05/08/dianna-russini-mike-vrabel-barstool-family-feud/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/dianna-russini-mike-vrabel-barstool-family-feud/</guid>
+            <pubDate>Fri, 08 May 2026 09:15:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/05/07/8b2e98f60cfa4c1aafc6b4e0a2e4e1bb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/05/07/8b2e98f60cfa4c1aafc6b4e0a2e4e1bb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/05/07/8b2e98f60cfa4c1aafc6b4e0a2e4e1bb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Olivia Culpo Hot Shots Toasting Her 34th Birthday!]]></title>
             <link>https://www.tmz.com/2026/05/08/olivia-culpo-birthday-hot-shots/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/04/30/ca738ce91a564bd882c93d15b376bf68_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/04/30/ca738ce91a564bd882c93d15b376bf68_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Wyman in &#039;Letters To Juliet&#039; &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/05/08/charlie-in-letters-to-juliet-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/charlie-in-letters-to-juliet-memba-him/</guid>
-            <pubDate>Fri, 08 May 2026 07:01:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/05/01/7ba30491a1a845c4bf9afbecd24a0867_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/05/01/7ba30491a1a845c4bf9afbecd24a0867_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/05/01/7ba30491a1a845c4bf9afbecd24a0867_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stefon Diggs Tells Male Accuser He&#039;s Not Turning Over NFL Contract]]></title>
-            <link>https://www.tmz.com/2026/05/08/stefon-diggs-refuses-to-disclose-nfl-contract-to-male-accuser/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/stefon-diggs-refuses-to-disclose-nfl-contract-to-male-accuser/</guid>
-            <pubDate>Fri, 08 May 2026 07:00:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/05/07/a93d19931a93480588bb6cab97ac31d1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/05/07/a93d19931a93480588bb6cab97ac31d1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/05/07/a93d19931a93480588bb6cab97ac31d1_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
