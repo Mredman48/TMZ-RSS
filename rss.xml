@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 12:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 14:03:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Person Struck, Killed by Frontier Airlines Jet Bound for LAX]]></title>
+            <link>https://www.tmz.com/2026/05/09/frontier-plane-kills-person/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/frontier-plane-kills-person/</guid>
+            <pubDate>Sat, 09 May 2026 13:17:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/05/09/5975d534f9ac42dcbca15884e1ecb847_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/05/09/5975d534f9ac42dcbca15884e1ecb847_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/05/09/5975d534f9ac42dcbca15884e1ecb847_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Audrina Patridge Hot Shots To Kick Off Her 41st Birthday!]]></title>
             <link>https://www.tmz.com/2026/05/09/audrina-patridge-sexy-pics/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/69/16by9/2026/05/05/694f1d9c15ee4017b9c92ae2fb45b1bc_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/05/05/694f1d9c15ee4017b9c92ae2fb45b1bc_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dana White Says He&#039;s &#039;Excited&#039; By, Not Scared Of Violent Chimaev-Strickland Talk]]></title>
-            <link>https://www.tmz.com/2026/05/09/dana-white-excited-khamzat-chimaev-sean-strickland/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/dana-white-excited-khamzat-chimaev-sean-strickland/</guid>
-            <pubDate>Sat, 09 May 2026 07:30:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/04/16by9/2026/05/09/0412a9ac804a4cfea313a324d85e4608_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/04/16by9/2026/05/09/0412a9ac804a4cfea313a324d85e4608_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/04/16by9/2026/05/09/0412a9ac804a4cfea313a324d85e4608_xl.png">
             </media:thumbnail>
         </item>
     </channel>
