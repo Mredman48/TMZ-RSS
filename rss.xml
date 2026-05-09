@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 15:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 16:33:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Spencer Pratt Says CBS Gave Interview Footage to Karen Bass&#039; PR Team for Hit Piece]]></title>
+            <link>https://www.tmz.com/2026/05/09/spencer-pratt-claims-cbs-gave-interview-to-karen-bass-team/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/spencer-pratt-claims-cbs-gave-interview-to-karen-bass-team/</guid>
+            <pubDate>Sat, 09 May 2026 16:20:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2026/05/09/2f18f13b0bd7454dbbdfc3678d45e17f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2f/16by9/2026/05/09/2f18f13b0bd7454dbbdfc3678d45e17f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2026/05/09/2f18f13b0bd7454dbbdfc3678d45e17f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Convicted Double Murderer Betty Broderick Died After Serious Fall, Septic Infections]]></title>
+            <link>https://www.tmz.com/2026/05/09/betty-broderick-cause-of-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/betty-broderick-cause-of-death/</guid>
+            <pubDate>Sat, 09 May 2026 16:17:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/05/09/49a0ff6b94de47849ac2d862f5c90541_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/05/09/49a0ff6b94de47849ac2d862f5c90541_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/05/09/49a0ff6b94de47849ac2d862f5c90541_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tekashi 6ix9ine Says His GF Will Abort Baby If It&#039;s a Girl]]></title>
             <link>https://www.tmz.com/2026/05/09/tekashi-6ix9ine-wants-to-abort-daughter-not-son/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/af/16by9/2025/05/08/af908e6a86cc4a8193eb7d89818ff884_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/af/16by9/2025/05/08/af908e6a86cc4a8193eb7d89818ff884_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Read &#039;RHOBH&#039;s&#039; Dorit Kemsley Spiral In Alleged Texts With Ex PK Over Home Foreclosure]]></title>
-            <link>https://www.tmz.com/2026/05/09/dorit-kemsley-alleged-messages-over-mortgage/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/dorit-kemsley-alleged-messages-over-mortgage/</guid>
-            <pubDate>Sat, 09 May 2026 08:00:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ec/16by9/2026/05/08/ece477cbdb7f4beca4987b7bb1b60029_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/05/08/ece477cbdb7f4beca4987b7bb1b60029_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/05/08/ece477cbdb7f4beca4987b7bb1b60029_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[YouTuber Catches Heat After Attending Wedding Amid Hantavirus Outbreak]]></title>
-            <link>https://www.tmz.com/2026/05/09/ruhi-cenet-hantavirus-turkey/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/ruhi-cenet-hantavirus-turkey/</guid>
-            <pubDate>Sat, 09 May 2026 07:55:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/05/06/eb698a21ed3546db97560ba452044f49_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/05/06/eb698a21ed3546db97560ba452044f49_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/05/06/eb698a21ed3546db97560ba452044f49_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
