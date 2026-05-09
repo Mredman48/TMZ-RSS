@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 04:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 07:26:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Why These Products Solve Common Traveller Complaints]]></title>
+            <link>https://www.tmz.com/2026/05/09/intelligent-solutions-for-travel/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/intelligent-solutions-for-travel/</guid>
+            <pubDate>Sat, 09 May 2026 07:05:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/04/30/454d1021d7184f8f90504d366b970856_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/04/30/454d1021d7184f8f90504d366b970856_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/04/30/454d1021d7184f8f90504d366b970856_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Penn Badgley and Meghann Fahy What&#039;s The Big Frigin&#039; Difference?!]]></title>
+            <link>https://www.tmz.com/2026/05/09/penn-badgley-and-meghann-fahy-cute-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/penn-badgley-and-meghann-fahy-cute-pictures/</guid>
+            <pubDate>Sat, 09 May 2026 07:01:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/05/06/0f7fa146938749bfb6de1ace97064ce2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/05/06/0f7fa146938749bfb6de1ace97064ce2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/05/06/0f7fa146938749bfb6de1ace97064ce2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cannon Reveals How He Plans To Spend Mother&#039;s Day With Baby Mamas]]></title>
+            <link>https://www.tmz.com/2026/05/09/nick-cannon-on-mothers-day-with-six-baby-moms/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/nick-cannon-on-mothers-day-with-six-baby-moms/</guid>
+            <pubDate>Sat, 09 May 2026 07:00:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d5/16by9/2026/05/07/d50888c4d7e54346aea670b2d657505c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d5/16by9/2026/05/07/d50888c4d7e54346aea670b2d657505c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d5/16by9/2026/05/07/d50888c4d7e54346aea670b2d657505c_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Olivia Culpo Says She&#039;s Expecting Baby No. 2 With Christian McCaffrey]]></title>
             <link>https://www.tmz.com/2026/05/08/olivia-culpo-pregnant-with-second-baby/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/66/16by9/2026/05/08/66770faebb4c4d898843c1fe80a5fece_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/05/08/66770faebb4c4d898843c1fe80a5fece_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump&#039;s Media Company Reports $405 Million In Losses]]></title>
-            <link>https://www.tmz.com/2026/05/08/trump-media-finances-revealed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/trump-media-finances-revealed/</guid>
-            <pubDate>Sat, 09 May 2026 00:50:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/05/08/351bfe984f5e435fbe4a6980e6c3e33b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/05/08/351bfe984f5e435fbe4a6980e6c3e33b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/05/08/351bfe984f5e435fbe4a6980e6c3e33b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Convicted Double Murderer Betty Broderick Dead at 78]]></title>
-            <link>https://www.tmz.com/2026/05/08/betty-broderick-dead-dies-murderer-husband/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/betty-broderick-dead-dies-murderer-husband/</guid>
-            <pubDate>Sat, 09 May 2026 00:46:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/05/09/e5de6e47cebd4687925aa03fa6e049ad_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/05/09/e5de6e47cebd4687925aa03fa6e049ad_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/05/09/e5de6e47cebd4687925aa03fa6e049ad_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hayden Panettiere&#039;s Mom Questions Her Coming Out as Bisexual]]></title>
-            <link>https://www.tmz.com/2026/05/08/hayden-panettiere-mom-responds-to-bisexuality/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/08/hayden-panettiere-mom-responds-to-bisexuality/</guid>
-            <pubDate>Sat, 09 May 2026 00:18:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/05/08/767c3158893c41d6b23fa2512dd5e00e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/05/08/767c3158893c41d6b23fa2512dd5e00e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/05/08/767c3158893c41d6b23fa2512dd5e00e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
