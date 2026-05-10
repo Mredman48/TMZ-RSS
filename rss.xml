@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 05:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 07:47:06 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Alexi Lalas Proclaims Christian Pulisic Will Go Down As Greatest U.S. Player]]></title>
+            <link>https://www.tmz.com/2026/05/10/alexi-lalas-champions-christian-pulisic/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/alexi-lalas-champions-christian-pulisic/</guid>
+            <pubDate>Sun, 10 May 2026 07:30:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/05/08/d8f2efeeacc040c1be120007e1cd7420_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/05/08/d8f2efeeacc040c1be120007e1cd7420_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/05/08/d8f2efeeacc040c1be120007e1cd7420_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[How To Turn Your Apartment Into a Smart Home for Under $300]]></title>
+            <link>https://www.tmz.com/2026/05/10/smart-home-upgrades/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/smart-home-upgrades/</guid>
+            <pubDate>Sun, 10 May 2026 07:05:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/05/01/1b6cab1cc7ae4fb49552f801df884192_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/05/01/1b6cab1cc7ae4fb49552f801df884192_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/05/01/1b6cab1cc7ae4fb49552f801df884192_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Luann de Lesseps Rocks Bikinis Like No Other Mother!]]></title>
+            <link>https://www.tmz.com/2026/05/10/luann-de-lesseps-bikini-bod-then-and-now-good-genes-or-good-docs-mothers-day-bikinis/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/luann-de-lesseps-bikini-bod-then-and-now-good-genes-or-good-docs-mothers-day-bikinis/</guid>
+            <pubDate>Sun, 10 May 2026 07:01:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/05/06/a44fc93d37f84f8ca7fb943914061e9e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/05/06/a44fc93d37f84f8ca7fb943914061e9e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/05/06/a44fc93d37f84f8ca7fb943914061e9e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Addison Rae&#039;s Dad Claims Hit and Run at House Weeks Before Arrest]]></title>
+            <link>https://www.tmz.com/2026/05/10/addison-raes-dad-allegedly-involved-in-golf-cart-accident/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/addison-raes-dad-allegedly-involved-in-golf-cart-accident/</guid>
+            <pubDate>Sun, 10 May 2026 07:00:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/05/08/f9c88c6aca4146fd85fee274ee42d065_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/05/08/f9c88c6aca4146fd85fee274ee42d065_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/05/08/f9c88c6aca4146fd85fee274ee42d065_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Amanda Batula Out with Friend After West Wilson&#039;s Kickball Celebration]]></title>
             <link>https://www.tmz.com/2026/05/09/amanda-batula-grabs-drink-with-friend/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/06/16by9/2026/05/09/061a7918dfca4950bcf8494f95e9852f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/06/16by9/2026/05/09/061a7918dfca4950bcf8494f95e9852f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Betty Broderick&#039;s Son Says Her Actions Are &#039;Unforgivable,&#039; Tries to Remember &#039;Good Times&#039;]]></title>
-            <link>https://www.tmz.com/2026/05/09/betty-brodericks-family-thinks-good-times-before-murders/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/betty-brodericks-family-thinks-good-times-before-murders/</guid>
-            <pubDate>Sat, 09 May 2026 23:47:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/05/09/1df702497c144d5ebb482040a64bed31_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/05/09/1df702497c144d5ebb482040a64bed31_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/05/09/1df702497c144d5ebb482040a64bed31_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[James Charles Apologizes For Roasting Person Who Asked Him For Money]]></title>
-            <link>https://www.tmz.com/2026/05/09/james-charles-apologizes-blasting-person-asked-money/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/james-charles-apologizes-blasting-person-asked-money/</guid>
-            <pubDate>Sat, 09 May 2026 22:40:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/05/09/db7ec9fb5e0c4e12b69426e02f6a774b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/05/09/db7ec9fb5e0c4e12b69426e02f6a774b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/05/09/db7ec9fb5e0c4e12b69426e02f6a774b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dorit Kemsley Steps Out Amid Release of Alleged Texts With PK]]></title>
-            <link>https://www.tmz.com/2026/05/09/dorit-kemsley-seen-after-pk-texts-revealed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/dorit-kemsley-seen-after-pk-texts-revealed/</guid>
-            <pubDate>Sat, 09 May 2026 22:27:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/05/09/73ca0e849e7849248868be7bea7c1ab0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/05/09/73ca0e849e7849248868be7bea7c1ab0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/05/09/73ca0e849e7849248868be7bea7c1ab0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stefon Diggs Kisses Cardi B After Acquittal on Assault Charge]]></title>
-            <link>https://www.tmz.com/2026/05/09/cardi-b-stefon-diggs-kiss-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/09/cardi-b-stefon-diggs-kiss-pictures/</guid>
-            <pubDate>Sat, 09 May 2026 21:19:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/05/09/2b34f3eccf0b4a6abca2b82b74cc32f9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/05/09/2b34f3eccf0b4a6abca2b82b74cc32f9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/05/09/2b34f3eccf0b4a6abca2b82b74cc32f9_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
