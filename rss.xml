@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 12:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 14:05:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[L.A. Mayoral Candidate Spencer Pratt Attends Lakers Game]]></title>
+            <link>https://www.tmz.com/2026/05/10/spencer-pratt-at-lakers-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/spencer-pratt-at-lakers-game/</guid>
+            <pubDate>Sun, 10 May 2026 13:47:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fc/16by9/2026/05/10/fc16d4346c264641ad000cdc19e349f3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/05/10/fc16d4346c264641ad000cdc19e349f3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/05/10/fc16d4346c264641ad000cdc19e349f3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[‘Saturday Night Live’ Drunk Kash Patel Returns, with Matt Damon as Brett Kavanaugh]]></title>
+            <link>https://www.tmz.com/2026/05/10/saturday-night-live-kash-patel-returns/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/saturday-night-live-kash-patel-returns/</guid>
+            <pubDate>Sun, 10 May 2026 13:33:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/05/10/210c71d5736941f8b94dab2d71b1f4ea_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/05/10/210c71d5736941f8b94dab2d71b1f4ea_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/05/10/210c71d5736941f8b94dab2d71b1f4ea_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hantavirus Cruise Ship Passengers Begin Evacuation, 17 Americans Reported On Board]]></title>
+            <link>https://www.tmz.com/2026/05/10/hantavirus-cruise-ship-passengers-evacuating/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/hantavirus-cruise-ship-passengers-evacuating/</guid>
+            <pubDate>Sun, 10 May 2026 12:53:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/05/10/c8d9dd3d96e34d15a53fb9e4ebec01ba_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/05/10/c8d9dd3d96e34d15a53fb9e4ebec01ba_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/05/10/c8d9dd3d96e34d15a53fb9e4ebec01ba_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bianca Censori Back to Her Breast Exposing Ways, See The Photo]]></title>
             <link>https://www.tmz.com/2026/05/10/bianca-censori-seen-with-breasts-exposed/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/23/16by9/2026/05/04/236f95c7579845a8b3093259fa187fe6_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/05/04/236f95c7579845a8b3093259fa187fe6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hot Mom Bods Guess Who ... Happy Mother&#039;s Day!]]></title>
-            <link>https://www.tmz.com/2026/05/10/hot-celebrity-mom-bodies-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/hot-celebrity-mom-bodies-pictures/</guid>
-            <pubDate>Sun, 10 May 2026 07:45:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/05/05/1a2fc64e005849eca07d585122927c67_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/05/05/1a2fc64e005849eca07d585122927c67_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/05/05/1a2fc64e005849eca07d585122927c67_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Alexi Lalas Proclaims Christian Pulisic Will Go Down As Greatest U.S. Player]]></title>
-            <link>https://www.tmz.com/2026/05/10/alexi-lalas-champions-christian-pulisic/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/alexi-lalas-champions-christian-pulisic/</guid>
-            <pubDate>Sun, 10 May 2026 07:30:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d8/16by9/2026/05/08/d8f2efeeacc040c1be120007e1cd7420_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d8/16by9/2026/05/08/d8f2efeeacc040c1be120007e1cd7420_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d8/16by9/2026/05/08/d8f2efeeacc040c1be120007e1cd7420_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[How To Turn Your Apartment Into a Smart Home for Under $300]]></title>
-            <link>https://www.tmz.com/2026/05/10/smart-home-upgrades/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/smart-home-upgrades/</guid>
-            <pubDate>Sun, 10 May 2026 07:05:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/05/01/1b6cab1cc7ae4fb49552f801df884192_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/05/01/1b6cab1cc7ae4fb49552f801df884192_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/05/01/1b6cab1cc7ae4fb49552f801df884192_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
