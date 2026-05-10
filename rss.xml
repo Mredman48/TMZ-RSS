@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 20:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 21:31:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Motorcycle Hanging From Traffic Light After Canada Crash, See the Video!]]></title>
+            <link>https://www.tmz.com/2026/05/10/motorcycle-hanging-off-traffic-light-after-crash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/motorcycle-hanging-off-traffic-light-after-crash/</guid>
+            <pubDate>Sun, 10 May 2026 21:28:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bd/16by9/2026/05/10/bd4730f467e4434aad7072ecdeb05ace_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bd/16by9/2026/05/10/bd4730f467e4434aad7072ecdeb05ace_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bd/16by9/2026/05/10/bd4730f467e4434aad7072ecdeb05ace_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Diane Keaton’s Daughter Shares Emotional Mother’s Day Tribute]]></title>
+            <link>https://www.tmz.com/2026/05/10/diane-keaton-daughter-mothers-day-post/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/diane-keaton-daughter-mothers-day-post/</guid>
+            <pubDate>Sun, 10 May 2026 21:28:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bc/16by9/2026/05/10/bc8b17a5605e4cdb8fc859b2f0c324b5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bc/16by9/2026/05/10/bc8b17a5605e4cdb8fc859b2f0c324b5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bc/16by9/2026/05/10/bc8b17a5605e4cdb8fc859b2f0c324b5_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brianne Howey Spotted Days Before Pregnancy Reveal, Celebrated Husband’s Birthday]]></title>
+            <link>https://www.tmz.com/2026/05/10/brianne-howey-seen-before-pregnancy-reveal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/brianne-howey-seen-before-pregnancy-reveal/</guid>
+            <pubDate>Sun, 10 May 2026 21:02:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/05/10/b8cd775bda83400fa2792d23dd170023_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/05/10/b8cd775bda83400fa2792d23dd170023_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/05/10/b8cd775bda83400fa2792d23dd170023_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[‘Summer House’ West Wilson Spotted Chatting with Woman at Friend’s Wedding]]></title>
+            <link>https://www.tmz.com/2026/05/10/west-wilson-chats-with-woman-at-wedding/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/west-wilson-chats-with-woman-at-wedding/</guid>
+            <pubDate>Sun, 10 May 2026 20:34:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/05/10/249e2f2043f04c6abf09e222450af34e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/05/10/249e2f2043f04c6abf09e222450af34e_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/05/10/249e2f2043f04c6abf09e222450af34e_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Savannah Guthrie Pleads for Nancy&#039;s Return in Mother&#039;s Day Post]]></title>
             <link>https://www.tmz.com/2026/05/10/savannah-guthrie-post-begs-for-nancy-return/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/05/10/dc41427cb65649c595f75865e58f7a36_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/05/10/dc41427cb65649c595f75865e58f7a36_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Star Wars: Return of the Jedi&#039; Actor Michael Pennington Dead at 82]]></title>
-            <link>https://www.tmz.com/2026/05/10/michael-pennington-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/michael-pennington-dead/</guid>
-            <pubDate>Sun, 10 May 2026 19:34:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/05/10/835cb91de2094dc9be6e9216694f26bf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/05/10/835cb91de2094dc9be6e9216694f26bf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/05/10/835cb91de2094dc9be6e9216694f26bf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Martin Short Calls Daughter&#039;s Death a &#039;Nightmare,&#039; Details Her Mental Struggles]]></title>
-            <link>https://www.tmz.com/2026/05/10/martin-short-details-the-nightmare-of-katherine-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/martin-short-details-the-nightmare-of-katherine-death/</guid>
-            <pubDate>Sun, 10 May 2026 19:04:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/05/10/55713811b54a48348ed3f3b375483111_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/05/10/55713811b54a48348ed3f3b375483111_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/05/10/55713811b54a48348ed3f3b375483111_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Full Sending Mothers -- Famous Mamas Who Can Do Anything!!!]]></title>
-            <link>https://www.tmz.com/2026/05/10/full-sending-mothers-can-do-anything/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/full-sending-mothers-can-do-anything/</guid>
-            <pubDate>Sun, 10 May 2026 19:00:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0d/16by9/2026/05/04/0dd425e5f5f3407e92372741a704ba56_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0d/16by9/2026/05/04/0dd425e5f5f3407e92372741a704ba56_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0d/16by9/2026/05/04/0dd425e5f5f3407e92372741a704ba56_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Savannah Guthrie&#039;s Husband Shares Support on First Mother&#039;s Day Since Nancy&#039;s Disappearance]]></title>
-            <link>https://www.tmz.com/2026/05/10/savannah-guthrie-gets-support-during-mothers-day/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/savannah-guthrie-gets-support-during-mothers-day/</guid>
-            <pubDate>Sun, 10 May 2026 18:16:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/05/10/dbed56632adf4739843b37a144e0b32b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/05/10/dbed56632adf4739843b37a144e0b32b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/05/10/dbed56632adf4739843b37a144e0b32b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
