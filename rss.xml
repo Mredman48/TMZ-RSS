@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 17:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 18:37:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Savannah Guthrie&#039;s Husband Shares Support on First Mother&#039;s Day Since Nancy&#039;s Disappearance]]></title>
+            <link>https://www.tmz.com/2026/05/10/savannah-guthrie-gets-support-during-mothers-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/savannah-guthrie-gets-support-during-mothers-day/</guid>
+            <pubDate>Sun, 10 May 2026 18:16:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/db/16by9/2026/05/10/dbed56632adf4739843b37a144e0b32b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/db/16by9/2026/05/10/dbed56632adf4739843b37a144e0b32b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/db/16by9/2026/05/10/dbed56632adf4739843b37a144e0b32b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Little Women&#039; Ms. Juicy Describes Shocking Moments During Recent Arrest]]></title>
+            <link>https://www.tmz.com/2026/05/10/ms-juicy-reveals-arrest-details/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/ms-juicy-reveals-arrest-details/</guid>
+            <pubDate>Sun, 10 May 2026 18:04:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/05/10/a975b06d6c734c439992ec6f51d6e40c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/05/10/a975b06d6c734c439992ec6f51d6e40c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/05/10/a975b06d6c734c439992ec6f51d6e40c_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kristin Smart Remains Not Found After New California Property Search]]></title>
+            <link>https://www.tmz.com/2026/05/10/kristin-smart-no-remains-found-in-search/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/kristin-smart-no-remains-found-in-search/</guid>
+            <pubDate>Sun, 10 May 2026 17:56:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/66/16by9/2026/05/10/6687bed3df474834817beb4f3fda659d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/66/16by9/2026/05/10/6687bed3df474834817beb4f3fda659d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/66/16by9/2026/05/10/6687bed3df474834817beb4f3fda659d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Billy McFarland and Anastasia Eremenko Expecting First Baby Together]]></title>
             <link>https://www.tmz.com/2026/05/10/billy-mcfarland-anastasia-eremenko-expecting-first-kid/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/11/16by9/2026/05/10/11c6d3d5346d4aa38dadccd89f04251b_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/05/10/11c6d3d5346d4aa38dadccd89f04251b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Erika Kirk Pushes &#039;Get Married Young&#039; Message During Commencement Speech]]></title>
-            <link>https://www.tmz.com/2026/05/10/erika-kirk-advises-young-marriage-during-speech/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/erika-kirk-advises-young-marriage-during-speech/</guid>
-            <pubDate>Sun, 10 May 2026 15:39:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/05/10/194d92cf77814e989d1e0cba8e1ea1f6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/05/10/194d92cf77814e989d1e0cba8e1ea1f6_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/05/10/194d92cf77814e989d1e0cba8e1ea1f6_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears on a ‘Spiritual Journey’ Post-DUI Plea Deal, Posts Photo of Snake]]></title>
-            <link>https://www.tmz.com/2026/05/10/britney-spears-snake-post/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/britney-spears-snake-post/</guid>
-            <pubDate>Sun, 10 May 2026 14:43:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/87/16by9/2026/05/10/87509addbb514b05bcc8cf0448422772_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/87/16by9/2026/05/10/87509addbb514b05bcc8cf0448422772_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/87/16by9/2026/05/10/87509addbb514b05bcc8cf0448422772_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Caitlin Clark Joins Morgan Wallen Onstage After Tough Loss in Indianapolis]]></title>
-            <link>https://www.tmz.com/2026/05/10/caitlin-clark-onstage-during-morgan-wallen-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/caitlin-clark-onstage-during-morgan-wallen-concert/</guid>
-            <pubDate>Sun, 10 May 2026 14:11:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/05/10/8efd8a4d84dd438eaad097ac7e0a1977_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/05/10/8efd8a4d84dd438eaad097ac7e0a1977_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/05/10/8efd8a4d84dd438eaad097ac7e0a1977_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
