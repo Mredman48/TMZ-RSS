@@ -4,11 +4,22 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 08:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 12:30:42 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Sam Asghari Strips Down to Speedo for HIV Awareness Campaign (HOLD)]]></title>
+            <title><![CDATA[Pete Davidson Jokes That Kanye West is a &#039;Gay Nazi&#039; During Kevin Hart Roast]]></title>
+            <link>https://www.tmz.com/2026/05/11/pete-davidson-calls-kanye-west-nazi-during-kevin-hart-roast/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/pete-davidson-calls-kanye-west-nazi-during-kevin-hart-roast/</guid>
+            <pubDate>Mon, 11 May 2026 09:15:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2022/02/11/d045cfd4ad0a4070bb51c43ab1e18d2a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2022/02/11/d045cfd4ad0a4070bb51c43ab1e18d2a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2022/02/11/d045cfd4ad0a4070bb51c43ab1e18d2a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sam Asghari Strips Down to Speedo for HIV Awareness Campaign]]></title>
             <link>https://www.tmz.com/2026/05/11/sam-asghari-hot-pics-for-hiv-awareness/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/11/sam-asghari-hot-pics-for-hiv-awareness/</guid>
             <pubDate>Mon, 11 May 2026 08:00:07 GMT</pubDate>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/05/05/8ecf949f52ca4a4f90ace0d242018534_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/05/05/8ecf949f52ca4a4f90ace0d242018534_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[‘Mormon Wives OC’ Stars Join Wild Twerk-Off at &#039;Netflix Is a Joke&#039; Event]]></title>
-            <link>https://www.tmz.com/2026/05/10/bobbi-althoff-netflix-is-a-joke/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/bobbi-althoff-netflix-is-a-joke/</guid>
-            <pubDate>Mon, 11 May 2026 02:26:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/05/10/521c07711e4446c088bb52864d68a54d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/05/10/521c07711e4446c088bb52864d68a54d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/05/10/521c07711e4446c088bb52864d68a54d_xl.png">
             </media:thumbnail>
         </item>
     </channel>
