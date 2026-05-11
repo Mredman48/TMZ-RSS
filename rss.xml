@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 05:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 08:45:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sam Asghari Strips Down to Speedo for HIV Awareness Campaign (HOLD)]]></title>
+            <link>https://www.tmz.com/2026/05/11/sam-asghari-hot-pics-for-hiv-awareness/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/sam-asghari-hot-pics-for-hiv-awareness/</guid>
+            <pubDate>Mon, 11 May 2026 08:00:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/05/08/5ca2027c092449da9d66933292d8411a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/05/08/5ca2027c092449da9d66933292d8411a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/05/08/5ca2027c092449da9d66933292d8411a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Flavor Flav Says U.S. Women&#039;s Hockey Getting Key to Las Vegas During She Got Game Weekend]]></title>
+            <link>https://www.tmz.com/2026/05/11/flavor-flav-says-us-women-hockey-will-get-vegas-key-to-city/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/flavor-flav-says-us-women-hockey-will-get-vegas-key-to-city/</guid>
+            <pubDate>Mon, 11 May 2026 07:30:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/05/08/5840408896354ba09571b438d6dc4a59_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/05/08/5840408896354ba09571b438d6dc4a59_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/05/08/5840408896354ba09571b438d6dc4a59_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sabrina Carpenter&#039;s Birthday: Celebrate with These Products]]></title>
+            <link>https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/</guid>
+            <pubDate>Mon, 11 May 2026 07:05:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Spiffy Kid Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/05/11/guess-who-spiffy-kid-turned-into/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/guess-who-spiffy-kid-turned-into/</guid>
+            <pubDate>Mon, 11 May 2026 07:01:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/05/05/8ecf949f52ca4a4f90ace0d242018534_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/05/05/8ecf949f52ca4a4f90ace0d242018534_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/05/05/8ecf949f52ca4a4f90ace0d242018534_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[‘Mormon Wives OC’ Stars Join Wild Twerk-Off at &#039;Netflix Is a Joke&#039; Event]]></title>
             <link>https://www.tmz.com/2026/05/10/bobbi-althoff-netflix-is-a-joke/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/52/16by9/2026/05/10/521c07711e4446c088bb52864d68a54d_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/05/10/521c07711e4446c088bb52864d68a54d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tom Brady Hits On Kevin Hart&#039;s Wife During Netflix is a Joke Roast]]></title>
-            <link>https://www.tmz.com/2026/05/10/kevin-hart-tom-brady-roast-netflix-is-a-joke/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/kevin-hart-tom-brady-roast-netflix-is-a-joke/</guid>
-            <pubDate>Mon, 11 May 2026 01:21:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/98/16by9/2026/05/10/9815b877ff67464d84f363f8cf75007c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/98/16by9/2026/05/10/9815b877ff67464d84f363f8cf75007c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2026/05/10/9815b877ff67464d84f363f8cf75007c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Multiple Bodies Found Inside Train Boxcar in Texas, Authorities Investigating]]></title>
-            <link>https://www.tmz.com/2026/05/10/6-dead-bodies-found-in-boxcar-in-texas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/6-dead-bodies-found-in-boxcar-in-texas/</guid>
-            <pubDate>Mon, 11 May 2026 00:36:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/05/11/7c4c3a5761c6474ea8a580eee5ba5ee0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/05/11/7c4c3a5761c6474ea8a580eee5ba5ee0_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/05/11/7c4c3a5761c6474ea8a580eee5ba5ee0_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bethenny Frankel Packs on the PDA with New Boyfriend Shane L. Campbell]]></title>
-            <link>https://www.tmz.com/2026/05/10/bethenny-frankel-hard-launches-boyfriend/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/bethenny-frankel-hard-launches-boyfriend/</guid>
-            <pubDate>Mon, 11 May 2026 00:00:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/05/10/4324e844bfc8419998b565947a4e7a41_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/05/10/4324e844bfc8419998b565947a4e7a41_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/05/10/4324e844bfc8419998b565947a4e7a41_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cannon and DDG Trade Low Blows On &#039;Wild &#039;N Out&#039;, See the Clip!]]></title>
-            <link>https://www.tmz.com/2026/05/10/nick-cannon-ddg-wild-n-out-battle/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/10/nick-cannon-ddg-wild-n-out-battle/</guid>
-            <pubDate>Sun, 10 May 2026 23:45:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/05/10/6dcee4a7fd4a48eb88289c9149d06bbb_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/05/10/6dcee4a7fd4a48eb88289c9149d06bbb_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/05/10/6dcee4a7fd4a48eb88289c9149d06bbb_xl.png">
             </media:thumbnail>
         </item>
     </channel>
