@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 01:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 05:23:37 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Swift Steps Out for Family Dinner in NYC]]></title>
+            <link>https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/</guid>
+            <pubDate>Tue, 12 May 2026 04:12:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kim Kardashian Awarded Big Payday Despite Man Claiming Judgment Would Ruin Him]]></title>
+            <link>https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/</guid>
+            <pubDate>Tue, 12 May 2026 02:34:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jason Oppenheim Excited For Christine and Heather Returning To &#039;Selling Sunset&#039;]]></title>
             <link>https://www.tmz.com/2026/05/11/selling-sunset-cast-returning-jason-oppenheim-thrilled/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Marjorie Taylor Greene Dumps Georgia Home for $1.1M After House Resignation]]></title>
-            <link>https://www.tmz.com/2026/05/11/marjorie-taylor-greene-sells-georgia-estate-after-congress-exit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/marjorie-taylor-greene-sells-georgia-estate-after-congress-exit/</guid>
-            <pubDate>Mon, 11 May 2026 23:21:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/05/11/ed219f424b324c54a0b595f94f66a4e4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/05/11/ed219f424b324c54a0b595f94f66a4e4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/05/11/ed219f424b324c54a0b595f94f66a4e4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Survivor&#039; Host Jeff Probst&#039;s Brother Scott Probst Dead at 58]]></title>
-            <link>https://www.tmz.com/2026/05/11/jeff-probst-brother-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/jeff-probst-brother-dead/</guid>
-            <pubDate>Mon, 11 May 2026 23:18:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a1/16by9/2026/05/11/a19466f8896745c6b4bebf7272cd5fe6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/05/11/a19466f8896745c6b4bebf7272cd5fe6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/05/11/a19466f8896745c6b4bebf7272cd5fe6_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
