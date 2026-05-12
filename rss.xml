@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 23:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 01:21:51 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Jason Oppenheim Excited For Christine and Heather Returning To &#039;Selling Sunset&#039;]]></title>
+            <link>https://www.tmz.com/2026/05/11/selling-sunset-cast-returning-jason-oppenheim-thrilled/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/selling-sunset-cast-returning-jason-oppenheim-thrilled/</guid>
+            <pubDate>Tue, 12 May 2026 01:18:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/47/16by9/2026/05/11/47dd4bd66fb5426d96ce3de982aaf6c3_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/47/16by9/2026/05/11/47dd4bd66fb5426d96ce3de982aaf6c3_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/47/16by9/2026/05/11/47dd4bd66fb5426d96ce3de982aaf6c3_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd&#039;s Family Rips Tony Hinchcliffe, Kevin Hart Over &#039;Roast&#039; Joke]]></title>
+            <link>https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/</guid>
+            <pubDate>Tue, 12 May 2026 00:57:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[RHOBH’s Dorit Kemsley’s Estranged Husband PK’s Monthly Income Revealed in Court]]></title>
+            <link>https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/</guid>
+            <pubDate>Mon, 11 May 2026 23:46:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Marjorie Taylor Greene Dumps Georgia Home for $1.1M After House Resignation]]></title>
             <link>https://www.tmz.com/2026/05/11/marjorie-taylor-greene-sells-georgia-estate-after-congress-exit/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a1/16by9/2026/05/11/a19466f8896745c6b4bebf7272cd5fe6_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a1/16by9/2026/05/11/a19466f8896745c6b4bebf7272cd5fe6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Kirk&#039;s Friend Andrew Kolvet Rips Pete Davidson for Kevin Hart &#039;Roast&#039; Joke]]></title>
-            <link>https://www.tmz.com/2026/05/11/andrew-kolvet-slams-pete-davidsons-charlie-kirk-joke/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/andrew-kolvet-slams-pete-davidsons-charlie-kirk-joke/</guid>
-            <pubDate>Mon, 11 May 2026 22:31:55 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/05/11/2297362d60574504adb96d85910f3d78_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/05/11/2297362d60574504adb96d85910f3d78_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/05/11/2297362d60574504adb96d85910f3d78_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Says Fernando Mendoza&#039;s A Big Fan At Indiana&#039;s White House Visit]]></title>
-            <link>https://www.tmz.com/2026/05/11/president-trump-fernando-mendoza-indiana-white-house/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/president-trump-fernando-mendoza-indiana-white-house/</guid>
-            <pubDate>Mon, 11 May 2026 22:03:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/05/11/1ae58666ebf94b2b91396b5786addeb1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/05/11/1ae58666ebf94b2b91396b5786addeb1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/05/11/1ae58666ebf94b2b91396b5786addeb1_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tammy Hembrow vs. Elizabeth Hurley Who&#039;d You Rather?! (Stringy Bikini Babes Edition)]]></title>
-            <link>https://www.tmz.com/2026/05/11/tammy-hembrow-elizabeth-hurley-bikini-pics/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/11/tammy-hembrow-elizabeth-hurley-bikini-pics/</guid>
-            <pubDate>Mon, 11 May 2026 22:00:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/eb/16by9/2026/05/11/eb0a6e4b7b2b486b9f076059cdf9088a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/eb/16by9/2026/05/11/eb0a6e4b7b2b486b9f076059cdf9088a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/eb/16by9/2026/05/11/eb0a6e4b7b2b486b9f076059cdf9088a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
