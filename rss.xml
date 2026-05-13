@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 23:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 01:26:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Brandon Clarke Was Scheduled to Appear in Court on Drug Charges Days After Death]]></title>
-            <link>https://www.tmz.com/2026/05/12/brandon-clarke-scheduled-for-court-days-after-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/brandon-clarke-scheduled-for-court-days-after-death/</guid>
-            <pubDate>Tue, 12 May 2026 23:30:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/af/16by9/2026/05/12/af22b5a1f9c4464da6036a82624e7c9b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/af/16by9/2026/05/12/af22b5a1f9c4464da6036a82624e7c9b_xl.png" medium="image">
+            <title><![CDATA[Caitlyn Jenner Sued Over Alleged Crypto Pump and Dump Scheme]]></title>
+            <link>https://www.tmz.com/2026/05/12/caitlyn-jenner-sued-for-crypto-scheme/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/caitlyn-jenner-sued-for-crypto-scheme/</guid>
+            <pubDate>Wed, 13 May 2026 01:03:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/05/13/ff4cbb110b5c48cd86b13a6f0ec43f22_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/05/13/ff4cbb110b5c48cd86b13a6f0ec43f22_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/af/16by9/2026/05/12/af22b5a1f9c4464da6036a82624e7c9b_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/05/13/ff4cbb110b5c48cd86b13a6f0ec43f22_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Justina Valentine Roasts Nick Cannon on &#039;TMZ After Dark&#039;]]></title>
-            <link>https://www.tmz.com/2026/05/12/tmz-after-dark-justina-valentine-hosts-wild-night/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/tmz-after-dark-justina-valentine-hosts-wild-night/</guid>
-            <pubDate>Tue, 12 May 2026 23:13:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/05/11/15c3ce98888348d2949f6d21f800fa3f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/05/11/15c3ce98888348d2949f6d21f800fa3f_xl.png" medium="image">
+            <title><![CDATA[&#039;Revenge of the Nerds&#039; Actor Donald Gibb Dead at 71]]></title>
+            <link>https://www.tmz.com/2026/05/12/donald-gibb-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/donald-gibb-dead/</guid>
+            <pubDate>Wed, 13 May 2026 00:50:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/05/13/e108a894a15a47c4af2e693af09b9fbc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/05/13/e108a894a15a47c4af2e693af09b9fbc_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/05/11/15c3ce98888348d2949f6d21f800fa3f_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/05/13/e108a894a15a47c4af2e693af09b9fbc_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Keke Palmer & LaKeith Stanfield&#039;s L.A. Gas Giveaway Ends With Cops Showing Up]]></title>
-            <link>https://www.tmz.com/2026/05/12/keke-palmer-lakeith-stanfield-free-gas-event-ended-by-police/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/keke-palmer-lakeith-stanfield-free-gas-event-ended-by-police/</guid>
-            <pubDate>Tue, 12 May 2026 23:00:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/05/12/931e0de445ca4ee69b8349d31f1f4453_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/05/12/931e0de445ca4ee69b8349d31f1f4453_xl.png" medium="image">
+            <title><![CDATA[RHOBH’s Dorit Kemsley Alleges Ex-PK Stopped Paying Electricity Amid Bitter Divorce]]></title>
+            <link>https://www.tmz.com/2026/05/12/dorit-kemsley-claims-pk-failed-to-pay-security-after-burglary/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/dorit-kemsley-claims-pk-failed-to-pay-security-after-burglary/</guid>
+            <pubDate>Wed, 13 May 2026 00:30:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5b/16by9/2026/05/12/5b536bab83024ff28fa440f4e6ad53f7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5b/16by9/2026/05/12/5b536bab83024ff28fa440f4e6ad53f7_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/05/12/931e0de445ca4ee69b8349d31f1f4453_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/5b/16by9/2026/05/12/5b536bab83024ff28fa440f4e6ad53f7_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Brandon Clarke&#039;s Body Ready to Be Released to Family, Cause of Death Deferred]]></title>
-            <link>https://www.tmz.com/2026/05/12/brandon-clarkes-body-released-to-family-unclear-cause-of-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/brandon-clarkes-body-released-to-family-unclear-cause-of-death/</guid>
-            <pubDate>Tue, 12 May 2026 22:59:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bf/16by9/2026/05/12/bf2bdf3b056d4832b577885cbeb06c93_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bf/16by9/2026/05/12/bf2bdf3b056d4832b577885cbeb06c93_xl.jpg" medium="image">
+            <title><![CDATA[Tiffany Haddish Wants DUI Case Tossed, Says 4-Year Delay Is Costing Her Work]]></title>
+            <link>https://www.tmz.com/2026/05/12/tiffany-haddish-wants-dui-case-tossed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/tiffany-haddish-wants-dui-case-tossed/</guid>
+            <pubDate>Wed, 13 May 2026 00:09:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/13/16by9/2026/05/12/1339699111fa48918fa2ef33b2b8c9dc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/13/16by9/2026/05/12/1339699111fa48918fa2ef33b2b8c9dc_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bf/16by9/2026/05/12/bf2bdf3b056d4832b577885cbeb06c93_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/13/16by9/2026/05/12/1339699111fa48918fa2ef33b2b8c9dc_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jason Collins, NBA&#039;s First Openly Gay Player, Dead At 47]]></title>
-            <link>https://www.tmz.com/2026/05/12/jason-collins-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/jason-collins-dead/</guid>
-            <pubDate>Tue, 12 May 2026 22:40:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/05/12/5d55fa523cdb48c9bbf646518df8f8c4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/05/12/5d55fa523cdb48c9bbf646518df8f8c4_xl.jpg" medium="image">
+            <title><![CDATA[Gordon Ramsay Calls BS on TikToker&#039;s Viral &#039;Dog Poop&#039; Smear Campaign, Watch]]></title>
+            <link>https://www.tmz.com/2026/05/12/gordon-ramsay-says-dog-did-not-poop-in-his-restaurant/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/12/gordon-ramsay-says-dog-did-not-poop-in-his-restaurant/</guid>
+            <pubDate>Wed, 13 May 2026 00:00:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/05/12/6fd30aa7dcb940aea198f5d19af96476_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/05/12/6fd30aa7dcb940aea198f5d19af96476_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/05/12/5d55fa523cdb48c9bbf646518df8f8c4_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/05/12/6fd30aa7dcb940aea198f5d19af96476_xl.png">
             </media:thumbnail>
         </item>
     </channel>
