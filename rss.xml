@@ -4,24 +4,35 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 11:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 13:18:20 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Tiffany Haddish&#039;s Lawyers Call 4-Year-Old DUI Case &#039;Unprecedented&#039; With No Victims]]></title>
-            <link>https://www.tmz.com/2026/05/14/tiffany-haddishs-lawyers-demand-4-year-dui-case-be-tossed-there-were-no-injuries/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/tiffany-haddishs-lawyers-demand-4-year-dui-case-be-tossed-there-were-no-injuries/</guid>
-            <pubDate>Thu, 14 May 2026 09:57:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg" medium="image">
+            <title><![CDATA[Nick Lachey Details Bumping Into Ex-Wife Jessica Simpson on a Plane]]></title>
+            <link>https://www.tmz.com/2026/05/14/nick-lachey-talks-running-into-jessica-simpson/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/nick-lachey-talks-running-into-jessica-simpson/</guid>
+            <pubDate>Thu, 14 May 2026 13:05:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/36/16by9/2026/05/14/3652a00d005f4842b5288558d871a7ae_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/36/16by9/2026/05/14/3652a00d005f4842b5288558d871a7ae_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2026/05/14/3652a00d005f4842b5288558d871a7ae_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tiffany Haddish&#039;s Lawyers Call 4-Year-Old DUI Case &#039;Unprecedented&#039; With No Victims]]></title>
+            <link>https://www.tmz.com/2026/05/14/tiffany-haddish-lawyers-slam-dui-case/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/tiffany-haddish-lawyers-slam-dui-case/</guid>
+            <pubDate>Thu, 14 May 2026 09:57:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/05/14/b14256d5b2ac42d58ccad0287607341c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/05/14/b14256d5b2ac42d58ccad0287607341c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/05/14/b14256d5b2ac42d58ccad0287607341c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
             <title><![CDATA[Chud The Builder Hit With Attempted Murder and Other Charges After Shooting]]></title>
-            <link>https://www.tmz.com/2026/05/14/chud-the-builder-dalton-eatherly-tennessee/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/chud-the-builder-dalton-eatherly-tennessee/</guid>
+            <link>https://www.tmz.com/2026/05/14/chud-the-builder-charged-with-attempted-murder/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/chud-the-builder-charged-with-attempted-murder/</guid>
             <pubDate>Thu, 14 May 2026 09:06:22 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/05/11/0032e726271b498a85cfe808f190474a_xl.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/00/16by9/2026/05/11/0032e726271b498a85cfe808f190474a_xl.jpg" medium="image">
@@ -30,7 +41,7 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Chris Brown&#039;s Ex Housekeeper Asks Judge to Block Rapper From Bringing Up Alleged Payment]]></title>
+            <title><![CDATA[Chris Brown&#039;s Ex Housekeeper Asks Judge to Block Singer From Bringing Up Alleged Payment]]></title>
             <link>https://www.tmz.com/2026/05/14/chris-browns-ex-housekeeper-does-not-want-alleged-payment-mentioned/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/14/chris-browns-ex-housekeeper-does-not-want-alleged-payment-mentioned/</guid>
             <pubDate>Thu, 14 May 2026 08:00:46 GMT</pubDate>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/05/13/8c843c491f4c4b1d883d1df43c61e81c_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/05/13/8c843c491f4c4b1d883d1df43c61e81c_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mitch Morse Says He Always Knew Travis Kelce Was a Star]]></title>
-            <link>https://www.tmz.com/2026/05/14/mitch-morse-says-travis-kelce-was-always-a-star/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/mitch-morse-says-travis-kelce-was-always-a-star/</guid>
-            <pubDate>Thu, 14 May 2026 07:30:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/05/13/96c60a79bda8494081baac65f2ba1dab_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/05/13/96c60a79bda8494081baac65f2ba1dab_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/05/13/96c60a79bda8494081baac65f2ba1dab_xl.png">
             </media:thumbnail>
         </item>
     </channel>
