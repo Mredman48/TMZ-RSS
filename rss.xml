@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 01:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 05:31:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tulsi Gabbard Spokesperson Denies CIA Raid, After Reports]]></title>
+            <link>https://www.tmz.com/2026/05/13/cia-raids-tulsi-gabbard-office-fauci-whistleblower-claims/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/cia-raids-tulsi-gabbard-office-fauci-whistleblower-claims/</guid>
+            <pubDate>Thu, 14 May 2026 02:38:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ba/16by9/2026/05/14/bac3d229f89848af84522c78de8e07e2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ba/16by9/2026/05/14/bac3d229f89848af84522c78de8e07e2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ba/16by9/2026/05/14/bac3d229f89848af84522c78de8e07e2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[CBS Crew Member Suffers Medical Emergency During Live Broadcast, On Video]]></title>
+            <link>https://www.tmz.com/2026/05/13/cbs-crew-member-suffers-medical-emergency-during-live-broadcast/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/cbs-crew-member-suffers-medical-emergency-during-live-broadcast/</guid>
+            <pubDate>Thu, 14 May 2026 02:13:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/05/14/d03550e4e8244e4b95956fe97ff9fe81_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/05/14/d03550e4e8244e4b95956fe97ff9fe81_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/05/14/d03550e4e8244e4b95956fe97ff9fe81_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Carnival Cruise Passenger Dead After Going Overboard]]></title>
+            <link>https://www.tmz.com/2026/05/13/carnival-cruise-passenger-dead-after-going-overboard/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/carnival-cruise-passenger-dead-after-going-overboard/</guid>
+            <pubDate>Thu, 14 May 2026 02:11:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/05/14/f217d307bbd84e8c8c917bf411063831_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/05/14/f217d307bbd84e8c8c917bf411063831_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/05/14/f217d307bbd84e8c8c917bf411063831_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[50 Cent & Eminem Reunite Courtside at Pistons-Cavs Playoff Game]]></title>
+            <link>https://www.tmz.com/2026/05/13/50-cent-and-eminem-reunite-courtside-at-pistons-cavs-playoff-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/50-cent-and-eminem-reunite-courtside-at-pistons-cavs-playoff-game/</guid>
+            <pubDate>Thu, 14 May 2026 01:50:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7b/16by9/2026/05/14/7b22170236264739a575a79f29c4ee8b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/05/14/7b22170236264739a575a79f29c4ee8b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/05/14/7b22170236264739a575a79f29c4ee8b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[President Trump Shares Post Calling for &#039;Traitor&#039; Barack Obama&#039;s Arrest]]></title>
             <link>https://www.tmz.com/2026/05/13/trump-shares-post-that-calls-for-obama-arrest/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/55/16by9/2026/05/14/5557f1b24e3b47cd9a36c7f4bf21415e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/05/14/5557f1b24e3b47cd9a36c7f4bf21415e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[SKIMS Sued for Unpaid Wages, Denies Allegations]]></title>
-            <link>https://www.tmz.com/2026/05/13/skims-employee-files-unpaid-wages-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/skims-employee-files-unpaid-wages-lawsuit/</guid>
-            <pubDate>Thu, 14 May 2026 00:57:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Clavicular Says He Used Hammer to Shape His Jaw, Now Dating Multiple Girlfriends]]></title>
-            <link>https://www.tmz.com/2026/05/13/clavicular-talks-bone-smashing-and-dating-many-girls/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/clavicular-talks-bone-smashing-and-dating-many-girls/</guid>
-            <pubDate>Thu, 14 May 2026 00:00:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/05/13/6131bd62b55641f8abc6e1468d8cfd86_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/05/13/6131bd62b55641f8abc6e1468d8cfd86_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/05/13/6131bd62b55641f8abc6e1468d8cfd86_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mauricio Umansky&#039;s Direct Message to Lala Kent Revealed After Podcast Claims]]></title>
-            <link>https://www.tmz.com/2026/05/13/mauricio-umansky-dm-to-lala-kent/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/mauricio-umansky-dm-to-lala-kent/</guid>
-            <pubDate>Wed, 13 May 2026 23:43:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/05/13/b1e6396fcbc94137ba0e02500c824951_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/05/13/b1e6396fcbc94137ba0e02500c824951_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/05/13/b1e6396fcbc94137ba0e02500c824951_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tasha K Held In Contempt for Cardi B, Stefon Diggs References Amid Court Battle]]></title>
-            <link>https://www.tmz.com/2026/05/13/blogger-in-contempt-over-cardi-offset-stefon-diggs-talk/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/blogger-in-contempt-over-cardi-offset-stefon-diggs-talk/</guid>
-            <pubDate>Wed, 13 May 2026 22:34:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/05/13/91c1e062f12140598b244c08bf0dd97d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/05/13/91c1e062f12140598b244c08bf0dd97d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/05/13/91c1e062f12140598b244c08bf0dd97d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
