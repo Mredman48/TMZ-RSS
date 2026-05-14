@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 22:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 01:30:51 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[President Trump Shares Post Calling for &#039;Traitor&#039; Barack Obama&#039;s Arrest]]></title>
+            <link>https://www.tmz.com/2026/05/13/trump-shares-post-that-calls-for-obama-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/trump-shares-post-that-calls-for-obama-arrest/</guid>
+            <pubDate>Thu, 14 May 2026 01:05:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/05/14/5557f1b24e3b47cd9a36c7f4bf21415e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/05/14/5557f1b24e3b47cd9a36c7f4bf21415e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/05/14/5557f1b24e3b47cd9a36c7f4bf21415e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[SKIMS Sued for Unpaid Wages, Denies Allegations]]></title>
+            <link>https://www.tmz.com/2026/05/13/skims-employee-files-unpaid-wages-lawsuit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/skims-employee-files-unpaid-wages-lawsuit/</guid>
+            <pubDate>Thu, 14 May 2026 00:57:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Clavicular Says He Used Hammer to Shape His Jaw, Now Dating Multiple Girlfriends]]></title>
+            <link>https://www.tmz.com/2026/05/13/clavicular-talks-bone-smashing-and-dating-many-girls/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/clavicular-talks-bone-smashing-and-dating-many-girls/</guid>
+            <pubDate>Thu, 14 May 2026 00:00:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/05/13/6131bd62b55641f8abc6e1468d8cfd86_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/05/13/6131bd62b55641f8abc6e1468d8cfd86_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/05/13/6131bd62b55641f8abc6e1468d8cfd86_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mauricio Umansky&#039;s Direct Message to Lala Kent Revealed After Podcast Claims]]></title>
+            <link>https://www.tmz.com/2026/05/13/mauricio-umansky-dm-to-lala-kent/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/mauricio-umansky-dm-to-lala-kent/</guid>
+            <pubDate>Wed, 13 May 2026 23:43:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/05/13/b1e6396fcbc94137ba0e02500c824951_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/05/13/b1e6396fcbc94137ba0e02500c824951_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/05/13/b1e6396fcbc94137ba0e02500c824951_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tasha K Held In Contempt for Cardi B, Stefon Diggs References Amid Court Battle]]></title>
             <link>https://www.tmz.com/2026/05/13/blogger-in-contempt-over-cardi-offset-stefon-diggs-talk/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/13/blogger-in-contempt-over-cardi-offset-stefon-diggs-talk/</guid>
             <pubDate>Wed, 13 May 2026 22:34:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e1/16by9/2026/05/13/e11ecbe4976d49129b92560b03a6b1ef_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/05/13/e11ecbe4976d49129b92560b03a6b1ef_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/05/13/91c1e062f12140598b244c08bf0dd97d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/05/13/91c1e062f12140598b244c08bf0dd97d_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/05/13/e11ecbe4976d49129b92560b03a6b1ef_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Amy Duggar King & Jill Duggar Dillard Lean on Each Other After Joseph&#039;s Arrest]]></title>
-            <link>https://www.tmz.com/2026/05/13/amy-duggar-king-texts-cousin-amid-recent-duggar-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/amy-duggar-king-texts-cousin-amid-recent-duggar-arrest/</guid>
-            <pubDate>Wed, 13 May 2026 22:30:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/05/13/0828880fa2da45ada1ee05e5b2f34391_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/05/13/0828880fa2da45ada1ee05e5b2f34391_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/05/13/0828880fa2da45ada1ee05e5b2f34391_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Latto Fans Hear Baby Noises in Mother&#039;s Day Video, Convinced She Gave Birth]]></title>
-            <link>https://www.tmz.com/2026/05/13/latto-fans-think-she-gave-birth/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/latto-fans-think-she-gave-birth/</guid>
-            <pubDate>Wed, 13 May 2026 22:22:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/05/13/ca681f3acab746c78f41cb2e96991700_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/05/13/ca681f3acab746c78f41cb2e96991700_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/05/13/ca681f3acab746c78f41cb2e96991700_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sen. Rand Paul&#039;s Son Apologizes for Drunken D.C. Tirade About &#039;Gays, Jews&#039;]]></title>
-            <link>https://www.tmz.com/2026/05/13/rand-pauls-son-william-apologizes-for-drunken-rant/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/rand-pauls-son-william-apologizes-for-drunken-rant/</guid>
-            <pubDate>Wed, 13 May 2026 22:21:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/05/13/17804d0feceb4f2190e4d5ca2ba916aa_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/05/13/17804d0feceb4f2190e4d5ca2ba916aa_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/05/13/17804d0feceb4f2190e4d5ca2ba916aa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[AOC Tells Spencer Pratt to Own His Own Story as He Runs for L.A. Mayor]]></title>
-            <link>https://www.tmz.com/2026/05/13/alexandria-ocasio-cortez-discusses-spencer-pratts-political-path/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/13/alexandria-ocasio-cortez-discusses-spencer-pratts-political-path/</guid>
-            <pubDate>Wed, 13 May 2026 22:14:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/05/13/8d46ba85bf264f6b82e2900fe284879d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/05/13/8d46ba85bf264f6b82e2900fe284879d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/05/13/8d46ba85bf264f6b82e2900fe284879d_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/05/13/91c1e062f12140598b244c08bf0dd97d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
