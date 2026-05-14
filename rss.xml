@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 21:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 23:34:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[TMZ Celebrity Tour Bus Hosted by Diplo & Major Lazer Member America Foster]]></title>
-            <link>https://www.tmz.com/2026/05/14/diplo-america-foster-tmz-celebrity-tour-bus/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/diplo-america-foster-tmz-celebrity-tour-bus/</guid>
-            <pubDate>Thu, 14 May 2026 21:40:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/88/16by9/2026/05/14/8823f27e84b546e285d86926412f7304_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/88/16by9/2026/05/14/8823f27e84b546e285d86926412f7304_xl.png" medium="image">
+            <title><![CDATA[Ryan Lochte Explains Why He Looks Unrecognizable to Shocked Fans]]></title>
+            <link>https://www.tmz.com/2026/05/14/ryan-lochte-explains-his-appearance/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/ryan-lochte-explains-his-appearance/</guid>
+            <pubDate>Thu, 14 May 2026 23:22:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/05/14/16825cf68b984a9fa9191bca878efa1c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/05/14/16825cf68b984a9fa9191bca878efa1c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/88/16by9/2026/05/14/8823f27e84b546e285d86926412f7304_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/05/14/16825cf68b984a9fa9191bca878efa1c_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Chud the Builder Alleged Shooting Victim Rushed Away on Gurney, Video]]></title>
-            <link>https://www.tmz.com/2026/05/14/chud-the-builder-alleged-shooting-victim-on-gurney-on-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/chud-the-builder-alleged-shooting-victim-on-gurney-on-video/</guid>
-            <pubDate>Thu, 14 May 2026 21:29:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/05/14/7f65ec89d08f4aa68225f4ae7b1efdf5_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/05/14/7f65ec89d08f4aa68225f4ae7b1efdf5_xl.png" medium="image">
+            <title><![CDATA[White House Uses Tate McRae Song to Hype Border Wall, Shade Great Wall of China]]></title>
+            <link>https://www.tmz.com/2026/05/14/white-house-uses-tate-mcrae-song-for-wall-promotion/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/white-house-uses-tate-mcrae-song-for-wall-promotion/</guid>
+            <pubDate>Thu, 14 May 2026 23:21:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/05/14/644370e56459491b94e31c3be92a3c99_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/05/14/644370e56459491b94e31c3be92a3c99_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/05/14/7f65ec89d08f4aa68225f4ae7b1efdf5_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/05/14/644370e56459491b94e31c3be92a3c99_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jack Schlossberg Delivers Subpoena, Tylenol to Cousin RFK Jr.]]></title>
-            <link>https://www.tmz.com/2026/05/14/jack-schlossberg-delivers-subpoena-tylenol-to-cousin-rfk-jr/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/jack-schlossberg-delivers-subpoena-tylenol-to-cousin-rfk-jr/</guid>
-            <pubDate>Thu, 14 May 2026 21:02:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/05/14/179becac8ed44fb38124ff2fbb7c7c4e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/05/14/179becac8ed44fb38124ff2fbb7c7c4e_xl.jpg" medium="image">
+            <title><![CDATA[Eric Swalwell Living Apart From Wife After Sexual Misconduct Claims: Report]]></title>
+            <link>https://www.tmz.com/2026/05/14/eric-swalwell-separated-from-wife-amid-alleged-sexual-misconduct/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/eric-swalwell-separated-from-wife-amid-alleged-sexual-misconduct/</guid>
+            <pubDate>Thu, 14 May 2026 23:12:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/05/14/8b85539ad0034586a7186f27fe2711b8_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/05/14/8b85539ad0034586a7186f27fe2711b8_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/05/14/179becac8ed44fb38124ff2fbb7c7c4e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/05/14/8b85539ad0034586a7186f27fe2711b8_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[FBI Chief Kash Patel Went for &#039;VIP Snorkel&#039; in Off-Limits Area on Hawaii Work Trip]]></title>
-            <link>https://www.tmz.com/2026/05/14/kash-patel-snorkel-during-hawaii-work-trip/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/kash-patel-snorkel-during-hawaii-work-trip/</guid>
-            <pubDate>Thu, 14 May 2026 20:53:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/05/14/6d72145d71d44f348a90414878bf67c9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/05/14/6d72145d71d44f348a90414878bf67c9_xl.jpg" medium="image">
+            <title><![CDATA[Michael Irvin Changes Tune On MMA Aspirations After Watching Ronda Rousey Train]]></title>
+            <link>https://www.tmz.com/2026/05/14/michael-irvin-changes-mind-about-wanting-mma-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/michael-irvin-changes-mind-about-wanting-mma-fight/</guid>
+            <pubDate>Thu, 14 May 2026 22:21:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/05/14/3cc08f6d39664b26b9583991693af2c9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/05/14/3cc08f6d39664b26b9583991693af2c9_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/05/14/6d72145d71d44f348a90414878bf67c9_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/05/14/3cc08f6d39664b26b9583991693af2c9_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Maitland Ward Rips &#039;Euphoria&#039;s Sydney Sweeney Baby Role-Play OnlyFans Parody]]></title>
-            <link>https://www.tmz.com/2026/05/14/maitland-ward-on-sydney-sweeney-onlyfans-portrayal/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/maitland-ward-on-sydney-sweeney-onlyfans-portrayal/</guid>
-            <pubDate>Thu, 14 May 2026 20:48:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/05/14/1f46e9af3c424082bf06ec64d08024c0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/05/14/1f46e9af3c424082bf06ec64d08024c0_xl.jpg" medium="image">
+            <title><![CDATA[Country Singer Lainey Wilson Marries Ex-NFL QB Devlin &#039;Duck&#039; Hodges]]></title>
+            <link>https://www.tmz.com/2026/05/14/lainey-wilson-marries-devlin-hodges/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/lainey-wilson-marries-devlin-hodges/</guid>
+            <pubDate>Thu, 14 May 2026 22:01:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/05/14/27cd3a0474764f4fbf84b66ecca7088a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/05/14/27cd3a0474764f4fbf84b66ecca7088a_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/05/14/1f46e9af3c424082bf06ec64d08024c0_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/05/14/27cd3a0474764f4fbf84b66ecca7088a_xl.png">
             </media:thumbnail>
         </item>
     </channel>
