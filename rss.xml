@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 15:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 18:21:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Britney Spears&#039; Son Jayden James Steps Out at Dior&#039;s Fashion Show in L.A.]]></title>
-            <link>https://www.tmz.com/2026/05/14/jayden-spears-at-dior-show/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/jayden-spears-at-dior-show/</guid>
-            <pubDate>Thu, 14 May 2026 15:55:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/05/14/7f94d0df38554705852091abb5f4204a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/05/14/7f94d0df38554705852091abb5f4204a_xl.jpg" medium="image">
+            <title><![CDATA[Taylor Swift Inviting Celebs to Wedding by Phone, She&#039;s Making the Calls]]></title>
+            <link>https://www.tmz.com/2026/05/14/taylor-swift-calling-guests-for-wedding/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/taylor-swift-calling-guests-for-wedding/</guid>
+            <pubDate>Thu, 14 May 2026 18:10:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/05/14/4e8480a4f06f4b108426722d1e36841d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/05/14/4e8480a4f06f4b108426722d1e36841d_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/05/14/7f94d0df38554705852091abb5f4204a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/05/14/4e8480a4f06f4b108426722d1e36841d_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Eminem&#039;s Ex-Wife Kim Scott Arrested Again, Booked for DUI After Allegedly Hitting Car]]></title>
-            <link>https://www.tmz.com/2026/05/14/eminems-ex-wife-arrested-in-michigan/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/eminems-ex-wife-arrested-in-michigan/</guid>
-            <pubDate>Thu, 14 May 2026 15:49:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/05/14/fbd9919dc65a4c1f8b253fa87c698cc1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/05/14/fbd9919dc65a4c1f8b253fa87c698cc1_xl.png" medium="image">
+            <title><![CDATA[Guess The Sexy Star Showing Curves In Her Lil&#039; Black Bikini]]></title>
+            <link>https://www.tmz.com/2026/05/14/guess-who-sexy-star-in-bikini/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/guess-who-sexy-star-in-bikini/</guid>
+            <pubDate>Thu, 14 May 2026 18:00:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/05/14/ce0a62f24a5d4ff6bffea165788b1dc1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/05/14/ce0a62f24a5d4ff6bffea165788b1dc1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/05/14/fbd9919dc65a4c1f8b253fa87c698cc1_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/05/14/ce0a62f24a5d4ff6bffea165788b1dc1_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Vin Diesel Cries Remembering Paul Walker During Cannes Tribute Screening]]></title>
-            <link>https://www.tmz.com/2026/05/14/vin-diesel-cries-over-paul-walker/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/vin-diesel-cries-over-paul-walker/</guid>
-            <pubDate>Thu, 14 May 2026 14:31:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/85/16by9/2026/05/14/856de69744264a5bbd56f0f94563c72c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/85/16by9/2026/05/14/856de69744264a5bbd56f0f94563c72c_xl.png" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/05/14/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/watch-tmz-live-today/</guid>
+            <pubDate>Thu, 14 May 2026 17:49:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5c/16by9/2026/05/14/5c1ea3e5772141e9b16adc03c7bb7844_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5c/16by9/2026/05/14/5c1ea3e5772141e9b16adc03c7bb7844_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/05/14/856de69744264a5bbd56f0f94563c72c_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/5c/16by9/2026/05/14/5c1ea3e5772141e9b16adc03c7bb7844_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Tiger Woods Seen For First Time Stepping Off Plane After Rehab]]></title>
-            <link>https://www.tmz.com/2026/05/14/tiger-woods-seen-after-rehab/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/tiger-woods-seen-after-rehab/</guid>
-            <pubDate>Thu, 14 May 2026 14:30:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/05/14/9bc7e178d2484885bc643d3f708a04d1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/05/14/9bc7e178d2484885bc643d3f708a04d1_xl.jpg" medium="image">
+            <title><![CDATA[Trespass Suspect Returns to Chris Brown&#039;s House, Arrested Again, Police Say]]></title>
+            <link>https://www.tmz.com/2026/05/14/trespassing-suspect-arrested-again-at-chris-brown-home/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/trespassing-suspect-arrested-again-at-chris-brown-home/</guid>
+            <pubDate>Thu, 14 May 2026 17:48:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/05/14/5a3146da1e854e87bb4dd9bbb57e4af1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/05/14/5a3146da1e854e87bb4dd9bbb57e4af1_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/05/14/9bc7e178d2484885bc643d3f708a04d1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/05/14/5a3146da1e854e87bb4dd9bbb57e4af1_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift&#039;s Bodyguard Gets Designer Dress Delivery in NYC Ahead of Wedding]]></title>
-            <link>https://www.tmz.com/2026/05/14/taylor-swift-receives-stella-mccartney-dress/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/taylor-swift-receives-stella-mccartney-dress/</guid>
-            <pubDate>Thu, 14 May 2026 14:26:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/05/14/5ea60d54aa2d475a86b8ab90782c6978_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/05/14/5ea60d54aa2d475a86b8ab90782c6978_xl.jpg" medium="image">
+            <title><![CDATA[Dylan Sprouse and Barbara Palvin Expecting First Child Together]]></title>
+            <link>https://www.tmz.com/2026/05/14/dylan-sprouse-barbara-palvin-having-baby/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/dylan-sprouse-barbara-palvin-having-baby/</guid>
+            <pubDate>Thu, 14 May 2026 17:34:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/05/14/4964df69c11240a2b466732aa8e5d3a5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/05/14/4964df69c11240a2b466732aa8e5d3a5_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/05/14/5ea60d54aa2d475a86b8ab90782c6978_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/05/14/4964df69c11240a2b466732aa8e5d3a5_xl.png">
             </media:thumbnail>
         </item>
     </channel>
