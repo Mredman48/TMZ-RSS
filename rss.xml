@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 08:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 11:01:28 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tiffany Haddish&#039;s Lawyers Call 4-Year-Old DUI Case &#039;Unprecedented&#039; With No Victims]]></title>
+            <link>https://www.tmz.com/2026/05/14/tiffany-haddishs-lawyers-demand-4-year-dui-case-be-tossed-there-were-no-injuries/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/tiffany-haddishs-lawyers-demand-4-year-dui-case-be-tossed-there-were-no-injuries/</guid>
+            <pubDate>Thu, 14 May 2026 09:57:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Chud The Builder Hit With Attempted Murder and Other Charges After Shooting]]></title>
+            <link>https://www.tmz.com/2026/05/14/chud-the-builder-dalton-eatherly-tennessee/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/chud-the-builder-dalton-eatherly-tennessee/</guid>
+            <pubDate>Thu, 14 May 2026 09:06:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/05/11/0032e726271b498a85cfe808f190474a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/05/11/0032e726271b498a85cfe808f190474a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/05/11/0032e726271b498a85cfe808f190474a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chris Brown&#039;s Ex Housekeeper Asks Judge to Block Rapper From Bringing Up Alleged Payment]]></title>
             <link>https://www.tmz.com/2026/05/14/chris-browns-ex-housekeeper-does-not-want-alleged-payment-mentioned/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/96/16by9/2026/05/13/96c60a79bda8494081baac65f2ba1dab_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/05/13/96c60a79bda8494081baac65f2ba1dab_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lutz In Brüno &#039;Memba Him?!]]></title>
-            <link>https://www.tmz.com/2026/05/14/lutz-in-bruno-memba-him/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/lutz-in-bruno-memba-him/</guid>
-            <pubDate>Thu, 14 May 2026 07:01:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/05/05/b56a8c2799ec4e23935850669d331988_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/05/05/b56a8c2799ec4e23935850669d331988_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/05/05/b56a8c2799ec4e23935850669d331988_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cruise Influencers Say Hantavirus Is Not the End of the World, They&#039;ll Keep Traveling]]></title>
-            <link>https://www.tmz.com/2026/05/14/cruise-influencers-not-worried-by-hantavirus-outbreak/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/14/cruise-influencers-not-worried-by-hantavirus-outbreak/</guid>
-            <pubDate>Thu, 14 May 2026 07:00:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fc/16by9/2026/05/13/fcefadc6c32b4b49870d7131492089c1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/05/13/fcefadc6c32b4b49870d7131492089c1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/05/13/fcefadc6c32b4b49870d7131492089c1_xl.png">
             </media:thumbnail>
         </item>
     </channel>
