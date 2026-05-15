@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 21:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 22:35:17 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Victoria Villarroel Brushes Her Teeth In Daring Red-Hot Bikini]]></title>
+            <link>https://www.tmz.com/2026/05/15/victoria-villarroel-brushes-teeth-in-bikini/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/victoria-villarroel-brushes-teeth-in-bikini/</guid>
+            <pubDate>Fri, 15 May 2026 22:00:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/05/15/b87f3c7e6aff474694a0284ba11c0c31_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/05/15/b87f3c7e6aff474694a0284ba11c0c31_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/05/15/b87f3c7e6aff474694a0284ba11c0c31_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Love Is Blind&#039; Stars Kwame Appiah and Chelsea Griffin Split]]></title>
+            <link>https://www.tmz.com/2026/05/15/kwame-appiah-chelsea-griffin-break-up/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/kwame-appiah-chelsea-griffin-break-up/</guid>
+            <pubDate>Fri, 15 May 2026 22:00:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/05/15/8c498c22d69b4971b26a908c000bdc5b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/05/15/8c498c22d69b4971b26a908c000bdc5b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/05/15/8c498c22d69b4971b26a908c000bdc5b_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Man Who Allegedly Killed Auburn Grad Is Not Innocent, Family Attorney Says]]></title>
+            <link>https://www.tmz.com/2026/05/15/auburn-grad-whitney-robeson-attorney-statement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/auburn-grad-whitney-robeson-attorney-statement/</guid>
+            <pubDate>Fri, 15 May 2026 21:52:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/05/15/c0d5af74a1cb409884f7084fc0afed15_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/05/15/c0d5af74a1cb409884f7084fc0afed15_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/05/15/c0d5af74a1cb409884f7084fc0afed15_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[MAGA Influencer, Banker Boyfriend Charged in Alleged Racist London Assault]]></title>
             <link>https://www.tmz.com/2026/05/15/melissa-rein-lively-and-boyfriend-charged-in-london-with-assault/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/71/16by9/2026/05/15/71c6ae1b2f9544ef99fe8ddf9d092c79_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/05/15/71c6ae1b2f9544ef99fe8ddf9d092c79_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NBA Star Miles Bridges Showdown With Ex Erupts Over Cyberstalking Claims]]></title>
-            <link>https://www.tmz.com/2026/05/15/miles-bridges-and-ex-argue-over-online-harassment/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/miles-bridges-and-ex-argue-over-online-harassment/</guid>
-            <pubDate>Fri, 15 May 2026 21:04:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e0/16by9/2026/05/15/e0262748605843d9a8afd48a2f3f04a2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/05/15/e0262748605843d9a8afd48a2f3f04a2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/05/15/e0262748605843d9a8afd48a2f3f04a2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gypsy Rose Blanchard Donates to Ex-Spirit Air Employee After James Charles Blowup]]></title>
-            <link>https://www.tmz.com/2026/05/15/gypsy-rose-blanchard-donates-to-spirit-airlines-employee/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/gypsy-rose-blanchard-donates-to-spirit-airlines-employee/</guid>
-            <pubDate>Fri, 15 May 2026 20:30:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/05/15/e95ff78f86c441908f56184a8f82f83d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/05/15/e95ff78f86c441908f56184a8f82f83d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/05/15/e95ff78f86c441908f56184a8f82f83d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jed Wallace Files Appeal of Blake Lively Defamation Suit Getting Tossed]]></title>
-            <link>https://www.tmz.com/2026/05/15/jed-wallace-appeals-blake-lively-defamation-suit-getting-tossed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/jed-wallace-appeals-blake-lively-defamation-suit-getting-tossed/</guid>
-            <pubDate>Fri, 15 May 2026 20:10:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/26/16by9/2026/05/15/26e6c73f53f14957bda439dd8f17e35e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/26/16by9/2026/05/15/26e6c73f53f14957bda439dd8f17e35e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/26/16by9/2026/05/15/26e6c73f53f14957bda439dd8f17e35e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
