@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 21:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 22:27:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bella Hadid Strips Down to Tiny Pink Bikini During Cannes Vacation]]></title>
+            <link>https://www.tmz.com/2026/05/16/bella-hadid-swims-tiny-pink-bikini-during-france-vacation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/bella-hadid-swims-tiny-pink-bikini-during-france-vacation/</guid>
+            <pubDate>Sat, 16 May 2026 22:22:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f4/16by9/2026/05/16/f4e44088fdf04ee8806ab50d7a5f0640_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/05/16/f4e44088fdf04ee8806ab50d7a5f0640_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/05/16/f4e44088fdf04ee8806ab50d7a5f0640_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Jonas&#039; Wife Shares His Abs on the Internet]]></title>
+            <link>https://www.tmz.com/2026/05/16/kevin-jonas-abs-pics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/kevin-jonas-abs-pics/</guid>
+            <pubDate>Sat, 16 May 2026 21:54:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Announces U.S. Killed High-Ranking ISIS Official, Hegseth Shares Video]]></title>
+            <link>https://www.tmz.com/2026/05/16/us-attacks-isis-in-nigeria/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/us-attacks-isis-in-nigeria/</guid>
+            <pubDate>Sat, 16 May 2026 21:40:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/05/16/9db972addad849f59308a203d7778b81_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/05/16/9db972addad849f59308a203d7778b81_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/05/16/9db972addad849f59308a203d7778b81_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tyson Fury&#039;s 16-Year-Old Daughter Marries 18-Year-Old Fiancé]]></title>
             <link>https://www.tmz.com/2026/05/16/tyson-fury-16-year-old-daughter-marries-18-year-old-fiance/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/93/16by9/2025/05/15/935a55e5df0b40759e02c0e297b0c5bf_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2025/05/15/935a55e5df0b40759e02c0e297b0c5bf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Arkansas Man Arrested After Allegedly Threatening Mass Shooting if Hantavirus Shuts Down U.S.]]></title>
-            <link>https://www.tmz.com/2026/05/16/arkansas-man-arrested-threatening-mass-shooting-hantavirus/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/arkansas-man-arrested-threatening-mass-shooting-hantavirus/</guid>
-            <pubDate>Sat, 16 May 2026 19:33:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dak Prescott Spotted at Pro Bull Riders Event with Ex Sarah Jane Ramos&#039; Bridesmaid]]></title>
-            <link>https://www.tmz.com/2026/05/16/dak-prescott-caitlin-rance-seen-together/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/dak-prescott-caitlin-rance-seen-together/</guid>
-            <pubDate>Sat, 16 May 2026 19:02:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mark Ruffalo Assumes &#039;Vindictive Motherf***ers&#039; Larry & David Ellison Have Him &#039;On A List&#039;]]></title>
-            <link>https://www.tmz.com/2026/05/16/mark-ruffalo-calls-david-larry-ellison-vindictive-motherf-ers-after-paramount-merger/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/mark-ruffalo-calls-david-larry-ellison-vindictive-motherf-ers-after-paramount-merger/</guid>
-            <pubDate>Sat, 16 May 2026 19:00:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png">
             </media:thumbnail>
         </item>
     </channel>
