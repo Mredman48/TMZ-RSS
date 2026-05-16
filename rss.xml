@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 20:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 21:31:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tyson Fury&#039;s 16-Year-Old Daughter Marries 18-Year-Old Fiancé]]></title>
+            <link>https://www.tmz.com/2026/05/16/tyson-fury-16-year-old-daughter-marries-18-year-old-fiance/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/tyson-fury-16-year-old-daughter-marries-18-year-old-fiance/</guid>
+            <pubDate>Sat, 16 May 2026 21:00:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/05/16/8a143a4a169e4535a6d528027d62cb88_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/05/16/8a143a4a169e4535a6d528027d62cb88_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/05/16/8a143a4a169e4535a6d528027d62cb88_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Megan Fox Hot Shots to Toast Her Big 4-0!]]></title>
             <link>https://www.tmz.com/2026/05/16/megan-fox-birthday-hot-shots/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Who&#039;s This Shirtless Stud?! Guess the Bond Boy!]]></title>
-            <link>https://www.tmz.com/2026/05/16/guess-the-shirtless-stud/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/guess-the-shirtless-stud/</guid>
-            <pubDate>Sat, 16 May 2026 19:00:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
