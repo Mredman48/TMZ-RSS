@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 23:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 01:22:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Maitland Ward Says &#039;Disgusting&#039; Bonnie Blue Gives Porn a Bad Name]]></title>
+            <link>https://www.tmz.com/2026/05/15/maitland-ward-slams-bonnie-blue-over-porn-portrayal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/maitland-ward-slams-bonnie-blue-over-porn-portrayal/</guid>
+            <pubDate>Sat, 16 May 2026 01:00:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/05/15/dc2297e3190345c4989aa76cfb8f0593_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/05/15/dc2297e3190345c4989aa76cfb8f0593_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/05/15/dc2297e3190345c4989aa76cfb8f0593_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dianna Russini&#039;s Former Podcast Co-Host Finally Addresses Mike Vrabel Scandal]]></title>
+            <link>https://www.tmz.com/2026/05/15/dianna-russinis-former-co-host-laughs-about-her-alleged-affair/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/dianna-russinis-former-co-host-laughs-about-her-alleged-affair/</guid>
+            <pubDate>Sat, 16 May 2026 00:13:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/05/15/6501783132144464a9fac5720634ea2c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/05/15/6501783132144464a9fac5720634ea2c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/05/15/6501783132144464a9fac5720634ea2c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[White House Overrun by Huge Swarm of Bees, Video Shows]]></title>
+            <link>https://www.tmz.com/2026/05/15/bees-swarm-white-house-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/bees-swarm-white-house-video/</guid>
+            <pubDate>Fri, 15 May 2026 23:57:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/05/15/c5527ba5cc7b46aab1eea1ffdabcea91_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/05/15/c5527ba5cc7b46aab1eea1ffdabcea91_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/05/15/c5527ba5cc7b46aab1eea1ffdabcea91_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Alex Murdaugh Could Face Death Penalty in New Murder Trial]]></title>
+            <link>https://www.tmz.com/2026/05/15/alex-murdaugh-retrial-may-result-in-death-penalty/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/alex-murdaugh-retrial-may-result-in-death-penalty/</guid>
+            <pubDate>Fri, 15 May 2026 23:54:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/05/15/52a378ebf800471c8f3f1f0274d86b5a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/05/15/52a378ebf800471c8f3f1f0274d86b5a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/05/15/52a378ebf800471c8f3f1f0274d86b5a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Courtney Stodden Is Getting a Breast Reduction]]></title>
             <link>https://www.tmz.com/2026/05/15/courtney-stodden-removing-breast-implants/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/05/15/f71cf1fa3e4740e99a51d51edf5eb704_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/05/15/f71cf1fa3e4740e99a51d51edf5eb704_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love on the Spectrum&#039; Star Dani Bowman Slams &#039;Euphoria,&#039; The Rock For Using R-Word]]></title>
-            <link>https://www.tmz.com/2026/05/15/dani-bowman-condemns-ableist-slur/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/dani-bowman-condemns-ableist-slur/</guid>
-            <pubDate>Fri, 15 May 2026 22:51:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/05/15/f29bfefe4ce3485dafd2b1ad83eb3ba2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/05/15/f29bfefe4ce3485dafd2b1ad83eb3ba2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/05/15/f29bfefe4ce3485dafd2b1ad83eb3ba2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Victoria Villarroel Brushes Her Teeth In Daring Red-Hot Bikini]]></title>
-            <link>https://www.tmz.com/2026/05/15/victoria-villarroel-brushes-teeth-in-bikini/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/victoria-villarroel-brushes-teeth-in-bikini/</guid>
-            <pubDate>Fri, 15 May 2026 22:00:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/05/15/b87f3c7e6aff474694a0284ba11c0c31_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/05/15/b87f3c7e6aff474694a0284ba11c0c31_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/05/15/b87f3c7e6aff474694a0284ba11c0c31_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love Is Blind&#039; Stars Kwame Appiah and Chelsea Griffin Split]]></title>
-            <link>https://www.tmz.com/2026/05/15/kwame-appiah-chelsea-griffin-break-up/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/kwame-appiah-chelsea-griffin-break-up/</guid>
-            <pubDate>Fri, 15 May 2026 22:00:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/05/15/8c498c22d69b4971b26a908c000bdc5b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/05/15/8c498c22d69b4971b26a908c000bdc5b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/05/15/8c498c22d69b4971b26a908c000bdc5b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Man Who Allegedly Killed Auburn Grad Is Not Innocent, Family Attorney Says]]></title>
-            <link>https://www.tmz.com/2026/05/15/auburn-grad-whitney-robeson-attorney-statement/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/auburn-grad-whitney-robeson-attorney-statement/</guid>
-            <pubDate>Fri, 15 May 2026 21:52:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/05/15/c0d5af74a1cb409884f7084fc0afed15_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/05/15/c0d5af74a1cb409884f7084fc0afed15_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/05/15/c0d5af74a1cb409884f7084fc0afed15_xl.png">
             </media:thumbnail>
         </item>
     </channel>
