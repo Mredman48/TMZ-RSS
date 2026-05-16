@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 16:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 17:37:35 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Street Outlaws&#039; Star Daddy Dave&#039;s Arrest and Alleged Crime on Video]]></title>
+            <link>https://www.tmz.com/2026/05/16/daddy-dave-street-outlaws-alleged-crime-on-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/daddy-dave-street-outlaws-alleged-crime-on-video/</guid>
+            <pubDate>Sat, 16 May 2026 17:00:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Lizzo Says Being Called Fat by Azealia Banks Is Endearing]]></title>
             <link>https://www.tmz.com/2026/05/16/azealia-banks-calls-lizzo-fat/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/05/16/3bb70473f32d4f17a760004b739b17c8_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/05/16/3bb70473f32d4f17a760004b739b17c8_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Eric Trump Says He&#039;s Suing Jen Psaki and MS Now For &#039;False&#039; China Report]]></title>
-            <link>https://www.tmz.com/2026/05/16/eric-trump-donald-china-jen-psaki-ms-now/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/eric-trump-donald-china-jen-psaki-ms-now/</guid>
-            <pubDate>Sat, 16 May 2026 08:34:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
