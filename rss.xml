@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 18:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 19:44:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Arkansas Man Arrested After Allegedly Threatening Mass Shooting if Hantavirus Shuts Down U.S.]]></title>
+            <link>https://www.tmz.com/2026/05/16/arkansas-man-arrested-threatening-mass-shooting-hantavirus/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/arkansas-man-arrested-threatening-mass-shooting-hantavirus/</guid>
+            <pubDate>Sat, 16 May 2026 19:33:24 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Dak Prescott Spotted at Pro Bull Riders Event with Ex Sarah Jane Ramos&#039; Bridesmaid]]></title>
+            <link>https://www.tmz.com/2026/05/16/dak-prescott-caitlin-rance-seen-together/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/dak-prescott-caitlin-rance-seen-together/</guid>
+            <pubDate>Sat, 16 May 2026 19:02:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mark Ruffalo Assumes &#039;Vindictive Motherf***ers&#039; Larry & David Ellison Have Him &#039;On A List&#039;]]></title>
+            <link>https://www.tmz.com/2026/05/16/mark-ruffalo-calls-david-larry-ellison-vindictive-motherf-ers-after-paramount-merger/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/mark-ruffalo-calls-david-larry-ellison-vindictive-motherf-ers-after-paramount-merger/</guid>
+            <pubDate>Sat, 16 May 2026 19:00:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Who&#039;s This Shirtless Stud?! Guess the Bond Boy!]]></title>
+            <link>https://www.tmz.com/2026/05/16/guess-the-shirtless-stud/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/guess-the-shirtless-stud/</guid>
+            <pubDate>Sat, 16 May 2026 19:00:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Brandi Glanville Thinks Spencer Pratt Could Win L.A. Mayoral Race]]></title>
             <link>https://www.tmz.com/2026/05/16/brandi-glanville-supports-spencer-pratt/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/eaf774e1645c441f817e7f517b061f64_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/eaf774e1645c441f817e7f517b061f64_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Street Outlaws&#039; Star Daddy Dave&#039;s Arrest and Alleged Crime on Video]]></title>
-            <link>https://www.tmz.com/2026/05/16/daddy-dave-street-outlaws-alleged-crime-on-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/daddy-dave-street-outlaws-alleged-crime-on-video/</guid>
-            <pubDate>Sat, 16 May 2026 17:00:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lizzo Says Being Called Fat by Azealia Banks Is Endearing]]></title>
-            <link>https://www.tmz.com/2026/05/16/azealia-banks-calls-lizzo-fat/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/azealia-banks-calls-lizzo-fat/</guid>
-            <pubDate>Sat, 16 May 2026 16:22:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/92/16by9/2026/05/16/92522d84bb704d0f8b519050985d2c03_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/92/16by9/2026/05/16/92522d84bb704d0f8b519050985d2c03_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/92/16by9/2026/05/16/92522d84bb704d0f8b519050985d2c03_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chase Infiniti and Tyriq Withers Photographed on Date in NYC]]></title>
-            <link>https://www.tmz.com/2026/05/16/chase-infiniti-and-tyriq-withers-broadway-date-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/chase-infiniti-and-tyriq-withers-broadway-date-pictures/</guid>
-            <pubDate>Sat, 16 May 2026 13:33:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/39/16by9/2026/05/16/39180ab3526649fb969dbf87c0b7f739_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/39/16by9/2026/05/16/39180ab3526649fb969dbf87c0b7f739_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/39/16by9/2026/05/16/39180ab3526649fb969dbf87c0b7f739_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Six-Year-Old Boy&#039;s Remains Found in Texas, Mother Charged With Murder]]></title>
-            <link>https://www.tmz.com/2026/05/16/six-year-old-boys-remains-discovered-in-texas-mom-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/six-year-old-boys-remains-discovered-in-texas-mom-arrested/</guid>
-            <pubDate>Sat, 16 May 2026 12:07:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/05/16/7a4c127fb9f1473cbdbcb07ea420b7f2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/05/16/7a4c127fb9f1473cbdbcb07ea420b7f2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/05/16/7a4c127fb9f1473cbdbcb07ea420b7f2_xl.png">
             </media:thumbnail>
         </item>
     </channel>
