@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 07:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 09:15:01 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Eric Trump Says He&#039;s Suing Jen Psaki and MS Now For &#039;False&#039; China Report]]></title>
+            <link>https://www.tmz.com/2026/05/16/eric-trump-donald-china-jen-psaki-ms-now/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/eric-trump-donald-china-jen-psaki-ms-now/</guid>
+            <pubDate>Sat, 16 May 2026 08:34:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kyle Richards What&#039;s The Big Frigin&#039; Difference?!]]></title>
+            <link>https://www.tmz.com/2026/05/16/kyle-richards-picture-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/kyle-richards-picture-game/</guid>
+            <pubDate>Sat, 16 May 2026 07:45:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6b/16by9/2026/05/12/6be8b60baffd4deca0f52cc3b1cbc856_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6b/16by9/2026/05/12/6be8b60baffd4deca0f52cc3b1cbc856_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6b/16by9/2026/05/12/6be8b60baffd4deca0f52cc3b1cbc856_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift and Travis Kelce Enjoy a Date Night As Wedding Rumors Swirl]]></title>
+            <link>https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-have-date-night-in-soho/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-have-date-night-in-soho/</guid>
+            <pubDate>Sat, 16 May 2026 07:43:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f7/16by9/2026/05/16/f7af308e70c74564912070976743987c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f7/16by9/2026/05/16/f7af308e70c74564912070976743987c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f7/16by9/2026/05/16/f7af308e70c74564912070976743987c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Le&#039;Veon Bell Says Jake Paul Is &#039;More Of A Match&#039; For Him Than Logan Paul]]></title>
             <link>https://www.tmz.com/2026/05/16/leveon-bell-wants-jake-paul-fight/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/05/16/c5940eb60ea143c4a6c3ce0c5360d274_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/05/16/c5940eb60ea143c4a6c3ce0c5360d274_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sexy Stars In Blooming Bikinis -- Sun&#039;s Out, Flowers Out!]]></title>
-            <link>https://www.tmz.com/2026/05/16/suns-out-flowers-out-sexy-stars-in-blooming-bikinis/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/suns-out-flowers-out-sexy-stars-in-blooming-bikinis/</guid>
-            <pubDate>Sat, 16 May 2026 07:01:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/05/07/a5bcaae80ad04544a42f8274b1531ec7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/05/07/a5bcaae80ad04544a42f8274b1531ec7_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/05/07/a5bcaae80ad04544a42f8274b1531ec7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chud The Builder: Judge Dismisses Woman&#039;s Harassment Restraining Order Case]]></title>
-            <link>https://www.tmz.com/2026/05/16/judge-rejects-restraining-order-against-chud-the-builder/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/judge-rejects-restraining-order-against-chud-the-builder/</guid>
-            <pubDate>Sat, 16 May 2026 07:00:40 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/05/15/00721013465a4023943ac79814bd6f80_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/05/15/00721013465a4023943ac79814bd6f80_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/05/15/00721013465a4023943ac79814bd6f80_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears Geeks Over &#039;Devil Wears Prada&#039; On Her Way to See Sequel]]></title>
-            <link>https://www.tmz.com/2026/05/15/britney-spears-slurpee-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/15/britney-spears-slurpee-video/</guid>
-            <pubDate>Sat, 16 May 2026 01:23:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/05/16/b915d7a7fede4e5096c941cbbfa6bc5b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/05/16/b915d7a7fede4e5096c941cbbfa6bc5b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/05/16/b915d7a7fede4e5096c941cbbfa6bc5b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
