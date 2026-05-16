@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 19:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 20:29:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Megan Fox Hot Shots to Toast Her Big 4-0!]]></title>
+            <link>https://www.tmz.com/2026/05/16/megan-fox-birthday-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/megan-fox-birthday-hot-shots/</guid>
+            <pubDate>Sat, 16 May 2026 20:00:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/93/16by9/2025/05/15/935a55e5df0b40759e02c0e297b0c5bf_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/93/16by9/2025/05/15/935a55e5df0b40759e02c0e297b0c5bf_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2025/05/15/935a55e5df0b40759e02c0e297b0c5bf_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Arkansas Man Arrested After Allegedly Threatening Mass Shooting if Hantavirus Shuts Down U.S.]]></title>
             <link>https://www.tmz.com/2026/05/16/arkansas-man-arrested-threatening-mass-shooting-hantavirus/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/05/11/a6dd035e2452436e869950e2259e50cb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brandi Glanville Thinks Spencer Pratt Could Win L.A. Mayoral Race]]></title>
-            <link>https://www.tmz.com/2026/05/16/brandi-glanville-supports-spencer-pratt/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/brandi-glanville-supports-spencer-pratt/</guid>
-            <pubDate>Sat, 16 May 2026 18:12:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/eaf774e1645c441f817e7f517b061f64_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/eaf774e1645c441f817e7f517b061f64_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/eaf774e1645c441f817e7f517b061f64_xl.png">
             </media:thumbnail>
         </item>
     </channel>
