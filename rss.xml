@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 21:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 22:32:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bob Saget&#039;s Wife Kelly Marks His 70th Birthday In Emotional Tribute]]></title>
+            <link>https://www.tmz.com/2026/05/17/bob-saget-birthday-post-from-wife/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/bob-saget-birthday-post-from-wife/</guid>
+            <pubDate>Sun, 17 May 2026 22:15:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/05/17/70cfbefa444e4a379c4ed3c8b62846ed_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/05/17/70cfbefa444e4a379c4ed3c8b62846ed_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/05/17/70cfbefa444e4a379c4ed3c8b62846ed_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Cardi B Throws Pitch at Son Wave’s Game, Admits She’s More of a &#039;Girl Mom&#039;]]></title>
+            <link>https://www.tmz.com/2026/05/17/cardi-b-throws-first-pitch-at-waves-baseball-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/cardi-b-throws-first-pitch-at-waves-baseball-game/</guid>
+            <pubDate>Sun, 17 May 2026 21:41:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/05/17/b8767219b1f144ec93390b14065007a2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/05/17/b8767219b1f144ec93390b14065007a2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/05/17/b8767219b1f144ec93390b14065007a2_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Fighter Jets Collide Midair in Idaho, Crew Members Ejected Safely]]></title>
             <link>https://www.tmz.com/2026/05/17/fighters-jets-air-show-crash-idaho/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/05/17/2bf89af4b02542aea23d418aa0ba64b5_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/05/17/2bf89af4b02542aea23d418aa0ba64b5_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Philadelphia Eagles Star A.J. Brown Marries Kelsey Riley in Laguna Beach]]></title>
-            <link>https://www.tmz.com/2026/05/17/aj-brown-wedding-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/aj-brown-wedding-pictures/</guid>
-            <pubDate>Sun, 17 May 2026 20:02:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/05/17/9a9f0c930ace4cdfb7d41ac21e2ed3ad_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/05/17/9a9f0c930ace4cdfb7d41ac21e2ed3ad_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/05/17/9a9f0c930ace4cdfb7d41ac21e2ed3ad_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars Celebrate Graduation Season 2026, Flaunt Diplomas]]></title>
-            <link>https://www.tmz.com/2026/05/17/stars-during-graduation-season/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/stars-during-graduation-season/</guid>
-            <pubDate>Sun, 17 May 2026 19:00:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/de/16by9/2026/05/11/de4e261f92574a7d9fd8119b10e16183_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/de/16by9/2026/05/11/de4e261f92574a7d9fd8119b10e16183_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/05/11/de4e261f92574a7d9fd8119b10e16183_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
