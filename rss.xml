@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 23:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 01:29:17 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Seth Rogen Says Writers Using A.I. Should Find A Different Career]]></title>
+            <link>https://www.tmz.com/2026/05/16/seth-rogen-roasts-writers-who-use-artificial-intelligence/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/seth-rogen-roasts-writers-who-use-artificial-intelligence/</guid>
+            <pubDate>Sun, 17 May 2026 00:31:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/ea9338b3e61b41e6b14615c4d2ae453c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/ea9338b3e61b41e6b14615c4d2ae453c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/05/16/ea9338b3e61b41e6b14615c4d2ae453c_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Megan Fox Says She Craves Destructive Things, Posts Sexy Pics on 40th Bday]]></title>
+            <link>https://www.tmz.com/2026/05/16/megan-fox-wants-things-destroy-her-in-sexy-birthday-photo-shoot/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/megan-fox-wants-things-destroy-her-in-sexy-birthday-photo-shoot/</guid>
+            <pubDate>Sat, 16 May 2026 23:32:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/05/16/58f568673c11433d84ee07da33c66c35_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/05/16/58f568673c11433d84ee07da33c66c35_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/05/16/58f568673c11433d84ee07da33c66c35_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Survivor Greece&#039; Shuts Down Filming After Contestant Nearly Loses Leg]]></title>
             <link>https://www.tmz.com/2026/05/16/stavros-floros-leg-injury-survivor-greece/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Announces U.S. Killed High-Ranking ISIS Official, Hegseth Shares Video]]></title>
-            <link>https://www.tmz.com/2026/05/16/us-attacks-isis-in-nigeria/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/us-attacks-isis-in-nigeria/</guid>
-            <pubDate>Sat, 16 May 2026 21:40:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/05/16/9db972addad849f59308a203d7778b81_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/05/16/9db972addad849f59308a203d7778b81_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/05/16/9db972addad849f59308a203d7778b81_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tyson Fury&#039;s 16-Year-Old Daughter Marries 18-Year-Old Fiancé]]></title>
-            <link>https://www.tmz.com/2026/05/16/tyson-fury-16-year-old-daughter-marries-18-year-old-fiance/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/tyson-fury-16-year-old-daughter-marries-18-year-old-fiance/</guid>
-            <pubDate>Sat, 16 May 2026 21:00:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/05/16/8a143a4a169e4535a6d528027d62cb88_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/05/16/8a143a4a169e4535a6d528027d62cb88_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/05/16/8a143a4a169e4535a6d528027d62cb88_xl.png">
             </media:thumbnail>
         </item>
     </channel>
