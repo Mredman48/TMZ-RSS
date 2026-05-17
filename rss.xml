@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 18:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 19:47:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Stars Celebrate Graduation Season 2026, Flaunt Diplomas]]></title>
+            <link>https://www.tmz.com/2026/05/17/stars-during-graduation-season/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/stars-during-graduation-season/</guid>
+            <pubDate>Sun, 17 May 2026 19:00:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/de/16by9/2026/05/11/de4e261f92574a7d9fd8119b10e16183_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/de/16by9/2026/05/11/de4e261f92574a7d9fd8119b10e16183_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/05/11/de4e261f92574a7d9fd8119b10e16183_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tyson Fury&#039;s Teen Daughter Venezuela&#039;s Wedding, See More Pics & Video]]></title>
+            <link>https://www.tmz.com/2026/05/17/tyson-fury-daughter-venezuela-new-wedding-pictures-and-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/tyson-fury-daughter-venezuela-new-wedding-pictures-and-video/</guid>
+            <pubDate>Sun, 17 May 2026 18:59:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/05/17/30347b0d76824bbca1ce60a4ea1821a9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/05/17/30347b0d76824bbca1ce60a4ea1821a9_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/05/17/30347b0d76824bbca1ce60a4ea1821a9_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Elsie Hewitt Gets Real About Single Motherhood Reality After Pete Davidson Split]]></title>
             <link>https://www.tmz.com/2026/05/17/elsie-hewitt-spills-on-being-single-mom/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/63/16by9/2026/05/17/639e9b783f4e4b3698599fff04c19a79_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/05/17/639e9b783f4e4b3698599fff04c19a79_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Wittek & David Dobrik Settle Lawsuit Over Scary Stunt, Sources Say]]></title>
-            <link>https://www.tmz.com/2026/05/17/jeff-wittek-david-dobrik-lawsuit-settled/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/jeff-wittek-david-dobrik-lawsuit-settled/</guid>
-            <pubDate>Sun, 17 May 2026 16:46:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/05/14/a56e11892ed34dbea499c3fcefb9a6fb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/05/14/a56e11892ed34dbea499c3fcefb9a6fb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/05/14/a56e11892ed34dbea499c3fcefb9a6fb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[LeBron James Hits Omnia Dayclub Opening With VIP Crowd in Vegas]]></title>
-            <link>https://www.tmz.com/2026/05/17/lebron-james-sofia-vergara-omnia-las-vegas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/lebron-james-sofia-vergara-omnia-las-vegas/</guid>
-            <pubDate>Sun, 17 May 2026 16:15:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/af/16by9/2026/05/17/af7a57303da141c3a89ddac8c2b7390e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/af/16by9/2026/05/17/af7a57303da141c3a89ddac8c2b7390e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/af/16by9/2026/05/17/af7a57303da141c3a89ddac8c2b7390e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
