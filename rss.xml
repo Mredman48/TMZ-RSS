@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 01:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 05:33:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Swift and Travis Kelce Hit Private Event in NYC as Marriage Rumors Grow]]></title>
+            <link>https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-hit-private-event-in-brooklyn/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-hit-private-event-in-brooklyn/</guid>
+            <pubDate>Sun, 17 May 2026 03:36:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/05/17/34fbb7084d834e90bc18fd10e3c4fd43_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/05/17/34fbb7084d834e90bc18fd10e3c4fd43_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/05/17/34fbb7084d834e90bc18fd10e3c4fd43_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Seth Rogen Says Writers Using A.I. Should Find A Different Career]]></title>
             <link>https://www.tmz.com/2026/05/16/seth-rogen-roasts-writers-who-use-artificial-intelligence/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/05/16/f4e44088fdf04ee8806ab50d7a5f0640_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/05/16/f4e44088fdf04ee8806ab50d7a5f0640_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Jonas&#039; Wife Shares His Abs on the Internet]]></title>
-            <link>https://www.tmz.com/2026/05/16/kevin-jonas-abs-pics/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/16/kevin-jonas-abs-pics/</guid>
-            <pubDate>Sat, 16 May 2026 21:54:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/05/16/834e81a2d33049da82e4385c74ec8ed6_xl.png">
             </media:thumbnail>
         </item>
     </channel>
