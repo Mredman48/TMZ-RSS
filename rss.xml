@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 14:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 15:41:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Harry Styles Kicks Off Tour With Zoë Kravitz in Crowd, As Fans Slam Stage Setup]]></title>
+            <link>https://www.tmz.com/2026/05/17/harry-styles-concert-with-fiance-zoe-kravitz/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/harry-styles-concert-with-fiance-zoe-kravitz/</guid>
+            <pubDate>Sun, 17 May 2026 15:08:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/05/17/e83d9abc027e4e64b433197d9202be99_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/05/17/e83d9abc027e4e64b433197d9202be99_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/05/17/e83d9abc027e4e64b433197d9202be99_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;SNL&#039; Ends Season with Will Ferrell as Epstein Haunting Trump in Grim Cold Open]]></title>
+            <link>https://www.tmz.com/2026/05/17/will-ferrell-jeffrey-epstein-snl-cold-open/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/will-ferrell-jeffrey-epstein-snl-cold-open/</guid>
+            <pubDate>Sun, 17 May 2026 14:30:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/07/16by9/2026/05/17/07919dcef3a8445c96fd9df9c5edaedb_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/07/16by9/2026/05/17/07919dcef3a8445c96fd9df9c5edaedb_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/05/17/07919dcef3a8445c96fd9df9c5edaedb_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Alex Cooper and Matt Kaplan Expecting First Baby Together]]></title>
             <link>https://www.tmz.com/2026/05/17/alex-cooper-pregnant/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/95/16by9/2026/05/17/95227fee95d04ca485cc43f5fc0f307f_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/05/17/95227fee95d04ca485cc43f5fc0f307f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Karrueche Tran&#039;s Hot Shots to Celebrate Her 38th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/05/17/karrueche-tran-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/karrueche-tran-birthday-hot-shots/</guid>
-            <pubDate>Sun, 17 May 2026 08:00:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2f/16by9/2023/05/16/2f9c12e6c72e4737b8e993ea45a6b386_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2f/16by9/2023/05/16/2f9c12e6c72e4737b8e993ea45a6b386_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2f/16by9/2023/05/16/2f9c12e6c72e4737b8e993ea45a6b386_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrity Scramble -- Can You Guess The Mayoral Candidate?!]]></title>
-            <link>https://www.tmz.com/2026/05/17/guess-who-is-running-for-mayor/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/guess-who-is-running-for-mayor/</guid>
-            <pubDate>Sun, 17 May 2026 07:45:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/05/12/1aa121cb21c5497cac7bb2e9730473a8_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/05/12/1aa121cb21c5497cac7bb2e9730473a8_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/05/12/1aa121cb21c5497cac7bb2e9730473a8_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
