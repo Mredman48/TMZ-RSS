@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 23:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 01:32:47 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Spencer Pratt Admits He Plans on Leaving L.A. If He Loses Mayoral Race]]></title>
+            <link>https://www.tmz.com/2026/05/17/spencer-pratt-plans-to-leave-los-angeles-loses-mayoral-bid/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/spencer-pratt-plans-to-leave-los-angeles-loses-mayoral-bid/</guid>
+            <pubDate>Mon, 18 May 2026 01:06:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/05/12/3004875f0a024b688d70475e2d5e45a7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/05/12/3004875f0a024b688d70475e2d5e45a7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/05/12/3004875f0a024b688d70475e2d5e45a7_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kendall Jenner and Jacob Elordi Spotted on Intimate Beach Date in Hawaii]]></title>
+            <link>https://www.tmz.com/2026/05/17/kendall-jacob/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/kendall-jacob/</guid>
+            <pubDate>Mon, 18 May 2026 00:29:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears Back Dancing On Instagram After Restaurant Chaos]]></title>
+            <link>https://www.tmz.com/2026/05/17/britney-spears-dancing-instagram-restaurant-meltdown/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/britney-spears-dancing-instagram-restaurant-meltdown/</guid>
+            <pubDate>Mon, 18 May 2026 00:05:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/05/17/42cdfdbda0224f1696d515774c927953_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/05/17/42cdfdbda0224f1696d515774c927953_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/05/17/42cdfdbda0224f1696d515774c927953_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kai Trump Joined By Proud Parents For Family Dinner To Celebrate Graduation]]></title>
             <link>https://www.tmz.com/2026/05/17/kai-trump-graduation-donald-vanessa-trump-family-dinner-celebration/</link>
@@ -23,43 +56,10 @@
             <link>https://www.tmz.com/2026/05/17/swatch-watch-roosevelt-field-mall-long-island-pepper-spray-audemars-piguet/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/17/swatch-watch-roosevelt-field-mall-long-island-pepper-spray-audemars-piguet/</guid>
             <pubDate>Sun, 17 May 2026 22:36:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/05/17/2345c6d0fbd041d7b9b6440cc87ee304_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/05/17/2345c6d0fbd041d7b9b6440cc87ee304_xl.png" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/05/17/6407a3615cc042e4be41cb8efd71fa81_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/05/17/6407a3615cc042e4be41cb8efd71fa81_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/05/17/2345c6d0fbd041d7b9b6440cc87ee304_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bob Saget&#039;s Wife Kelly Marks His 70th Birthday In Emotional Tribute]]></title>
-            <link>https://www.tmz.com/2026/05/17/bob-saget-birthday-post-from-wife/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/bob-saget-birthday-post-from-wife/</guid>
-            <pubDate>Sun, 17 May 2026 22:15:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/05/17/70cfbefa444e4a379c4ed3c8b62846ed_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/05/17/70cfbefa444e4a379c4ed3c8b62846ed_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/05/17/70cfbefa444e4a379c4ed3c8b62846ed_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cardi B Throws Pitch at Son Wave’s Game, Admits She’s More of a &#039;Girl Mom&#039;]]></title>
-            <link>https://www.tmz.com/2026/05/17/cardi-b-throws-first-pitch-at-waves-baseball-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/cardi-b-throws-first-pitch-at-waves-baseball-game/</guid>
-            <pubDate>Sun, 17 May 2026 21:41:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/05/17/b8767219b1f144ec93390b14065007a2_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/05/17/b8767219b1f144ec93390b14065007a2_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/05/17/b8767219b1f144ec93390b14065007a2_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Fighter Jets Collide Midair in Idaho, Crew Members Ejected Safely]]></title>
-            <link>https://www.tmz.com/2026/05/17/fighters-jets-air-show-crash-idaho/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/fighters-jets-air-show-crash-idaho/</guid>
-            <pubDate>Sun, 17 May 2026 21:17:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/05/17/cec8746d3aa0478cbbf6201409a8a0df_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/05/17/cec8746d3aa0478cbbf6201409a8a0df_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/05/17/cec8746d3aa0478cbbf6201409a8a0df_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/05/17/6407a3615cc042e4be41cb8efd71fa81_xl.png">
             </media:thumbnail>
         </item>
     </channel>
