@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 05:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 10:48:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Dana White Reveals How Many White House Tickets He & Trump Have For Freedom 250]]></title>
+            <link>https://www.tmz.com/2026/05/18/white-house-fight-ticket-breakdown/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/18/white-house-fight-ticket-breakdown/</guid>
+            <pubDate>Mon, 18 May 2026 07:30:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/05/08/080b71c57fd44ff89bdc2dc488f4bcf5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/05/08/080b71c57fd44ff89bdc2dc488f4bcf5_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/05/08/080b71c57fd44ff89bdc2dc488f4bcf5_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shop Elle Woods&#039; Most Iconic Looks from &#039;Legally Blonde&#039;]]></title>
+            <link>https://www.tmz.com/2026/05/18/legally-blonde-steal-elle-woods-style/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/18/legally-blonde-steal-elle-woods-style/</guid>
+            <pubDate>Mon, 18 May 2026 07:05:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/44/16by9/2026/05/13/447b48776fd945a792bd549f42f7128e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/44/16by9/2026/05/13/447b48776fd945a792bd549f42f7128e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/44/16by9/2026/05/13/447b48776fd945a792bd549f42f7128e_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Anna Delvey Working on Memoir and Coinciding Documentary]]></title>
+            <link>https://www.tmz.com/2026/05/18/anna-delvey-announces-memoir-and-documentary/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/18/anna-delvey-announces-memoir-and-documentary/</guid>
+            <pubDate>Mon, 18 May 2026 07:00:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/74/16by9/2026/05/15/748323a400bb43499dbd2f016152de3a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/74/16by9/2026/05/15/748323a400bb43499dbd2f016152de3a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/74/16by9/2026/05/15/748323a400bb43499dbd2f016152de3a_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Texas HBCU Football Star William Davis Dead at 22]]></title>
             <link>https://www.tmz.com/2026/05/17/william-davis/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/30/16by9/2026/05/12/3004875f0a024b688d70475e2d5e45a7_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/05/12/3004875f0a024b688d70475e2d5e45a7_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kendall Jenner and Jacob Elordi Spotted on Intimate Beach Date in Hawaii]]></title>
-            <link>https://www.tmz.com/2026/05/17/kendall-jacob/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/kendall-jacob/</guid>
-            <pubDate>Mon, 18 May 2026 00:29:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears Back Dancing On Instagram After Restaurant Chaos]]></title>
-            <link>https://www.tmz.com/2026/05/17/britney-spears-dancing-instagram-restaurant-meltdown/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/britney-spears-dancing-instagram-restaurant-meltdown/</guid>
-            <pubDate>Mon, 18 May 2026 00:05:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/05/17/42cdfdbda0224f1696d515774c927953_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/05/17/42cdfdbda0224f1696d515774c927953_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/05/17/42cdfdbda0224f1696d515774c927953_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kai Trump Joined By Proud Parents For Family Dinner To Celebrate Graduation]]></title>
-            <link>https://www.tmz.com/2026/05/17/kai-trump-graduation-donald-vanessa-trump-family-dinner-celebration/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/17/kai-trump-graduation-donald-vanessa-trump-family-dinner-celebration/</guid>
-            <pubDate>Sun, 17 May 2026 23:27:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7c/16by9/2026/05/17/7c82b30823634349b4ffcb26d4b2c78d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/7c/16by9/2026/05/17/7c82b30823634349b4ffcb26d4b2c78d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7c/16by9/2026/05/17/7c82b30823634349b4ffcb26d4b2c78d_xl.png">
             </media:thumbnail>
         </item>
     </channel>
