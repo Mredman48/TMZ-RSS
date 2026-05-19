@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 01:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 05:48:57 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ted Cruz Slams L.A. Mayor Karen Bass While Praising Spencer Pratt]]></title>
+            <link>https://www.tmz.com/2026/05/18/senator-ted-cruz-spencer-pratt-trump-endorsement-los-angeles-mayor-karen-bass/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/18/senator-ted-cruz-spencer-pratt-trump-endorsement-los-angeles-mayor-karen-bass/</guid>
+            <pubDate>Tue, 19 May 2026 01:55:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/05/19/68176ce605fc409ab8c536d2b3a23ad5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/05/19/68176ce605fc409ab8c536d2b3a23ad5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/05/19/68176ce605fc409ab8c536d2b3a23ad5_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Holly Madison Dating Las Vegas Attorney Steve Dimopoulos]]></title>
             <link>https://www.tmz.com/2026/05/18/holly-madison-dating-las-vegas-attorney-steve-dimopoulos/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/05/18/ecfe909399784b839aecc59d13cacc29_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/05/18/ecfe909399784b839aecc59d13cacc29_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Camille Grammer Says Dorit Kemsley Became &#039;A Monster&#039; After &#039;RHOBH&#039; Fame]]></title>
-            <link>https://www.tmz.com/2026/05/18/camille-grammer-says-dorit-kemsley-became-a-monster-after-rhobh-fame/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/18/camille-grammer-says-dorit-kemsley-became-a-monster-after-rhobh-fame/</guid>
-            <pubDate>Tue, 19 May 2026 00:15:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/05/18/d1f2b0e8aadd47e095b32625c96d5f31_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/05/18/d1f2b0e8aadd47e095b32625c96d5f31_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/05/18/d1f2b0e8aadd47e095b32625c96d5f31_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
