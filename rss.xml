@@ -4,13 +4,46 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 10:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 13:43:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[OJ Simpson  Was Privately &#039;Thankful&#039; For Mark Fuhrman Despite Him Being Racist]]></title>
-            <link>https://www.tmz.com/2026/05/19/oj-simpson-mark-furman/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/oj-simpson-mark-furman/</guid>
+            <title><![CDATA[Lil Poppa Tragic Death Detailed on Coroner&#039;s Report]]></title>
+            <link>https://www.tmz.com/2026/05/19/lil-poppa-cause-of-death-revealed/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/lil-poppa-cause-of-death-revealed/</guid>
+            <pubDate>Tue, 19 May 2026 13:38:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/05/19/032c5c52e3474a5c814adc692d7fc300_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/05/19/032c5c52e3474a5c814adc692d7fc300_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/05/19/032c5c52e3474a5c814adc692d7fc300_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hayden Panettiere Says Oscar Winner Showed Her His Testicles at a Party]]></title>
+            <link>https://www.tmz.com/2026/05/19/hayden-panettiere-reveals-man-exposed-himself-to-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/hayden-panettiere-reveals-man-exposed-himself-to-her/</guid>
+            <pubDate>Tue, 19 May 2026 13:37:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/05/19/c08f970087cc4d59a9e71e0b8980a8b3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/05/19/c08f970087cc4d59a9e71e0b8980a8b3_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/05/19/c08f970087cc4d59a9e71e0b8980a8b3_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kim Kardashian&#039;s SKIMS Clothing Line Helps Convict Cocaine Smuggler in England]]></title>
+            <link>https://www.tmz.com/2026/05/19/cocaine-smuggled-in-skims-clothing-by-polish-man/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/cocaine-smuggled-in-skims-clothing-by-polish-man/</guid>
+            <pubDate>Tue, 19 May 2026 10:31:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/05/14/59008fa8431e4449af49dbffd02c262a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[O.J. Simpson Was Privately &#039;Thankful&#039; For Mark Fuhrman Despite Him Being Racist]]></title>
+            <link>https://www.tmz.com/2026/05/19/oj-simpson-secretly-grateful-for-mark-fuhrman/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/oj-simpson-secretly-grateful-for-mark-fuhrman/</guid>
             <pubDate>Tue, 19 May 2026 08:37:32 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/c9/16by9/2024/06/07/c9d607f6df7f4fa0914be5c3d2012dca_xl.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/c9/16by9/2024/06/07/c9d607f6df7f4fa0914be5c3d2012dca_xl.jpg" medium="image">
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/25/16by9/2026/05/18/2568bb14112a414fa0dbbd8b4f25d864_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/05/18/2568bb14112a414fa0dbbd8b4f25d864_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lindsey Pelas Hot Shots To Kick Off Her 35th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/05/19/lindsey-pelas-sexy-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/lindsey-pelas-sexy-pictures/</guid>
-            <pubDate>Tue, 19 May 2026 07:45:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/05/18/42e2fe410e524e60a5dba593885f9e71_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/05/18/42e2fe410e524e60a5dba593885f9e71_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/05/18/42e2fe410e524e60a5dba593885f9e71_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Hart’s Ex-Employees Fighting Restraining Order Over Alleged Company Secrets]]></title>
-            <link>https://www.tmz.com/2026/05/19/kevin-hart-former-employees-fight-restraining-order/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/kevin-hart-former-employees-fight-restraining-order/</guid>
-            <pubDate>Tue, 19 May 2026 07:30:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/05/18/636956d843234ca6a4293cb639979e48_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/05/18/636956d843234ca6a4293cb639979e48_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/05/18/636956d843234ca6a4293cb639979e48_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Andre Berto Warns Adrien Broner About Streaming, Don&#039;t Get Lost In The Sauce!]]></title>
-            <link>https://www.tmz.com/2026/05/19/andre-berto-worried-about-adrien-broner-streaming-career/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/19/andre-berto-worried-about-adrien-broner-streaming-career/</guid>
-            <pubDate>Tue, 19 May 2026 07:30:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/05/13/3d87f3f1610742a0b15fe7c738371d29_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/05/13/3d87f3f1610742a0b15fe7c738371d29_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/05/13/3d87f3f1610742a0b15fe7c738371d29_xl.png">
             </media:thumbnail>
         </item>
     </channel>
