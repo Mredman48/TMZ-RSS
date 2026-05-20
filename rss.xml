@@ -4,11 +4,22 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 10:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 13:21:20 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[JP Morgan Chase Exec Accused of Sexually Harassing Banker Files Defamation Suit]]></title>
+            <title><![CDATA[&#039;Summer House&#039; Lindsay Hubbard Says She&#039;s Taking Baby Steps With Ex Carl Radke]]></title>
+            <link>https://www.tmz.com/2026/05/20/lindsay-hubbard-discuss-friendship-with-carl-radke/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/20/lindsay-hubbard-discuss-friendship-with-carl-radke/</guid>
+            <pubDate>Wed, 20 May 2026 12:59:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7d/16by9/2026/05/20/7dad9a386b0b4267baecdf8574ca962b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7d/16by9/2026/05/20/7dad9a386b0b4267baecdf8574ca962b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7d/16by9/2026/05/20/7dad9a386b0b4267baecdf8574ca962b_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[JPMorgan Chase Exec Accused of Sexually Harassing Banker Files Defamation Suit]]></title>
             <link>https://www.tmz.com/2026/05/20/jp-morgan-lorna-hajdini-defamation/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/20/jp-morgan-lorna-hajdini-defamation/</guid>
             <pubDate>Wed, 20 May 2026 09:28:31 GMT</pubDate>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6b/16by9/2026/05/19/6b5b013af01c4e9ba85c61674d5f03a6_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6b/16by9/2026/05/19/6b5b013af01c4e9ba85c61674d5f03a6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shop The Best Mandalorian and Grogu Accessories on Amazon]]></title>
-            <link>https://www.tmz.com/2026/05/20/mandalorian-and-grogu-gift-ideas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/20/mandalorian-and-grogu-gift-ideas/</guid>
-            <pubDate>Wed, 20 May 2026 07:05:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/05/14/b602b5f6267f4933a402d0004ebb3dc0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/05/14/b602b5f6267f4933a402d0004ebb3dc0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/05/14/b602b5f6267f4933a402d0004ebb3dc0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
