@@ -4,24 +4,35 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 10:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 13:47:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[WWE Star Ludwig Kaiser Allegedly Batters Neighbor After Aggressive Make-Out With Girlfriend]]></title>
+            <link>https://www.tmz.com/2026/05/21/wwe-ludwig-kaiser-arrested-for-battery/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/21/wwe-ludwig-kaiser-arrested-for-battery/</guid>
+            <pubDate>Thu, 21 May 2026 12:47:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/05/21/379a321f353b4f8083a46b8cab482339_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/05/21/379a321f353b4f8083a46b8cab482339_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/05/21/379a321f353b4f8083a46b8cab482339_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Spencer Pratt Says His Political Role Model is Jesus Christ]]></title>
             <link>https://www.tmz.com/2026/05/21/spencer-pratt-jesus-christ-elex-michaelson/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/21/spencer-pratt-jesus-christ-elex-michaelson/</guid>
             <pubDate>Thu, 21 May 2026 10:09:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/01/07/f3da4d2d4f194aa79a72cb3849c515da_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/01/07/f3da4d2d4f194aa79a72cb3849c515da_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/05/21/3097820193a04196a26bee7cbdc8450a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/05/21/3097820193a04196a26bee7cbdc8450a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/01/07/f3da4d2d4f194aa79a72cb3849c515da_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/05/21/3097820193a04196a26bee7cbdc8450a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Spencer Pratt Says he Turned Into a Gun Slinging Republican as a Hated Reality Star]]></title>
-            <link>https://www.tmz.com/2026/05/21/spencer-pratt-on-cnn/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/21/spencer-pratt-on-cnn/</guid>
+            <title><![CDATA[Spencer Pratt Says he Turned Into a Gun-Slinging Republican as a Hated Reality Star]]></title>
+            <link>https://www.tmz.com/2026/05/21/spencer-pratt-explains-why-he-is-republican/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/21/spencer-pratt-explains-why-he-is-republican/</guid>
             <pubDate>Thu, 21 May 2026 09:00:11 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/05/20/3c53ecab36c74c0a9ef84843028fec64_xl.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/05/20/3c53ecab36c74c0a9ef84843028fec64_xl.jpg" medium="image">
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/05/20/cbc68294ff4e429d97ad55b89ac18ed2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/05/20/cbc68294ff4e429d97ad55b89ac18ed2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[MVP Wants Gina Carano To Fight Again After 1st Round Loss To Ronda Rousey]]></title>
-            <link>https://www.tmz.com/2026/05/21/promoter-wants-gina-carano-to-fight-again/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/21/promoter-wants-gina-carano-to-fight-again/</guid>
-            <pubDate>Thu, 21 May 2026 07:30:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/05/20/5e9d3407838f4e8f9965b7011184f84b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/05/20/5e9d3407838f4e8f9965b7011184f84b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/05/20/5e9d3407838f4e8f9965b7011184f84b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
