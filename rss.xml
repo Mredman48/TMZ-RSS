@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 19:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 21:35:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bella Hadid Wears Barely-There Bikini During Saint-Tropez Yacht Trip]]></title>
+            <link>https://www.tmz.com/2026/05/23/bella-hadid-wears-bikini-on-yacht-in-saint-tropez/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/bella-hadid-wears-bikini-on-yacht-in-saint-tropez/</guid>
+            <pubDate>Sat, 23 May 2026 20:53:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/05/23/61d0997e14bd4e389c35bbcffdc88501_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/05/23/61d0997e14bd4e389c35bbcffdc88501_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/05/23/61d0997e14bd4e389c35bbcffdc88501_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Jr.&#039;s Wife Bettina Anderson Reportedly Wanted White House Wedding]]></title>
+            <link>https://www.tmz.com/2026/05/23/bettina-anderson-wanted-white-house-wedding-with-donald-trump-jr/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/bettina-anderson-wanted-white-house-wedding-with-donald-trump-jr/</guid>
+            <pubDate>Sat, 23 May 2026 20:19:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/05/23/d116e57d8aa0452a9ff7c152b41cdb06_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/05/23/d116e57d8aa0452a9ff7c152b41cdb06_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/05/23/d116e57d8aa0452a9ff7c152b41cdb06_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kyle Busch Honored by North Carolina, Flags to Be Flown Half-Staff]]></title>
             <link>https://www.tmz.com/2026/05/23/kyle-busch-death-results-in-north-carolina-flags-half-staff/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NASCAR Legend Kyle Busch Cause of Death Revealed]]></title>
-            <link>https://www.tmz.com/2026/05/23/kyle-busch-cause-of-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/kyle-busch-cause-of-death/</guid>
-            <pubDate>Sat, 23 May 2026 15:57:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/05/23/d3d49ef221264fc8b4cff243f326be09_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/05/23/d3d49ef221264fc8b4cff243f326be09_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/05/23/d3d49ef221264fc8b4cff243f326be09_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Jaws&#039; Legend Richard Dreyfuss Cancels Appearance at Meet-and-Greet With Fans]]></title>
-            <link>https://www.tmz.com/2026/05/23/richard-dreyfuss-cancels-jaws-reunion-appearance/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/richard-dreyfuss-cancels-jaws-reunion-appearance/</guid>
-            <pubDate>Sat, 23 May 2026 15:15:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/05/23/1b4ee9acba1b4cfc9f75afed1ee1fa19_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/05/23/1b4ee9acba1b4cfc9f75afed1ee1fa19_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/05/23/1b4ee9acba1b4cfc9f75afed1ee1fa19_xl.png">
             </media:thumbnail>
         </item>
     </channel>
