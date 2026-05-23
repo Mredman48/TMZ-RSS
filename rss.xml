@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 21:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 22:33:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kyle Busch&#039;s Car Unloaded at North Carolina Racetrack After Shocking Death, on Video]]></title>
+            <link>https://www.tmz.com/2026/05/23/kyle-busch-car-unloaded-in-north-carolina/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/kyle-busch-car-unloaded-in-north-carolina/</guid>
+            <pubDate>Sat, 23 May 2026 22:24:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/53/16by9/2026/05/23/53ec4860616644899815ef3c5191d806_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/53/16by9/2026/05/23/53ec4860616644899815ef3c5191d806_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/53/16by9/2026/05/23/53ec4860616644899815ef3c5191d806_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Giants Linebacker Abdul Carter Calls Out Jaxson Dart For Trump Support]]></title>
+            <link>https://www.tmz.com/2026/05/23/abdul-carter-slams-jaxson-dart-for-donald-trump-support/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/abdul-carter-slams-jaxson-dart-for-donald-trump-support/</guid>
+            <pubDate>Sat, 23 May 2026 21:44:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/05/23/bbb62293756441e1b375c4e3d2a0c132_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/05/23/bbb62293756441e1b375c4e3d2a0c132_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/05/23/bbb62293756441e1b375c4e3d2a0c132_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bella Hadid Wears Barely-There Bikini During Saint-Tropez Yacht Trip]]></title>
             <link>https://www.tmz.com/2026/05/23/bella-hadid-wears-bikini-on-yacht-in-saint-tropez/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/05/23/9d466d94351e4614aa0f681c7fe290ca_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/05/23/9d466d94351e4614aa0f681c7fe290ca_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bianca Censori Shows Off Her Biggest Assets on Movie Date With Kanye West]]></title>
-            <link>https://www.tmz.com/2026/05/23/kanye-west-and-bianca-censori-see-michael-movie/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/kanye-west-and-bianca-censori-see-michael-movie/</guid>
-            <pubDate>Sat, 23 May 2026 18:20:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/05/23/8b0b4446d4fa45e3ae854eb1f4a31137_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/05/23/8b0b4446d4fa45e3ae854eb1f4a31137_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/05/23/8b0b4446d4fa45e3ae854eb1f4a31137_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ray J Shouts &#039;Free Diddy&#039; During Pre-Fight Trash Talk With Supa Hot Fire]]></title>
-            <link>https://www.tmz.com/2026/05/23/ray-j-shouts-free-diddy-during-fight-press-conference/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/ray-j-shouts-free-diddy-during-fight-press-conference/</guid>
-            <pubDate>Sat, 23 May 2026 16:50:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png">
             </media:thumbnail>
         </item>
     </channel>
