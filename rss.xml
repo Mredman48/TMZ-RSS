@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 17:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 18:41:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bianca Censori Shows Off Her Biggest Assets on Movie Date With Kanye West]]></title>
+            <link>https://www.tmz.com/2026/05/23/kanye-west-and-bianca-censori-see-michael-movie/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/kanye-west-and-bianca-censori-see-michael-movie/</guid>
+            <pubDate>Sat, 23 May 2026 18:20:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/05/23/8b0b4446d4fa45e3ae854eb1f4a31137_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/05/23/8b0b4446d4fa45e3ae854eb1f4a31137_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/05/23/8b0b4446d4fa45e3ae854eb1f4a31137_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ray J Shouts &#039;Free Diddy&#039; During Pre-Fight Trash Talk With Supa Hot Fire]]></title>
             <link>https://www.tmz.com/2026/05/23/ray-j-shouts-free-diddy-during-fight-press-conference/</link>
@@ -23,10 +34,10 @@
             <link>https://www.tmz.com/2026/05/23/kyle-busch-cause-of-death/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/23/kyle-busch-cause-of-death/</guid>
             <pubDate>Sat, 23 May 2026 15:57:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/05/21/5e78276922584d5d9befdb9d5d393363_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/05/21/5e78276922584d5d9befdb9d5d393363_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/05/23/d3d49ef221264fc8b4cff243f326be09_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/05/23/d3d49ef221264fc8b4cff243f326be09_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/05/21/5e78276922584d5d9befdb9d5d393363_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/05/23/d3d49ef221264fc8b4cff243f326be09_xl.png">
             </media:thumbnail>
         </item>
         <item>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/05/23/5aad06a0379d498da10eb3a0e239cc82_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/05/23/5aad06a0379d498da10eb3a0e239cc82_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk&#039;s SpaceX Rocket Turns Into Massive Fireball In Planned Explosion]]></title>
-            <link>https://www.tmz.com/2026/05/23/spacex-rocket-explodes-in-ocean/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/spacex-rocket-explodes-in-ocean/</guid>
-            <pubDate>Sat, 23 May 2026 13:32:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/05/23/b4f5e7acd7774cdeba4df2c7db428199_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/05/23/b4f5e7acd7774cdeba4df2c7db428199_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/05/23/b4f5e7acd7774cdeba4df2c7db428199_xl.png">
             </media:thumbnail>
         </item>
     </channel>
