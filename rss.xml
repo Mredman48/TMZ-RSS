@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 07:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 10:14:06 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[WWE&#039;s Ludwig Kaiser Returns as Mexican Wrestling Star After Battery Arrest]]></title>
+            <link>https://www.tmz.com/2026/05/23/wwe-ludwig-kaiser-battery-arrest-marcel-barthel-el-grande-americano/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/wwe-ludwig-kaiser-battery-arrest-marcel-barthel-el-grande-americano/</guid>
+            <pubDate>Sat, 23 May 2026 09:54:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/05/21/379a321f353b4f8083a46b8cab482339_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/05/21/379a321f353b4f8083a46b8cab482339_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/05/21/379a321f353b4f8083a46b8cab482339_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Kai Trump Gets Restraining Order, Claims Homeless Man Stalking Her]]></title>
+            <link>https://www.tmz.com/2026/05/23/kai-trump-granted-restraining-order/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/kai-trump-granted-restraining-order/</guid>
+            <pubDate>Sat, 23 May 2026 09:00:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/05/22/7a807de61235448ab4c21d6ec44c26ae_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/05/22/7a807de61235448ab4c21d6ec44c26ae_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/05/22/7a807de61235448ab4c21d6ec44c26ae_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Read Mackenzie Shirilla&#039;s Last Texts With Late BF Dominic Russo]]></title>
+            <link>https://www.tmz.com/2026/05/23/mackenzie-shirilla-final-texts-with-dominic-russo/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/mackenzie-shirilla-final-texts-with-dominic-russo/</guid>
+            <pubDate>Sat, 23 May 2026 08:00:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c3/16by9/2026/05/22/c386bf08a8df4fd9bc5a22ff69e405df_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c3/16by9/2026/05/22/c386bf08a8df4fd9bc5a22ff69e405df_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c3/16by9/2026/05/22/c386bf08a8df4fd9bc5a22ff69e405df_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mackenzie Shirilla Cashed In On Sugar Daddy Sites In Jail, Ex-Inmate Claims]]></title>
+            <link>https://www.tmz.com/2026/05/23/mackenzie-shirilla-former-inmate-says-she-was-on-sugar-daddy-websites/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/mackenzie-shirilla-former-inmate-says-she-was-on-sugar-daddy-websites/</guid>
+            <pubDate>Sat, 23 May 2026 08:00:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e9/16by9/2026/05/22/e90fb61ddc6346a2bfc2c92cfa7b8f46_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e9/16by9/2026/05/22/e90fb61ddc6346a2bfc2c92cfa7b8f46_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e9/16by9/2026/05/22/e90fb61ddc6346a2bfc2c92cfa7b8f46_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[From Shockers to Show-Stoppers: The AMAs’ Biggest OMG Moments Ever]]></title>
             <link>https://www.tmz.com/2026/05/23/american-music-awards-most-memorable-moments/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/15/16by9/2026/05/11/155008a05a4b4ef28c5e07dbbaaf9e3b_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/05/11/155008a05a4b4ef28c5e07dbbaaf9e3b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Taylor Frankie Paul&#039;s 32nd Birthday with Her Hottest Shots!]]></title>
-            <link>https://www.tmz.com/2026/05/23/taylor-frankie-paul-sexy-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/taylor-frankie-paul-sexy-pictures/</guid>
-            <pubDate>Sat, 23 May 2026 07:45:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/05/12/ea1aa44dfa2844e69d13a8509c3d9aa5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/05/12/ea1aa44dfa2844e69d13a8509c3d9aa5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/05/12/ea1aa44dfa2844e69d13a8509c3d9aa5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Austin Reaves Wants To &#039;Run It Back&#039; With LeBron James and Lakers]]></title>
-            <link>https://www.tmz.com/2026/05/23/austin-reaves-talks-lakers-future-and-lebron-james/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/austin-reaves-talks-lakers-future-and-lebron-james/</guid>
-            <pubDate>Sat, 23 May 2026 07:30:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/01/16by9/2026/05/20/0128d8a558064ba989ab484d81a7b619_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/01/16by9/2026/05/20/0128d8a558064ba989ab484d81a7b619_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/01/16by9/2026/05/20/0128d8a558064ba989ab484d81a7b619_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/05/23/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 23 May 2026 07:25:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/05/23/b93e06fa2f47483f8ddfa22db6afdad9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/05/23/b93e06fa2f47483f8ddfa22db6afdad9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/05/23/b93e06fa2f47483f8ddfa22db6afdad9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Best Citizen Watch Deals in Amazon&#039;s Memorial Day Sale]]></title>
-            <link>https://www.tmz.com/2026/05/23/citizen-watch-deals/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/23/citizen-watch-deals/</guid>
-            <pubDate>Sat, 23 May 2026 07:05:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/05/18/a6c6d0ceaac744f6bc4baf511f7b718a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/05/18/a6c6d0ceaac744f6bc4baf511f7b718a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/05/18/a6c6d0ceaac744f6bc4baf511f7b718a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
