@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 12:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 14:10:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Gunman Near White House Had Prior Secret Service Encounters Before Shooting]]></title>
-            <link>https://www.tmz.com/2026/05/24/nasire-best-had-secret-service-encounters-before-white-house-shooting/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/nasire-best-had-secret-service-encounters-before-white-house-shooting/</guid>
-            <pubDate>Sun, 24 May 2026 12:32:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4d8ad9dca4d4193b3d45d1b2ca030ac_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4d8ad9dca4d4193b3d45d1b2ca030ac_xl.jpg" medium="image">
+            <title><![CDATA[Comedian Laura Clery Crushed by 600-Pound Fridge in Freak Accident]]></title>
+            <link>https://www.tmz.com/2026/05/24/laura-clery-crushed-by-refrigerator/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/laura-clery-crushed-by-refrigerator/</guid>
+            <pubDate>Sun, 24 May 2026 14:00:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/05/24/948d4c9b43d24bb6b6c9f1ddc5f15419_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/05/24/948d4c9b43d24bb6b6c9f1ddc5f15419_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4d8ad9dca4d4193b3d45d1b2ca030ac_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/05/24/948d4c9b43d24bb6b6c9f1ddc5f15419_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Twitch Streamer Hasan Piker Reportedly Subpoenaed in Federal Cuba Probe]]></title>
-            <link>https://www.tmz.com/2026/05/24/hasan-piker-subpoenaed-in-cuba-probe/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/hasan-piker-subpoenaed-in-cuba-probe/</guid>
-            <pubDate>Sun, 24 May 2026 12:18:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg" medium="image">
+            <title><![CDATA[Bianca Censori Covers Her Chest But Not The Rest In Sexy New Photos]]></title>
+            <link>https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/</guid>
+            <pubDate>Sun, 24 May 2026 13:43:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ray J Knocked Out in the Second Round by Supa Hot Fire, Watch the Video]]></title>
-            <link>https://www.tmz.com/2026/05/24/ray-j-supa-hot-fire-las-vegas/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/ray-j-supa-hot-fire-las-vegas/</guid>
-            <pubDate>Sun, 24 May 2026 09:04:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/05/24/6f93855d5fd54aa6825885ebe753e3f6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/05/24/6f93855d5fd54aa6825885ebe753e3f6_xl.png" medium="image">
+            <title><![CDATA[Don Jr. and Bettina Anderson Hold Bahamas Ceremony Days After Officially Marrying]]></title>
+            <link>https://www.tmz.com/2026/05/24/donald-trump-jr-and-bettina-anderson-have-bahamas-wedding-ceremony/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/donald-trump-jr-and-bettina-anderson-have-bahamas-wedding-ceremony/</guid>
+            <pubDate>Sun, 24 May 2026 13:20:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9e/16by9/2026/05/24/9e8f3303162e4a9fb06b65367b0cdf83_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9e/16by9/2026/05/24/9e8f3303162e4a9fb06b65367b0cdf83_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/05/24/6f93855d5fd54aa6825885ebe753e3f6_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/9e/16by9/2026/05/24/9e8f3303162e4a9fb06b65367b0cdf83_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Stars Showing Off Their Bums at the Beach, See the Sunny Snaps!]]></title>
-            <link>https://www.tmz.com/2026/05/24/celebrity-booty-pictures-at-the-beach/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/celebrity-booty-pictures-at-the-beach/</guid>
-            <pubDate>Sun, 24 May 2026 07:45:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/05/13/b68cb36fa4ec44f6acb9906d7cfb685e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/05/13/b68cb36fa4ec44f6acb9906d7cfb685e_xl.jpg" medium="image">
+            <title><![CDATA[John McCain&#039;s Eldest Son Doug McCain Dead at 66]]></title>
+            <link>https://www.tmz.com/2026/05/24/doug-mccain-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/doug-mccain-dead/</guid>
+            <pubDate>Sun, 24 May 2026 13:02:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/05/24/1d4bec4d53ae4d0cb7fcf5e3a9cff6a4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/05/24/1d4bec4d53ae4d0cb7fcf5e3a9cff6a4_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/05/13/b68cb36fa4ec44f6acb9906d7cfb685e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/05/24/1d4bec4d53ae4d0cb7fcf5e3a9cff6a4_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Harry Jowsey Hot Shots To Slay His 29th Birthday]]></title>
-            <link>https://www.tmz.com/2026/05/24/harry-jowsey-sexy-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/harry-jowsey-sexy-pictures/</guid>
-            <pubDate>Sun, 24 May 2026 07:45:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/05/12/2402b0e737cd49cb87fe9ac84dfdc101_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/05/12/2402b0e737cd49cb87fe9ac84dfdc101_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Too Hot to Handle&#039; Star Bryce Hirschberg Engaged to Rebecca Saffron]]></title>
+            <link>https://www.tmz.com/2026/05/24/bryce-hirschberg-proposes-to-rebecca-saffron/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/bryce-hirschberg-proposes-to-rebecca-saffron/</guid>
+            <pubDate>Sun, 24 May 2026 12:44:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/05/24/ea3763d7abec49bca63ab9811022f7b2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/05/24/ea3763d7abec49bca63ab9811022f7b2_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/05/12/2402b0e737cd49cb87fe9ac84dfdc101_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/05/24/ea3763d7abec49bca63ab9811022f7b2_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
