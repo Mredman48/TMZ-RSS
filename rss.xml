@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 17:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 18:45:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Chris Brown Receives Honorary PhD in Visual and Performing Arts]]></title>
+            <link>https://www.tmz.com/2026/05/24/chris-brown-gets-honorary-phd/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/chris-brown-gets-honorary-phd/</guid>
+            <pubDate>Sun, 24 May 2026 18:24:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/05/24/4e734f508191498681c7e506903b5ceb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/05/24/4e734f508191498681c7e506903b5ceb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/05/24/4e734f508191498681c7e506903b5ceb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Beartooth Singer Caleb Shomo Comes Out as Gay After 14-Year Marriage]]></title>
             <link>https://www.tmz.com/2026/05/24/caleb-shomo-comes-out-as-gay/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/94/16by9/2026/05/24/948d4c9b43d24bb6b6c9f1ddc5f15419_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/05/24/948d4c9b43d24bb6b6c9f1ddc5f15419_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bianca Censori Covers Her Chest But Not The Rest In Sexy New Photos]]></title>
-            <link>https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/</guid>
-            <pubDate>Sun, 24 May 2026 13:43:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
