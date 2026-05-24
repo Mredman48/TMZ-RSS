@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 22:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 23:41:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Paraglider Lands Miraculously Unharmed After Getting Clipped by Plane, Video]]></title>
+            <link>https://www.tmz.com/2026/05/24/paraglider-hit-by-plane-on-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/paraglider-hit-by-plane-on-video/</guid>
+            <pubDate>Sun, 24 May 2026 23:05:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/80/16by9/2026/05/24/80c0ad2bf2f2481c81f97f4f574deb02_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/80/16by9/2026/05/24/80c0ad2bf2f2481c81f97f4f574deb02_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/80/16by9/2026/05/24/80c0ad2bf2f2481c81f97f4f574deb02_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods&#039; Plane Flies Back to Switzerland Where He Went to Rehab]]></title>
+            <link>https://www.tmz.com/2026/05/24/tiger-woods-plane-flies-back-to-switzerland-where-he-attended-rehab/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/tiger-woods-plane-flies-back-to-switzerland-where-he-attended-rehab/</guid>
+            <pubDate>Sun, 24 May 2026 22:46:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/05/24/bef58ffeb9454050b95c67765fdb0802_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/05/24/bef58ffeb9454050b95c67765fdb0802_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/05/24/bef58ffeb9454050b95c67765fdb0802_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Rory Culkin Welcomes First Child With Kate Arizmendi]]></title>
             <link>https://www.tmz.com/2026/05/24/rory-culkin-welcomes-baby-girl-with-kate-arizmendi/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/49/16by9/2026/05/24/49e5ff6dba5b4a329c38d55068eb0b3e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/05/24/49e5ff6dba5b4a329c38d55068eb0b3e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Teen Mom&#039; Star Ryan Edwards&#039; Wife Amanda Conner Arrested]]></title>
-            <link>https://www.tmz.com/2026/05/24/ryan-edwards-wife-amanda-conner-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/ryan-edwards-wife-amanda-conner-arrested/</guid>
-            <pubDate>Sun, 24 May 2026 19:57:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d9/16by9/2026/05/24/d9ecd1ebce6d451f9266ecb76565ad2a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d9/16by9/2026/05/24/d9ecd1ebce6d451f9266ecb76565ad2a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d9/16by9/2026/05/24/d9ecd1ebce6d451f9266ecb76565ad2a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kyle Busch Honored During Lap 18 of Indy 500]]></title>
-            <link>https://www.tmz.com/2026/05/24/kyle-busch-honored-by-fellow-racers-during-lap-18-of-indy-500/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/kyle-busch-honored-by-fellow-racers-during-lap-18-of-indy-500/</guid>
-            <pubDate>Sun, 24 May 2026 19:03:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/05/24/65d4f25450444f8bad68f8f75897df7d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/05/24/65d4f25450444f8bad68f8f75897df7d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/05/24/65d4f25450444f8bad68f8f75897df7d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
