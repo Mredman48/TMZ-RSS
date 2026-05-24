@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 14:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 15:46:03 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Brooks Nader and Livvy Dunne Sizzle in First &#039;Baywatch&#039; Reboot Teaser]]></title>
+            <link>https://www.tmz.com/2026/05/24/brooks-nader-and-livvy-dunne-in-baywatch-teaser-trailer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/brooks-nader-and-livvy-dunne-in-baywatch-teaser-trailer/</guid>
+            <pubDate>Sun, 24 May 2026 14:54:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/02/16by9/2026/05/24/02f82a14610f4492ade7cfd762986e30_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/02/16by9/2026/05/24/02f82a14610f4492ade7cfd762986e30_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/02/16by9/2026/05/24/02f82a14610f4492ade7cfd762986e30_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Comedian Laura Clery Crushed by 600-Pound Fridge in Freak Accident]]></title>
             <link>https://www.tmz.com/2026/05/24/laura-clery-crushed-by-refrigerator/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/05/24/1d4bec4d53ae4d0cb7fcf5e3a9cff6a4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/05/24/1d4bec4d53ae4d0cb7fcf5e3a9cff6a4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Too Hot to Handle&#039; Star Bryce Hirschberg Engaged to Rebecca Saffron]]></title>
-            <link>https://www.tmz.com/2026/05/24/bryce-hirschberg-proposes-to-rebecca-saffron/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/bryce-hirschberg-proposes-to-rebecca-saffron/</guid>
-            <pubDate>Sun, 24 May 2026 12:44:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ea/16by9/2026/05/24/ea3763d7abec49bca63ab9811022f7b2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ea/16by9/2026/05/24/ea3763d7abec49bca63ab9811022f7b2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ea/16by9/2026/05/24/ea3763d7abec49bca63ab9811022f7b2_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
