@@ -4,18 +4,40 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 11:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 12:44:42 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Gunman Near White House Had Prior Secret Service Encounters Before Shooting]]></title>
+            <link>https://www.tmz.com/2026/05/24/nasire-best-had-secret-service-encounters-before-white-house-shooting/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/nasire-best-had-secret-service-encounters-before-white-house-shooting/</guid>
+            <pubDate>Sun, 24 May 2026 12:32:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4d8ad9dca4d4193b3d45d1b2ca030ac_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4d8ad9dca4d4193b3d45d1b2ca030ac_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4d8ad9dca4d4193b3d45d1b2ca030ac_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Twitch Streamer Hasan Piker Reportedly Subpoenaed in Federal Cuba Probe]]></title>
+            <link>https://www.tmz.com/2026/05/24/hasan-piker-subpoenaed-in-cuba-probe/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/hasan-piker-subpoenaed-in-cuba-probe/</guid>
+            <pubDate>Sun, 24 May 2026 12:18:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ray J Knocked Out in the Second Round by Supa Hot Fire, Watch the Video]]></title>
             <link>https://www.tmz.com/2026/05/24/ray-j-supa-hot-fire-las-vegas/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/24/ray-j-supa-hot-fire-las-vegas/</guid>
             <pubDate>Sun, 24 May 2026 09:04:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/05/24/6f93855d5fd54aa6825885ebe753e3f6_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/05/24/6f93855d5fd54aa6825885ebe753e3f6_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/05/24/6f93855d5fd54aa6825885ebe753e3f6_xl.png">
             </media:thumbnail>
         </item>
         <item>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/24/16by9/2026/05/12/2402b0e737cd49cb87fe9ac84dfdc101_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/05/12/2402b0e737cd49cb87fe9ac84dfdc101_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Queen Latifah Is Serving Ageless Beauty -- Good Genes or Good Docs?!]]></title>
-            <link>https://www.tmz.com/2026/05/24/queen-latifah-good-genes-or-good-docs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/queen-latifah-good-genes-or-good-docs/</guid>
-            <pubDate>Sun, 24 May 2026 07:30:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0b/16by9/2026/05/12/0ba284bb2ddf4295aa32ffa46ced949f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0b/16by9/2026/05/12/0ba284bb2ddf4295aa32ffa46ced949f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0b/16by9/2026/05/12/0ba284bb2ddf4295aa32ffa46ced949f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[DeMarcus Cousins Gives Blueprint For Shutting Down Victor Wembanyama]]></title>
-            <link>https://www.tmz.com/2026/05/24/demarcus-cousins-guard-victor-wembanyama/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/demarcus-cousins-guard-victor-wembanyama/</guid>
-            <pubDate>Sun, 24 May 2026 07:15:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/05/21/5562160263904c55b064c477e5ed6ad3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/05/21/5562160263904c55b064c477e5ed6ad3_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/05/21/5562160263904c55b064c477e5ed6ad3_xl.png">
             </media:thumbnail>
         </item>
     </channel>
