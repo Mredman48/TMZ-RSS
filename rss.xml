@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 23:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 01:36:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kendall Jenner and Jacob Elordi Grab Dinner in Montecito]]></title>
+            <link>https://www.tmz.com/2026/05/24/kendall-jenner-jacob-elordi-grab-montecito-dinner/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/kendall-jenner-jacob-elordi-grab-montecito-dinner/</guid>
+            <pubDate>Mon, 25 May 2026 01:00:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/05/25/19598399c8944aa1a581c279e72fd33c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/05/25/19598399c8944aa1a581c279e72fd33c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/05/25/19598399c8944aa1a581c279e72fd33c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sophie Rain Hints at Which Athlete Offered Her $15 Million to Take Virginity]]></title>
+            <link>https://www.tmz.com/2026/05/24/sophie-rain-hints-athlete-offered-money-virginity/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/sophie-rain-hints-athlete-offered-money-virginity/</guid>
+            <pubDate>Mon, 25 May 2026 00:21:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/05/23/c840ad3bd778458daed541b39bdce373_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/05/23/c840ad3bd778458daed541b39bdce373_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/05/23/c840ad3bd778458daed541b39bdce373_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Florida Gov. Candidate James Fishback Marries New Woman Months After Breakup]]></title>
+            <link>https://www.tmz.com/2026/05/24/florida-governor-candidate-james-fishback-married/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/florida-governor-candidate-james-fishback-married/</guid>
+            <pubDate>Sun, 24 May 2026 23:43:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/92/16by9/2026/05/24/9214ab51f4e345b19c3ddd86a1b58791_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/92/16by9/2026/05/24/9214ab51f4e345b19c3ddd86a1b58791_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/92/16by9/2026/05/24/9214ab51f4e345b19c3ddd86a1b58791_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Paraglider Lands Miraculously Unharmed After Getting Clipped by Plane, Video]]></title>
             <link>https://www.tmz.com/2026/05/24/paraglider-hit-by-plane-on-video/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/be/16by9/2026/05/24/bef58ffeb9454050b95c67765fdb0802_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/05/24/bef58ffeb9454050b95c67765fdb0802_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rory Culkin Welcomes First Child With Kate Arizmendi]]></title>
-            <link>https://www.tmz.com/2026/05/24/rory-culkin-welcomes-baby-girl-with-kate-arizmendi/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/rory-culkin-welcomes-baby-girl-with-kate-arizmendi/</guid>
-            <pubDate>Sun, 24 May 2026 21:30:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4cb859bf02b45afad06d400aa562cb5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4cb859bf02b45afad06d400aa562cb5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/05/24/a4cb859bf02b45afad06d400aa562cb5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Blake Shelton Finally Attends Gwen Stefani&#039;s Sphere Performance]]></title>
-            <link>https://www.tmz.com/2026/05/24/blake-shelton-watches-gwen-stefani-perform-at-las-vegas-sphere/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/blake-shelton-watches-gwen-stefani-perform-at-las-vegas-sphere/</guid>
-            <pubDate>Sun, 24 May 2026 21:07:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/05/24/cca1f7f3aeeb416eb457381a59e5fd0a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/05/24/cca1f7f3aeeb416eb457381a59e5fd0a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/05/24/cca1f7f3aeeb416eb457381a59e5fd0a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bella Hadid Brings the Heat During Sexy Saint-Tropez Yacht Day]]></title>
-            <link>https://www.tmz.com/2026/05/24/bella-hadid-heating-up-saint-tropez/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/24/bella-hadid-heating-up-saint-tropez/</guid>
-            <pubDate>Sun, 24 May 2026 20:41:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/05/24/49e5ff6dba5b4a329c38d55068eb0b3e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/05/24/49e5ff6dba5b4a329c38d55068eb0b3e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/05/24/49e5ff6dba5b4a329c38d55068eb0b3e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
