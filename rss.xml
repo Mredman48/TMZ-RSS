@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 20:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 22:39:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[American Music Awards 2026 Red Carpet Arrivals]]></title>
+            <link>https://www.tmz.com/2026/05/25/american-music-awards-red-carpet/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/25/american-music-awards-red-carpet/</guid>
+            <pubDate>Mon, 25 May 2026 22:28:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/05/25/84fd1d98f49e470d9a686d3f35e9f000_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/05/25/84fd1d98f49e470d9a686d3f35e9f000_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/05/25/84fd1d98f49e470d9a686d3f35e9f000_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Wander Franco Found Criminally Responsible in Minor Abuse Case]]></title>
+            <link>https://www.tmz.com/2026/05/25/wander-franco-found-criminally-responsible-in-minor-abuse-case/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/25/wander-franco-found-criminally-responsible-in-minor-abuse-case/</guid>
+            <pubDate>Mon, 25 May 2026 22:15:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ee/16by9/2026/05/25/eefbf3dccb134804863610b5859974b9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ee/16by9/2026/05/25/eefbf3dccb134804863610b5859974b9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ee/16by9/2026/05/25/eefbf3dccb134804863610b5859974b9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Zayn Malik Snaps At Fans As They Block Him Getting Into Car In UK On Video]]></title>
+            <link>https://www.tmz.com/2026/05/25/zayn-malik-has-tense-altercation-with-fans/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/25/zayn-malik-has-tense-altercation-with-fans/</guid>
+            <pubDate>Mon, 25 May 2026 21:16:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/05/25/c22c5fc15b32499588b7fdfc5047e1cb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/05/25/c22c5fc15b32499588b7fdfc5047e1cb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/05/25/c22c5fc15b32499588b7fdfc5047e1cb_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Casey Anthony Spotted in Florida Following New Hampshire Romance Buzz]]></title>
             <link>https://www.tmz.com/2026/05/25/casey-anthony-shopping-pictures/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/05/25/1dbcc5acc4b74b86b39524d810b45b19_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/05/25/1dbcc5acc4b74b86b39524d810b45b19_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lindsie Chrisley Arrested on Suspicion of DUI in Georgia]]></title>
-            <link>https://www.tmz.com/2026/05/25/lindsie-chrisley-arrested-on-suspicion-of-dui/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/25/lindsie-chrisley-arrested-on-suspicion-of-dui/</guid>
-            <pubDate>Mon, 25 May 2026 18:52:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/05/25/cb4267a24e054d6cb107e1e604b6c559_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/05/25/cb4267a24e054d6cb107e1e604b6c559_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/05/25/cb4267a24e054d6cb107e1e604b6c559_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bella Hadid Rocks Tiny White String Swimwear For Cannes Yacht Day]]></title>
-            <link>https://www.tmz.com/2026/05/25/bella-hadid-swimwear-yacht-cannes/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/25/bella-hadid-swimwear-yacht-cannes/</guid>
-            <pubDate>Mon, 25 May 2026 17:50:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/05/25/8b3d02df6a294aaa8441cbf12a6ff5c1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/05/25/8b3d02df6a294aaa8441cbf12a6ff5c1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/05/25/8b3d02df6a294aaa8441cbf12a6ff5c1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Honors Fallen Soldiers at Arlington After Memorial Day Rant]]></title>
-            <link>https://www.tmz.com/2026/05/25/donald-trump-memorial-day-activities/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/25/donald-trump-memorial-day-activities/</guid>
-            <pubDate>Mon, 25 May 2026 17:34:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/05/25/f0041526b9cf4f7296de7c2b4f6f4e51_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/05/25/f0041526b9cf4f7296de7c2b4f6f4e51_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/05/25/f0041526b9cf4f7296de7c2b4f6f4e51_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
