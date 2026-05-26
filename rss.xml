@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 21:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 22:52:31 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Jack Avery Leaves Los Angeles, Didn&#039;t Feel &#039;Safe&#039; After Gabbie Gonzalez&#039;s Arrest]]></title>
-            <link>https://www.tmz.com/2026/05/26/jack-avery-flees-los-angeles/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/jack-avery-flees-los-angeles/</guid>
-            <pubDate>Tue, 26 May 2026 21:08:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/05/26/098d3e5b318f46ebac54176e4fe82740_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/05/26/098d3e5b318f46ebac54176e4fe82740_xl.jpg" medium="image">
+            <title><![CDATA[&#039;90 Day Fiancé&#039; Stars Jamal Menzies and Emma Perry Get Cozy On Night Out]]></title>
+            <link>https://www.tmz.com/2026/05/26/jamal-menzies-and-emma-perry-from-90-day-fiance-spark-romance-rumors/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/jamal-menzies-and-emma-perry-from-90-day-fiance-spark-romance-rumors/</guid>
+            <pubDate>Tue, 26 May 2026 22:34:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2a/16by9/2026/05/26/2a98b8a0b0f747a4ba07ffad7cbdbd1d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/05/26/2a98b8a0b0f747a4ba07ffad7cbdbd1d_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/05/26/098d3e5b318f46ebac54176e4fe82740_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/05/26/2a98b8a0b0f747a4ba07ffad7cbdbd1d_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ray J Knockout Under Investigation After Post-Fight Comments]]></title>
-            <link>https://www.tmz.com/2026/05/26/ray-j-supa-hot-fire-fixed-fight-claims-being-investigated/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/ray-j-supa-hot-fire-fixed-fight-claims-being-investigated/</guid>
-            <pubDate>Tue, 26 May 2026 21:02:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/05/26/1a4d44f3c4f74cc3a5ed02557dc9d458_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/05/26/1a4d44f3c4f74cc3a5ed02557dc9d458_xl.jpg" medium="image">
+            <title><![CDATA[Black Lab in Parked Truck Fires Shotgun, Shoots Woman at Traffic Light]]></title>
+            <link>https://www.tmz.com/2026/05/26/dog-shoots-woman-with-shotgun/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/dog-shoots-woman-with-shotgun/</guid>
+            <pubDate>Tue, 26 May 2026 22:28:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/05/26/09364c18b18447f7aecbb2eb18b62715_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/05/26/09364c18b18447f7aecbb2eb18b62715_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/05/26/1a4d44f3c4f74cc3a5ed02557dc9d458_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/05/26/09364c18b18447f7aecbb2eb18b62715_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[La Demi Turns Up the Heat in Curve-Hugging Red Bikini Poolside]]></title>
-            <link>https://www.tmz.com/2026/05/26/la-demi-in-red-bikini/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/la-demi-in-red-bikini/</guid>
-            <pubDate>Tue, 26 May 2026 21:00:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ab/16by9/2026/05/26/ab9e1ea06ce4461d93fdf51c1d81e899_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ab/16by9/2026/05/26/ab9e1ea06ce4461d93fdf51c1d81e899_xl.jpg" medium="image">
+            <title><![CDATA[&#039;90 Day Fiancé&#039; Alum Eric Rosenbrook Cuts Deal In Battery Case Involving Leida]]></title>
+            <link>https://www.tmz.com/2026/05/26/eric-rosenbrook-accepts-plea-agreement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/eric-rosenbrook-accepts-plea-agreement/</guid>
+            <pubDate>Tue, 26 May 2026 22:21:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/05/26/3d561a0885924f1a90c6391a66d15a59_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/05/26/3d561a0885924f1a90c6391a66d15a59_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ab/16by9/2026/05/26/ab9e1ea06ce4461d93fdf51c1d81e899_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/05/26/3d561a0885924f1a90c6391a66d15a59_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Atlanta Braves Legend Bob Horner Dead at 68]]></title>
-            <link>https://www.tmz.com/2026/05/26/bob-horner-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/bob-horner-dead/</guid>
-            <pubDate>Tue, 26 May 2026 20:52:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/05/26/a917fa072ae84b01b2b3a0dc52f65e8d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/05/26/a917fa072ae84b01b2b3a0dc52f65e8d_xl.jpg" medium="image">
+            <title><![CDATA[Who is Bettina Trump (Anderson)? What to Know About Donald Trump Jr.&#039;s Wife]]></title>
+            <link>https://www.tmz.com/2026/05/26/who-is-bettina-trump/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/who-is-bettina-trump/</guid>
+            <pubDate>Tue, 26 May 2026 21:49:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/05/26/b0c6dd58e64442d3a75aa1786d4a5d96_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/05/26/b0c6dd58e64442d3a75aa1786d4a5d96_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/05/26/a917fa072ae84b01b2b3a0dc52f65e8d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/05/26/b0c6dd58e64442d3a75aa1786d4a5d96_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Courtney Stodden Goes Under the Knife For Breast Reduction, on Video]]></title>
-            <link>https://www.tmz.com/2026/05/26/courtney-stodden-breast-reduction-surgery-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/courtney-stodden-breast-reduction-surgery-video/</guid>
-            <pubDate>Tue, 26 May 2026 20:45:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/38/16by9/2026/05/26/38fbb423efcf4a5cb1f1ef6a108183fb_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/38/16by9/2026/05/26/38fbb423efcf4a5cb1f1ef6a108183fb_xl.png" medium="image">
+            <title><![CDATA[Drake&#039;s Producer Turned Artist Elkan Speaks About Iceman, Kendrick Beef]]></title>
+            <link>https://www.tmz.com/2026/05/26/elkan-talks-iceman-and-drake-kendrick-lamar-feud/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/elkan-talks-iceman-and-drake-kendrick-lamar-feud/</guid>
+            <pubDate>Tue, 26 May 2026 21:30:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/05/26/c21d12acaf19481ab37c2bec8d51f20e_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/05/26/c21d12acaf19481ab37c2bec8d51f20e_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/05/26/38fbb423efcf4a5cb1f1ef6a108183fb_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/05/26/c21d12acaf19481ab37c2bec8d51f20e_xl.png">
             </media:thumbnail>
         </item>
     </channel>
