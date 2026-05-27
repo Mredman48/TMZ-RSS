@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 14:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 17:42:44 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Jennifer Lopez And Brett Goldstein Get Cozy at &#039;Office Romance&#039; Premiere]]></title>
-            <link>https://www.tmz.com/2026/05/27/jennifer-lopez-stuns-at-netflix-movie-premiere/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/jennifer-lopez-stuns-at-netflix-movie-premiere/</guid>
-            <pubDate>Wed, 27 May 2026 13:51:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/05/27/842934c3c944411494340294c33e5161_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/05/27/842934c3c944411494340294c33e5161_xl.jpg" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/05/27/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/watch-tmz-live-today/</guid>
+            <pubDate>Wed, 27 May 2026 17:31:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c4/16by9/2026/05/27/c45d9ddc3c7a403e92f63e64ff34b72a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/05/27/c45d9ddc3c7a403e92f63e64ff34b72a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/05/27/842934c3c944411494340294c33e5161_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2026/05/27/c45d9ddc3c7a403e92f63e64ff34b72a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Emily in Paris&#039; Star Pierre Deny Dead at 69 After ALS Battle]]></title>
-            <link>https://www.tmz.com/2026/05/27/pierre-deny-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/pierre-deny-dead/</guid>
-            <pubDate>Wed, 27 May 2026 13:51:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/05/27/a43a027f07374907becea9402444d266_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/05/27/a43a027f07374907becea9402444d266_xl.jpg" medium="image">
+            <title><![CDATA[Gervonta Davis Wanted For Probation Violation, Warrant Issued In Maryland]]></title>
+            <link>https://www.tmz.com/2026/05/27/tank-davis-wanted-for-probation-violation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/tank-davis-wanted-for-probation-violation/</guid>
+            <pubDate>Wed, 27 May 2026 17:31:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/05/27/6fd074ee83054772adaa900155a600d4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/05/27/6fd074ee83054772adaa900155a600d4_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/05/27/a43a027f07374907becea9402444d266_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/05/27/6fd074ee83054772adaa900155a600d4_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kendrick Perkins Held Back In Heated Argument At Son&#039;s AAU Game]]></title>
-            <link>https://www.tmz.com/2026/05/27/kendrick-perkins-gets-in-altercation-at-aau-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/kendrick-perkins-gets-in-altercation-at-aau-game/</guid>
-            <pubDate>Wed, 27 May 2026 13:50:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/05/26/90ed4f4d83ab4b449a1ecb7e5f7d7588_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/05/26/90ed4f4d83ab4b449a1ecb7e5f7d7588_xl.jpg" medium="image">
+            <title><![CDATA[Spencer Pratt Loves Mexican Food, Eats It More Than Any White Person in L.A.]]></title>
+            <link>https://www.tmz.com/2026/05/27/spencer-pratt-eats-mexican-food-more-than-white-person-los-angeles/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/spencer-pratt-eats-mexican-food-more-than-white-person-los-angeles/</guid>
+            <pubDate>Wed, 27 May 2026 17:14:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/05/27/25ae8f45a8914185b4ecca57539f11c6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/05/27/25ae8f45a8914185b4ecca57539f11c6_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/05/26/90ed4f4d83ab4b449a1ecb7e5f7d7588_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/05/27/25ae8f45a8914185b4ecca57539f11c6_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Gavin Newsom Mocks &#039;Good Boy&#039; Ted Cruz With A.I. Photo of Senator as Dog]]></title>
-            <link>https://www.tmz.com/2026/05/27/gavin-newsom-taunts-ted-cruz-with-ai-photo/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/gavin-newsom-taunts-ted-cruz-with-ai-photo/</guid>
-            <pubDate>Wed, 27 May 2026 13:49:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ae/16by9/2026/05/27/ae20dee6cce84170a67336e7e35e2bf0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ae/16by9/2026/05/27/ae20dee6cce84170a67336e7e35e2bf0_xl.jpg" medium="image">
+            <title><![CDATA[Anna Kepner&#039;s Alleged Killer Stepbrother Remains Free Before Murder Trial]]></title>
+            <link>https://www.tmz.com/2026/05/27/judge-declines-to-jail-anna-kepner-stepbrother/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/judge-declines-to-jail-anna-kepner-stepbrother/</guid>
+            <pubDate>Wed, 27 May 2026 17:10:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/05/27/1c8c457e288c42618116bbd480eb6d9c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/05/27/1c8c457e288c42618116bbd480eb6d9c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ae/16by9/2026/05/27/ae20dee6cce84170a67336e7e35e2bf0_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/05/27/1c8c457e288c42618116bbd480eb6d9c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Kanye West and Bianca Censori Make a Splash Leaving Improv in L.A.]]></title>
-            <link>https://www.tmz.com/2026/05/27/kanye-west-bianca-censori-leave-hollywood-improv/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/kanye-west-bianca-censori-leave-hollywood-improv/</guid>
-            <pubDate>Wed, 27 May 2026 13:48:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/05/27/5223147ef76d4aaf92af6320d5557d5e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/05/27/5223147ef76d4aaf92af6320d5557d5e_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Bachelorette&#039; Star DeAnna Pappas’ Ex-Husband Fires Back at Her Fraud Claims]]></title>
+            <link>https://www.tmz.com/2026/05/27/deanna-pappas-ex-husband-refutes-fraud-accusations/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/27/deanna-pappas-ex-husband-refutes-fraud-accusations/</guid>
+            <pubDate>Wed, 27 May 2026 17:10:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dd/16by9/2026/05/27/ddef1a4551ff4c3c96fc67fac158c3c3_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dd/16by9/2026/05/27/ddef1a4551ff4c3c96fc67fac158c3c3_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/05/27/5223147ef76d4aaf92af6320d5557d5e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/dd/16by9/2026/05/27/ddef1a4551ff4c3c96fc67fac158c3c3_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
