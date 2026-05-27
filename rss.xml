@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 01:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 06:00:38 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[John McClain, Michael Jackson Estate Co-Executor, Dead at 71]]></title>
+            <link>https://www.tmz.com/2026/05/26/john-mcclain-michael-jackson-estate-co-executor-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/john-mcclain-michael-jackson-estate-co-executor-dead/</guid>
+            <pubDate>Wed, 27 May 2026 03:40:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/80/16by9/2026/05/27/80f5a8c73196473fa92e34e9b519af1d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/80/16by9/2026/05/27/80f5a8c73196473fa92e34e9b519af1d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/80/16by9/2026/05/27/80f5a8c73196473fa92e34e9b519af1d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[West Wilson and Amanda Batula Timeline Revealed During Heated Reunion]]></title>
+            <link>https://www.tmz.com/2026/05/26/west-wilson-and-amanda-batula-timeline-revealed-during-heated-reunion/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/west-wilson-and-amanda-batula-timeline-revealed-during-heated-reunion/</guid>
+            <pubDate>Wed, 27 May 2026 02:17:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/04/26/3ac169ad03064991b705471d7a4a2f44_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[New Photos Show Ray J In Hospital After Being Knocked Out By Supa Hot Fire]]></title>
             <link>https://www.tmz.com/2026/05/26/ray-j-hospital-photos-after-supa-hot-fire-knockout/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/91/16by9/2026/05/26/91cd93f1633e4939842a405e28d6578b_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/05/26/91cd93f1633e4939842a405e28d6578b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rep. Thomas Massie Vacationing with Marjorie Taylor Greene in Costa Rica]]></title>
-            <link>https://www.tmz.com/2026/05/26/marjorie-taylor-greene-on-vacation-with-thomas-massie/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/marjorie-taylor-greene-on-vacation-with-thomas-massie/</guid>
-            <pubDate>Wed, 27 May 2026 00:31:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/05/27/8e588048ae844b98af93d581bf60aafd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/05/27/8e588048ae844b98af93d581bf60aafd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/05/27/8e588048ae844b98af93d581bf60aafd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Martin Short Made The Call That Led To Late Daughter Katherine Being Found]]></title>
-            <link>https://www.tmz.com/2026/05/26/martin-short-initiated-welfare-check-on-daughter-who-died-by-suicide/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/26/martin-short-initiated-welfare-check-on-daughter-who-died-by-suicide/</guid>
-            <pubDate>Wed, 27 May 2026 00:11:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/70/16by9/2026/05/26/70af21b4c39b4d2f83ee7cc285fbf456_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/70/16by9/2026/05/26/70af21b4c39b4d2f83ee7cc285fbf456_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/70/16by9/2026/05/26/70af21b4c39b4d2f83ee7cc285fbf456_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
