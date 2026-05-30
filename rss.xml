@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 22:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 23:40:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Love Island USA&#039; Vasana Montgomery Removed From Villa After Allegedly Using N-Word]]></title>
+            <link>https://www.tmz.com/2026/05/30/love-island-vasana-montgomery/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/love-island-vasana-montgomery/</guid>
+            <pubDate>Sat, 30 May 2026 23:13:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/05/30/05bf22240d524c4f8111a0c97ee019c9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/05/30/05bf22240d524c4f8111a0c97ee019c9_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/05/30/05bf22240d524c4f8111a0c97ee019c9_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Can You Guess Who This Singer Is?!]]></title>
+            <link>https://www.tmz.com/2026/05/30/guess-who-sexy-singer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/guess-who-sexy-singer/</guid>
+            <pubDate>Sat, 30 May 2026 23:00:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/05/26/2df9cb0243174ac9a1a8d8ccfc87f2fd_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/05/26/2df9cb0243174ac9a1a8d8ccfc87f2fd_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/05/26/2df9cb0243174ac9a1a8d8ccfc87f2fd_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Morgan Wallen Flips Piano Onstage After Technical Issue, Video]]></title>
             <link>https://www.tmz.com/2026/05/30/morgan-wallen-flips-piano/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/60/16by9/2026/05/30/6030022d08764dcaa6f0fc94d12bc0a9_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/05/30/6030022d08764dcaa6f0fc94d12bc0a9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rick Ross Performs Drake Tracks at Tour Kickoff, Rejects Reconciliation]]></title>
-            <link>https://www.tmz.com/2026/05/30/rick-ross-performs-drake-songs-in-miami/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/rick-ross-performs-drake-songs-in-miami/</guid>
-            <pubDate>Sat, 30 May 2026 21:15:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8e/16by9/2026/05/30/8e3888c63b064869a072e556ae6e592d_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/8e/16by9/2026/05/30/8e3888c63b064869a072e556ae6e592d_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8e/16by9/2026/05/30/8e3888c63b064869a072e556ae6e592d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Secret Lives&#039; Jordan Ngatikaura Makes Out With Woman at Bar After Divorce Filing]]></title>
-            <link>https://www.tmz.com/2026/05/30/jordan-ngatikaura-kissing-woman-after-divorce-filing/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/jordan-ngatikaura-kissing-woman-after-divorce-filing/</guid>
-            <pubDate>Sat, 30 May 2026 20:39:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/94/16by9/2026/05/30/9423eec4678f411e8bf1dfa3ba3f2154_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/94/16by9/2026/05/30/9423eec4678f411e8bf1dfa3ba3f2154_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/94/16by9/2026/05/30/9423eec4678f411e8bf1dfa3ba3f2154_xl.png">
             </media:thumbnail>
         </item>
     </channel>
