@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 17:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 18:46:33 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Trace Cyrus Claims His Sister Brandi Rented Him A Home Full of Mold]]></title>
+            <link>https://www.tmz.com/2026/05/30/trace-cyrus-says-brandi-rented-him-mold-filled-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/trace-cyrus-says-brandi-rented-him-mold-filled-house/</guid>
+            <pubDate>Sat, 30 May 2026 18:35:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e3/16by9/2026/05/30/e3e1da10092544b784de0cfc642c9317_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/05/30/e3e1da10092544b784de0cfc642c9317_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/05/30/e3e1da10092544b784de0cfc642c9317_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Tells Jaxson Dart &#039;Radical Left Lunatics&#039; Are Jealous of Them]]></title>
+            <link>https://www.tmz.com/2026/05/30/donald-trump-slams-democrats-for-jaxson-dart-backlash/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/donald-trump-slams-democrats-for-jaxson-dart-backlash/</guid>
+            <pubDate>Sat, 30 May 2026 17:51:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/05/30/f69aa89dcbb540e6923fa171c92c082c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/05/30/f69aa89dcbb540e6923fa171c92c082c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/05/30/f69aa89dcbb540e6923fa171c92c082c_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Alaskan Bush People&#039; Matt Brown: Search for Unidentified Male Remains Suspended]]></title>
             <link>https://www.tmz.com/2026/05/30/matt-brown-police-search-for-unidentified-man-suspended/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[5 Dead After Bus Strikes Vehicles in Virginia Work Zone]]></title>
-            <link>https://www.tmz.com/2026/05/30/bus-crash-in-virginia-leaves-multiple-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/bus-crash-in-virginia-leaves-multiple-dead/</guid>
-            <pubDate>Sat, 30 May 2026 15:21:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/05/30/054da1857de54a8ca4fba857592ef930_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/05/30/054da1857de54a8ca4fba857592ef930_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/05/30/054da1857de54a8ca4fba857592ef930_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Beyoncé Shows Up to Support Jay-Z at Philly Preview Show Event]]></title>
-            <link>https://www.tmz.com/2026/05/30/beyonce-watches-jay-z-performing-in-philadelphia/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/beyonce-watches-jay-z-performing-in-philadelphia/</guid>
-            <pubDate>Sat, 30 May 2026 14:57:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png">
             </media:thumbnail>
         </item>
     </channel>
