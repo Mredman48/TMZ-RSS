@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 15:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 17:43:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Alaskan Bush People&#039; Matt Brown: Search for Unidentified Male Remains Suspended]]></title>
+            <link>https://www.tmz.com/2026/05/30/matt-brown-police-search-for-unidentified-man-suspended/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/matt-brown-police-search-for-unidentified-man-suspended/</guid>
+            <pubDate>Sat, 30 May 2026 17:23:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/05/30/3e7d78a59c5e43e9a6edece747b72559_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/05/30/3e7d78a59c5e43e9a6edece747b72559_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/05/30/3e7d78a59c5e43e9a6edece747b72559_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jamie Lee Curtis Announces Death of Sister Kelly Lee Curtis]]></title>
+            <link>https://www.tmz.com/2026/05/30/jamie-lee-curtis-sister-kelly-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/jamie-lee-curtis-sister-kelly-dead/</guid>
+            <pubDate>Sat, 30 May 2026 16:39:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c4/16by9/2026/05/30/c4b2f600bb6d4d3f81d1ce8500199cf5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/05/30/c4b2f600bb6d4d3f81d1ce8500199cf5_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2026/05/30/c4b2f600bb6d4d3f81d1ce8500199cf5_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tennis Star Shuts Down Allegations He Shoved Ball Girl After Video Goes Viral]]></title>
+            <link>https://www.tmz.com/2026/05/30/rafael-jodar-denies-shoving-french-open-ball-girl/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/rafael-jodar-denies-shoving-french-open-ball-girl/</guid>
+            <pubDate>Sat, 30 May 2026 16:18:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[5 Dead After Bus Strikes Vehicles in Virginia Work Zone]]></title>
             <link>https://www.tmz.com/2026/05/30/bus-crash-in-virginia-leaves-multiple-dead/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Claude Lemieux&#039;s Former Client Gets Emotional After Career-Defining Win]]></title>
-            <link>https://www.tmz.com/2026/05/30/frederik-andersen-emotional-over-claude-lemieux-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/frederik-andersen-emotional-over-claude-lemieux-death/</guid>
-            <pubDate>Sat, 30 May 2026 14:16:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ae/16by9/2026/05/30/ae4905085e754f6a9b5b5b2d2708a9b5_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ae/16by9/2026/05/30/ae4905085e754f6a9b5b5b2d2708a9b5_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ae/16by9/2026/05/30/ae4905085e754f6a9b5b5b2d2708a9b5_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Jr. Gives Intimate Look at Wedding Day in New Post, Watch]]></title>
-            <link>https://www.tmz.com/2026/05/30/donald-trump-jr-shares-bahams-wedding-video-with-bettina/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/donald-trump-jr-shares-bahams-wedding-video-with-bettina/</guid>
-            <pubDate>Sat, 30 May 2026 13:44:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/05/30/72fd7cfc4d2141e5945d295aa7d8a97b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/05/30/72fd7cfc4d2141e5945d295aa7d8a97b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/05/30/72fd7cfc4d2141e5945d295aa7d8a97b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[United Flight Diverted After Passenger Allegedly Attempts Cockpit Breach]]></title>
-            <link>https://www.tmz.com/2026/05/30/united-airlines-flight-diverted-after-cockpit-breach-attempt/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/united-airlines-flight-diverted-after-cockpit-breach-attempt/</guid>
-            <pubDate>Sat, 30 May 2026 13:06:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/05/30/a933f144b0914724805ac0ed51f3d31c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/05/30/a933f144b0914724805ac0ed51f3d31c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/05/30/a933f144b0914724805ac0ed51f3d31c_xl.png">
             </media:thumbnail>
         </item>
     </channel>
