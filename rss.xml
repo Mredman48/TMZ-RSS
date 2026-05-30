@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 14:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 15:50:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[5 Dead After Bus Strikes Vehicles in Virginia Work Zone]]></title>
+            <link>https://www.tmz.com/2026/05/30/bus-crash-in-virginia-leaves-multiple-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/bus-crash-in-virginia-leaves-multiple-dead/</guid>
+            <pubDate>Sat, 30 May 2026 15:21:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/05/16by9/2026/05/30/054da1857de54a8ca4fba857592ef930_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/05/16by9/2026/05/30/054da1857de54a8ca4fba857592ef930_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/05/16by9/2026/05/30/054da1857de54a8ca4fba857592ef930_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Beyoncé Shows Up to Support Jay-Z at Philly Preview Show Event]]></title>
+            <link>https://www.tmz.com/2026/05/30/beyonce-watches-jay-z-performing-in-philadelphia/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/beyonce-watches-jay-z-performing-in-philadelphia/</guid>
+            <pubDate>Sat, 30 May 2026 14:57:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/50/16by9/2026/05/30/509ea276c8494b4aa47f12788104a520_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Claude Lemieux&#039;s Former Client Gets Emotional After Career-Defining Win]]></title>
+            <link>https://www.tmz.com/2026/05/30/frederik-andersen-emotional-over-claude-lemieux-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/frederik-andersen-emotional-over-claude-lemieux-death/</guid>
+            <pubDate>Sat, 30 May 2026 14:16:11 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ae/16by9/2026/05/30/ae4905085e754f6a9b5b5b2d2708a9b5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ae/16by9/2026/05/30/ae4905085e754f6a9b5b5b2d2708a9b5_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ae/16by9/2026/05/30/ae4905085e754f6a9b5b5b2d2708a9b5_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Donald Trump Jr. Gives Intimate Look at Wedding Day in New Post, Watch]]></title>
             <link>https://www.tmz.com/2026/05/30/donald-trump-jr-shares-bahams-wedding-video-with-bettina/</link>
@@ -23,43 +56,10 @@
             <link>https://www.tmz.com/2026/05/30/united-airlines-flight-diverted-after-cockpit-breach-attempt/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/05/30/united-airlines-flight-diverted-after-cockpit-breach-attempt/</guid>
             <pubDate>Sat, 30 May 2026 13:06:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2025/10/18/423ffc4f245548fda438fa2fd99ce687_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2025/10/18/423ffc4f245548fda438fa2fd99ce687_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/a9/16by9/2026/05/30/a933f144b0914724805ac0ed51f3d31c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a9/16by9/2026/05/30/a933f144b0914724805ac0ed51f3d31c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2025/10/18/423ffc4f245548fda438fa2fd99ce687_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Is in &#039;Excellent Health&#039; After Recent Medical Exam, Doctor Says]]></title>
-            <link>https://www.tmz.com/2026/05/30/donald-trump-medical-exam-results-released/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/donald-trump-medical-exam-results-released/</guid>
-            <pubDate>Sat, 30 May 2026 12:58:30 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/05/30/1e47e2189f7343c2b8b86c8a4be158dd_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/05/30/1e47e2189f7343c2b8b86c8a4be158dd_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/05/30/1e47e2189f7343c2b8b86c8a4be158dd_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pete Davidson Gushes Over Kim Kardashian During Podcast With Nikki Glasser]]></title>
-            <link>https://www.tmz.com/2026/05/30/pete-davidson-praises-kim-kardashian/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/pete-davidson-praises-kim-kardashian/</guid>
-            <pubDate>Sat, 30 May 2026 12:09:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/05/30/28291a9ba24744e9b282ffead7ea7bcb_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/05/30/28291a9ba24744e9b282ffead7ea7bcb_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/05/30/28291a9ba24744e9b282ffead7ea7bcb_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Olivia Ponton&#039;s Hot Shots To Toast Her 24th Birthday]]></title>
-            <link>https://www.tmz.com/2026/05/30/olivia-ponton-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/olivia-ponton-birthday-hot-shots/</guid>
-            <pubDate>Sat, 30 May 2026 08:00:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/05/26/35878bf6fe8b4ac9ae518f4cf41d30e3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/05/26/35878bf6fe8b4ac9ae518f4cf41d30e3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/05/26/35878bf6fe8b4ac9ae518f4cf41d30e3_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a9/16by9/2026/05/30/a933f144b0914724805ac0ed51f3d31c_xl.png">
             </media:thumbnail>
         </item>
     </channel>
