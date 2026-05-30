@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 01:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 05:32:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Music Mogul Clive Davis Hospitalized in New York]]></title>
+            <link>https://www.tmz.com/2026/05/29/clive-davis-hospitalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/29/clive-davis-hospitalized/</guid>
+            <pubDate>Sat, 30 May 2026 02:11:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ee/16by9/2026/05/30/ee26cf5391074cd5ae952f23fe299833_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ee/16by9/2026/05/30/ee26cf5391074cd5ae952f23fe299833_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ee/16by9/2026/05/30/ee26cf5391074cd5ae952f23fe299833_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Michael Jordan NASCAR Team Member Arrested, Allegedly Ran Over Elderly Man With Golf Cart]]></title>
             <link>https://www.tmz.com/2026/05/29/michael-jordan-nascar-team-member-arrested/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/05/29/4cf95cac33dc489ca157299228c635b2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/05/29/4cf95cac33dc489ca157299228c635b2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[George Lucas&#039; Ex-Wife and &#039;Star Wars&#039; Unsung Hero Marcia Lucas Dead at 80]]></title>
-            <link>https://www.tmz.com/2026/05/29/marcia-lucas-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/29/marcia-lucas-dead/</guid>
-            <pubDate>Fri, 29 May 2026 23:00:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f3/16by9/2026/05/29/f3d1ad7a8e454c0b81d799f48484865b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f3/16by9/2026/05/29/f3d1ad7a8e454c0b81d799f48484865b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f3/16by9/2026/05/29/f3d1ad7a8e454c0b81d799f48484865b_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
