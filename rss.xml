@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 11:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 14:16:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Donald Trump Jr. Gives Intimate Look at Wedding Day in New Post, Watch]]></title>
+            <link>https://www.tmz.com/2026/05/30/donald-trump-jr-shares-bahams-wedding-video-with-bettina/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/donald-trump-jr-shares-bahams-wedding-video-with-bettina/</guid>
+            <pubDate>Sat, 30 May 2026 13:44:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/05/30/72fd7cfc4d2141e5945d295aa7d8a97b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/05/30/72fd7cfc4d2141e5945d295aa7d8a97b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/05/30/72fd7cfc4d2141e5945d295aa7d8a97b_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[United Flight Diverted After Passenger Allegedly Attempts Cockpit Breach]]></title>
+            <link>https://www.tmz.com/2026/05/30/united-airlines-flight-diverted-after-cockpit-breach-attempt/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/united-airlines-flight-diverted-after-cockpit-breach-attempt/</guid>
+            <pubDate>Sat, 30 May 2026 13:06:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/42/16by9/2025/10/18/423ffc4f245548fda438fa2fd99ce687_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/42/16by9/2025/10/18/423ffc4f245548fda438fa2fd99ce687_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2025/10/18/423ffc4f245548fda438fa2fd99ce687_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[President Trump Is in &#039;Excellent Health&#039; After Recent Medical Exam, Doctor Says]]></title>
+            <link>https://www.tmz.com/2026/05/30/donald-trump-medical-exam-results-released/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/donald-trump-medical-exam-results-released/</guid>
+            <pubDate>Sat, 30 May 2026 12:58:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/05/30/1e47e2189f7343c2b8b86c8a4be158dd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/05/30/1e47e2189f7343c2b8b86c8a4be158dd_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/05/30/1e47e2189f7343c2b8b86c8a4be158dd_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Pete Davidson Gushes Over Kim Kardashian During Podcast With Nikki Glasser]]></title>
+            <link>https://www.tmz.com/2026/05/30/pete-davidson-praises-kim-kardashian/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/pete-davidson-praises-kim-kardashian/</guid>
+            <pubDate>Sat, 30 May 2026 12:09:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/05/30/28291a9ba24744e9b282ffead7ea7bcb_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/05/30/28291a9ba24744e9b282ffead7ea7bcb_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/05/30/28291a9ba24744e9b282ffead7ea7bcb_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Olivia Ponton&#039;s Hot Shots To Toast Her 24th Birthday]]></title>
             <link>https://www.tmz.com/2026/05/30/olivia-ponton-birthday-hot-shots/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/35/16by9/2026/05/26/35878bf6fe8b4ac9ae518f4cf41d30e3_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/05/26/35878bf6fe8b4ac9ae518f4cf41d30e3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mackenzie Shirilla Says She Wants to Be a Life Coach After Prison]]></title>
-            <link>https://www.tmz.com/2026/05/30/mackenzie-shirilla-career-goals/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/mackenzie-shirilla-career-goals/</guid>
-            <pubDate>Sat, 30 May 2026 08:00:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ad/16by9/2026/05/29/ad3caea7e46a40b48870c6ce125eaf4e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ad/16by9/2026/05/29/ad3caea7e46a40b48870c6ce125eaf4e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ad/16by9/2026/05/29/ad3caea7e46a40b48870c6ce125eaf4e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[May 2026 Hot Shots ... It’s Gonna Be May!]]></title>
-            <link>https://www.tmz.com/2026/05/30/hot-bikini-pictures-of-influencers/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/hot-bikini-pictures-of-influencers/</guid>
-            <pubDate>Sat, 30 May 2026 07:45:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/05/26/7881d3d06a6c4629b0909be969acf002_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/05/26/7881d3d06a6c4629b0909be969acf002_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/05/26/7881d3d06a6c4629b0909be969acf002_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Karrueche Tran Calls Deion Sanders a &#039;Great&#039; Birthday Gift Giver]]></title>
-            <link>https://www.tmz.com/2026/05/30/karrueche-tran-on-deion-sanders-gifts/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/karrueche-tran-on-deion-sanders-gifts/</guid>
-            <pubDate>Sat, 30 May 2026 07:35:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/53/16by9/2026/05/26/538c06035101450a9586c88f1e36b121_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/53/16by9/2026/05/26/538c06035101450a9586c88f1e36b121_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/53/16by9/2026/05/26/538c06035101450a9586c88f1e36b121_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/05/30/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 30 May 2026 07:25:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/05/29/61a4e72b7ebb46fea5093e298aa9b939_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/05/29/61a4e72b7ebb46fea5093e298aa9b939_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/05/29/61a4e72b7ebb46fea5093e298aa9b939_xl.png">
             </media:thumbnail>
         </item>
     </channel>
