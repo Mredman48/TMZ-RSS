@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 18:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 20:36:08 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Real World&#039; Alum Devyn Simone Lands Role on &#039;RHONY&#039; Season 16]]></title>
+            <link>https://www.tmz.com/2026/05/30/devyn-simone-appearing-on-real-housewives-of-new-york/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/devyn-simone-appearing-on-real-housewives-of-new-york/</guid>
+            <pubDate>Sat, 30 May 2026 19:57:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/05/30/91ea11f8c17e443e9ba678dbdbdb7f52_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/05/30/91ea11f8c17e443e9ba678dbdbdb7f52_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/05/30/91ea11f8c17e443e9ba678dbdbdb7f52_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Maine Senate Candidate&#039;s Wife Reportedly Flagged Sexual Texts to Campaign]]></title>
+            <link>https://www.tmz.com/2026/05/30/maine-senate-candidates-wife-flagged-explicity-texts-to-campaign/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/maine-senate-candidates-wife-flagged-explicity-texts-to-campaign/</guid>
+            <pubDate>Sat, 30 May 2026 19:30:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/05/30/37b0f4751abf445c8f901cf3e69c5470_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/05/30/37b0f4751abf445c8f901cf3e69c5470_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/05/30/37b0f4751abf445c8f901cf3e69c5470_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Celebrate National Sofia Day by Guessing These Famous Sofias!]]></title>
+            <link>https://www.tmz.com/2026/05/30/famous-sofias-guess-who/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/famous-sofias-guess-who/</guid>
+            <pubDate>Sat, 30 May 2026 19:00:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9f/16by9/2026/05/26/9f548e00cae749c6aaff0bc701063724_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9f/16by9/2026/05/26/9f548e00cae749c6aaff0bc701063724_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9f/16by9/2026/05/26/9f548e00cae749c6aaff0bc701063724_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Viral Cat Tragedy Prompts Investigation, Rover Denies Connection to Sitter]]></title>
+            <link>https://www.tmz.com/2026/05/30/viral-cat-sitter-story-prompts-investigation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/viral-cat-sitter-story-prompts-investigation/</guid>
+            <pubDate>Sat, 30 May 2026 18:57:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/76/16by9/2026/05/30/7637c36f9d964be4941289174549e626_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/76/16by9/2026/05/30/7637c36f9d964be4941289174549e626_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/76/16by9/2026/05/30/7637c36f9d964be4941289174549e626_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Trace Cyrus Claims His Sister Brandi Rented Him A Home Full of Mold]]></title>
             <link>https://www.tmz.com/2026/05/30/trace-cyrus-says-brandi-rented-him-mold-filled-house/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/05/30/e3e1da10092544b784de0cfc642c9317_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/05/30/e3e1da10092544b784de0cfc642c9317_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Tells Jaxson Dart &#039;Radical Left Lunatics&#039; Are Jealous of Them]]></title>
-            <link>https://www.tmz.com/2026/05/30/donald-trump-slams-democrats-for-jaxson-dart-backlash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/donald-trump-slams-democrats-for-jaxson-dart-backlash/</guid>
-            <pubDate>Sat, 30 May 2026 17:51:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f6/16by9/2026/05/30/f69aa89dcbb540e6923fa171c92c082c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/05/30/f69aa89dcbb540e6923fa171c92c082c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/05/30/f69aa89dcbb540e6923fa171c92c082c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Alaskan Bush People&#039; Matt Brown: Search for Unidentified Male Remains Suspended]]></title>
-            <link>https://www.tmz.com/2026/05/30/matt-brown-police-search-for-unidentified-man-suspended/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/matt-brown-police-search-for-unidentified-man-suspended/</guid>
-            <pubDate>Sat, 30 May 2026 17:23:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/05/30/3e7d78a59c5e43e9a6edece747b72559_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/05/30/3e7d78a59c5e43e9a6edece747b72559_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/05/30/3e7d78a59c5e43e9a6edece747b72559_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jamie Lee Curtis Announces Death of Sister Kelly Lee Curtis]]></title>
-            <link>https://www.tmz.com/2026/05/30/jamie-lee-curtis-sister-kelly-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/jamie-lee-curtis-sister-kelly-dead/</guid>
-            <pubDate>Sat, 30 May 2026 16:39:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c4/16by9/2026/05/30/c4b2f600bb6d4d3f81d1ce8500199cf5_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/05/30/c4b2f600bb6d4d3f81d1ce8500199cf5_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2026/05/30/c4b2f600bb6d4d3f81d1ce8500199cf5_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tennis Star Shuts Down Allegations He Shoved Ball Girl After Video Goes Viral]]></title>
-            <link>https://www.tmz.com/2026/05/30/rafael-jodar-denies-shoving-french-open-ball-girl/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/rafael-jodar-denies-shoving-french-open-ball-girl/</guid>
-            <pubDate>Sat, 30 May 2026 16:18:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/05/30/e2279e65831d4e419d04b7632009762a_xl.png">
             </media:thumbnail>
         </item>
     </channel>
