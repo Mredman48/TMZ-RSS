@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 15:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 16:44:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Dua Lipa Marries Callum Turner in Small Town Hall Ceremony]]></title>
+            <link>https://www.tmz.com/2026/05/31/dua-lipa-marries-callum-turner/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/dua-lipa-marries-callum-turner/</guid>
+            <pubDate>Sun, 31 May 2026 15:57:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/05/31/6f509b7ff1054d4388e8feba95aa1cf5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/05/31/6f509b7ff1054d4388e8feba95aa1cf5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/05/31/6f509b7ff1054d4388e8feba95aa1cf5_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Alaskan Bush People&#039; Star Matt Brown&#039;s Body Found in Washington River by Private Search Party]]></title>
+            <link>https://www.tmz.com/2026/05/31/matt-brown-body-found-by-private-search-party/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/matt-brown-body-found-by-private-search-party/</guid>
+            <pubDate>Sun, 31 May 2026 15:23:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/05/31/c743d8aaa5ad4900820b3841d10c3464_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/05/31/c743d8aaa5ad4900820b3841d10c3464_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/05/31/c743d8aaa5ad4900820b3841d10c3464_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Commodores Co-Founder and Former Bassist Ronald LaPread  Dead at 75]]></title>
             <link>https://www.tmz.com/2026/05/31/ronald-lapread-dead/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/05/31/cb1c3dccc4f34b8f98b9cbac4df2e911_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/05/31/cb1c3dccc4f34b8f98b9cbac4df2e911_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Demands Cancellation of Great American State Fair Concerts]]></title>
-            <link>https://www.tmz.com/2026/05/31/trump-urges-for-freedom-250-concerts-to-be-axed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/trump-urges-for-freedom-250-concerts-to-be-axed/</guid>
-            <pubDate>Sun, 31 May 2026 12:40:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/05/31/1f1e13c39a6b44b09c357006735f0eeb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/05/31/1f1e13c39a6b44b09c357006735f0eeb_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/05/31/1f1e13c39a6b44b09c357006735f0eeb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Farrah Abraham&#039;s Hot Shots To Celebrate Her 35th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/05/31/farrah-abraham-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/farrah-abraham-birthday-hot-shots/</guid>
-            <pubDate>Sun, 31 May 2026 08:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/05/26/2b84aa5362564cddaa95c44708dc9639_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/05/26/2b84aa5362564cddaa95c44708dc9639_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/05/26/2b84aa5362564cddaa95c44708dc9639_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
