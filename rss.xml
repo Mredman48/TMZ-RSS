@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 13:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 15:03:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Commodores Co-Founder and Former Bassist Ronald LaPread  Dead at 75]]></title>
+            <link>https://www.tmz.com/2026/05/31/ronald-lapread-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/ronald-lapread-dead/</guid>
+            <pubDate>Sun, 31 May 2026 14:57:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2026/05/31/a505c088e424472ba874ae6699fe07d1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a5/16by9/2026/05/31/a505c088e424472ba874ae6699fe07d1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2026/05/31/a505c088e424472ba874ae6699fe07d1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Charli D&#039;Amelio&#039;s Dad Blazes Report Millions Were Stolen from Her Under His Watch]]></title>
+            <link>https://www.tmz.com/2026/05/31/charli-damelio-dad-slams-report-accusing-him-of-financial-mismanagement/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/charli-damelio-dad-slams-report-accusing-him-of-financial-mismanagement/</guid>
+            <pubDate>Sun, 31 May 2026 13:24:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2c/16by9/2026/05/31/2c5f8e3e193f4c5fa74baa968543d827_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2c/16by9/2026/05/31/2c5f8e3e193f4c5fa74baa968543d827_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2c/16by9/2026/05/31/2c5f8e3e193f4c5fa74baa968543d827_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Maine Senate Candidate Graham Platner’s Wife Fires Back at Reports of His Extramarital Sexts]]></title>
+            <link>https://www.tmz.com/2026/05/31/maine-senate-candidate-graham-platner-wife-slams-headlines-about-sexting-scandal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/maine-senate-candidate-graham-platner-wife-slams-headlines-about-sexting-scandal/</guid>
+            <pubDate>Sun, 31 May 2026 13:05:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cb/16by9/2026/05/31/cb1c3dccc4f34b8f98b9cbac4df2e911_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/cb/16by9/2026/05/31/cb1c3dccc4f34b8f98b9cbac4df2e911_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cb/16by9/2026/05/31/cb1c3dccc4f34b8f98b9cbac4df2e911_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[President Trump Demands Cancellation of Great American State Fair Concerts]]></title>
             <link>https://www.tmz.com/2026/05/31/trump-urges-for-freedom-250-concerts-to-be-axed/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/05/26/2b84aa5362564cddaa95c44708dc9639_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/05/26/2b84aa5362564cddaa95c44708dc9639_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gypsy Rose Blanchard Says Mackenzie Shirilla Kissing Women In Prison Helps Pass Time]]></title>
-            <link>https://www.tmz.com/2026/05/31/gypsy-rose-blanchard-discuss-kissing-inmates/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/gypsy-rose-blanchard-discuss-kissing-inmates/</guid>
-            <pubDate>Sun, 31 May 2026 08:00:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/05/29/2da44dccbc084b3b84c056e69e7c07d1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/05/29/2da44dccbc084b3b84c056e69e7c07d1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/05/29/2da44dccbc084b3b84c056e69e7c07d1_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sydney Sweeney Then And Now -- Good Genes or Good Docs?!]]></title>
-            <link>https://www.tmz.com/2026/05/31/sydney-sweeney-good-genes-or-good-docs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/sydney-sweeney-good-genes-or-good-docs/</guid>
-            <pubDate>Sun, 31 May 2026 07:30:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/05/27/837d75a05bfc4ed7a337720065a7badf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/05/27/837d75a05bfc4ed7a337720065a7badf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/05/27/837d75a05bfc4ed7a337720065a7badf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cody Rhodes Wants WWE Match on Decommissioned Aircraft Carrier]]></title>
-            <link>https://www.tmz.com/2026/05/31/cody-rhodes-reveals-his-dream-wwe-match-location/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/cody-rhodes-reveals-his-dream-wwe-match-location/</guid>
-            <pubDate>Sun, 31 May 2026 07:15:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/05/28/e7d9f1e9279d474ba5565006349a8b6b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/05/28/e7d9f1e9279d474ba5565006349a8b6b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/05/28/e7d9f1e9279d474ba5565006349a8b6b_xl.png">
             </media:thumbnail>
         </item>
     </channel>
