@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 22:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 23:42:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Alaskan Bush People&#039; Matt Brown&#039;s Body Recovered After Jacket Spotted]]></title>
+            <link>https://www.tmz.com/2026/05/31/alaskan-bush-people-matt-brown-body-recovered-after-jacket-spotted/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/alaskan-bush-people-matt-brown-body-recovered-after-jacket-spotted/</guid>
+            <pubDate>Sun, 31 May 2026 23:32:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/05/31/09e1c6e11356473abe94d0dfcbab78a5_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/05/31/09e1c6e11356473abe94d0dfcbab78a5_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/05/31/09e1c6e11356473abe94d0dfcbab78a5_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Guess Who This Iconic Actress Is!]]></title>
+            <link>https://www.tmz.com/2026/05/31/guess-the-iconic-actress/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/guess-the-iconic-actress/</guid>
+            <pubDate>Sun, 31 May 2026 23:00:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Obama White House&#039;s Instagram Hacked]]></title>
             <link>https://www.tmz.com/2026/05/31/obama-white-house-hacked-on-instagram/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/05/31/6a9222cb5b414857bbd7446ae956a641_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/05/31/6a9222cb5b414857bbd7446ae956a641_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Comedian Norman Freeman Says He Was In Scary Car Wreck, Shares Photos]]></title>
-            <link>https://www.tmz.com/2026/05/31/comedian-norman-freeman-car-crash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/comedian-norman-freeman-car-crash/</guid>
-            <pubDate>Sun, 31 May 2026 21:12:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/05/31/b98e09b8adc549c0a28de6fa64e9a449_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/05/31/b98e09b8adc549c0a28de6fa64e9a449_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/05/31/b98e09b8adc549c0a28de6fa64e9a449_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Prince Andrew Under Investigation For Alleged Encounter With Woman At Royal Ascot]]></title>
-            <link>https://www.tmz.com/2026/05/31/ex-prince-andrew-being-investigated-again/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/ex-prince-andrew-being-investigated-again/</guid>
-            <pubDate>Sun, 31 May 2026 21:00:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f1/16by9/2026/05/31/f1ece9501f2b45e499b6087728b855cd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f1/16by9/2026/05/31/f1ece9501f2b45e499b6087728b855cd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2026/05/31/f1ece9501f2b45e499b6087728b855cd_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
