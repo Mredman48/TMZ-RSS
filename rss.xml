@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 23:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 01:49:54 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Brad Pitt & Ines de Ramon Grinning in Paris After His Son Drops &#039;Pitt&#039; Last Name]]></title>
+            <link>https://www.tmz.com/2026/05/30/brad-pitt-ines-de-ramon-party-paris/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/brad-pitt-ines-de-ramon-party-paris/</guid>
+            <pubDate>Sun, 31 May 2026 00:54:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/91/16by9/2026/05/30/910cf8c684494f44a85fb4ecfec87676_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/91/16by9/2026/05/30/910cf8c684494f44a85fb4ecfec87676_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/91/16by9/2026/05/30/910cf8c684494f44a85fb4ecfec87676_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Nancy Mace Says Epstein Files Cost Her Donald Trump&#039;s Endorsement]]></title>
+            <link>https://www.tmz.com/2026/05/30/nancy-mace-implies-epstein-files-cost-her-trump-support/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/nancy-mace-implies-epstein-files-cost-her-trump-support/</guid>
+            <pubDate>Sun, 31 May 2026 00:45:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/05/30/938117968739444c9fbdde742d43aeb2_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/05/30/938117968739444c9fbdde742d43aeb2_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/05/30/938117968739444c9fbdde742d43aeb2_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mackenzie Shirilla Seemingly Mocks Dominic Russo&#039;s Musical Ability in Prison Phone Call]]></title>
+            <link>https://www.tmz.com/2026/05/30/mackenzie-shirilla-derides-dominic-russo-davion-flanagan-music-talent/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/mackenzie-shirilla-derides-dominic-russo-davion-flanagan-music-talent/</guid>
+            <pubDate>Sun, 31 May 2026 00:08:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/05/30/9b8f03a1b9c542ea83d7cf6ed9d419e4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/05/30/9b8f03a1b9c542ea83d7cf6ed9d419e4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/05/30/9b8f03a1b9c542ea83d7cf6ed9d419e4_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Love Island USA&#039; Vasana Montgomery Removed From Villa After Allegedly Using N-Word]]></title>
             <link>https://www.tmz.com/2026/05/30/love-island-vasana-montgomery/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/05/26/2df9cb0243174ac9a1a8d8ccfc87f2fd_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/05/26/2df9cb0243174ac9a1a8d8ccfc87f2fd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Morgan Wallen Flips Piano Onstage After Technical Issue, Video]]></title>
-            <link>https://www.tmz.com/2026/05/30/morgan-wallen-flips-piano/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/morgan-wallen-flips-piano/</guid>
-            <pubDate>Sat, 30 May 2026 22:30:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/05/30/3acba10dbd3b451e880a10977c475b30_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/05/30/3acba10dbd3b451e880a10977c475b30_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/05/30/3acba10dbd3b451e880a10977c475b30_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cops Called On Florida Man Who Allegedly Had His &#039;Chimichanga&#039; Out at Taco Bell]]></title>
-            <link>https://www.tmz.com/2026/05/30/man-arrested-for-exposing-himself-at-florida-taco-bell/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/man-arrested-for-exposing-himself-at-florida-taco-bell/</guid>
-            <pubDate>Sat, 30 May 2026 22:03:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/05/30/51c938f9e2eb44e898b709235862666b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/05/30/51c938f9e2eb44e898b709235862666b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/05/30/51c938f9e2eb44e898b709235862666b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West, Travis Scott Italy Shows Scrapped, Due to Crowd Security Issues]]></title>
-            <link>https://www.tmz.com/2026/05/30/kanye-west-and-travis-scott-banned-from-italy-concerts/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/30/kanye-west-and-travis-scott-banned-from-italy-concerts/</guid>
-            <pubDate>Sat, 30 May 2026 21:25:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/05/30/6030022d08764dcaa6f0fc94d12bc0a9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/05/30/6030022d08764dcaa6f0fc94d12bc0a9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/05/30/6030022d08764dcaa6f0fc94d12bc0a9_xl.png">
             </media:thumbnail>
         </item>
     </channel>
