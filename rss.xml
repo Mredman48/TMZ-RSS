@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 23:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 01:59:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Frankie Paul Says She&#039;s Smiling Again After Making Mistakes, Misses Son]]></title>
+            <link>https://www.tmz.com/2026/05/31/taylor-frankie-paul-mental-health-awareness-post/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/taylor-frankie-paul-mental-health-awareness-post/</guid>
+            <pubDate>Mon, 01 Jun 2026 01:02:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/05/31/f0896bd751354bbb839ec3c8406949b1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/05/31/f0896bd751354bbb839ec3c8406949b1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/05/31/f0896bd751354bbb839ec3c8406949b1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Mister Rogers&#039; Neighborhood&#039; Handyman Joe Negri Dead at 99]]></title>
+            <link>https://www.tmz.com/2026/05/31/handyman-negri-mister-rogers-neighborhood-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/handyman-negri-mister-rogers-neighborhood-dead/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:34:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6d/16by9/2026/06/01/6d9346cebe634e5d9c8d7aee0f1a593a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6d/16by9/2026/06/01/6d9346cebe634e5d9c8d7aee0f1a593a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6d/16by9/2026/06/01/6d9346cebe634e5d9c8d7aee0f1a593a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;In The City&#039; Star Kenny Martin Not Buying Amanda Batula, West Wilson Timeline]]></title>
+            <link>https://www.tmz.com/2026/05/31/in-the-city-kenny-martin-reacts-amanda-batula-west-wilson-relationship-timeline-summer-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/in-the-city-kenny-martin-reacts-amanda-batula-west-wilson-relationship-timeline-summer-house/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:12:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/05/31/90553135ceed4c0993e3e4691b9c9e4d_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/05/31/90553135ceed4c0993e3e4691b9c9e4d_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/05/31/90553135ceed4c0993e3e4691b9c9e4d_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Alaskan Bush People&#039; Matt Brown&#039;s Body Recovered After Jacket Spotted]]></title>
             <link>https://www.tmz.com/2026/05/31/alaskan-bush-people-matt-brown-body-recovered-after-jacket-spotted/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Obama White House&#039;s Instagram Hacked]]></title>
-            <link>https://www.tmz.com/2026/05/31/obama-white-house-hacked-on-instagram/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/obama-white-house-hacked-on-instagram/</guid>
-            <pubDate>Sun, 31 May 2026 22:13:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/05/31/d750a18633a44b9b9efa94f7b26c6edd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/05/31/d750a18633a44b9b9efa94f7b26c6edd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/05/31/d750a18633a44b9b9efa94f7b26c6edd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shaun White Takes Woman Out On Date in New York City]]></title>
-            <link>https://www.tmz.com/2026/05/31/shaun-white-date-mystery-woman-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/shaun-white-date-mystery-woman-photos/</guid>
-            <pubDate>Sun, 31 May 2026 21:58:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/08/16by9/2026/05/31/08c50a2b1bc2485894ce7615414375d2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/08/16by9/2026/05/31/08c50a2b1bc2485894ce7615414375d2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/08/16by9/2026/05/31/08c50a2b1bc2485894ce7615414375d2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Waka Flocka Says He&#039;s Expecting First Child, Baby Boy]]></title>
-            <link>https://www.tmz.com/2026/05/31/waka-flocka-flame-expecting-child/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/waka-flocka-flame-expecting-child/</guid>
-            <pubDate>Sun, 31 May 2026 21:49:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/05/31/6a9222cb5b414857bbd7446ae956a641_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/05/31/6a9222cb5b414857bbd7446ae956a641_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/05/31/6a9222cb5b414857bbd7446ae956a641_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
