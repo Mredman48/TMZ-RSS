@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 01:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 07:31:15 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Shop Quentin Tarantino-Inspired Apparel & Accessories]]></title>
+            <link>https://www.tmz.com/2026/06/01/quentin-tarantino-merch-for-fans-of-pulp-fiction-and-cult-classics/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/01/quentin-tarantino-merch-for-fans-of-pulp-fiction-and-cult-classics/</guid>
+            <pubDate>Mon, 01 Jun 2026 07:05:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6b/16by9/2026/05/29/6b4708eb97694f368e803fab56ab9680_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6b/16by9/2026/05/29/6b4708eb97694f368e803fab56ab9680_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6b/16by9/2026/05/29/6b4708eb97694f368e803fab56ab9680_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Katie In &#039;Erin Brockovich&#039; &#039;Memba Her?!]]></title>
+            <link>https://www.tmz.com/2026/06/01/katie-in-erin-brockovich-memba-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/01/katie-in-erin-brockovich-memba-her/</guid>
+            <pubDate>Mon, 01 Jun 2026 07:01:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/05/28/f513ca411e9d4315aeb616aa278eb110_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/05/28/f513ca411e9d4315aeb616aa278eb110_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/05/28/f513ca411e9d4315aeb616aa278eb110_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Frankie Paul Says She&#039;s Smiling Again After Making Mistakes, Misses Son]]></title>
             <link>https://www.tmz.com/2026/05/31/taylor-frankie-paul-mental-health-awareness-post/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/90/16by9/2026/05/31/90553135ceed4c0993e3e4691b9c9e4d_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/05/31/90553135ceed4c0993e3e4691b9c9e4d_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Alaskan Bush People&#039; Matt Brown&#039;s Body Recovered After Jacket Spotted]]></title>
-            <link>https://www.tmz.com/2026/05/31/alaskan-bush-people-matt-brown-body-recovered-after-jacket-spotted/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/alaskan-bush-people-matt-brown-body-recovered-after-jacket-spotted/</guid>
-            <pubDate>Sun, 31 May 2026 23:32:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/09/16by9/2026/05/31/09e1c6e11356473abe94d0dfcbab78a5_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/09/16by9/2026/05/31/09e1c6e11356473abe94d0dfcbab78a5_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/05/31/09e1c6e11356473abe94d0dfcbab78a5_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Guess Who This Iconic Actress Is!]]></title>
-            <link>https://www.tmz.com/2026/05/31/guess-the-iconic-actress/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/05/31/guess-the-iconic-actress/</guid>
-            <pubDate>Sun, 31 May 2026 23:00:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/05/27/d480f8f549f14a8cb1fb37ffac37db8d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
