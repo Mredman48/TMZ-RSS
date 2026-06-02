@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 09:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 14:37:52 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Mackenzie Shirilla Blasts Hometown in Prison Call, Says People Are &#039;Depressing&#039;]]></title>
-            <link>https://www.tmz.com/2026/06/02/mackenzie-shirilla-hates-her-hometown/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/mackenzie-shirilla-hates-her-hometown/</guid>
-            <pubDate>Tue, 02 Jun 2026 08:00:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/46/16by9/2026/06/01/463cb3e8a7654a9690003b1647d29951_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/46/16by9/2026/06/01/463cb3e8a7654a9690003b1647d29951_xl.png" medium="image">
+            <title><![CDATA[&#039;Queer Eye&#039; Star Karamo Brown Says Cast Trashing Him On Hot Mic Was Final Straw]]></title>
+            <link>https://www.tmz.com/2026/06/02/karamo-brown-talks-queer-eye-drama/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/karamo-brown-talks-queer-eye-drama/</guid>
+            <pubDate>Tue, 02 Jun 2026 14:20:54 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/64/16by9/2026/01/21/64e803aaba9043058cad6459c614e584_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/64/16by9/2026/01/21/64e803aaba9043058cad6459c614e584_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/06/01/463cb3e8a7654a9690003b1647d29951_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/64/16by9/2026/01/21/64e803aaba9043058cad6459c614e584_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Your First Look At This Season&#039;s &#039;Love Island&#039; Hot Shots]]></title>
-            <link>https://www.tmz.com/2026/06/02/love-island-season-8-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/love-island-season-8-hot-shots/</guid>
-            <pubDate>Tue, 02 Jun 2026 07:45:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/16/16by9/2026/06/01/166a7435c12f4a1abf72442e97400eeb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/16/16by9/2026/06/01/166a7435c12f4a1abf72442e97400eeb_xl.jpg" medium="image">
+            <title><![CDATA[&#039;19 Kids and Counting&#039; Star Josh Duggar Transferred to Federal Medical Center]]></title>
+            <link>https://www.tmz.com/2026/06/02/josh-duggar-sent-to-federal-medical-center/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/josh-duggar-sent-to-federal-medical-center/</guid>
+            <pubDate>Tue, 02 Jun 2026 14:17:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a3/16by9/2026/06/02/a38ec7c74fca4977ab2b1231cee1d3b0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a3/16by9/2026/06/02/a38ec7c74fca4977ab2b1231cee1d3b0_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/06/01/166a7435c12f4a1abf72442e97400eeb_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a3/16by9/2026/06/02/a38ec7c74fca4977ab2b1231cee1d3b0_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Justin Gaethje Talks Underdog Status Vs. Topuria, Logistics Of Fighting At White House]]></title>
-            <link>https://www.tmz.com/2026/06/02/justin-gaethje-spills-on-white-house-fight-with-ilia-topuria/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/justin-gaethje-spills-on-white-house-fight-with-ilia-topuria/</guid>
-            <pubDate>Tue, 02 Jun 2026 07:30:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/06/01/19f5c2158c2e43f38f4e1d8108446467_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/06/01/19f5c2158c2e43f38f4e1d8108446467_xl.jpg" medium="image">
+            <title><![CDATA[A.J. Brown Called Out For A.I.-Generated Childhood Pic In Tom Brady Jersey]]></title>
+            <link>https://www.tmz.com/2026/06/02/aj-brown-faces-backlash-for-ai-childhood-pic/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/aj-brown-faces-backlash-for-ai-childhood-pic/</guid>
+            <pubDate>Tue, 02 Jun 2026 14:07:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fe/16by9/2026/06/02/fe41c04774954c8abbc865c05cb3158c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/fe/16by9/2026/06/02/fe41c04774954c8abbc865c05cb3158c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/06/01/19f5c2158c2e43f38f4e1d8108446467_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/fe/16by9/2026/06/02/fe41c04774954c8abbc865c05cb3158c_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Level Up Your Wardrobe With These Retro Arcade Game T-Shirts]]></title>
-            <link>https://www.tmz.com/2026/06/02/iconic-arcade-game-shirts/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/iconic-arcade-game-shirts/</guid>
-            <pubDate>Tue, 02 Jun 2026 07:05:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/05/28/3a64fc9f25c445b2a3c9910765f0d544_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/05/28/3a64fc9f25c445b2a3c9910765f0d544_xl.jpg" medium="image">
+            <title><![CDATA[Val Kilmer &#039;Conspiracy&#039; Director Rips Actor &#039;Worst Human Being I&#039;ve Ever Known&#039;]]></title>
+            <link>https://www.tmz.com/2026/06/02/conspiracy-film-director-criticizes-val-kilmer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/conspiracy-film-director-criticizes-val-kilmer/</guid>
+            <pubDate>Tue, 02 Jun 2026 13:43:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/06/02/fbe29b5f02d84276b0ee15c660cc1945_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/06/02/fbe29b5f02d84276b0ee15c660cc1945_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/05/28/3a64fc9f25c445b2a3c9910765f0d544_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/06/02/fbe29b5f02d84276b0ee15c660cc1945_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Guess Who These Sweet Sisters Turned Into!]]></title>
-            <link>https://www.tmz.com/2026/06/02/guess-the-influencers-game/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/guess-the-influencers-game/</guid>
-            <pubDate>Tue, 02 Jun 2026 07:01:41 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fc/16by9/2026/05/06/fc7f8a5f829f46ae96791365f237c20b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/05/06/fc7f8a5f829f46ae96791365f237c20b_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Twin Peaks&#039; Actor Owain Rhys Davies Dies Suddenly at 44, Family Confused]]></title>
+            <link>https://www.tmz.com/2026/06/02/owain-rhys-davies-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/02/owain-rhys-davies-dead/</guid>
+            <pubDate>Tue, 02 Jun 2026 13:05:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/06/02/216f0b71751e4d46aeaaa32fabb9afe5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/06/02/216f0b71751e4d46aeaaa32fabb9afe5_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/05/06/fc7f8a5f829f46ae96791365f237c20b_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/06/02/216f0b71751e4d46aeaaa32fabb9afe5_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
