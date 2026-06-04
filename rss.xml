@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 02:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 07:09:23 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Guess Which Zookeeper This Baby Boy Turned Into!]]></title>
+            <link>https://www.tmz.com/2026/06/04/cute-baby-photo-guessing-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/cute-baby-photo-guessing-game/</guid>
+            <pubDate>Thu, 04 Jun 2026 07:01:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f4/16by9/2026/05/27/f4319b1dc40b40c293e83f91434b591a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f4/16by9/2026/05/27/f4319b1dc40b40c293e83f91434b591a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f4/16by9/2026/05/27/f4319b1dc40b40c293e83f91434b591a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Alix Earle to Star in Benson Boone&#039;s Music Video For &#039;The Time of My Life&#039;]]></title>
+            <link>https://www.tmz.com/2026/06/04/alix-earle-to-star-in-benson-boone-music-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/alix-earle-to-star-in-benson-boone-music-video/</guid>
+            <pubDate>Thu, 04 Jun 2026 07:00:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/06/03/be85458cdc8f487399c5e9933893909f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/06/03/be85458cdc8f487399c5e9933893909f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/06/03/be85458cdc8f487399c5e9933893909f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[President Donald Trump Rips Kaitlan Collins During Heated Oval Office Exchange]]></title>
             <link>https://www.tmz.com/2026/06/03/president-trump-criticizes-cnns-kaitlan-collins/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/52/16by9/2026/06/03/52e47ff8e3404298a950dd3278d2bf9f_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/06/03/52e47ff8e3404298a950dd3278d2bf9f_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Megan Thee Stallion&#039;s Court Rival Says She Can&#039;t Afford to Pay $75K Owed]]></title>
-            <link>https://www.tmz.com/2026/06/03/megan-thee-stallion-court-rival-milagro-cant-afford-bill/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/03/megan-thee-stallion-court-rival-milagro-cant-afford-bill/</guid>
-            <pubDate>Wed, 03 Jun 2026 23:48:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fb/16by9/2026/06/03/fb12b4bd04ba48c59d3d807f38235b5e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fb/16by9/2026/06/03/fb12b4bd04ba48c59d3d807f38235b5e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fb/16by9/2026/06/03/fb12b4bd04ba48c59d3d807f38235b5e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Adam22 Says Black Women Should DM Him After Lena the Plug Divorce]]></title>
-            <link>https://www.tmz.com/2026/06/03/adam22-celebrates-lena-the-plug-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/03/adam22-celebrates-lena-the-plug-divorce/</guid>
-            <pubDate>Wed, 03 Jun 2026 23:26:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/68/16by9/2026/06/03/68ddf3e048114dc5aadd0bc990347704_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/68/16by9/2026/06/03/68ddf3e048114dc5aadd0bc990347704_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/68/16by9/2026/06/03/68ddf3e048114dc5aadd0bc990347704_xl.png">
             </media:thumbnail>
         </item>
     </channel>
