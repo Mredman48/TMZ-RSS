@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 19:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 22:10:09 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bella Hadid Locks In Bombshell Energy With Hot Boat Babe Pics]]></title>
+            <link>https://www.tmz.com/2026/06/04/bella-hadid-looking-hot-on-a-boat/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/bella-hadid-looking-hot-on-a-boat/</guid>
+            <pubDate>Thu, 04 Jun 2026 22:00:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/06/04/c0d894bb5f9e4f06b8eb29290a085f73_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/06/04/c0d894bb5f9e4f06b8eb29290a085f73_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/06/04/c0d894bb5f9e4f06b8eb29290a085f73_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Influencer Couple Terminates Pregnancy After Down Syndrome Diagnosis]]></title>
+            <link>https://www.tmz.com/2026/06/04/jesse-ashley-ridgway-terminate-pregnancy/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/jesse-ashley-ridgway-terminate-pregnancy/</guid>
+            <pubDate>Thu, 04 Jun 2026 21:05:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/06/04/520cbe450f8f48e5a6f8542f81242953_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/06/04/520cbe450f8f48e5a6f8542f81242953_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/06/04/520cbe450f8f48e5a6f8542f81242953_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;RHOC&#039; Alum Kelly Dodd Confesses She Secretly Got COVID Vaccine, Regrets It]]></title>
+            <link>https://www.tmz.com/2026/06/04/kelly-dodd-secretly-got-covid-vaccine-regrets/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/kelly-dodd-secretly-got-covid-vaccine-regrets/</guid>
+            <pubDate>Thu, 04 Jun 2026 20:15:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5e/16by9/2026/06/04/5e0efea18699484e86b437c49de30328_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/5e/16by9/2026/06/04/5e0efea18699484e86b437c49de30328_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5e/16by9/2026/06/04/5e0efea18699484e86b437c49de30328_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Karen Read Sues &#039;Biased and Corrupt&#039; Cops, Claims Officers Regularly Used Slurs]]></title>
+            <link>https://www.tmz.com/2026/06/04/karen-read-sues-officers-after-acquittal/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/karen-read-sues-officers-after-acquittal/</guid>
+            <pubDate>Thu, 04 Jun 2026 19:49:42 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/06/04/0f6ba71bfe9648e683b02b1f9d7d4a2e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/06/04/0f6ba71bfe9648e683b02b1f9d7d4a2e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/06/04/0f6ba71bfe9648e683b02b1f9d7d4a2e_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ashlee Jenae&#039;s Fiancé Joe McCann Speaks Out After Being Cleared By Police]]></title>
             <link>https://www.tmz.com/2026/06/04/joe-mccann-responds-police-clear-him-ashlee-jenae-death/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/56/16by9/2026/06/04/56552d8dc9104660a500bc148425d6f9_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/06/04/56552d8dc9104660a500bc148425d6f9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[John Gotti&#039;s Grandson Arrested for Allegedly Choking Girlfriend Before Prison]]></title>
-            <link>https://www.tmz.com/2026/06/04/john-gotti-grandson-carmine-agnello-arrested-over-alleged-domestic-dispute/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/john-gotti-grandson-carmine-agnello-arrested-over-alleged-domestic-dispute/</guid>
-            <pubDate>Thu, 04 Jun 2026 19:23:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/06/04/2d684ff52ae3409e8b5a1aba9c529752_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/06/04/2d684ff52ae3409e8b5a1aba9c529752_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/06/04/2d684ff52ae3409e8b5a1aba9c529752_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kylie Jenner Shows Off Her Curves In A Micro Pink Bikini In Turks & Caicos]]></title>
-            <link>https://www.tmz.com/2026/06/04/kylie-jenner-micro-bikini-beach-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/kylie-jenner-micro-bikini-beach-pictures/</guid>
-            <pubDate>Thu, 04 Jun 2026 19:11:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/34/16by9/2026/06/04/34bfe2a5a1d545d3bed91892730d3492_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/34/16by9/2026/06/04/34bfe2a5a1d545d3bed91892730d3492_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/34/16by9/2026/06/04/34bfe2a5a1d545d3bed91892730d3492_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Spurs Fan Facing Criminal Charges After Storming Court For Victor Wembanyama Selfie]]></title>
-            <link>https://www.tmz.com/2026/06/04/spurs-fan-arrested-after-victor-wembanyama-selfie/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/spurs-fan-arrested-after-victor-wembanyama-selfie/</guid>
-            <pubDate>Thu, 04 Jun 2026 18:51:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1c/16by9/2026/06/04/1cf300af2fbb43a79f787bd4a31743bf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/1c/16by9/2026/06/04/1cf300af2fbb43a79f787bd4a31743bf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1c/16by9/2026/06/04/1cf300af2fbb43a79f787bd4a31743bf_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;RHOA&#039; Alum Kim Zolciak Using Alleged Text From Kroy’s Female Pal in Custody Battle]]></title>
-            <link>https://www.tmz.com/2026/06/04/kim-zolciak-custody-battle-evidence-revealed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/04/kim-zolciak-custody-battle-evidence-revealed/</guid>
-            <pubDate>Thu, 04 Jun 2026 18:45:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/06/04/ca41e31c9e3740c080e03bdd2c453808_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/06/04/ca41e31c9e3740c080e03bdd2c453808_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/06/04/ca41e31c9e3740c080e03bdd2c453808_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
