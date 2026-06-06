@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 22:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 23:43:42 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Tiger King&#039; Star Doc Antle Cleared in Lion Cub Case, Convictions Vacated]]></title>
+            <link>https://www.tmz.com/2026/06/06/tiger-king-doc-antle-major-court-win-virginia/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/tiger-king-doc-antle-major-court-win-virginia/</guid>
+            <pubDate>Sat, 06 Jun 2026 23:30:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5a/16by9/2026/06/06/5a5b6aaaeca84fb2a89663f21564e4ac_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5a/16by9/2026/06/06/5a5b6aaaeca84fb2a89663f21564e4ac_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/5a/16by9/2026/06/06/5a5b6aaaeca84fb2a89663f21564e4ac_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Marjorie Taylor Greene Gets Stem Cell Treatment in Mexico With Fiancé]]></title>
+            <link>https://www.tmz.com/2026/06/06/marjorie-taylor-greene-getting-stem-cells-in-mexico/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/marjorie-taylor-greene-getting-stem-cells-in-mexico/</guid>
+            <pubDate>Sat, 06 Jun 2026 22:45:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/07/16by9/2026/06/06/078f2a89a0ef45b4b8120b11dae33e6c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/07/16by9/2026/06/06/078f2a89a0ef45b4b8120b11dae33e6c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/07/16by9/2026/06/06/078f2a89a0ef45b4b8120b11dae33e6c_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Former Sen. Bob Packwood, Ousted by Sex Scandal, Dead at 93]]></title>
             <link>https://www.tmz.com/2026/06/06/longtime-oregon-senator-bob-packwood-dead-at-93/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/89/16by9/2026/06/06/8917137f34c1472cac2445de7adcdcc2_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/06/06/8917137f34c1472cac2445de7adcdcc2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Puth Cancels Concert Due to Illness]]></title>
-            <link>https://www.tmz.com/2026/06/06/charlie-puth-cancels-florida-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/charlie-puth-cancels-florida-concert/</guid>
-            <pubDate>Sat, 06 Jun 2026 21:09:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/06/06/4393240fc3fc482daf7b8f0572b75492_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/06/06/4393240fc3fc482daf7b8f0572b75492_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/06/06/4393240fc3fc482daf7b8f0572b75492_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Jake Short Apologizes for Viral &#039;Juvenile Joke&#039; About Ex-Fiancée Mika Abdalla]]></title>
-            <link>https://www.tmz.com/2026/06/06/jake-short-calls-mika-abdalla-remark-juvenile-joke/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/jake-short-calls-mika-abdalla-remark-juvenile-joke/</guid>
-            <pubDate>Sat, 06 Jun 2026 20:28:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/06/06/1152ae4af55e49379d996f2b3692b6db_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/06/06/1152ae4af55e49379d996f2b3692b6db_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/06/06/1152ae4af55e49379d996f2b3692b6db_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
