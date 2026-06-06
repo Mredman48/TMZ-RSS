@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 12:00:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 14:18:59 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Michael Jackson Sexual Abuse Accusers Pose for Selfie]]></title>
+            <link>https://www.tmz.com/2026/06/06/michael-jackson-sexual-abuse-accusers-take-selfie-together/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/michael-jackson-sexual-abuse-accusers-take-selfie-together/</guid>
+            <pubDate>Sat, 06 Jun 2026 13:40:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8b/16by9/2026/06/06/8b01779301344791aa626f8b2bf29c1f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8b/16by9/2026/06/06/8b01779301344791aa626f8b2bf29c1f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8b/16by9/2026/06/06/8b01779301344791aa626f8b2bf29c1f_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods Reportedly Expected to Finish Rehab in June]]></title>
+            <link>https://www.tmz.com/2026/06/06/tiger-woods-finishing-rehab-in-june/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/tiger-woods-finishing-rehab-in-june/</guid>
+            <pubDate>Sat, 06 Jun 2026 12:38:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bd/16by9/2026/06/06/bd23d9fdc30f4006817c9479fbd95551_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bd/16by9/2026/06/06/bd23d9fdc30f4006817c9479fbd95551_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bd/16by9/2026/06/06/bd23d9fdc30f4006817c9479fbd95551_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ashley Park Hot Shots To Toast Her 35th Birthday]]></title>
             <link>https://www.tmz.com/2026/06/06/ashley-park-birthday-hot-shots/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/46/16by9/2026/06/05/46d40e791408434282599aa9ccfebf40_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/46/16by9/2026/06/05/46d40e791408434282599aa9ccfebf40_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Beach Season Heats Up as Stars Step Out in Plaid Swimwear]]></title>
-            <link>https://www.tmz.com/2026/06/06/beach-babes-in-plaid-hot-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/beach-babes-in-plaid-hot-pictures/</guid>
-            <pubDate>Sat, 06 Jun 2026 07:45:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/19/16by9/2026/06/01/19b3ecfdd0104c4f88a8da781a6eb870_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/19/16by9/2026/06/01/19b3ecfdd0104c4f88a8da781a6eb870_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/19/16by9/2026/06/01/19b3ecfdd0104c4f88a8da781a6eb870_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/06/06/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/06/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 06 Jun 2026 07:25:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/06/05/128f151c5ea543deaa9e86db84077ae0_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/06/05/128f151c5ea543deaa9e86db84077ae0_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/06/05/128f151c5ea543deaa9e86db84077ae0_xl.png">
             </media:thumbnail>
         </item>
     </channel>
