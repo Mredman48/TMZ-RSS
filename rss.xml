@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 17:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 19:58:35 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Summer House&#039; Star Kyle Cooke Seen Kissing a Fan During DJ Set]]></title>
+            <link>https://www.tmz.com/2026/06/07/kyle-cooke-kissing-fan-while-djing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/kyle-cooke-kissing-fan-while-djing/</guid>
+            <pubDate>Sun, 07 Jun 2026 19:45:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e4/16by9/2026/06/07/e4c62eb2497445fd8a517b6cc4615300_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e4/16by9/2026/06/07/e4c62eb2497445fd8a517b6cc4615300_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e4/16by9/2026/06/07/e4c62eb2497445fd8a517b6cc4615300_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lexi Rivera Sexy Shots To Kick Off Her 25th Birthday!]]></title>
+            <link>https://www.tmz.com/2026/06/07/lexi-rivera-hot-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/lexi-rivera-hot-pictures/</guid>
+            <pubDate>Sun, 07 Jun 2026 19:00:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c4/16by9/2026/06/01/c4801e3750634300a7130c72b82c38d4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/06/01/c4801e3750634300a7130c72b82c38d4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2026/06/01/c4801e3750634300a7130c72b82c38d4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Hudson Williams Didn&#039;t Know There Was A Swastika Drawn on His Face At Time Re-Surfaced Photo Taken]]></title>
+            <link>https://www.tmz.com/2026/06/07/hudson-williams-swastika-on-face-photo-explained/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/hudson-williams-swastika-on-face-photo-explained/</guid>
+            <pubDate>Sun, 07 Jun 2026 18:58:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/31/16by9/2026/06/07/315ce74fa02b491796ed9eb66c037afa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/31/16by9/2026/06/07/315ce74fa02b491796ed9eb66c037afa_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/06/07/315ce74fa02b491796ed9eb66c037afa_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[NBA Legend Stacey King Dead at 59]]></title>
+            <link>https://www.tmz.com/2026/06/07/stacey-king-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/stacey-king-dead/</guid>
+            <pubDate>Sun, 07 Jun 2026 17:56:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/06/07/750c5140505c4f77a62e2128fc36dc62_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/06/07/750c5140505c4f77a62e2128fc36dc62_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/06/07/750c5140505c4f77a62e2128fc36dc62_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[White House Posts Cringey &#039;6/7&#039; Day Video, Nancy Pelosi As &#039;Teletubbies&#039; Sun]]></title>
             <link>https://www.tmz.com/2026/06/07/president-trump-6-7-day-tiktok/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/96/16by9/2026/06/07/96ad6e28b6fd449e8a252a98a5b04859_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/06/07/96ad6e28b6fd449e8a252a98a5b04859_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kim Kardashian Ignores Reporter at F1 Grand Prix, Slammed By Fans]]></title>
-            <link>https://www.tmz.com/2026/06/07/kim-k-f1-reporter-awkward-moment/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/kim-k-f1-reporter-awkward-moment/</guid>
-            <pubDate>Sun, 07 Jun 2026 17:25:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ba/16by9/2026/06/07/babd2bf72c8145ad9b426cb113c81300_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ba/16by9/2026/06/07/babd2bf72c8145ad9b426cb113c81300_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ba/16by9/2026/06/07/babd2bf72c8145ad9b426cb113c81300_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Storms Off &#039;Meet the Press&#039; Interview, After Election Questions]]></title>
-            <link>https://www.tmz.com/2026/06/07/trump-walks-off-meet-the-press-interview/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/trump-walks-off-meet-the-press-interview/</guid>
-            <pubDate>Sun, 07 Jun 2026 16:34:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/de/16by9/2026/06/07/de02d9e8ce024511a16e7f79fd88d19e_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/de/16by9/2026/06/07/de02d9e8ce024511a16e7f79fd88d19e_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/06/07/de02d9e8ce024511a16e7f79fd88d19e_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Morgan Wallen Shuts Down Concert Cancellation Rumors]]></title>
-            <link>https://www.tmz.com/2026/06/07/morgan-wallen-cancelled-concert-rumors/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/morgan-wallen-cancelled-concert-rumors/</guid>
-            <pubDate>Sun, 07 Jun 2026 15:35:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/06/07/62cc898078da4958b4cf2bf05dfff38a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/06/07/62cc898078da4958b4cf2bf05dfff38a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/06/07/62cc898078da4958b4cf2bf05dfff38a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Celeste Rivas&#039; Family Not Participating in D4vd Documentary Projects, Attorney Says]]></title>
-            <link>https://www.tmz.com/2026/06/07/celeste-rivas-family-declining-documentary-opportunities/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/celeste-rivas-family-declining-documentary-opportunities/</guid>
-            <pubDate>Sun, 07 Jun 2026 15:09:00 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/06/07/3bf63e510a5f4b39a2fbc0190077dd8c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/06/07/3bf63e510a5f4b39a2fbc0190077dd8c_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/06/07/3bf63e510a5f4b39a2fbc0190077dd8c_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
