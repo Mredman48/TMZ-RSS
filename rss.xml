@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 19:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 21:48:51 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Lawsuit Aims to Stop UFC Freedom 250 Fights at White House]]></title>
+            <link>https://www.tmz.com/2026/06/07/lawsuit-calling-for-white-house-fight-cancellation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/lawsuit-calling-for-white-house-fight-cancellation/</guid>
+            <pubDate>Sun, 07 Jun 2026 21:30:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/06/07/1b16c0efe4134da4b24c3ebcf90f5c74_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/06/07/1b16c0efe4134da4b24c3ebcf90f5c74_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/06/07/1b16c0efe4134da4b24c3ebcf90f5c74_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Ice Spice Ordered to Sit for Deposition in Wig Company Lawsuit]]></title>
+            <link>https://www.tmz.com/2026/06/07/ice-spice-deposed-in-lawsuit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/ice-spice-deposed-in-lawsuit/</guid>
+            <pubDate>Sun, 07 Jun 2026 20:51:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c5/16by9/2026/06/07/c5db3df4169e4e2cb0dcb8c469314f01_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c5/16by9/2026/06/07/c5db3df4169e4e2cb0dcb8c469314f01_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c5/16by9/2026/06/07/c5db3df4169e4e2cb0dcb8c469314f01_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Summer House&#039; Star Kyle Cooke Seen Kissing a Fan During DJ Set]]></title>
             <link>https://www.tmz.com/2026/06/07/kyle-cooke-kissing-fan-while-djing/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/31/16by9/2026/06/07/315ce74fa02b491796ed9eb66c037afa_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/31/16by9/2026/06/07/315ce74fa02b491796ed9eb66c037afa_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NBA Legend Stacey King Dead at 59]]></title>
-            <link>https://www.tmz.com/2026/06/07/stacey-king-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/stacey-king-dead/</guid>
-            <pubDate>Sun, 07 Jun 2026 17:56:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/75/16by9/2026/06/07/750c5140505c4f77a62e2128fc36dc62_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/75/16by9/2026/06/07/750c5140505c4f77a62e2128fc36dc62_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/75/16by9/2026/06/07/750c5140505c4f77a62e2128fc36dc62_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[White House Posts Cringey &#039;6/7&#039; Day Video, Nancy Pelosi As &#039;Teletubbies&#039; Sun]]></title>
-            <link>https://www.tmz.com/2026/06/07/president-trump-6-7-day-tiktok/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/president-trump-6-7-day-tiktok/</guid>
-            <pubDate>Sun, 07 Jun 2026 17:45:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/96/16by9/2026/06/07/96ad6e28b6fd449e8a252a98a5b04859_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/96/16by9/2026/06/07/96ad6e28b6fd449e8a252a98a5b04859_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/96/16by9/2026/06/07/96ad6e28b6fd449e8a252a98a5b04859_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
