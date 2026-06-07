@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 14:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 15:56:34 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Morgan Wallen Shuts Down Concert Cancellation Rumors]]></title>
+            <link>https://www.tmz.com/2026/06/07/morgan-wallen-cancelled-concert-rumors/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/morgan-wallen-cancelled-concert-rumors/</guid>
+            <pubDate>Sun, 07 Jun 2026 15:35:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/62/16by9/2026/06/07/62cc898078da4958b4cf2bf05dfff38a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/62/16by9/2026/06/07/62cc898078da4958b4cf2bf05dfff38a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/62/16by9/2026/06/07/62cc898078da4958b4cf2bf05dfff38a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Celeste Rivas&#039; Family Not Participating in D4vd Documentary Projects, Attorney Says]]></title>
+            <link>https://www.tmz.com/2026/06/07/celeste-rivas-family-declining-documentary-opportunities/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/celeste-rivas-family-declining-documentary-opportunities/</guid>
+            <pubDate>Sun, 07 Jun 2026 15:09:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3b/16by9/2026/06/07/3bf63e510a5f4b39a2fbc0190077dd8c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3b/16by9/2026/06/07/3bf63e510a5f4b39a2fbc0190077dd8c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3b/16by9/2026/06/07/3bf63e510a5f4b39a2fbc0190077dd8c_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Scott Pelley Compares Being Fired To His Spouse Being Murdered]]></title>
+            <link>https://www.tmz.com/2026/06/07/scott-pelley-speaks-on-firing/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/scott-pelley-speaks-on-firing/</guid>
+            <pubDate>Sun, 07 Jun 2026 14:46:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/06/07/6cb5446d304b440eb06b034408788f43_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/06/07/6cb5446d304b440eb06b034408788f43_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/06/07/6cb5446d304b440eb06b034408788f43_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ariana Grande Launches &#039;Eternal Sunshine&#039; Concert Run After 7-Year Touring Hiatus]]></title>
             <link>https://www.tmz.com/2026/06/07/ariana-grande-tour-opening/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/52/16by9/2026/06/06/5267d52cee474e7b8031a387fd2a0508_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/06/06/5267d52cee474e7b8031a387fd2a0508_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Mass Shooting Near Festival in Ohio Leaves at Least 12 Injured]]></title>
-            <link>https://www.tmz.com/2026/06/07/mass-shooting-at-festival-in-toledo-ohio/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/mass-shooting-at-festival-in-toledo-ohio/</guid>
-            <pubDate>Sun, 07 Jun 2026 12:51:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b6/16by9/2026/06/07/b6b9b807d25c488aaa3658cdbf44a104_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b6/16by9/2026/06/07/b6b9b807d25c488aaa3658cdbf44a104_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b6/16by9/2026/06/07/b6b9b807d25c488aaa3658cdbf44a104_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Justin and Hailey Bieber Spotted at The Kid LAROI&#039;s Show in L.A.]]></title>
-            <link>https://www.tmz.com/2026/06/07/justin-and-hailey-bieber-looking-cute-at-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/justin-and-hailey-bieber-looking-cute-at-concert/</guid>
-            <pubDate>Sun, 07 Jun 2026 12:20:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/06/07/9ae4e688ca534b0a81173650b6362a73_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/06/07/9ae4e688ca534b0a81173650b6362a73_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/06/07/9ae4e688ca534b0a81173650b6362a73_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Simone Biles Says She &#039;Almost Died&#039; After Suffering a Health Scare]]></title>
-            <link>https://www.tmz.com/2026/06/07/simon-biles-health-scare/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/07/simon-biles-health-scare/</guid>
-            <pubDate>Sun, 07 Jun 2026 10:53:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/69/16by9/2024/05/20/69e9b76358ed4a0dbfeff7b0e0d638ee_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/69/16by9/2024/05/20/69e9b76358ed4a0dbfeff7b0e0d638ee_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2024/05/20/69e9b76358ed4a0dbfeff7b0e0d638ee_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
