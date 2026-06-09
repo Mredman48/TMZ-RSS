@@ -4,11 +4,33 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 10:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 13:31:11 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Anna Kepner&#039;s Cell Phone Was Key in Solving Crusie Ship Murder, FBI Agent Testifies]]></title>
+            <title><![CDATA[&#039;The Godfather Part III&#039; Actor Anthony Guidera Dead at 65]]></title>
+            <link>https://www.tmz.com/2026/06/09/anthony-guidera-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/09/anthony-guidera-dead/</guid>
+            <pubDate>Tue, 09 Jun 2026 13:05:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/06/09/a8cfadbce1154d718223db2b8161c957_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/06/09/a8cfadbce1154d718223db2b8161c957_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/06/09/a8cfadbce1154d718223db2b8161c957_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Says Stephen A. Smith is Not Smart Enough to be President]]></title>
+            <link>https://www.tmz.com/2026/06/09/donald-trump-think-stephen-a-smith-could-not-be-president/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/09/donald-trump-think-stephen-a-smith-could-not-be-president/</guid>
+            <pubDate>Tue, 09 Jun 2026 12:45:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/06/09/696ef5b92efd4868bca20b121aa92026_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/06/09/696ef5b92efd4868bca20b121aa92026_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/06/09/696ef5b92efd4868bca20b121aa92026_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Anna Kepner&#039;s Cell Phone Was Key in Solving Cruise Ship Murder, FBI Agent Testifies]]></title>
             <link>https://www.tmz.com/2026/06/09/anna-kepner-carnival-cruise-timothy-hudson/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/06/09/anna-kepner-carnival-cruise-timothy-hudson/</guid>
             <pubDate>Tue, 09 Jun 2026 09:14:47 GMT</pubDate>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/06/08/2ab5d020e5d14231905f2e4f1bd1e019_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/06/08/2ab5d020e5d14231905f2e4f1bd1e019_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Josh Hokit Interview Goes Off The Rails, UFC Fighter Mocks Alex Pereira]]></title>
-            <link>https://www.tmz.com/2026/06/09/josh-hokit-interview-mocks-alex-pereira-chama/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/09/josh-hokit-interview-mocks-alex-pereira-chama/</guid>
-            <pubDate>Tue, 09 Jun 2026 07:30:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/06/04/2da5add5f50640039444f218abe4325f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/06/04/2da5add5f50640039444f218abe4325f_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/06/04/2da5add5f50640039444f218abe4325f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Perfect Match&#039; Stars Jimmy Presnell and Natalie Cruz Seen Cozied Up]]></title>
-            <link>https://www.tmz.com/2026/06/09/jimmy-presnell-and-natalie-cruz-from-perfect-match-spotted-together/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/09/jimmy-presnell-and-natalie-cruz-from-perfect-match-spotted-together/</guid>
-            <pubDate>Tue, 09 Jun 2026 07:30:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a0/16by9/2026/06/07/a0b039f4fa3f40ecb316fe0133fe99a6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a0/16by9/2026/06/07/a0b039f4fa3f40ecb316fe0133fe99a6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a0/16by9/2026/06/07/a0b039f4fa3f40ecb316fe0133fe99a6_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
