@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 21:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 23:13:36 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Benson Boone Wears Dress to Recreate Viral Alix Earle Video]]></title>
-            <link>https://www.tmz.com/2026/06/10/benson-boone-replicates-alix-earle-viral-tiktok/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/benson-boone-replicates-alix-earle-viral-tiktok/</guid>
-            <pubDate>Wed, 10 Jun 2026 21:28:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/42/16by9/2026/06/10/42422ff0edc949f7a658add0efa96c40_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/42/16by9/2026/06/10/42422ff0edc949f7a658add0efa96c40_xl.jpg" medium="image">
+            <title><![CDATA[Karmelo Anthony&#039;s Parents Speak Out About Guilty Verdict in Murder Trial]]></title>
+            <link>https://www.tmz.com/2026/06/10/karmelo-anthony-parents-discuss-murder-conviction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/karmelo-anthony-parents-discuss-murder-conviction/</guid>
+            <pubDate>Wed, 10 Jun 2026 23:06:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/06/10/037f994b2e2149e7a4281834f8ed625f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/06/10/037f994b2e2149e7a4281834f8ed625f_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/42/16by9/2026/06/10/42422ff0edc949f7a658add0efa96c40_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/06/10/037f994b2e2149e7a4281834f8ed625f_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Karmelo Anthony&#039;s Grandmother Chants &#039;Racist, Biased, Prejudiced&#039; After Trial]]></title>
-            <link>https://www.tmz.com/2026/06/10/karmelo-anthony-grandmother-chants-after-trial/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/karmelo-anthony-grandmother-chants-after-trial/</guid>
-            <pubDate>Wed, 10 Jun 2026 21:21:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/52/16by9/2026/06/10/52e132bf5f774b8d85bde92ecc5ecb70_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/52/16by9/2026/06/10/52e132bf5f774b8d85bde92ecc5ecb70_xl.png" medium="image">
+            <title><![CDATA[Taylor Swift and Travis Kelce&#039;s Wedding Guest List Includes Unexpected Non-Celebrities]]></title>
+            <link>https://www.tmz.com/2026/06/10/taylor-swift-travis-kelce-wedding-guest-list/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/taylor-swift-travis-kelce-wedding-guest-list/</guid>
+            <pubDate>Wed, 10 Jun 2026 23:03:35 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/22/16by9/2026/06/10/2263a73284b843509652009fd84c19d4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/22/16by9/2026/06/10/2263a73284b843509652009fd84c19d4_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/52/16by9/2026/06/10/52e132bf5f774b8d85bde92ecc5ecb70_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/22/16by9/2026/06/10/2263a73284b843509652009fd84c19d4_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Grant Larsen Brought &#039;Temptation Island&#039; to The &#039;TMZ After Dark Tour,&#039; Watch!]]></title>
-            <link>https://www.tmz.com/2026/06/10/temptation-island-star-grant-larsen-on-after-dark-tour/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/temptation-island-star-grant-larsen-on-after-dark-tour/</guid>
-            <pubDate>Wed, 10 Jun 2026 20:58:53 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f0/16by9/2026/06/03/f0397077a77f4560bfc983022acbcf83_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f0/16by9/2026/06/03/f0397077a77f4560bfc983022acbcf83_xl.png" medium="image">
+            <title><![CDATA[Nick Cannon&#039;s Baby Mama Brittany Bell Wrote Dissertation Inspired By Him]]></title>
+            <link>https://www.tmz.com/2026/06/10/nick-cannon-ex-brittany-bell-dissertation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/nick-cannon-ex-brittany-bell-dissertation/</guid>
+            <pubDate>Wed, 10 Jun 2026 22:57:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/28/16by9/2026/06/10/28951ccd05b947eb9611d25ce479eccc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/28/16by9/2026/06/10/28951ccd05b947eb9611d25ce479eccc_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f0/16by9/2026/06/03/f0397077a77f4560bfc983022acbcf83_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/28/16by9/2026/06/10/28951ccd05b947eb9611d25ce479eccc_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Love Island’ Huda Mustafa: Restraining Order Revived, Ex’s Baby Mama Rushes To Court]]></title>
-            <link>https://www.tmz.com/2026/06/10/huda-mustafa-restraining-order-from-ex-baby-mama-revived/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/huda-mustafa-restraining-order-from-ex-baby-mama-revived/</guid>
-            <pubDate>Wed, 10 Jun 2026 20:57:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a6/16by9/2026/06/10/a6c2a0df76f645c6a6314a0009b4ba64_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a6/16by9/2026/06/10/a6c2a0df76f645c6a6314a0009b4ba64_xl.jpg" medium="image">
+            <title><![CDATA[Knicks Owner Jim Dolan Says President Trump Wasn&#039;t Sleeping During Finals Game]]></title>
+            <link>https://www.tmz.com/2026/06/10/james-dolan-says-donald-trump-not-sleeping-knicks-spurs-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/james-dolan-says-donald-trump-not-sleeping-knicks-spurs-game/</guid>
+            <pubDate>Wed, 10 Jun 2026 22:53:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c6/16by9/2026/06/10/c686015f192f44bd972942fcda6897fc_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/06/10/c686015f192f44bd972942fcda6897fc_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a6/16by9/2026/06/10/a6c2a0df76f645c6a6314a0009b4ba64_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/06/10/c686015f192f44bd972942fcda6897fc_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rep. Jasmine Crockett Says Race Impacted Karmelo Anthony Murder Conviction]]></title>
-            <link>https://www.tmz.com/2026/06/10/jasmine-crockett-race-affected-karmelo-anthony-verdict/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/jasmine-crockett-race-affected-karmelo-anthony-verdict/</guid>
-            <pubDate>Wed, 10 Jun 2026 20:45:45 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3c/16by9/2026/06/10/3ce3bacfdc684df48e781dc1f0dfd63f_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3c/16by9/2026/06/10/3ce3bacfdc684df48e781dc1f0dfd63f_xl.png" medium="image">
+            <title><![CDATA[Austin Metcalf&#039;s Family Receiving Death Threats After Karmelo Anthony Verdict]]></title>
+            <link>https://www.tmz.com/2026/06/10/austin-metcalf-family-getting-death-threats-following-karmelo-anthony-murder-conviction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/10/austin-metcalf-family-getting-death-threats-following-karmelo-anthony-murder-conviction/</guid>
+            <pubDate>Wed, 10 Jun 2026 22:46:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/06/10/174697088efc457baabca7873f9417ad_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/06/10/174697088efc457baabca7873f9417ad_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3c/16by9/2026/06/10/3ce3bacfdc684df48e781dc1f0dfd63f_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/06/10/174697088efc457baabca7873f9417ad_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
