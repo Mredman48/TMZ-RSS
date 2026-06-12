@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 01:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 07:06:43 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Sofia Grainge Kids Clothes on Sale Early for Amazon Prime Day]]></title>
+            <link>https://www.tmz.com/2026/06/12/sofia-grainge-kids-clothes-early-prime-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/12/sofia-grainge-kids-clothes-early-prime-day/</guid>
+            <pubDate>Fri, 12 Jun 2026 07:05:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/06/09/f9f7c4c3db8c4abeb51b0ab008b9c6d0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/06/09/f9f7c4c3db8c4abeb51b0ab008b9c6d0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/06/09/f9f7c4c3db8c4abeb51b0ab008b9c6d0_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[UFC Fighter Frankie Edgar &#039;Memba Him?!]]></title>
+            <link>https://www.tmz.com/2026/06/12/frankie-edgar-then-and-now-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/12/frankie-edgar-then-and-now-pictures/</guid>
+            <pubDate>Fri, 12 Jun 2026 07:01:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d1/16by9/2026/06/09/d17ad292bd4946f48b781ccd4e701ab4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d1/16by9/2026/06/09/d17ad292bd4946f48b781ccd4e701ab4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d1/16by9/2026/06/09/d17ad292bd4946f48b781ccd4e701ab4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Quavo: Valet Allegedly Slapped By Rapper Moving to Collect $1 Million Judgment]]></title>
+            <link>https://www.tmz.com/2026/06/12/valet-files-to-collect-judgment-from-quavo/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/12/valet-files-to-collect-judgment-from-quavo/</guid>
+            <pubDate>Fri, 12 Jun 2026 07:00:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/02/16by9/2026/06/11/024c878440204a50bb943ca53c25c0d6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/02/16by9/2026/06/11/024c878440204a50bb943ca53c25c0d6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/02/16by9/2026/06/11/024c878440204a50bb943ca53c25c0d6_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Lindsay Clancy Killed Kids with &#039;Extreme Atrocity & Cruelty,&#039; Prosecutors Say]]></title>
             <link>https://www.tmz.com/2026/06/11/lindsay-clancy-killed-children-with-cruelty-according-to-prosecutors/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/93/16by9/2026/06/12/931bcfb2cd914084a2afa998d401d30d_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/06/12/931bcfb2cd914084a2afa998d401d30d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Savannah Chrisley Spotted With Mystery Boyfriend In Nashville]]></title>
-            <link>https://www.tmz.com/2026/06/11/savannah-chrisleys-new-boyfriend-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/11/savannah-chrisleys-new-boyfriend-photos/</guid>
-            <pubDate>Fri, 12 Jun 2026 01:00:10 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/06/11/b8de724c991f4921b017b6366f5d4290_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/06/11/b8de724c991f4921b017b6366f5d4290_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/06/11/b8de724c991f4921b017b6366f5d4290_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tyrese Gibson Snatches Paul Walker&#039;s Brother Away Before He Can Talk &#039;Fast 11&#039;]]></title>
-            <link>https://www.tmz.com/2026/06/11/tyrese-gibson-avoids-cody-walker-fast-and-furious-11-questioning/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/11/tyrese-gibson-avoids-cody-walker-fast-and-furious-11-questioning/</guid>
-            <pubDate>Fri, 12 Jun 2026 00:38:21 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/06/11/869934835375419c9aab1b4bb71775f9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/06/11/869934835375419c9aab1b4bb71775f9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/06/11/869934835375419c9aab1b4bb71775f9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cassie: Ex-Male Escort Goes Off About Her Filming Diddy Freak-Offs]]></title>
-            <link>https://www.tmz.com/2026/06/11/ex-male-escort-suing-cassie-slams-filming-diddy-freakoffs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/11/ex-male-escort-suing-cassie-slams-filming-diddy-freakoffs/</guid>
-            <pubDate>Fri, 12 Jun 2026 00:21:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/55/16by9/2026/06/12/559d18e9c73b4d68b1ff50f11522bb44_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/55/16by9/2026/06/12/559d18e9c73b4d68b1ff50f11522bb44_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/55/16by9/2026/06/12/559d18e9c73b4d68b1ff50f11522bb44_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
