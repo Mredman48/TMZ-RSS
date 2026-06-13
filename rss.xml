@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 22:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 23:46:22 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Austin Metcalf&#039;s Dad Says Twin Brother Hunter Is Still Hurting]]></title>
+            <link>https://www.tmz.com/2026/06/13/austin-metcalf-dad-jeff-hunter-trauma/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/austin-metcalf-dad-jeff-hunter-trauma/</guid>
+            <pubDate>Sat, 13 Jun 2026 23:30:26 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/12/16by9/2026/06/13/12980a62eff0452fa7eda78a17bff9d9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/12/16by9/2026/06/13/12980a62eff0452fa7eda78a17bff9d9_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/06/13/12980a62eff0452fa7eda78a17bff9d9_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rosie O&#039;Donnell Hopeful After Visiting Daughter Chelsea in Prison]]></title>
+            <link>https://www.tmz.com/2026/06/13/rosie-odonnell-daughter-chelsea-doing-well-prison/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/rosie-odonnell-daughter-chelsea-doing-well-prison/</guid>
+            <pubDate>Sat, 13 Jun 2026 22:55:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/06/13/d41dd5d214974a79814c3850d384fb6b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/06/13/d41dd5d214974a79814c3850d384fb6b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/06/13/d41dd5d214974a79814c3850d384fb6b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ex-NFL Receiver Andre Rison Jailed for Allegedly Driving While Intoxicated]]></title>
             <link>https://www.tmz.com/2026/06/13/former-nfl-star-andre-rison-in-jail-driving-while-intoxicated/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/06/13/4c161a69931b458b8c23d9a42a1a64ce_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/06/13/4c161a69931b458b8c23d9a42a1a64ce_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Keke Palmer, Sean Evans Spotted on NYC Date Amid Dating Speculation]]></title>
-            <link>https://www.tmz.com/2026/06/13/keke-palmer-and-sean-evans-in-nyc-together/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/keke-palmer-and-sean-evans-in-nyc-together/</guid>
-            <pubDate>Sat, 13 Jun 2026 20:07:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/10/16by9/2026/06/13/1007e3c9732a4a3bbf8f0117e33528c6_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/10/16by9/2026/06/13/1007e3c9732a4a3bbf8f0117e33528c6_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/10/16by9/2026/06/13/1007e3c9732a4a3bbf8f0117e33528c6_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Amelia Gray Hamlin Hot Shots to Kick Off Her 25th Birthday!]]></title>
-            <link>https://www.tmz.com/2026/06/13/amelia-gray-hamlin-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/amelia-gray-hamlin-birthday-hot-shots/</guid>
-            <pubDate>Sat, 13 Jun 2026 20:00:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/de/16by9/2023/06/12/ded2fea4a556430eb1e5edb36bff1f3e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/de/16by9/2023/06/12/ded2fea4a556430eb1e5edb36bff1f3e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2023/06/12/ded2fea4a556430eb1e5edb36bff1f3e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
