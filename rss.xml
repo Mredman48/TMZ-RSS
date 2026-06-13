@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 20:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 22:43:43 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ex-NFL Receiver Andre Rison Jailed for Allegedly Driving While Intoxicated]]></title>
+            <link>https://www.tmz.com/2026/06/13/former-nfl-star-andre-rison-in-jail-driving-while-intoxicated/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/former-nfl-star-andre-rison-in-jail-driving-while-intoxicated/</guid>
+            <pubDate>Sat, 13 Jun 2026 22:23:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/06/13/35d3ae62731e47e6bcf2e3bec9dcf7d5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/06/13/35d3ae62731e47e6bcf2e3bec9dcf7d5_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/06/13/35d3ae62731e47e6bcf2e3bec9dcf7d5_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Anna Faris Reveals Keenen Ivory Wayans Wanted Her to Leave &#039;Scary Movie&#039; Franchise]]></title>
+            <link>https://www.tmz.com/2026/06/13/anna-faris-says-keenen-ivory-wayans-wanted-her-leave-scary-movie/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/anna-faris-says-keenen-ivory-wayans-wanted-her-leave-scary-movie/</guid>
+            <pubDate>Sat, 13 Jun 2026 20:51:25 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/06/13/e7ec50bcc44d44f28983e5d289bcbb90_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/06/13/e7ec50bcc44d44f28983e5d289bcbb90_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/06/13/e7ec50bcc44d44f28983e5d289bcbb90_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[NY AG Letitia James Demands Spurs Allow Knicks Fans to Buy Game 5 Finals Tickets]]></title>
             <link>https://www.tmz.com/2026/06/13/letitia-james-spurs-knicks-fans-game-5-tickets/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/de/16by9/2023/06/12/ded2fea4a556430eb1e5edb36bff1f3e_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2023/06/12/ded2fea4a556430eb1e5edb36bff1f3e_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Vanessa Trump Opens Up About Progress in Breast Cancer Battle]]></title>
-            <link>https://www.tmz.com/2026/06/13/vanessa-trump-gives-breast-cancer-update/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/vanessa-trump-gives-breast-cancer-update/</guid>
-            <pubDate>Sat, 13 Jun 2026 19:32:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/df/16by9/2026/06/13/dfeeb2fd149c4c828048bef57eb34933_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/df/16by9/2026/06/13/dfeeb2fd149c4c828048bef57eb34933_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/df/16by9/2026/06/13/dfeeb2fd149c4c828048bef57eb34933_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Australian Sprinter Jemma Stapleton Dead at 25 After Motorcycle Crash in Thailand]]></title>
-            <link>https://www.tmz.com/2026/06/13/jemma-stapleton-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/jemma-stapleton-dead/</guid>
-            <pubDate>Sat, 13 Jun 2026 19:20:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/06/13/d3196c7720a24ada82797105a238b2c2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/06/13/d3196c7720a24ada82797105a238b2c2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/06/13/d3196c7720a24ada82797105a238b2c2_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
