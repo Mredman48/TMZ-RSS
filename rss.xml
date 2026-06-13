@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 15:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 17:01:16 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[NBA Star James Harden Arrested, Charged with Carrying Unlawful Weapons]]></title>
+            <link>https://www.tmz.com/2026/06/13/james-harden-arrested/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/james-harden-arrested/</guid>
+            <pubDate>Sat, 13 Jun 2026 16:07:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/81/16by9/2026/06/13/81a8a8abdf5d48d7a75a3544bac6d6b9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/81/16by9/2026/06/13/81a8a8abdf5d48d7a75a3544bac6d6b9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/81/16by9/2026/06/13/81a8a8abdf5d48d7a75a3544bac6d6b9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tyra Banks Sues Netflix for Defamation Following &#039;America’s Next Top Model&#039; Documentary]]></title>
+            <link>https://www.tmz.com/2026/06/13/tyra-banks-sues-netflix-for-defamation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/tyra-banks-sues-netflix-for-defamation/</guid>
+            <pubDate>Sat, 13 Jun 2026 15:28:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/54/16by9/2026/06/13/54684e949b7c421a970483db0736412c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/54/16by9/2026/06/13/54684e949b7c421a970483db0736412c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/54/16by9/2026/06/13/54684e949b7c421a970483db0736412c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Jeff Metcalf Slams Frisco School Superintendent Over Karmelo Anthony]]></title>
             <link>https://www.tmz.com/2026/06/13/austin-metcalf-dad-calls-out-frisco-texas-superintendent/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/39/16by9/2026/06/13/394578d7321440949a1239b8f5f75227_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/39/16by9/2026/06/13/394578d7321440949a1239b8f5f75227_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[President Trump Orders U.S. Strike on Tren De Aragua Leader, Blows Him Up on Video]]></title>
-            <link>https://www.tmz.com/2026/06/13/donald-trump-shares-video-of-tren-de-aragua-leader-explosion/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/donald-trump-shares-video-of-tren-de-aragua-leader-explosion/</guid>
-            <pubDate>Sat, 13 Jun 2026 12:33:26 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/41/16by9/2026/06/13/41c3c0356f994089a1d3ab0884b41b54_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/41/16by9/2026/06/13/41c3c0356f994089a1d3ab0884b41b54_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/41/16by9/2026/06/13/41c3c0356f994089a1d3ab0884b41b54_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ashlee Jenae&#039;s Fiancé Joe McCann To Create Foundation in Her Honor]]></title>
-            <link>https://www.tmz.com/2026/06/13/joe-mccann-to-create-ashlee-jenae-nonprofit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/joe-mccann-to-create-ashlee-jenae-nonprofit/</guid>
-            <pubDate>Sat, 13 Jun 2026 08:00:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/61/16by9/2026/06/12/617cae27aa2445e6b305520ff141b001_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/61/16by9/2026/06/12/617cae27aa2445e6b305520ff141b001_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/06/12/617cae27aa2445e6b305520ff141b001_xl.png">
             </media:thumbnail>
         </item>
     </channel>
