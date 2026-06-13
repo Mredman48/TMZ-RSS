@@ -4,11 +4,11 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 09:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 11:31:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Ashlee Jenae&#039;s Fiancé Joe McCann To Create Foundation in Her Honor (AUTO)]]></title>
+            <title><![CDATA[Ashlee Jenae&#039;s Fiancé Joe McCann To Create Foundation in Her Honor]]></title>
             <link>https://www.tmz.com/2026/06/13/joe-mccann-to-create-ashlee-jenae-nonprofit/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/06/13/joe-mccann-to-create-ashlee-jenae-nonprofit/</guid>
             <pubDate>Sat, 13 Jun 2026 08:00:16 GMT</pubDate>
