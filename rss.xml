@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 14:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 17:00:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[NFL Star Aldon Smith Spoke About Struggling, Days Before Sudden Death]]></title>
+            <link>https://www.tmz.com/2026/06/14/aldon-smith-mental-health-challenges-before-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/aldon-smith-mental-health-challenges-before-death/</guid>
+            <pubDate>Sun, 14 Jun 2026 16:30:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/06/14/2dd650cda50d4d30ab89dc65ad1961fc_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/06/14/2dd650cda50d4d30ab89dc65ad1961fc_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/06/14/2dd650cda50d4d30ab89dc65ad1961fc_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Sydney Sweeney at NBA Finals Game 5 Sparks Charles Barkley Reaction]]></title>
+            <link>https://www.tmz.com/2026/06/14/charles-barkley-weighs-in-on-sydney-sweeney-attending-knicks-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/charles-barkley-weighs-in-on-sydney-sweeney-attending-knicks-game/</guid>
+            <pubDate>Sun, 14 Jun 2026 15:45:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ec/16by9/2026/06/14/ecb19e22cafe40959259380536be88bb_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/06/14/ecb19e22cafe40959259380536be88bb_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/06/14/ecb19e22cafe40959259380536be88bb_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jalen Brunson Defends Monica McNutt After Viral Taylor Swift Hot Mic]]></title>
+            <link>https://www.tmz.com/2026/06/14/jalen-brunson-backs-monica-mcnutt-over-taylor-swift-knicks-take/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/jalen-brunson-backs-monica-mcnutt-over-taylor-swift-knicks-take/</guid>
+            <pubDate>Sun, 14 Jun 2026 15:19:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/86/16by9/2026/06/14/86c0f15975a4493abeb841b71739c880_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/86/16by9/2026/06/14/86c0f15975a4493abeb841b71739c880_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/86/16by9/2026/06/14/86c0f15975a4493abeb841b71739c880_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Shooting After Knicks Game 5 Win Leaves One Injured, Cops Say]]></title>
+            <link>https://www.tmz.com/2026/06/14/shooting-in-times-square-after-knicks-game/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/shooting-in-times-square-after-knicks-game/</guid>
+            <pubDate>Sun, 14 Jun 2026 15:00:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/06/14/d70deaf0c7b64ecf947558ca8a17ecc8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/06/14/d70deaf0c7b64ecf947558ca8a17ecc8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/06/14/d70deaf0c7b64ecf947558ca8a17ecc8_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Timothée Chalamet Snubs Oscars After Knicks Win NBA Championship]]></title>
             <link>https://www.tmz.com/2026/06/14/timothee-chalamet-prefers-knicks-game-over-oscars-ceremony/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/09/16by9/2026/06/14/09b86761e07346819833c153b24559a3_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/09/16by9/2026/06/14/09b86761e07346819833c153b24559a3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Chaos Erupts in New York City After Knicks Secure Game 5 Win in NBA Finals]]></title>
-            <link>https://www.tmz.com/2026/06/14/new-york-city-chaos-after-knicks-win/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/new-york-city-chaos-after-knicks-win/</guid>
-            <pubDate>Sun, 14 Jun 2026 13:58:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/06/14/2b88f67669bc4353b2246280beaa4cb1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/06/14/2b88f67669bc4353b2246280beaa4cb1_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/06/14/2b88f67669bc4353b2246280beaa4cb1_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cardi B Has Full-Blown Freakout After New York Knicks Score Game 5 Win]]></title>
-            <link>https://www.tmz.com/2026/06/14/cardi-b-celebrates-knicks/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/cardi-b-celebrates-knicks/</guid>
-            <pubDate>Sun, 14 Jun 2026 13:14:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e3/16by9/2026/06/14/e30896bf96314f2e9adfaace7b7591e1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e3/16by9/2026/06/14/e30896bf96314f2e9adfaace7b7591e1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e3/16by9/2026/06/14/e30896bf96314f2e9adfaace7b7591e1_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Woman Dies After Falling From Bridge During Bungee Jump Accident in Brazil]]></title>
-            <link>https://www.tmz.com/2026/06/14/woman-dead-after-bungee-jumping-accident-in-brazil/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/woman-dead-after-bungee-jumping-accident-in-brazil/</guid>
-            <pubDate>Sun, 14 Jun 2026 12:58:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/06/14/256a33e03df24b1493d13ecfd0fe250d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/06/14/256a33e03df24b1493d13ecfd0fe250d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/06/14/256a33e03df24b1493d13ecfd0fe250d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift & Travis Kelce Grab Dinner After Broadway Date Night]]></title>
-            <link>https://www.tmz.com/2026/06/14/taylor-swift-and-travis-kelce-spotted-after-oh-mary/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/taylor-swift-and-travis-kelce-spotted-after-oh-mary/</guid>
-            <pubDate>Sun, 14 Jun 2026 12:43:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/06/14/9093b3336e73410c8663fb97d69ffdf2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/06/14/9093b3336e73410c8663fb97d69ffdf2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/06/14/9093b3336e73410c8663fb97d69ffdf2_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
