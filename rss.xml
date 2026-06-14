@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 18:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 20:50:26 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Oliver Tree&#039;s Final Post From Brazil Prior to Tragic Helicopter Crash Death]]></title>
+            <link>https://www.tmz.com/2026/06/14/oliver-tree-last-days/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/oliver-tree-last-days/</guid>
+            <pubDate>Sun, 14 Jun 2026 20:28:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/06/14/6337584bd9cc44f1b4ac50c47c534b9d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/06/14/6337584bd9cc44f1b4ac50c47c534b9d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/06/14/6337584bd9cc44f1b4ac50c47c534b9d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Argentine YouTuber Gaspi Dead at 23, Among 6 Killed in Crash with Oliver Tree]]></title>
+            <link>https://www.tmz.com/2026/06/14/gaspi-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/gaspi-dead/</guid>
+            <pubDate>Sun, 14 Jun 2026 19:41:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/06/14/216f8b7fd2074b4a8df4d66c15127f84_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/06/14/216f8b7fd2074b4a8df4d66c15127f84_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/06/14/216f8b7fd2074b4a8df4d66c15127f84_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Mitch McConnell Hospitalized Again, Receiving &#039;Excellent Care&#039;]]></title>
+            <link>https://www.tmz.com/2026/06/14/mitch-mcconnell-hospitalized/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/mitch-mcconnell-hospitalized/</guid>
+            <pubDate>Sun, 14 Jun 2026 18:53:39 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1a/16by9/2026/06/14/1a7ec7fdd4d64f39afdce41fbd20219e_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1a/16by9/2026/06/14/1a7ec7fdd4d64f39afdce41fbd20219e_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1a/16by9/2026/06/14/1a7ec7fdd4d64f39afdce41fbd20219e_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Singer Oliver Tree Dead at 32 After Helicopter Crash in Brazil]]></title>
             <link>https://www.tmz.com/2026/06/14/oliver-tree-dead/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/f6/16by9/2026/06/09/f689148887ac471cb24ae9a028125a59_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/f6/16by9/2026/06/09/f689148887ac471cb24ae9a028125a59_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kim Kardashian Supports Ariana Grande at ‘Eternal Sunshine’ Tour Stop in L.A.]]></title>
-            <link>https://www.tmz.com/2026/06/14/kim-kardashian-emma-roberts-at-ariana-grande-tour/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/kim-kardashian-emma-roberts-at-ariana-grande-tour/</guid>
-            <pubDate>Sun, 14 Jun 2026 17:30:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/06/14/5957717e265e4f8786fcc6d7ab454b7b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/06/14/5957717e265e4f8786fcc6d7ab454b7b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/06/14/5957717e265e4f8786fcc6d7ab454b7b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Glen Powell and Michelle Randolph Pack on PDA in NYC]]></title>
-            <link>https://www.tmz.com/2026/06/14/glen-powell-michelle-randolph-kissing-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/glen-powell-michelle-randolph-kissing-pictures/</guid>
-            <pubDate>Sun, 14 Jun 2026 17:00:56 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e2/16by9/2026/06/14/e2a1f25e2a9041b6a4dd363d37c0843d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/06/14/e2a1f25e2a9041b6a4dd363d37c0843d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/06/14/e2a1f25e2a9041b6a4dd363d37c0843d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NFL Star Aldon Smith Spoke About Struggling, Days Before Sudden Death]]></title>
-            <link>https://www.tmz.com/2026/06/14/aldon-smith-mental-health-challenges-before-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/14/aldon-smith-mental-health-challenges-before-death/</guid>
-            <pubDate>Sun, 14 Jun 2026 16:30:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2d/16by9/2026/06/14/2dd650cda50d4d30ab89dc65ad1961fc_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2d/16by9/2026/06/14/2dd650cda50d4d30ab89dc65ad1961fc_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2d/16by9/2026/06/14/2dd650cda50d4d30ab89dc65ad1961fc_xl.png">
             </media:thumbnail>
         </item>
     </channel>
