@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 23:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 05:19:11 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[N.Y. Knicks Win NBA Title, Beat Spurs In 5 Games]]></title>
+            <link>https://www.tmz.com/2026/06/13/new-york-knicks-win-nba-title-beat-spurs/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/new-york-knicks-win-nba-title-beat-spurs/</guid>
+            <pubDate>Sun, 14 Jun 2026 03:45:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/06/12/7224d7c3dd004c15975e7332d581b0ca_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/06/12/7224d7c3dd004c15975e7332d581b0ca_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/06/12/7224d7c3dd004c15975e7332d581b0ca_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Gavin Magnus Makes Relationship With OnlyFans Star Piper Rockelle Official]]></title>
+            <link>https://www.tmz.com/2026/06/13/gavin-magnus-confirms-he-is-dating-piper-rockelle/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/gavin-magnus-confirms-he-is-dating-piper-rockelle/</guid>
+            <pubDate>Sun, 14 Jun 2026 01:30:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/06/13/8dd01c38ecbc45799f45d48b5ca61526_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/06/13/8dd01c38ecbc45799f45d48b5ca61526_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/06/13/8dd01c38ecbc45799f45d48b5ca61526_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Alix Earle Shares Jaw-Dropping Hot Shots With Celebrity Crew]]></title>
+            <link>https://www.tmz.com/2026/06/13/alix-earle-celeb-friends-night-out/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/alix-earle-celeb-friends-night-out/</guid>
+            <pubDate>Sun, 14 Jun 2026 00:30:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2a/16by9/2026/06/13/2a03055a89204ae6b9780fc3c57c9b62_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2a/16by9/2026/06/13/2a03055a89204ae6b9780fc3c57c9b62_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2a/16by9/2026/06/13/2a03055a89204ae6b9780fc3c57c9b62_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Former NFL Star Defensive End Aldon Smith Dead at 36]]></title>
+            <link>https://www.tmz.com/2026/06/13/former-nfl-defensive-end-aldon-smith-dead-at-36/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/former-nfl-defensive-end-aldon-smith-dead-at-36/</guid>
+            <pubDate>Sun, 14 Jun 2026 00:01:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/de/16by9/2026/06/13/dec8106d44c04fdf8f6aa6274e7f2d1f_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/de/16by9/2026/06/13/dec8106d44c04fdf8f6aa6274e7f2d1f_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/de/16by9/2026/06/13/dec8106d44c04fdf8f6aa6274e7f2d1f_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Austin Metcalf&#039;s Dad Says Twin Brother Hunter Is Still Hurting]]></title>
             <link>https://www.tmz.com/2026/06/13/austin-metcalf-dad-jeff-hunter-trauma/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/12/16by9/2026/06/13/12980a62eff0452fa7eda78a17bff9d9_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/12/16by9/2026/06/13/12980a62eff0452fa7eda78a17bff9d9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rosie O&#039;Donnell Hopeful After Visiting Daughter Chelsea in Prison]]></title>
-            <link>https://www.tmz.com/2026/06/13/rosie-odonnell-daughter-chelsea-doing-well-prison/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/rosie-odonnell-daughter-chelsea-doing-well-prison/</guid>
-            <pubDate>Sat, 13 Jun 2026 22:55:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d4/16by9/2026/06/13/d41dd5d214974a79814c3850d384fb6b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d4/16by9/2026/06/13/d41dd5d214974a79814c3850d384fb6b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d4/16by9/2026/06/13/d41dd5d214974a79814c3850d384fb6b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-NFL Receiver Andre Rison Jailed for Allegedly Driving While Intoxicated]]></title>
-            <link>https://www.tmz.com/2026/06/13/former-nfl-star-andre-rison-in-jail-driving-while-intoxicated/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/former-nfl-star-andre-rison-in-jail-driving-while-intoxicated/</guid>
-            <pubDate>Sat, 13 Jun 2026 22:23:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/06/13/35d3ae62731e47e6bcf2e3bec9dcf7d5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/06/13/35d3ae62731e47e6bcf2e3bec9dcf7d5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/06/13/35d3ae62731e47e6bcf2e3bec9dcf7d5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Anna Faris Reveals Keenen Ivory Wayans Wanted Her to Leave &#039;Scary Movie&#039; Franchise]]></title>
-            <link>https://www.tmz.com/2026/06/13/anna-faris-says-keenen-ivory-wayans-wanted-her-leave-scary-movie/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/anna-faris-says-keenen-ivory-wayans-wanted-her-leave-scary-movie/</guid>
-            <pubDate>Sat, 13 Jun 2026 20:51:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/06/13/e7ec50bcc44d44f28983e5d289bcbb90_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/06/13/e7ec50bcc44d44f28983e5d289bcbb90_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/06/13/e7ec50bcc44d44f28983e5d289bcbb90_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[NY AG Letitia James Demands Spurs Allow Knicks Fans to Buy Game 5 Finals Tickets]]></title>
-            <link>https://www.tmz.com/2026/06/13/letitia-james-spurs-knicks-fans-game-5-tickets/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/13/letitia-james-spurs-knicks-fans-game-5-tickets/</guid>
-            <pubDate>Sat, 13 Jun 2026 20:28:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4c/16by9/2026/06/13/4c161a69931b458b8c23d9a42a1a64ce_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4c/16by9/2026/06/13/4c161a69931b458b8c23d9a42a1a64ce_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4c/16by9/2026/06/13/4c161a69931b458b8c23d9a42a1a64ce_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
