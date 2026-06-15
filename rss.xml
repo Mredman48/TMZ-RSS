@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 19:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 22:03:14 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Gavin Newsom Claims Trump&#039;s Department of Justice Is Investigating Him]]></title>
-            <link>https://www.tmz.com/2026/06/15/gavin-newsom-under-investigation-by-department-of-justice/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/gavin-newsom-under-investigation-by-department-of-justice/</guid>
-            <pubDate>Mon, 15 Jun 2026 19:21:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/18/16by9/2026/06/15/182552e4d8ce4218ad66abc8747f3862_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/18/16by9/2026/06/15/182552e4d8ce4218ad66abc8747f3862_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Love Island USA&#039; Executive Producer&#039;s Sudden Death Is &#039;Unimaginable,&#039; Partner Says]]></title>
+            <link>https://www.tmz.com/2026/06/15/james-barker-partner-speaks-out-after-his-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/james-barker-partner-speaks-out-after-his-death/</guid>
+            <pubDate>Mon, 15 Jun 2026 21:46:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/06/15/0e2b7660a7244d3eb96d94d87b16d350_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/06/15/0e2b7660a7244d3eb96d94d87b16d350_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/18/16by9/2026/06/15/182552e4d8ce4218ad66abc8747f3862_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/06/15/0e2b7660a7244d3eb96d94d87b16d350_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Knicks Star Mikal Bridges Jams Out To Coldplay, Demands Brunson Statue In Hilarious IG Live]]></title>
-            <link>https://www.tmz.com/2026/06/15/knicks-mikal-bridges-sings-coldplay-drinks-live-after-winning-nba-title/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/knicks-mikal-bridges-sings-coldplay-drinks-live-after-winning-nba-title/</guid>
-            <pubDate>Mon, 15 Jun 2026 19:09:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/06/15/11102c6d3bed49c182f35fa117f109c1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/06/15/11102c6d3bed49c182f35fa117f109c1_xl.jpg" medium="image">
+            <title><![CDATA[Jemele Hill Says UFC Freedom 250 Felt Like It Wasn&#039;t Meant for All Americans]]></title>
+            <link>https://www.tmz.com/2026/06/15/jemele-hill-ufc-freedom-250-interview/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/jemele-hill-ufc-freedom-250-interview/</guid>
+            <pubDate>Mon, 15 Jun 2026 21:22:28 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/49/16by9/2026/06/15/49376761aa5440249954979f5ad27342_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/49/16by9/2026/06/15/49376761aa5440249954979f5ad27342_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/06/15/11102c6d3bed49c182f35fa117f109c1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/49/16by9/2026/06/15/49376761aa5440249954979f5ad27342_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Spencer Pratt Joins Heidi Montag in Hawaii For Music Video Shoot After Election Loss]]></title>
-            <link>https://www.tmz.com/2026/06/15/heidi-montag-shoots-music-video-in-hawaii-after-spencer-pratt-mayoral-loss/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/heidi-montag-shoots-music-video-in-hawaii-after-spencer-pratt-mayoral-loss/</guid>
-            <pubDate>Mon, 15 Jun 2026 19:00:59 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ec/16by9/2026/06/15/ec6cf65fb82d4850b7a47dc295c6bee1_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ec/16by9/2026/06/15/ec6cf65fb82d4850b7a47dc295c6bee1_xl.jpg" medium="image">
+            <title><![CDATA[Rosie O&#039;Donnell Calls Trump&#039;s UFC Fans Racist, Homophobic, and Un-American]]></title>
+            <link>https://www.tmz.com/2026/06/15/rosie-odonnell-blasts-trump-ufc-fans/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/rosie-odonnell-blasts-trump-ufc-fans/</guid>
+            <pubDate>Mon, 15 Jun 2026 21:00:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/06/15/653450d591644feb9e03e84d5ab1aa7b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/06/15/653450d591644feb9e03e84d5ab1aa7b_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ec/16by9/2026/06/15/ec6cf65fb82d4850b7a47dc295c6bee1_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/06/15/653450d591644feb9e03e84d5ab1aa7b_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Late NFL Star Aldon Smith Spent Final Hours Delivering Pizza to Homeless]]></title>
-            <link>https://www.tmz.com/2026/06/15/aldon-smith-final-hours/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/aldon-smith-final-hours/</guid>
-            <pubDate>Mon, 15 Jun 2026 18:56:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b2/16by9/2026/06/15/b235f058f80a4dd0b830296803f1b804_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b2/16by9/2026/06/15/b235f058f80a4dd0b830296803f1b804_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Star Wars&#039; Fans Mad at Hayden Christensen For Ditching Pricey Panel For NBA Finals]]></title>
+            <link>https://www.tmz.com/2026/06/15/hayden-christensen-leaves-star-wars-panel-for-nba-finals/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/hayden-christensen-leaves-star-wars-panel-for-nba-finals/</guid>
+            <pubDate>Mon, 15 Jun 2026 20:45:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1f/16by9/2026/06/15/1f0aef856bdd48a094bccecf36822790_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1f/16by9/2026/06/15/1f0aef856bdd48a094bccecf36822790_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b2/16by9/2026/06/15/b235f058f80a4dd0b830296803f1b804_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/1f/16by9/2026/06/15/1f0aef856bdd48a094bccecf36822790_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Ilia Topuria Says He Fought Two Rounds Against Justin Gaethje With No Eyesight]]></title>
-            <link>https://www.tmz.com/2026/06/15/ilia-topuria-speaks-out-after-justin-gaethje-loss/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/ilia-topuria-speaks-out-after-justin-gaethje-loss/</guid>
-            <pubDate>Mon, 15 Jun 2026 18:43:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b4/16by9/2026/06/15/b4634236e68a440f8b50b5255cd7936a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b4/16by9/2026/06/15/b4634236e68a440f8b50b5255cd7936a_xl.jpg" medium="image">
+            <title><![CDATA[Jalen Brunson Seemingly Toasts To &#039;F*** Wemby&#039; At Knicks Party]]></title>
+            <link>https://www.tmz.com/2026/06/15/jalen-brunson-f-wemby-toast/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/15/jalen-brunson-f-wemby-toast/</guid>
+            <pubDate>Mon, 15 Jun 2026 20:27:08 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ca/16by9/2026/06/15/cada39f1f8374a42981da833982aae26_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ca/16by9/2026/06/15/cada39f1f8374a42981da833982aae26_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b4/16by9/2026/06/15/b4634236e68a440f8b50b5255cd7936a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/ca/16by9/2026/06/15/cada39f1f8374a42981da833982aae26_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
