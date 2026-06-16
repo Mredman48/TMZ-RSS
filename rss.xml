@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 11:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 17:36:48 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[FBI Reportedly Foils Attack On UFC Freedom 250 Event Involving Explosive Drones]]></title>
-            <link>https://www.tmz.com/2026/06/16/fbi-reportedly-foils-attack-on-ufc-freedom-250-event-involving-explosive-drones/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/fbi-reportedly-foils-attack-on-ufc-freedom-250-event-involving-explosive-drones/</guid>
-            <pubDate>Tue, 16 Jun 2026 11:09:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c8/16by9/2026/06/13/c81fa63864704d2690cc92e0543891dc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c8/16by9/2026/06/13/c81fa63864704d2690cc92e0543891dc_xl.jpg" medium="image">
+            <title><![CDATA[TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!]]></title>
+            <link>https://www.tmz.com/2026/06/16/watch-tmz-live-today/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/watch-tmz-live-today/</guid>
+            <pubDate>Tue, 16 Jun 2026 17:30:57 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/5b/16by9/2026/06/16/5be39570f3084c3c9b4faee84aaf37aa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/5b/16by9/2026/06/16/5be39570f3084c3c9b4faee84aaf37aa_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c8/16by9/2026/06/13/c81fa63864704d2690cc92e0543891dc_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/5b/16by9/2026/06/16/5be39570f3084c3c9b4faee84aaf37aa_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift Having Massive Stage Built for Wedding]]></title>
-            <link>https://www.tmz.com/2026/06/16/taylor-swift-building-stage-for-wedding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/taylor-swift-building-stage-for-wedding/</guid>
-            <pubDate>Tue, 16 Jun 2026 08:00:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/aa/16by9/2026/06/15/aa88d534c35a4ac1bffd3baf7fcaf9d4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/aa/16by9/2026/06/15/aa88d534c35a4ac1bffd3baf7fcaf9d4_xl.jpg" medium="image">
+            <title><![CDATA[Brooklyn Beckham Doubles Down On Family Feud, Throws Shade With World Cup Ad]]></title>
+            <link>https://www.tmz.com/2026/06/16/brooklyn-beckham-world-cup-ad-addresses-family-feud/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/brooklyn-beckham-world-cup-ad-addresses-family-feud/</guid>
+            <pubDate>Tue, 16 Jun 2026 17:29:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/60/16by9/2026/06/16/60ae674850134f41bc1bf5e7946c2aea_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/60/16by9/2026/06/16/60ae674850134f41bc1bf5e7946c2aea_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/aa/16by9/2026/06/15/aa88d534c35a4ac1bffd3baf7fcaf9d4_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/60/16by9/2026/06/16/60ae674850134f41bc1bf5e7946c2aea_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Chris Tucker Reveals He’s Been Celibate For 3 Years at Vegas Gig]]></title>
-            <link>https://www.tmz.com/2026/06/16/chris-tucker-has-not-had-sex-for-3-years/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/chris-tucker-has-not-had-sex-for-3-years/</guid>
-            <pubDate>Tue, 16 Jun 2026 07:30:58 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a7/16by9/2026/06/15/a77958576c2144519fadd32c0309a3ab_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/a7/16by9/2026/06/15/a77958576c2144519fadd32c0309a3ab_xl.jpg" medium="image">
+            <title><![CDATA[Jeffrey Epstein Fashioned Multiple Nooses Before Ending His Life]]></title>
+            <link>https://www.tmz.com/2026/06/16/jeffrey-epstein-made-multiple-nooses-before-ending-his-life/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/jeffrey-epstein-made-multiple-nooses-before-ending-his-life/</guid>
+            <pubDate>Tue, 16 Jun 2026 17:00:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/81/16by9/2026/06/16/8126607bd81e4b02a8980cd03c855e7a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/81/16by9/2026/06/16/8126607bd81e4b02a8980cd03c855e7a_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a7/16by9/2026/06/15/a77958576c2144519fadd32c0309a3ab_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/81/16by9/2026/06/16/8126607bd81e4b02a8980cd03c855e7a_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Francis Ngannou Says He Bet On Justin Gaethje To Win Freedom 250 Fight]]></title>
-            <link>https://www.tmz.com/2026/06/16/francis-ngannou-bet-on-justin-gaethje-at-ufc-freedom-250/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/francis-ngannou-bet-on-justin-gaethje-at-ufc-freedom-250/</guid>
-            <pubDate>Tue, 16 Jun 2026 07:30:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ae/16by9/2026/06/15/ae68525f2f7548b0988b28da6356c855_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/ae/16by9/2026/06/15/ae68525f2f7548b0988b28da6356c855_xl.png" medium="image">
+            <title><![CDATA[Karl-Anthony Towns Hasn&#039;t Started Planning Wedding, Was Focused On Winning NBA Title]]></title>
+            <link>https://www.tmz.com/2026/06/16/karl-anthony-towns-has-not-planned-wedding/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/karl-anthony-towns-has-not-planned-wedding/</guid>
+            <pubDate>Tue, 16 Jun 2026 16:59:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/06/16/65a26a03d61a45208f093a2ac02e8025_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/06/16/65a26a03d61a45208f093a2ac02e8025_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ae/16by9/2026/06/15/ae68525f2f7548b0988b28da6356c855_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/06/16/65a26a03d61a45208f093a2ac02e8025_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Waterfall For These Sizzling Stars ... What A Rush!]]></title>
-            <link>https://www.tmz.com/2026/06/16/celebrities-in-waterfalls-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/celebrities-in-waterfalls-pictures/</guid>
-            <pubDate>Tue, 16 Jun 2026 07:30:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b1/16by9/2026/06/15/b1dc5b29066b44cb82a545b272ceb764_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b1/16by9/2026/06/15/b1dc5b29066b44cb82a545b272ceb764_xl.jpg" medium="image">
+            <title><![CDATA[Bunnie XO Jokes Jelly Roll &#039;Butchers&#039; Nickelback, Creed Songs Amid Divorce]]></title>
+            <link>https://www.tmz.com/2026/06/16/bunnie-xo-teased-jelly-roll-over-nickelback-creed-covers-before-divorce-news/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/16/bunnie-xo-teased-jelly-roll-over-nickelback-creed-covers-before-divorce-news/</guid>
+            <pubDate>Tue, 16 Jun 2026 16:45:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/06/16/8c463b1480e649e38ca6412ac17e0d03_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/06/16/8c463b1480e649e38ca6412ac17e0d03_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b1/16by9/2026/06/15/b1dc5b29066b44cb82a545b272ceb764_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/06/16/8c463b1480e649e38ca6412ac17e0d03_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
