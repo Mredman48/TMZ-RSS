@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 20:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 21:48:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[&#039;Celebrity Crime Scene: Marilyn Monroe&#039; Investigator Says Powerful Figures Were Behind Her Death]]></title>
+            <link>https://www.tmz.com/2026/06/19/paul-holes-says-powerful-figures-behind-marilyn-monroe-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/paul-holes-says-powerful-figures-behind-marilyn-monroe-death/</guid>
+            <pubDate>Fri, 19 Jun 2026 21:25:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/06/19/45c3ad959dee42d1b3a0335906531931_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/06/19/45c3ad959dee42d1b3a0335906531931_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/06/19/45c3ad959dee42d1b3a0335906531931_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[NeNe Leakes&#039; Son Locked Up Over Unpaid Child Support, Allegedly Skipped Drug Eval]]></title>
+            <link>https://www.tmz.com/2026/06/19/nene-leakes-son-bryson-in-jail-over-unpaid-child-support-missing-drug-tests/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/nene-leakes-son-bryson-in-jail-over-unpaid-child-support-missing-drug-tests/</guid>
+            <pubDate>Fri, 19 Jun 2026 20:35:52 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cf/16by9/2026/06/19/cf95f66558a3404083d0ec3c6b70b807_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cf/16by9/2026/06/19/cf95f66558a3404083d0ec3c6b70b807_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cf/16by9/2026/06/19/cf95f66558a3404083d0ec3c6b70b807_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[D4vd&#039;s Former Friend Aysia Collins Says He&#039;s Psychopath Who Betrayed His Circle]]></title>
+            <link>https://www.tmz.com/2026/06/19/d4vd-former-friend-aysia-collins-calls-him-lying-psychopath/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/d4vd-former-friend-aysia-collins-calls-him-lying-psychopath/</guid>
+            <pubDate>Fri, 19 Jun 2026 20:26:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7a/16by9/2026/06/19/7a9bf56b4d704a2585ba5f24fd681bf8_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/7a/16by9/2026/06/19/7a9bf56b4d704a2585ba5f24fd681bf8_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7a/16by9/2026/06/19/7a9bf56b4d704a2585ba5f24fd681bf8_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Pete Davidson Spotted Pushing Daughter in Stroller in New York City]]></title>
+            <link>https://www.tmz.com/2026/06/19/pete-davidson-pushes-daughter-in-stroller/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/pete-davidson-pushes-daughter-in-stroller/</guid>
+            <pubDate>Fri, 19 Jun 2026 20:15:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a4/16by9/2026/06/19/a4b617c9d42645b2b815806e4130eca9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a4/16by9/2026/06/19/a4b617c9d42645b2b815806e4130eca9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a4/16by9/2026/06/19/a4b617c9d42645b2b815806e4130eca9_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Demi Moore, Charlize Theron &#039;Thriller&#039; Set Evacuated After Nearby Shooting During World Cup]]></title>
             <link>https://www.tmz.com/2026/06/19/tyrant-set-evacuated-after-nearby-shooting-in-los-angeles/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/06/19/e5c0b2a8de1b4bfc81129f3f8d682043_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/06/19/e5c0b2a8de1b4bfc81129f3f8d682043_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dak Prescott, Ex Sarah Jane Ramos Board Private Jet To Miami]]></title>
-            <link>https://www.tmz.com/2026/06/19/dak-prescott-and-sarah-jane-ramos-fly-to-miami/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/dak-prescott-and-sarah-jane-ramos-fly-to-miami/</guid>
-            <pubDate>Fri, 19 Jun 2026 19:52:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d5/16by9/2026/06/19/d5d472e13a854c098efdd0d179dbbcf2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d5/16by9/2026/06/19/d5d472e13a854c098efdd0d179dbbcf2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d5/16by9/2026/06/19/d5d472e13a854c098efdd0d179dbbcf2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[James Burrows, &#039;Friends&#039; & &#039;Cheers&#039; Director, Dead at 85]]></title>
-            <link>https://www.tmz.com/2026/06/19/james-burrows-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/james-burrows-dead/</guid>
-            <pubDate>Fri, 19 Jun 2026 19:37:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/06/19/8a6d5339e8284140970643a7f6422249_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/06/19/8a6d5339e8284140970643a7f6422249_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/06/19/8a6d5339e8284140970643a7f6422249_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Music Producer Tay Keith’s Legal Fight With Sexyy Red Was Unresolved When He Died]]></title>
-            <link>https://www.tmz.com/2026/06/19/tay-keith-sued-sexyy-red-before-death/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/tay-keith-sued-sexyy-red-before-death/</guid>
-            <pubDate>Fri, 19 Jun 2026 19:15:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/06/19/039b701e141b417d914ed2870c8d8944_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/06/19/039b701e141b417d914ed2870c8d8944_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/06/19/039b701e141b417d914ed2870c8d8944_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Pete Davidson&#039;s Ex Elsie Hewitt Shares Sexy Bikini Snaps]]></title>
-            <link>https://www.tmz.com/2026/06/19/elsie-hewitt-hot-bikini-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/elsie-hewitt-hot-bikini-pictures/</guid>
-            <pubDate>Fri, 19 Jun 2026 19:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/06/19/0e60a3f24f3541acac16ec347e6d368d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/06/19/0e60a3f24f3541acac16ec347e6d368d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/06/19/0e60a3f24f3541acac16ec347e6d368d_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
