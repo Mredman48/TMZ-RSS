@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 17:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 18:58:29 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Ubisoft Co-Founder Claude Guillemot Killed in Plane Crash]]></title>
+            <link>https://www.tmz.com/2026/06/20/claude-guillemot-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/claude-guillemot-dead/</guid>
+            <pubDate>Sat, 20 Jun 2026 18:51:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/37/16by9/2026/06/20/37809754321c48d1b4d609cd17d4ad09_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/37/16by9/2026/06/20/37809754321c48d1b4d609cd17d4ad09_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/37/16by9/2026/06/20/37809754321c48d1b4d609cd17d4ad09_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Blake Lively Steps Out Alone in New York Amid Taylor Swift&#039;s Bachelorette Buzz]]></title>
+            <link>https://www.tmz.com/2026/06/20/blake-lively-spotted-in-new-york-while-taylor-swift-is-in-rhode-island/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/blake-lively-spotted-in-new-york-while-taylor-swift-is-in-rhode-island/</guid>
+            <pubDate>Sat, 20 Jun 2026 18:02:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/2b/16by9/2026/06/20/2b2aebddf92b436d8d3f5863259684ea_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/2b/16by9/2026/06/20/2b2aebddf92b436d8d3f5863259684ea_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/2b/16by9/2026/06/20/2b2aebddf92b436d8d3f5863259684ea_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Family of Dog Killed by LAPD Slams &#039;Reckless&#039; Officer After Bodycam Footage Released]]></title>
+            <link>https://www.tmz.com/2026/06/20/family-of-dog-killed-during-knicks-celebration-rips-lapd-officer/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/family-of-dog-killed-during-knicks-celebration-rips-lapd-officer/</guid>
+            <pubDate>Sat, 20 Jun 2026 17:10:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1b/16by9/2026/06/20/1b9b9750cdf8441c834d359159cd068b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1b/16by9/2026/06/20/1b9b9750cdf8441c834d359159cd068b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/1b/16by9/2026/06/20/1b9b9750cdf8441c834d359159cd068b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Travis Kelce Shoots Bubble Gun at Chris Lake Concert as Wedding Approaches]]></title>
             <link>https://www.tmz.com/2026/06/20/travis-kelce-at-concert-in-la-as-taylor-swift-is-in-rhode-island/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/c6/16by9/2026/06/20/c6cbcc8d7b16402ab3888b8b711e28e4_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/c6/16by9/2026/06/20/c6cbcc8d7b16402ab3888b8b711e28e4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift&#039;s Ex Matty Healy&#039;s Fiancée Handcuffed At Bachelorette Trip]]></title>
-            <link>https://www.tmz.com/2026/06/20/taylor-swift-ex-matty-healy-fiancee-gabbriette-bechtel-bachelorette-trip/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/taylor-swift-ex-matty-healy-fiancee-gabbriette-bechtel-bachelorette-trip/</guid>
-            <pubDate>Sat, 20 Jun 2026 15:02:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/06/20/3d8d8c5e0dc448ecaab82e7d9dd21495_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/06/20/3d8d8c5e0dc448ecaab82e7d9dd21495_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/06/20/3d8d8c5e0dc448ecaab82e7d9dd21495_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Shohei Ohtani Announces Birth of Second Baby After Missing Dodger Game]]></title>
-            <link>https://www.tmz.com/2026/06/20/shohei-ohtani-wife-gives-birth/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/shohei-ohtani-wife-gives-birth/</guid>
-            <pubDate>Sat, 20 Jun 2026 13:52:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b0/16by9/2026/06/20/b08b00820bdf4a069844119438b15509_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/b0/16by9/2026/06/20/b08b00820bdf4a069844119438b15509_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b0/16by9/2026/06/20/b08b00820bdf4a069844119438b15509_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Karmelo Anthony Cries to Police After Murdering Austin Metcalf, Bodycam Video Shows]]></title>
-            <link>https://www.tmz.com/2026/06/20/karmelo-anthony-crying-after-stabbing-austin-metcalf-in-bodycam-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/karmelo-anthony-crying-after-stabbing-austin-metcalf-in-bodycam-video/</guid>
-            <pubDate>Sat, 20 Jun 2026 13:38:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/06/20/fd6684555a7e4ca592a3b626e00048a3_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/06/20/fd6684555a7e4ca592a3b626e00048a3_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/06/20/fd6684555a7e4ca592a3b626e00048a3_xl.png">
             </media:thumbnail>
         </item>
     </channel>
