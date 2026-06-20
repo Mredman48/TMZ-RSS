@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 06:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 10:19:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Family of Dog Killed by LAPD Will Sue if Not Handled &#039;Appropriately&#039;]]></title>
-            <link>https://www.tmz.com/2026/06/19/family-of-dog-killed-by-lapd-threatens-to-sue/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/family-of-dog-killed-by-lapd-threatens-to-sue/</guid>
-            <pubDate>Sat, 20 Jun 2026 01:45:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/4e/16by9/2026/06/19/4edf929160f1441e87e5133d743849fd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/4e/16by9/2026/06/19/4edf929160f1441e87e5133d743849fd_xl.jpg" medium="image">
+            <title><![CDATA[Drake Pays Tribute to Tay Keith as New Details Emerge About Rap Producer&#039;s Death]]></title>
+            <link>https://www.tmz.com/2026/06/20/drake-pays-tribute-to-tay-keith-as-new-details-emerge-about-producers-death/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/drake-pays-tribute-to-tay-keith-as-new-details-emerge-about-producers-death/</guid>
+            <pubDate>Sat, 20 Jun 2026 09:18:59 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f1/16by9/2025/08/23/f1db7ed1e22846d2900ebbe3f4a1bf4c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f1/16by9/2025/08/23/f1db7ed1e22846d2900ebbe3f4a1bf4c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/4e/16by9/2026/06/19/4edf929160f1441e87e5133d743849fd_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/f1/16by9/2025/08/23/f1db7ed1e22846d2900ebbe3f4a1bf4c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[LAPD Officer Fired Multiple Times in Shooting that Killed Dog, Watch Bodycam]]></title>
-            <link>https://www.tmz.com/2026/06/19/lapd-officer-jameson-dog-bodycam/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/lapd-officer-jameson-dog-bodycam/</guid>
-            <pubDate>Sat, 20 Jun 2026 01:06:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3f/16by9/2026/06/20/3faf81eb8623459c90d317fe12188a86_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3f/16by9/2026/06/20/3faf81eb8623459c90d317fe12188a86_xl.jpg" medium="image">
+            <title><![CDATA[Sombr Snags Invite to Taylor Swift and Travis Kelce&#039;s Wedding Celebration]]></title>
+            <link>https://www.tmz.com/2026/06/20/sombr-invited-to-taylor-swift-travis-kelce-wedding-celebration/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/sombr-invited-to-taylor-swift-travis-kelce-wedding-celebration/</guid>
+            <pubDate>Sat, 20 Jun 2026 08:00:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c7/16by9/2026/06/19/c7bca540cae74af9b80faf51d97bccfc_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c7/16by9/2026/06/19/c7bca540cae74af9b80faf51d97bccfc_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3f/16by9/2026/06/20/3faf81eb8623459c90d317fe12188a86_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c7/16by9/2026/06/19/c7bca540cae74af9b80faf51d97bccfc_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift Bachelorette Party Buzz Grows in Rhode Island as Girlfriends Arrive]]></title>
-            <link>https://www.tmz.com/2026/06/19/taylor-swift-bachelorette-party-rumors/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/taylor-swift-bachelorette-party-rumors/</guid>
-            <pubDate>Sat, 20 Jun 2026 01:00:19 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/06/19/bb98ce27a1e74377b3fd13c2143d93ac_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/06/19/bb98ce27a1e74377b3fd13c2143d93ac_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Dance Moms&#039; Star Nia Sioux&#039;s Hot Shots To Toast Her 25th Birthday]]></title>
+            <link>https://www.tmz.com/2026/06/20/nia-sioux-birthday-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/nia-sioux-birthday-hot-shots/</guid>
+            <pubDate>Sat, 20 Jun 2026 08:00:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/06/15/fd202a8ff0e84cc0a3bdb7bbb869a2cf_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/06/15/fd202a8ff0e84cc0a3bdb7bbb869a2cf_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/06/19/bb98ce27a1e74377b3fd13c2143d93ac_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/06/15/fd202a8ff0e84cc0a3bdb7bbb869a2cf_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jelly Roll Calls Up Bunnie XO in Post-Divorce Vlog, on Video!]]></title>
-            <link>https://www.tmz.com/2026/06/19/jelly-roll-calls-bunnie-xo-after-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/jelly-roll-calls-bunnie-xo-after-divorce/</guid>
-            <pubDate>Sat, 20 Jun 2026 00:45:09 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/06/19/93e6e9b0878f4e019cb994855e5d1ceb_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/06/19/93e6e9b0878f4e019cb994855e5d1ceb_xl.png" medium="image">
+            <title><![CDATA[Summer Spotlight: Katie Morgan Flashing More Than Her Chips, Hot Shots]]></title>
+            <link>https://www.tmz.com/2026/06/20/katie-morgan-hot-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/katie-morgan-hot-pictures/</guid>
+            <pubDate>Sat, 20 Jun 2026 07:45:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1e/16by9/2026/06/12/1e0151854a6d46a88ff32a5bc44fd627_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/1e/16by9/2026/06/12/1e0151854a6d46a88ff32a5bc44fd627_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/06/19/93e6e9b0878f4e019cb994855e5d1ceb_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/1e/16by9/2026/06/12/1e0151854a6d46a88ff32a5bc44fd627_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Alix Earl Had &#039;Undeniable Chemistry&#039; With Benson Boone On Set Of His Music Video]]></title>
-            <link>https://www.tmz.com/2026/06/19/alix-earle-benson-boone-chemistry-on-music-video-set/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/19/alix-earle-benson-boone-chemistry-on-music-video-set/</guid>
-            <pubDate>Sat, 20 Jun 2026 00:30:57 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/06/19/48896c19b6bf4b9ea325fab1902e4b9d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/06/19/48896c19b6bf4b9ea325fab1902e4b9d_xl.jpg" medium="image">
+            <title><![CDATA[Christopher Meloni Supports Jalen Brunson&#039;s &#039;Law & Order&#039; Ambitions]]></title>
+            <link>https://www.tmz.com/2026/06/20/christopher-meloni-addresses-jalen-brunsons-law-and-order-dream/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/christopher-meloni-addresses-jalen-brunsons-law-and-order-dream/</guid>
+            <pubDate>Sat, 20 Jun 2026 07:30:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/06/17/89fed0b23f484e23be6c90d6b0ce31bd_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/06/17/89fed0b23f484e23be6c90d6b0ce31bd_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/06/19/48896c19b6bf4b9ea325fab1902e4b9d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/06/17/89fed0b23f484e23be6c90d6b0ce31bd_xl.png">
             </media:thumbnail>
         </item>
     </channel>
