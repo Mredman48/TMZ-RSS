@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 10:54:50 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Marilyn Monroe A.I. Recreation Proves Crime Scene Was Staged]]></title>
+            <link>https://www.tmz.com/2026/06/21/marilyn-monroe-promo-holes-in-the-story/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/marilyn-monroe-promo-holes-in-the-story/</guid>
+            <pubDate>Sun, 21 Jun 2026 08:00:46 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/81/16by9/2026/06/18/81b048e33fe047ccadd16938060a382a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/81/16by9/2026/06/18/81b048e33fe047ccadd16938060a382a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/81/16by9/2026/06/18/81b048e33fe047ccadd16938060a382a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lana Del Rey Hot Shots To Slay Her 41st Birthday! See Her Steamiest Snaps!]]></title>
+            <link>https://www.tmz.com/2026/06/21/lana-del-rey-birthday-hot-shots/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/lana-del-rey-birthday-hot-shots/</guid>
+            <pubDate>Sun, 21 Jun 2026 08:00:07 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/06/17/6ae241b58ece47da83dc32f9e56b5af4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/06/17/6ae241b58ece47da83dc32f9e56b5af4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/06/17/6ae241b58ece47da83dc32f9e56b5af4_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Brooks Nader Then And Now -- Good Genes or Good Docs?!]]></title>
+            <link>https://www.tmz.com/2026/06/21/brooks-nader-hot-pictures-through-the-years/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/brooks-nader-hot-pictures-through-the-years/</guid>
+            <pubDate>Sun, 21 Jun 2026 07:45:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/06/16/357cefdbd88b419ab3df3c7e668041bf_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/06/16/357cefdbd88b419ab3df3c7e668041bf_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/06/16/357cefdbd88b419ab3df3c7e668041bf_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Francis Ngannou Wants Fight W/ Rico Verhoeven Next, &#039;Very Compelling&#039; Matchup]]></title>
+            <link>https://www.tmz.com/2026/06/21/francis-ngannou-wants-to-fight-rico-verhoeven/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/francis-ngannou-wants-to-fight-rico-verhoeven/</guid>
+            <pubDate>Sun, 21 Jun 2026 07:30:38 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/24/16by9/2026/06/15/24c1c7055a454fe48660d9faf05ff074_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/24/16by9/2026/06/15/24c1c7055a454fe48660d9faf05ff074_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/24/16by9/2026/06/15/24c1c7055a454fe48660d9faf05ff074_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Hot Dad Bods Guess Who ... Happy Father&#039;s Day!]]></title>
             <link>https://www.tmz.com/2026/06/21/hot-celebrity-dad-pictures/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/16/16by9/2026/06/16/16372e03d45c4279bf8366eeaf23f437_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/16/16by9/2026/06/16/16372e03d45c4279bf8366eeaf23f437_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[OnlyFans Girls Glove Up in Skimpy Sports Bras During Pre-Fight Training]]></title>
-            <link>https://www.tmz.com/2026/06/21/onlyfans-girls-pre-fight-training-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/onlyfans-girls-pre-fight-training-video/</guid>
-            <pubDate>Sun, 21 Jun 2026 07:00:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/83/16by9/2026/06/19/8391ed45fb914cc88d298204da0555e5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/83/16by9/2026/06/19/8391ed45fb914cc88d298204da0555e5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/83/16by9/2026/06/19/8391ed45fb914cc88d298204da0555e5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Gordon Ramsay&#039;s Daughter Announces She&#039;s Pregnant With His First Grandchild]]></title>
-            <link>https://www.tmz.com/2026/06/20/gordon-ramsay-daughter-pregnant/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/gordon-ramsay-daughter-pregnant/</guid>
-            <pubDate>Sun, 21 Jun 2026 01:00:20 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/06/20/bb9947fd1eb04e59b7a3441ee3c740ad_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/06/20/bb9947fd1eb04e59b7a3441ee3c740ad_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/06/20/bb9947fd1eb04e59b7a3441ee3c740ad_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Austin Metcalf&#039;s Friend Describes Karmelo Anthony to 911 Dispatcher After Stabbing]]></title>
-            <link>https://www.tmz.com/2026/06/20/austin-metcalf-friend-911-audio-describes-suspect/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/austin-metcalf-friend-911-audio-describes-suspect/</guid>
-            <pubDate>Sun, 21 Jun 2026 00:20:25 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/95/16by9/2026/06/20/95fc1d83d8c64018bd019d5d69617046_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/95/16by9/2026/06/20/95fc1d83d8c64018bd019d5d69617046_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/95/16by9/2026/06/20/95fc1d83d8c64018bd019d5d69617046_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift May Have Left Rhode Island Mansion During Suspected Bachelorette Party]]></title>
-            <link>https://www.tmz.com/2026/06/20/taylor-swift-rhode-island-seemingly-leaves-rhode-island/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/20/taylor-swift-rhode-island-seemingly-leaves-rhode-island/</guid>
-            <pubDate>Sun, 21 Jun 2026 00:00:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/29/16by9/2026/06/20/29ba4eb841dd4eab98d720a40ab3dd69_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/29/16by9/2026/06/20/29ba4eb841dd4eab98d720a40ab3dd69_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/29/16by9/2026/06/20/29ba4eb841dd4eab98d720a40ab3dd69_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
