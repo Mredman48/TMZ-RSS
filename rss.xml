@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 13:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 15:29:43 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[James Van Der Beek’s Wife Honors Him on First Father’s Day Since His Death]]></title>
+            <link>https://www.tmz.com/2026/06/21/james-van-der-beek-wife-posts-for-fathers-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/james-van-der-beek-wife-posts-for-fathers-day/</guid>
+            <pubDate>Sun, 21 Jun 2026 15:06:41 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/06/21/3d38485578f540859ed0b4555a42d24a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/06/21/3d38485578f540859ed0b4555a42d24a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/06/21/3d38485578f540859ed0b4555a42d24a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[President Trump Late-Night Post of Blonde Woman Sparks Confusion]]></title>
+            <link>https://www.tmz.com/2026/06/21/trump-truth-social-post-about-great-daughter/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/trump-truth-social-post-about-great-daughter/</guid>
+            <pubDate>Sun, 21 Jun 2026 14:50:55 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8d/16by9/2026/06/21/8d845afe43444b7d9d3bc8c5b23bd21b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/06/21/8d845afe43444b7d9d3bc8c5b23bd21b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/06/21/8d845afe43444b7d9d3bc8c5b23bd21b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift&#039;s Future Father in Law Seemingly Hard Launches GF, Weeks Before Son&#039;s Wedding]]></title>
+            <link>https://www.tmz.com/2026/06/21/taylor-swift-future-father-in-law-ed-kelce-hard-launches-girlfriend/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/taylor-swift-future-father-in-law-ed-kelce-hard-launches-girlfriend/</guid>
+            <pubDate>Sun, 21 Jun 2026 13:53:36 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2026/06/21/c13d4d2801254b89b111883fefe18ca2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c1/16by9/2026/06/21/c13d4d2801254b89b111883fefe18ca2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2026/06/21/c13d4d2801254b89b111883fefe18ca2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Madison Square Garden Concertgoer Dies After Fall During Goose Performance]]></title>
+            <link>https://www.tmz.com/2026/06/21/man-falls-to-death-at-madison-square-garden-concert/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/man-falls-to-death-at-madison-square-garden-concert/</guid>
+            <pubDate>Sun, 21 Jun 2026 13:23:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/06/21/23f0b6401fcb4bbd8af0599f8adbb8a4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/06/21/23f0b6401fcb4bbd8af0599f8adbb8a4_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/06/21/23f0b6401fcb4bbd8af0599f8adbb8a4_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift&#039;s Rhode Island Mansion Dazzles with Fireworks, Amid Bachelorette Speculation]]></title>
             <link>https://www.tmz.com/2026/06/21/fireworks-near-taylor-swift-rhode-island-mansion/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/06/21/7fc8fa8731904efd97ed345f76aa5561_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/06/21/7fc8fa8731904efd97ed345f76aa5561_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Olympian Arrested for Allegedly Vandalizing Lincoln Memorial Reflecting Pool]]></title>
-            <link>https://www.tmz.com/2026/06/21/david-hearn-arrested-for-allegedly-vandalizing-lincoln-memorial/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/david-hearn-arrested-for-allegedly-vandalizing-lincoln-memorial/</guid>
-            <pubDate>Sun, 21 Jun 2026 12:02:22 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f5/16by9/2026/06/21/f566d2c0bbaa420ab1f3f145ed2ba5dc_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f5/16by9/2026/06/21/f566d2c0bbaa420ab1f3f145ed2ba5dc_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f5/16by9/2026/06/21/f566d2c0bbaa420ab1f3f145ed2ba5dc_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Marilyn Monroe A.I. Recreation Proves Crime Scene Was Staged]]></title>
-            <link>https://www.tmz.com/2026/06/21/marilyn-monroe-promo-holes-in-the-story/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/marilyn-monroe-promo-holes-in-the-story/</guid>
-            <pubDate>Sun, 21 Jun 2026 08:00:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/81/16by9/2026/06/18/81b048e33fe047ccadd16938060a382a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/81/16by9/2026/06/18/81b048e33fe047ccadd16938060a382a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/81/16by9/2026/06/18/81b048e33fe047ccadd16938060a382a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey Hot Shots To Slay Her 41st Birthday! See Her Steamiest Snaps!]]></title>
-            <link>https://www.tmz.com/2026/06/21/lana-del-rey-birthday-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/lana-del-rey-birthday-hot-shots/</guid>
-            <pubDate>Sun, 21 Jun 2026 08:00:07 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6a/16by9/2026/06/17/6ae241b58ece47da83dc32f9e56b5af4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6a/16by9/2026/06/17/6ae241b58ece47da83dc32f9e56b5af4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6a/16by9/2026/06/17/6ae241b58ece47da83dc32f9e56b5af4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Brooks Nader Then And Now -- Good Genes or Good Docs?!]]></title>
-            <link>https://www.tmz.com/2026/06/21/brooks-nader-hot-pictures-through-the-years/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/brooks-nader-hot-pictures-through-the-years/</guid>
-            <pubDate>Sun, 21 Jun 2026 07:45:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/35/16by9/2026/06/16/357cefdbd88b419ab3df3c7e668041bf_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/35/16by9/2026/06/16/357cefdbd88b419ab3df3c7e668041bf_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/35/16by9/2026/06/16/357cefdbd88b419ab3df3c7e668041bf_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
