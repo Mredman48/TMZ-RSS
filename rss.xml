@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 15:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 17:09:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Gisele Bündchen’s Father’s Day Message Snubs Ex Tom Brady]]></title>
+            <link>https://www.tmz.com/2026/06/21/gisele-bundchen-does-not-mention-tom-brady-in-fathers-day-post/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/gisele-bundchen-does-not-mention-tom-brady-in-fathers-day-post/</guid>
+            <pubDate>Sun, 21 Jun 2026 17:03:30 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a8/16by9/2026/06/21/a89bc8086f46492ca1ef2b90d13bf342_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a8/16by9/2026/06/21/a89bc8086f46492ca1ef2b90d13bf342_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/a8/16by9/2026/06/21/a89bc8086f46492ca1ef2b90d13bf342_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jennifer Lopez Spotted Vibing Out at Ariana Grande Concert in Los Angeles]]></title>
+            <link>https://www.tmz.com/2026/06/21/jlo-seen-at-ariana-grande-concert/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/jlo-seen-at-ariana-grande-concert/</guid>
+            <pubDate>Sun, 21 Jun 2026 16:31:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b5/16by9/2026/06/21/b58cc9382d5643a89c0ccd1e221ea141_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b5/16by9/2026/06/21/b58cc9382d5643a89c0ccd1e221ea141_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/b5/16by9/2026/06/21/b58cc9382d5643a89c0ccd1e221ea141_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[David and Victoria Beckham Share Throwback Photo of Brooklyn in Father’s Day Post]]></title>
+            <link>https://www.tmz.com/2026/06/21/beckham-family-photo-with-brooklyn-posted-for-fathers-day/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/beckham-family-photo-with-brooklyn-posted-for-fathers-day/</guid>
+            <pubDate>Sun, 21 Jun 2026 15:54:45 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9a/16by9/2026/06/21/9ae1dd93011645039870bc02ac4b2f74_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/06/21/9ae1dd93011645039870bc02ac4b2f74_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/06/21/9ae1dd93011645039870bc02ac4b2f74_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[James Van Der Beek’s Wife Honors Him on First Father’s Day Since His Death]]></title>
             <link>https://www.tmz.com/2026/06/21/james-van-der-beek-wife-posts-for-fathers-day/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8d/16by9/2026/06/21/8d845afe43444b7d9d3bc8c5b23bd21b_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8d/16by9/2026/06/21/8d845afe43444b7d9d3bc8c5b23bd21b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift&#039;s Future Father in Law Seemingly Hard Launches GF, Weeks Before Son&#039;s Wedding]]></title>
-            <link>https://www.tmz.com/2026/06/21/taylor-swift-future-father-in-law-ed-kelce-hard-launches-girlfriend/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/taylor-swift-future-father-in-law-ed-kelce-hard-launches-girlfriend/</guid>
-            <pubDate>Sun, 21 Jun 2026 13:53:36 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c1/16by9/2026/06/21/c13d4d2801254b89b111883fefe18ca2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c1/16by9/2026/06/21/c13d4d2801254b89b111883fefe18ca2_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c1/16by9/2026/06/21/c13d4d2801254b89b111883fefe18ca2_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Madison Square Garden Concertgoer Dies After Fall During Goose Performance]]></title>
-            <link>https://www.tmz.com/2026/06/21/man-falls-to-death-at-madison-square-garden-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/man-falls-to-death-at-madison-square-garden-concert/</guid>
-            <pubDate>Sun, 21 Jun 2026 13:23:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/23/16by9/2026/06/21/23f0b6401fcb4bbd8af0599f8adbb8a4_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/23/16by9/2026/06/21/23f0b6401fcb4bbd8af0599f8adbb8a4_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/23/16by9/2026/06/21/23f0b6401fcb4bbd8af0599f8adbb8a4_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift&#039;s Rhode Island Mansion Dazzles with Fireworks, Amid Bachelorette Speculation]]></title>
-            <link>https://www.tmz.com/2026/06/21/fireworks-near-taylor-swift-rhode-island-mansion/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/fireworks-near-taylor-swift-rhode-island-mansion/</guid>
-            <pubDate>Sun, 21 Jun 2026 12:54:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/7f/16by9/2026/06/21/7fc8fa8731904efd97ed345f76aa5561_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/7f/16by9/2026/06/21/7fc8fa8731904efd97ed345f76aa5561_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/7f/16by9/2026/06/21/7fc8fa8731904efd97ed345f76aa5561_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
