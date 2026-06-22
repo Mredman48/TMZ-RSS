@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 22:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 02:06:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Kelly Osbourne Reflects on First Father&#039;s Day Without Ozzy]]></title>
+            <link>https://www.tmz.com/2026/06/21/kelly-osbourne-posts-first-fathers-day-since-ozzy-died/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/kelly-osbourne-posts-first-fathers-day-since-ozzy-died/</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2026/06/21/f88ceb478bd049e398fb04f8278fb0fe_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f8/16by9/2026/06/21/f88ceb478bd049e398fb04f8278fb0fe_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2026/06/21/f88ceb478bd049e398fb04f8278fb0fe_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Paget Brewster Lashes Out at TV Critic After Negative Review, Apologizes]]></title>
+            <link>https://www.tmz.com/2026/06/21/paget-brewster-attacks-critic-after-negative-review/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/paget-brewster-attacks-critic-after-negative-review/</guid>
+            <pubDate>Sun, 21 Jun 2026 23:25:14 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/06/21/15fef8f09e63477fbaa9426be1c0ff5d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/06/21/15fef8f09e63477fbaa9426be1c0ff5d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/06/21/15fef8f09e63477fbaa9426be1c0ff5d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Stars Sippin&#039; Smoothies For National Smoothie Day]]></title>
+            <link>https://www.tmz.com/2026/06/21/stars-drinking-smoothies/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/stars-drinking-smoothies/</guid>
+            <pubDate>Sun, 21 Jun 2026 23:00:53 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/38/16by9/2026/06/15/38a9d1cf0efd4457af5cb47841b5fab2_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/38/16by9/2026/06/15/38a9d1cf0efd4457af5cb47841b5fab2_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/06/15/38a9d1cf0efd4457af5cb47841b5fab2_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Oliver Tree&#039;s Body Returned to California After Helicopter Crash in Brazil]]></title>
+            <link>https://www.tmz.com/2026/06/21/oliver-trees-body-returned-to-california-after-helicopter-crash-in-brazil/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/oliver-trees-body-returned-to-california-after-helicopter-crash-in-brazil/</guid>
+            <pubDate>Sun, 21 Jun 2026 22:48:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/63/16by9/2026/06/14/6337584bd9cc44f1b4ac50c47c534b9d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/63/16by9/2026/06/14/6337584bd9cc44f1b4ac50c47c534b9d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/63/16by9/2026/06/14/6337584bd9cc44f1b4ac50c47c534b9d_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Mystery Blonde Posted by President Trump Identified]]></title>
             <link>https://www.tmz.com/2026/06/21/mystery-blonde-posted-by-president-trump-identified/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/9a/16by9/2026/06/21/9a35f7fec4b648e5b5244b60c6334aa9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/9a/16by9/2026/06/21/9a35f7fec4b648e5b5244b60c6334aa9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Trump Calls Reflecting Pool Vandalism &#039;Deranged,&#039; Announces Immediate Repair]]></title>
-            <link>https://www.tmz.com/2026/06/21/trump-calls-slams-alleged-reflecting-pool-vandalism/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/trump-calls-slams-alleged-reflecting-pool-vandalism/</guid>
-            <pubDate>Sun, 21 Jun 2026 22:08:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/51/16by9/2026/06/21/51c2422709374592a400ff1c12d728b3_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/51/16by9/2026/06/21/51c2422709374592a400ff1c12d728b3_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/51/16by9/2026/06/21/51c2422709374592a400ff1c12d728b3_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Travis Kelce Attends NASCAR Race in San Diego During Pre-Wedding Boys Trip]]></title>
-            <link>https://www.tmz.com/2026/06/21/travis-kelce-at-nascar-race-during-pre-wedding-trip/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/travis-kelce-at-nascar-race-during-pre-wedding-trip/</guid>
-            <pubDate>Sun, 21 Jun 2026 21:49:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/21/16by9/2026/06/21/210a4381cd4a4060b0d2b1c3ec9a1041_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/21/16by9/2026/06/21/210a4381cd4a4060b0d2b1c3ec9a1041_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/21/16by9/2026/06/21/210a4381cd4a4060b0d2b1c3ec9a1041_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears Says She Hopes She Can Have a Baby, Shares Dancing Video]]></title>
-            <link>https://www.tmz.com/2026/06/21/britney-spears-wants-another-baby/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/britney-spears-wants-another-baby/</guid>
-            <pubDate>Sun, 21 Jun 2026 21:06:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/2e/16by9/2026/06/21/2e1374c825cd4bbab12783e36cc0ab2b_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/2e/16by9/2026/06/21/2e1374c825cd4bbab12783e36cc0ab2b_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/2e/16by9/2026/06/21/2e1374c825cd4bbab12783e36cc0ab2b_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Marilyn Monroe&#039;s Affairs with JFK and RFK May Have Lead to Murder]]></title>
-            <link>https://www.tmz.com/2026/06/21/marilyn-monroe-promo-the-kennedys/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/21/marilyn-monroe-promo-the-kennedys/</guid>
-            <pubDate>Sun, 21 Jun 2026 21:00:34 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/06/18/4541539a3d0042e29c9438604102aeb5_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/45/16by9/2026/06/18/4541539a3d0042e29c9438604102aeb5_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/45/16by9/2026/06/18/4541539a3d0042e29c9438604102aeb5_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
