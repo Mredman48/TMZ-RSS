@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 18:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 20:54:05 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Aaron Boone Says Yankees&#039; Jazz Chisholm Playing Field W/ Lollipop &#039;Pisses Him Off&#039;]]></title>
-            <link>https://www.tmz.com/2026/06/23/aaron-boone-pissed-jazz-chisholm-played-field-lollipop/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/aaron-boone-pissed-jazz-chisholm-played-field-lollipop/</guid>
-            <pubDate>Tue, 23 Jun 2026 18:23:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e7/16by9/2026/06/23/e76006ba97d246d8937a39eddb146df2_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e7/16by9/2026/06/23/e76006ba97d246d8937a39eddb146df2_xl.jpg" medium="image">
+            <title><![CDATA[Dustin Poirier Belligerent During Airport Arrest, &#039;I&#039;ll Fight You Right Now&#039;]]></title>
+            <link>https://www.tmz.com/2026/06/23/dustin-poirier-belligerent-during-public-drunk-arrest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/dustin-poirier-belligerent-during-public-drunk-arrest/</guid>
+            <pubDate>Tue, 23 Jun 2026 20:46:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c0/16by9/2026/06/23/c0e531d617034eb5820d852ada2b9283_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/c0/16by9/2026/06/23/c0e531d617034eb5820d852ada2b9283_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e7/16by9/2026/06/23/e76006ba97d246d8937a39eddb146df2_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/c0/16by9/2026/06/23/c0e531d617034eb5820d852ada2b9283_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Geno Smith&#039;s Alleged Girlfriend Leaks Text Messages With Child&#039;s Mother]]></title>
-            <link>https://www.tmz.com/2026/06/23/geno-smith-alleged-girlfriend-expose-text-messages/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/geno-smith-alleged-girlfriend-expose-text-messages/</guid>
-            <pubDate>Tue, 23 Jun 2026 18:20:48 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b9/16by9/2026/06/23/b9c1a35da9b74e16b002c0da3d39b9d1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b9/16by9/2026/06/23/b9c1a35da9b74e16b002c0da3d39b9d1_xl.png" medium="image">
+            <title><![CDATA[Wildlife Organization Conducting Necropsies on Reflecting Pool&#039;s Dead Ducks]]></title>
+            <link>https://www.tmz.com/2026/06/23/necropsies-on-reflecting-pool-dead-ducks/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/necropsies-on-reflecting-pool-dead-ducks/</guid>
+            <pubDate>Tue, 23 Jun 2026 20:45:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/90/16by9/2026/06/23/9020548562e348f6b241f9d59df9e965_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/90/16by9/2026/06/23/9020548562e348f6b241f9d59df9e965_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b9/16by9/2026/06/23/b9c1a35da9b74e16b002c0da3d39b9d1_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/90/16by9/2026/06/23/9020548562e348f6b241f9d59df9e965_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Gigi and Bella Hadid&#039;s Mom Yolanda Hadid Is Engaged]]></title>
-            <link>https://www.tmz.com/2026/06/23/yolanda-hadid-is-engaged/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/yolanda-hadid-is-engaged/</guid>
-            <pubDate>Tue, 23 Jun 2026 18:05:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d5/16by9/2026/06/23/d523abc3a192420e9f39a75483faeced_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d5/16by9/2026/06/23/d523abc3a192420e9f39a75483faeced_xl.jpg" medium="image">
+            <title><![CDATA[Sophie Rain and Clavicular Plan Date Night After Paris Hang]]></title>
+            <link>https://www.tmz.com/2026/06/23/sophie-rain-and-clavicular-are-going-on-a-date/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/sophie-rain-and-clavicular-are-going-on-a-date/</guid>
+            <pubDate>Tue, 23 Jun 2026 20:30:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4b/16by9/2026/06/23/4b087505db714578ab79f14f7a303d80_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/4b/16by9/2026/06/23/4b087505db714578ab79f14f7a303d80_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d5/16by9/2026/06/23/d523abc3a192420e9f39a75483faeced_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/4b/16by9/2026/06/23/4b087505db714578ab79f14f7a303d80_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Porn Star Drake Von Had Nitrous Oxide Tanks in Tesla During DUI Arrest, Cops Say]]></title>
-            <link>https://www.tmz.com/2026/06/23/drake-von-dui-report-nitrous-oxide-tanks-tesla/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/drake-von-dui-report-nitrous-oxide-tanks-tesla/</guid>
-            <pubDate>Tue, 23 Jun 2026 18:00:54 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8a/16by9/2026/06/23/8a5699440eff4f219ff4c45772c2e67d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8a/16by9/2026/06/23/8a5699440eff4f219ff4c45772c2e67d_xl.jpg" medium="image">
+            <title><![CDATA[FBI Source Contacts TMZ Re: Nancy Guthrie Kidnapping]]></title>
+            <link>https://www.tmz.com/2026/06/23/fbi-source-reaches-out-to-tmz-about-nancy-guthrie-case/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/fbi-source-reaches-out-to-tmz-about-nancy-guthrie-case/</guid>
+            <pubDate>Tue, 23 Jun 2026 20:26:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/06/23/9d3c131e97aa4333954cde73f04fddd4_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/06/23/9d3c131e97aa4333954cde73f04fddd4_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8a/16by9/2026/06/23/8a5699440eff4f219ff4c45772c2e67d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/06/23/9d3c131e97aa4333954cde73f04fddd4_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Jelly Roll&#039;s Baby Mama Pleads Guilty to Lesser Charge in 2025 Drug Arrest]]></title>
-            <link>https://www.tmz.com/2026/06/23/jelly-roll-ex-felicia-beckwith-pleads-guilty-in-drug-arrest/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/jelly-roll-ex-felicia-beckwith-pleads-guilty-in-drug-arrest/</guid>
-            <pubDate>Tue, 23 Jun 2026 17:53:52 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/06/23/17e5311a6987471183699a01ca03241c_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/06/23/17e5311a6987471183699a01ca03241c_xl.jpg" medium="image">
+            <title><![CDATA[Jack White’s Wife Olivia Files For Divorce, Cites ‘Inappropriate Marital Conduct’]]></title>
+            <link>https://www.tmz.com/2026/06/23/jack-white-olivia-jean-divorce/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/23/jack-white-olivia-jean-divorce/</guid>
+            <pubDate>Tue, 23 Jun 2026 20:10:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/b2/16by9/2026/06/23/b299c2a7579e476e9258f6e4805e7853_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/b2/16by9/2026/06/23/b299c2a7579e476e9258f6e4805e7853_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/06/23/17e5311a6987471183699a01ca03241c_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/b2/16by9/2026/06/23/b299c2a7579e476e9258f6e4805e7853_xl.png">
             </media:thumbnail>
         </item>
     </channel>
