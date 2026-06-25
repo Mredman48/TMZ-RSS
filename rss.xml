@@ -4,18 +4,29 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 09:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 13:04:26 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Venezuela Earthquakes: Shocking Videos Show Aftermath As Officials Reveal 164 People Dead]]></title>
+            <link>https://www.tmz.com/2026/06/25/venezuela-earthquakes-aftermath-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/25/venezuela-earthquakes-aftermath-video/</guid>
+            <pubDate>Thu, 25 Jun 2026 12:49:20 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/06/25/1512ae1d01ae45a1a3ca1f7fb0fda20b_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/06/25/1512ae1d01ae45a1a3ca1f7fb0fda20b_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/06/25/1512ae1d01ae45a1a3ca1f7fb0fda20b_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Bailey Zimmerman Cleared of Criminal Charges After Allegedly Trashing Hotel Room]]></title>
             <link>https://www.tmz.com/2026/06/25/bailey-zimmerman-cleared-of-criminal-charges-after-allegedly-trashing-hotel-room/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/06/25/bailey-zimmerman-cleared-of-criminal-charges-after-allegedly-trashing-hotel-room/</guid>
             <pubDate>Thu, 25 Jun 2026 09:00:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/06/23/fa7ccfea1f314011868293317d063157_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/06/23/fa7ccfea1f314011868293317d063157_xl.png" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/d3/16by9/2026/06/25/d3424aaa8000416fa96bb18bc4c60fc5_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d3/16by9/2026/06/25/d3424aaa8000416fa96bb18bc4c60fc5_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/06/23/fa7ccfea1f314011868293317d063157_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/d3/16by9/2026/06/25/d3424aaa8000416fa96bb18bc4c60fc5_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -23,10 +34,10 @@
             <link>https://www.tmz.com/2026/06/25/lionel-richie-cuts-concert-short-after-falling-ill-onstage-in-minnesota/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/06/25/lionel-richie-cuts-concert-short-after-falling-ill-onstage-in-minnesota/</guid>
             <pubDate>Thu, 25 Jun 2026 08:16:18 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/04/19/89b2804a2a5346f7b3e0b5bae2a4089d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/04/19/89b2804a2a5346f7b3e0b5bae2a4089d_xl.jpg" medium="image">
+            <enclosure url="https://imagez.tmz.com/image/73/16by9/2026/06/25/73fee743135d48c592898530fe50836c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/73/16by9/2026/06/25/73fee743135d48c592898530fe50836c_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/04/19/89b2804a2a5346f7b3e0b5bae2a4089d_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/73/16by9/2026/06/25/73fee743135d48c592898530fe50836c_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/98/16by9/2026/06/24/9820dea52976469ca840c51c4fa2004f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2026/06/24/9820dea52976469ca840c51c4fa2004f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Boozer Gives Son Cameron Advice After Being Picked 3rd Overall By Grizzlies]]></title>
-            <link>https://www.tmz.com/2026/06/25/carlos-boozer-gives-son-cameron-advice-after-nba-draft/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/25/carlos-boozer-gives-son-cameron-advice-after-nba-draft/</guid>
-            <pubDate>Thu, 25 Jun 2026 07:30:11 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a0/16by9/2026/06/24/a08afff44d3d41f894e1978d4fd81cd1_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a0/16by9/2026/06/24/a08afff44d3d41f894e1978d4fd81cd1_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a0/16by9/2026/06/24/a08afff44d3d41f894e1978d4fd81cd1_xl.png">
             </media:thumbnail>
         </item>
     </channel>
