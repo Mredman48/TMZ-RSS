@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 08:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 11:29:30 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Lionel Richie Postpones Next 2 Concerts After Health Scare During Minnesota Show]]></title>
+            <link>https://www.tmz.com/2026/06/26/lionel-richie-postpones-concerts-after-health-scare-during-minnesota-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/lionel-richie-postpones-concerts-after-health-scare-during-minnesota-show/</guid>
+            <pubDate>Fri, 26 Jun 2026 11:06:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/4d/16by9/2021/03/15/4dd83decc2174aa493eb73c78817b89a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/4d/16by9/2021/03/15/4dd83decc2174aa493eb73c78817b89a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/4d/16by9/2021/03/15/4dd83decc2174aa493eb73c78817b89a_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Parker&#039;s Full 911 Call, Sticks to Desperate Lie She Gave Birth While Driving]]></title>
             <link>https://www.tmz.com/2026/06/26/taylor-parker-911-call-claiming-she-gave-birth/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/61/16by9/2026/06/22/61119e9c37b94631b4e86c8fb97df7c9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/61/16by9/2026/06/22/61119e9c37b94631b4e86c8fb97df7c9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Hailey Bieber vs. Sommer Ray Who&#039;d You Rather?! (Babes In Tanks Edition)]]></title>
-            <link>https://www.tmz.com/2026/06/26/hailey-bieber-vs-sommer-ray-whod-you-rather-babes-in-tanks-edition/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/hailey-bieber-vs-sommer-ray-whod-you-rather-babes-in-tanks-edition/</guid>
-            <pubDate>Fri, 26 Jun 2026 07:01:46 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f8/16by9/2025/04/30/f8e983da903343478e3a0ad81ceca573_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f8/16by9/2025/04/30/f8e983da903343478e3a0ad81ceca573_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f8/16by9/2025/04/30/f8e983da903343478e3a0ad81ceca573_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
