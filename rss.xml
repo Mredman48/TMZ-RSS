@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 14:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 15:51:00 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Donald Trump Torches John Bolton After Guilty Plea for Mishandling Classified Docs]]></title>
+            <link>https://www.tmz.com/2026/06/27/donald-trump-slams-john-bolton-after-pleading-guilty/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/donald-trump-slams-john-bolton-after-pleading-guilty/</guid>
+            <pubDate>Sat, 27 Jun 2026 15:46:27 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ae/16by9/2026/06/27/aec3e4c7ebab408ca69071241d4c5ffa_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/ae/16by9/2026/06/27/aec3e4c7ebab408ca69071241d4c5ffa_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ae/16by9/2026/06/27/aec3e4c7ebab408ca69071241d4c5ffa_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Blows Up Iranian Missile and Drone Storage Sites, on Video]]></title>
+            <link>https://www.tmz.com/2026/06/27/us-strikes-destroys-iran-military-sites-on-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/us-strikes-destroys-iran-military-sites-on-video/</guid>
+            <pubDate>Sat, 27 Jun 2026 15:16:04 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/3f/16by9/2026/06/27/3f25622b60f74bc38eb46bb6fe35200d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/3f/16by9/2026/06/27/3f25622b60f74bc38eb46bb6fe35200d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/3f/16by9/2026/06/27/3f25622b60f74bc38eb46bb6fe35200d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;The Bear&#039; Honors Rob Reiner by Referencing One of His Most Iconic Films]]></title>
+            <link>https://www.tmz.com/2026/06/27/the-bear-honors-rob-reiner-with-princess-bride-quote/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/the-bear-honors-rob-reiner-with-princess-bride-quote/</guid>
+            <pubDate>Sat, 27 Jun 2026 14:51:58 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/06/27/254bd2489ced4e8787c39d7a9ecf527c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/06/27/254bd2489ced4e8787c39d7a9ecf527c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/06/27/254bd2489ced4e8787c39d7a9ecf527c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift, Travis Kelce Reportedly Holding Smaller Rehearsal Dinner Before 1K Guest Wedding]]></title>
             <link>https://www.tmz.com/2026/06/27/taylor-swift-travis-kelce-having-msg-rehearsal-dinner-day-before-wedding/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/b3/16by9/2026/06/27/b3d7958470354778a0b392da3b6a7bfb_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/b3/16by9/2026/06/27/b3d7958470354778a0b392da3b6a7bfb_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Ariana Grande&#039;s Ex Ricky Alvarez Attends &#039;Eternal Sunshine&#039; Tour After Ethan Slater Split]]></title>
-            <link>https://www.tmz.com/2026/06/27/ricky-alvarez-at-ariana-grande-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/ricky-alvarez-at-ariana-grande-concert/</guid>
-            <pubDate>Sat, 27 Jun 2026 12:27:14 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/80/16by9/2026/06/27/8004333410f44470b734cea3145e9048_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/80/16by9/2026/06/27/8004333410f44470b734cea3145e9048_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/80/16by9/2026/06/27/8004333410f44470b734cea3145e9048_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Ferguson Reportedly Visited Jeffrey Epstein Twice After Child Sex Conviction]]></title>
-            <link>https://www.tmz.com/2026/06/27/sarah-ferguson-visited-jeffrey-epstein-after-child-sex-conviction/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/sarah-ferguson-visited-jeffrey-epstein-after-child-sex-conviction/</guid>
-            <pubDate>Sat, 27 Jun 2026 12:02:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3a/16by9/2026/06/27/3aaf750546c5413a83e1e5c8f5ab71c9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3a/16by9/2026/06/27/3aaf750546c5413a83e1e5c8f5ab71c9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3a/16by9/2026/06/27/3aaf750546c5413a83e1e5c8f5ab71c9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Khloé Kardashian Hot Shots To Toast Her 42nd Birthday]]></title>
-            <link>https://www.tmz.com/2026/06/27/khloe-kardashian-hot-pictures-to-celebrate-her-birthday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/khloe-kardashian-hot-pictures-to-celebrate-her-birthday/</guid>
-            <pubDate>Sat, 27 Jun 2026 08:00:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/84/16by9/2024/06/26/84b32a19a5ab40e8a111fd9688c78574_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/84/16by9/2024/06/26/84b32a19a5ab40e8a111fd9688c78574_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2024/06/26/84b32a19a5ab40e8a111fd9688c78574_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
