@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 22:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 23:40:25 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Tom Sandoval&#039;s Ex Victoria&#039;s Grandfather Was in Hospice Before Fire Pit Fight]]></title>
+            <link>https://www.tmz.com/2026/06/27/victoria-robinson-grandfather-in-hospice-before-tom-sandoval-fight/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/victoria-robinson-grandfather-in-hospice-before-tom-sandoval-fight/</guid>
+            <pubDate>Sat, 27 Jun 2026 23:27:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/ce/16by9/2026/06/26/ce39787930ee47898429c7a687f96f06_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/ce/16by9/2026/06/26/ce39787930ee47898429c7a687f96f06_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/ce/16by9/2026/06/26/ce39787930ee47898429c7a687f96f06_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Former MLB Star Gorkys Hernandez&#039;s Wife Dies in Venezuela Earthquake]]></title>
             <link>https://www.tmz.com/2026/06/27/former-mlb-star-gorkys-hernandez-wife-dies/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/da/16by9/2026/06/27/da8f61bee4fe4036b5179594b76c4029_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/06/27/da8f61bee4fe4036b5179594b76c4029_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Dean McDermott Thanks Family For Helping Him Reach 3 Years of Sobriety]]></title>
-            <link>https://www.tmz.com/2026/06/27/dean-mcdermott-thanks-family-for-3-years-sober/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/dean-mcdermott-thanks-family-for-3-years-sober/</guid>
-            <pubDate>Sat, 27 Jun 2026 19:49:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
