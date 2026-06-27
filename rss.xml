@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 07:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 09:49:24 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Khloé Kardashian Hot Shots To Toast Her 42nd Birthday]]></title>
+            <link>https://www.tmz.com/2026/06/27/khloe-kardashian-hot-pictures-to-celebrate-her-birthday/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/khloe-kardashian-hot-pictures-to-celebrate-her-birthday/</guid>
+            <pubDate>Sat, 27 Jun 2026 08:00:23 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/84/16by9/2024/06/26/84b32a19a5ab40e8a111fd9688c78574_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/84/16by9/2024/06/26/84b32a19a5ab40e8a111fd9688c78574_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2024/06/26/84b32a19a5ab40e8a111fd9688c78574_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Big Tigger Appears to Assault Wife Alicia on Ring Camera Video]]></title>
+            <link>https://www.tmz.com/2026/06/27/big-tigger-alleged-assault-ring-camera/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/big-tigger-alleged-assault-ring-camera/</guid>
+            <pubDate>Sat, 27 Jun 2026 08:00:22 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/93/16by9/2026/06/26/93dfd4ddae4249498c79afa79d6089a0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/93/16by9/2026/06/26/93dfd4ddae4249498c79afa79d6089a0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/93/16by9/2026/06/26/93dfd4ddae4249498c79afa79d6089a0_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[June 2026 Hot Shots ... Sun-kissed Stars Show Out For Summer]]></title>
+            <link>https://www.tmz.com/2026/06/27/june-2026-hot-influencer-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/june-2026-hot-influencer-pictures/</guid>
+            <pubDate>Sat, 27 Jun 2026 07:45:00 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/43/16by9/2026/06/22/439d71cec2df46d4ad386fa546277b0b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/43/16by9/2026/06/22/439d71cec2df46d4ad386fa546277b0b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/43/16by9/2026/06/22/439d71cec2df46d4ad386fa546277b0b_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Chris Carr Says It&#039;s A &#039;Dream Come True&#039; To See Son Get Drafted By Lakers]]></title>
             <link>https://www.tmz.com/2026/06/27/chris-carr-reacts-to-son-cameron-draft/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e1/16by9/2026/06/24/e1cf2c440aad43159f5c63762237f84a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e1/16by9/2026/06/24/e1cf2c440aad43159f5c63762237f84a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stars and Scars -- You Be the Judge]]></title>
-            <link>https://www.tmz.com/2026/06/27/polls-you-be-the-judge/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/polls-you-be-the-judge/</guid>
-            <pubDate>Sat, 27 Jun 2026 07:25:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/06/27/d2c63d353c844bb79c56a2d5ce060086_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/06/27/d2c63d353c844bb79c56a2d5ce060086_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/06/27/d2c63d353c844bb79c56a2d5ce060086_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Official World Cup Jerseys and T-Shirts on Amazon]]></title>
-            <link>https://www.tmz.com/2026/06/27/amazon-finds-for-your-fifa-world-cup-look/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/amazon-finds-for-your-fifa-world-cup-look/</guid>
-            <pubDate>Sat, 27 Jun 2026 07:05:27 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/06/22/69e7316c191d48a48ec1c5ec5e1018db_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/06/22/69e7316c191d48a48ec1c5ec5e1018db_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/06/22/69e7316c191d48a48ec1c5ec5e1018db_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[BET Awards -- Chloe Bailey What&#039;s The Big Frigin&#039; Difference?!]]></title>
-            <link>https://www.tmz.com/2026/06/27/bet-awards-presenter-chloe-bailey-whats-the-big-frigin-difference/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/bet-awards-presenter-chloe-bailey-whats-the-big-frigin-difference/</guid>
-            <pubDate>Sat, 27 Jun 2026 07:01:28 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/06/24/58308ccce7d14137a45f5cbd975d1859_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/06/24/58308ccce7d14137a45f5cbd975d1859_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/06/24/58308ccce7d14137a45f5cbd975d1859_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
