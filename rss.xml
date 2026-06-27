@@ -4,11 +4,55 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 23:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 04:39:02 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Armed Robbers Steal Millions in Cannes Home Invasion Involving CEO Shahab Elmi]]></title>
+            <title><![CDATA[Justin Bieber Makes Surprise Appearance at NHL Draft to Announce First Pick]]></title>
+            <link>https://www.tmz.com/2026/06/26/justin-bieber-announces-first-nhl-draft-pick/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/justin-bieber-announces-first-nhl-draft-pick/</guid>
+            <pubDate>Sat, 27 Jun 2026 01:22:49 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/11/16by9/2026/06/27/11e4c18c6a4d420abc0354d6f68d623a_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/11/16by9/2026/06/27/11e4c18c6a4d420abc0354d6f68d623a_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/11/16by9/2026/06/27/11e4c18c6a4d420abc0354d6f68d623a_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[North Carolina Governor Condemns Confederate Flag at Great American State Fair]]></title>
+            <link>https://www.tmz.com/2026/06/26/north-carolina-gov-josh-stein-denounces-confederate-flag-at-great-american-state-fair/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/north-carolina-gov-josh-stein-denounces-confederate-flag-at-great-american-state-fair/</guid>
+            <pubDate>Sat, 27 Jun 2026 01:03:13 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/06/27/d0ad2d50329a4679b180bfdd23cccb3c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/06/27/d0ad2d50329a4679b180bfdd23cccb3c_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/06/27/d0ad2d50329a4679b180bfdd23cccb3c_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Pete Buttigieg Victim of &#039;False Report’ Involving His 4-Year-Old Twins]]></title>
+            <link>https://www.tmz.com/2026/06/26/pete-buttigieg-targeted-false-report/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/pete-buttigieg-targeted-false-report/</guid>
+            <pubDate>Sat, 27 Jun 2026 00:48:34 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/06/26/56b0779a32b94c6f8d4fae0db7a253a0_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/06/26/56b0779a32b94c6f8d4fae0db7a253a0_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/06/26/56b0779a32b94c6f8d4fae0db7a253a0_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Six Flags Attraction Gets Jammed Mid-Ride, People Stuck in Air for Half an Hour]]></title>
+            <link>https://www.tmz.com/2026/06/26/six-flags-ride-malfunction/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/six-flags-ride-malfunction/</guid>
+            <pubDate>Sat, 27 Jun 2026 00:30:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/e5/16by9/2026/06/26/e5844185f56e4c679dc492ab6faa0201_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/e5/16by9/2026/06/26/e5844185f56e4c679dc492ab6faa0201_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/e5/16by9/2026/06/26/e5844185f56e4c679dc492ab6faa0201_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Armed Robbers Steal Cash, Jewels in Cannes Home Invasion of CEO Shahab Elmi]]></title>
             <link>https://www.tmz.com/2026/06/26/shahab-elmi-robbed-at-gunpoint/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/06/26/shahab-elmi-robbed-at-gunpoint/</guid>
             <pubDate>Fri, 26 Jun 2026 23:06:22 GMT</pubDate>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/85/16by9/2026/06/26/85ee4a1f1b274205ab655f60bcf84ebf_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/85/16by9/2026/06/26/85ee4a1f1b274205ab655f60bcf84ebf_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Mormon Wives&#039; Star Whitney Leavitt Buys Dream Home]]></title>
-            <link>https://www.tmz.com/2026/06/26/whitney-leavitt-buys-new-home/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/whitney-leavitt-buys-new-home/</guid>
-            <pubDate>Fri, 26 Jun 2026 23:02:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fc/16by9/2026/06/26/fcc15ba2e11d40f59c50c2aa8526d531_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fc/16by9/2026/06/26/fcc15ba2e11d40f59c50c2aa8526d531_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fc/16by9/2026/06/26/fcc15ba2e11d40f59c50c2aa8526d531_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears&#039; Sons Make Paris Fashion Week Runway Debut]]></title>
-            <link>https://www.tmz.com/2026/06/26/britney-spears-sons-make-paris-fashion-week-runway-debut/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/britney-spears-sons-make-paris-fashion-week-runway-debut/</guid>
-            <pubDate>Fri, 26 Jun 2026 22:29:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/06/26/3dde2108f18944f58b8e12cf4a0b095c_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/06/26/3dde2108f18944f58b8e12cf4a0b095c_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3d/16by9/2026/06/26/3dde2108f18944f58b8e12cf4a0b095c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kate Hudson Paddle Boards in a Thong Bikini]]></title>
-            <link>https://www.tmz.com/2026/06/26/kate-hudson-bikini-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/kate-hudson-bikini-pictures/</guid>
-            <pubDate>Fri, 26 Jun 2026 22:13:39 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fd/16by9/2026/06/26/fdfc3b5b4426430ab8ded196feaf708b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fd/16by9/2026/06/26/fdfc3b5b4426430ab8ded196feaf708b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fd/16by9/2026/06/26/fdfc3b5b4426430ab8ded196feaf708b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Tom Sandoval Fight Video Takes Altercation Out of Context, Source Says]]></title>
-            <link>https://www.tmz.com/2026/06/26/tom-sandoval-explains-altercation-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/26/tom-sandoval-explains-altercation-video/</guid>
-            <pubDate>Fri, 26 Jun 2026 22:06:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/84/16by9/2026/06/26/849dbf623f5349ee8dc0871ff7703c98_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/84/16by9/2026/06/26/849dbf623f5349ee8dc0871ff7703c98_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/84/16by9/2026/06/26/849dbf623f5349ee8dc0871ff7703c98_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
