@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 21:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 22:42:51 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Former MLB Star Gorkys Hernandez&#039;s Wife Dies in Venezuela Earthquake]]></title>
+            <link>https://www.tmz.com/2026/06/27/former-mlb-star-gorkys-hernandez-wife-dies/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/former-mlb-star-gorkys-hernandez-wife-dies/</guid>
+            <pubDate>Sat, 27 Jun 2026 22:37:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d2/16by9/2026/06/27/d29a635ed99447e186dd6d13d0648301_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d2/16by9/2026/06/27/d29a635ed99447e186dd6d13d0648301_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/d2/16by9/2026/06/27/d29a635ed99447e186dd6d13d0648301_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Victoria Robinson and Her Dad Spotted at Tom Sandoval&#039;s House: Photos]]></title>
+            <link>https://www.tmz.com/2026/06/27/victoria-robinson-and-her-dad-seen-at-tom-sandoval-house/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/victoria-robinson-and-her-dad-seen-at-tom-sandoval-house/</guid>
+            <pubDate>Sat, 27 Jun 2026 22:24:18 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8f/16by9/2026/06/27/8f1d2f15e8b04e7cb5f1478dd398a036_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/06/27/8f1d2f15e8b04e7cb5f1478dd398a036_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/06/27/8f1d2f15e8b04e7cb5f1478dd398a036_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Nation of Islam Leader Louis Farrakhan&#039;s Wife, Khadijah, Dead at 90]]></title>
             <link>https://www.tmz.com/2026/06/27/khadijah-farrakhan-dead/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump Compares Young Photo of Himself to Teenage Barack Obama]]></title>
-            <link>https://www.tmz.com/2026/06/27/donald-trump-compares-young-photos-of-him-and-obama/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/donald-trump-compares-young-photos-of-him-and-obama/</guid>
-            <pubDate>Sat, 27 Jun 2026 19:03:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/06/27/dc253535f5534c22a4e386e2de46ac83_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/06/27/dc253535f5534c22a4e386e2de46ac83_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/06/27/dc253535f5534c22a4e386e2de46ac83_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Lauren Jauregui Sexy Shots To Kick Off Her 30th Birthday]]></title>
-            <link>https://www.tmz.com/2026/06/27/lauren-jauregui-hot-shots-to-celebrate-her-birthday/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/lauren-jauregui-hot-shots-to-celebrate-her-birthday/</guid>
-            <pubDate>Sat, 27 Jun 2026 19:00:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/06/24/cc7ea685498d4085b2ea7be45c1ae8ce_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/06/24/cc7ea685498d4085b2ea7be45c1ae8ce_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/06/24/cc7ea685498d4085b2ea7be45c1ae8ce_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
