@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 18:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 20:41:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Dean McDermott Thanks Family For Helping Him Reach 3 Years of Sobriety]]></title>
+            <link>https://www.tmz.com/2026/06/27/dean-mcdermott-thanks-family-for-3-years-sober/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/dean-mcdermott-thanks-family-for-3-years-sober/</guid>
+            <pubDate>Sat, 27 Jun 2026 19:49:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/67/16by9/2026/06/27/67a41294b4404deba246f6842207dcad_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump Compares Young Photo of Himself to Teenage Barack Obama]]></title>
+            <link>https://www.tmz.com/2026/06/27/donald-trump-compares-young-photos-of-him-and-obama/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/donald-trump-compares-young-photos-of-him-and-obama/</guid>
+            <pubDate>Sat, 27 Jun 2026 19:03:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/06/27/dc253535f5534c22a4e386e2de46ac83_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/06/27/dc253535f5534c22a4e386e2de46ac83_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/06/27/dc253535f5534c22a4e386e2de46ac83_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Lauren Jauregui Sexy Shots To Kick Off Her 30th Birthday]]></title>
+            <link>https://www.tmz.com/2026/06/27/lauren-jauregui-hot-shots-to-celebrate-her-birthday/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/lauren-jauregui-hot-shots-to-celebrate-her-birthday/</guid>
+            <pubDate>Sat, 27 Jun 2026 19:00:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/cc/16by9/2026/06/24/cc7ea685498d4085b2ea7be45c1ae8ce_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/cc/16by9/2026/06/24/cc7ea685498d4085b2ea7be45c1ae8ce_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/cc/16by9/2026/06/24/cc7ea685498d4085b2ea7be45c1ae8ce_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Courteney Cox & Longtime Partner Johnny McDaid Reportedly Split]]></title>
             <link>https://www.tmz.com/2026/06/27/courteney-cox-and-johnny-mcdaid-break-up/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/e2/16by9/2026/06/27/e2670497e2d04d87976ffe0202164339_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/e2/16by9/2026/06/27/e2670497e2d04d87976ffe0202164339_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Nicks, Tim McGraw Reportedly Performing at Taylor Swift and Travis Kelce&#039;s Wedding]]></title>
-            <link>https://www.tmz.com/2026/06/27/stevie-nicks-tim-mcgraw-performing-at-taylor-travis-wedding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/stevie-nicks-tim-mcgraw-performing-at-taylor-travis-wedding/</guid>
-            <pubDate>Sat, 27 Jun 2026 17:41:35 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/38/16by9/2026/06/27/3817a1ab4a334b65a8f4bba8565315cd_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/38/16by9/2026/06/27/3817a1ab4a334b65a8f4bba8565315cd_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/06/27/3817a1ab4a334b65a8f4bba8565315cd_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[North West Debuts Lip Piercings at Paris Fashion Week]]></title>
-            <link>https://www.tmz.com/2026/06/27/north-west-shows-off-lip-piercings-in-paris/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/north-west-shows-off-lip-piercings-in-paris/</guid>
-            <pubDate>Sat, 27 Jun 2026 16:36:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/56/16by9/2026/06/27/56911a1ef7c44b0bb4900323c46b7c95_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/56/16by9/2026/06/27/56911a1ef7c44b0bb4900323c46b7c95_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/56/16by9/2026/06/27/56911a1ef7c44b0bb4900323c46b7c95_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[J.D. Vance Refuses to Concede 2020 Election as Bill Maher Drags Him]]></title>
-            <link>https://www.tmz.com/2026/06/27/bill-maher-calls-out-jd-vance-over-stolen-election-claims/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/bill-maher-calls-out-jd-vance-over-stolen-election-claims/</guid>
-            <pubDate>Sat, 27 Jun 2026 16:15:13 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/d0/16by9/2026/06/27/d0a44d3383464ba39c0ae3a832421b8a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/d0/16by9/2026/06/27/d0a44d3383464ba39c0ae3a832421b8a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/d0/16by9/2026/06/27/d0a44d3383464ba39c0ae3a832421b8a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
