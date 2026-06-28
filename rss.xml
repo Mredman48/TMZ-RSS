@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 14:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 15:55:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[A$AP Rocky Shouts Out Son Riot Onstage as Rihanna Watches in Crowd]]></title>
+            <link>https://www.tmz.com/2026/06/28/rihanna-seen-at-asap-rocky-concert/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/rihanna-seen-at-asap-rocky-concert/</guid>
+            <pubDate>Sun, 28 Jun 2026 15:45:05 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/06/28/58374221745546d79bb6160ba83d2b9b_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/06/28/58374221745546d79bb6160ba83d2b9b_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/06/28/58374221745546d79bb6160ba83d2b9b_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Katy Perry’s Festival Set Canceled Over Dangerous Weather Conditions]]></title>
+            <link>https://www.tmz.com/2026/06/28/katy-perry-concert-canceled/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/katy-perry-concert-canceled/</guid>
+            <pubDate>Sun, 28 Jun 2026 15:16:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[&#039;Love Island&#039; Star Alannah Keyser Speaks Out After Sudden Removal From Show]]></title>
+            <link>https://www.tmz.com/2026/06/28/alannah-keyser-opens-up-about-being-removed-from-love-island/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/alannah-keyser-opens-up-about-being-removed-from-love-island/</guid>
+            <pubDate>Sun, 28 Jun 2026 14:36:16 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/06/28/9b927319d91f4f6c9333e1dfc16b4b84_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/06/28/9b927319d91f4f6c9333e1dfc16b4b84_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/06/28/9b927319d91f4f6c9333e1dfc16b4b84_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Noah Kahan Urges Fans Not to Poop in Seats After Video Goes Viral]]></title>
             <link>https://www.tmz.com/2026/06/28/noah-kahan-asks-fans-to-not-poop-at-his-concert/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Joe Biden Calls Trump a &#039;Loser&#039; While Firing Shots At Reflecting Pool]]></title>
-            <link>https://www.tmz.com/2026/06/28/joe-biden-calls-donald-trump-a-loser/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/joe-biden-calls-donald-trump-a-loser/</guid>
-            <pubDate>Sun, 28 Jun 2026 13:03:17 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/06/28/0f4c0697103a47a59053aef745fbac66_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/06/28/0f4c0697103a47a59053aef745fbac66_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/06/28/0f4c0697103a47a59053aef745fbac66_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Carries Out 10 Strikes On Iran As Ceasefire Hangs On By A Thread]]></title>
-            <link>https://www.tmz.com/2026/06/28/united-states-strikes-iran-on-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/united-states-strikes-iran-on-video/</guid>
-            <pubDate>Sun, 28 Jun 2026 12:19:51 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/06/28/f9030ecee6af4c7982c334c1e0c2d663_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/06/28/f9030ecee6af4c7982c334c1e0c2d663_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/06/28/f9030ecee6af4c7982c334c1e0c2d663_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Cardi B Set to Stun on Stage at BET Awards, Celebrate with Her Hot Shots]]></title>
-            <link>https://www.tmz.com/2026/06/28/cardi-b-hot-shots/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/cardi-b-hot-shots/</guid>
-            <pubDate>Sun, 28 Jun 2026 08:00:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/03/16by9/2026/06/23/03ed7953b5bc4d29ad8d790f91418862_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/03/16by9/2026/06/23/03ed7953b5bc4d29ad8d790f91418862_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/06/23/03ed7953b5bc4d29ad8d790f91418862_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
