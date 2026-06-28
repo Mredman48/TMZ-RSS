@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 22:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 23:46:41 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Missing 19-Year-Old Marly Kinney Found Dead After Desperate Search]]></title>
+            <link>https://www.tmz.com/2026/06/28/marly-kinney-dead/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/marly-kinney-dead/</guid>
+            <pubDate>Sun, 28 Jun 2026 23:09:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/06/28/8981f21fd20d40f8ad6a2898f9a719f6_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/06/28/8981f21fd20d40f8ad6a2898f9a719f6_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/06/28/8981f21fd20d40f8ad6a2898f9a719f6_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[See Celebs Arrive in Style for 2026 BET Awards]]></title>
+            <link>https://www.tmz.com/2026/06/28/2026-bet-awards-arrivals-photos/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/2026-bet-awards-arrivals-photos/</guid>
+            <pubDate>Sun, 28 Jun 2026 22:49:56 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/78/16by9/2026/06/28/782f5cc2744b44978b11f97513ad0e6c_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/78/16by9/2026/06/28/782f5cc2744b44978b11f97513ad0e6c_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/78/16by9/2026/06/28/782f5cc2744b44978b11f97513ad0e6c_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Newborn&#039;s Body Discovered in Porta-Potty at Electric Forest Festival]]></title>
             <link>https://www.tmz.com/2026/06/28/electric-forest-newborn-body-found/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/7b/16by9/2026/06/28/7b79cf18794846efa1b8fbae79d049e5_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/7b/16by9/2026/06/28/7b79cf18794846efa1b8fbae79d049e5_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Parker Jail Call With Daughter One Month After Murder Revealed]]></title>
-            <link>https://www.tmz.com/2026/06/28/taylor-parker-from-maternal-instinct-jail-call-to-daughter/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/taylor-parker-from-maternal-instinct-jail-call-to-daughter/</guid>
-            <pubDate>Sun, 28 Jun 2026 20:30:08 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e8/16by9/2026/06/28/e8b564dcf5214e69b5ca201e3bd4e3d9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/e8/16by9/2026/06/28/e8b564dcf5214e69b5ca201e3bd4e3d9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e8/16by9/2026/06/28/e8b564dcf5214e69b5ca201e3bd4e3d9_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bianca Censori and Ye Go Full Masquerade Mode at Versailles for Birthday Celebration]]></title>
-            <link>https://www.tmz.com/2026/06/28/kanye-west-and-bianca-censori-sexy-masquerade-pictures/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/kanye-west-and-bianca-censori-sexy-masquerade-pictures/</guid>
-            <pubDate>Sun, 28 Jun 2026 19:56:06 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
