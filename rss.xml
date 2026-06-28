@@ -4,9 +4,20 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 21:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 22:42:58 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Newborn&#039;s Body Discovered in Porta-Potty at Electric Forest Festival]]></title>
+            <link>https://www.tmz.com/2026/06/28/electric-forest-newborn-body-found/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/electric-forest-newborn-body-found/</guid>
+            <pubDate>Sun, 28 Jun 2026 22:38:01 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/33/16by9/2026/06/28/3360f3716a9d426a88f0a998615a4be7_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/33/16by9/2026/06/28/3360f3716a9d426a88f0a998615a4be7_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/33/16by9/2026/06/28/3360f3716a9d426a88f0a998615a4be7_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Ed Sheeran Pulls Off Surprise Wedding Crash With DJ Martin Garrix]]></title>
             <link>https://www.tmz.com/2026/06/28/ed-sheeran-martin-garrix-crash-fan-wedding/</link>
@@ -49,17 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Adele Has The Time Of Her Life At Bad Bunny&#039;s London Concert Amid Her Hiatus]]></title>
-            <link>https://www.tmz.com/2026/06/28/adele-dancing-at-bad-bunnys-london-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/adele-dancing-at-bad-bunnys-london-concert/</guid>
-            <pubDate>Sun, 28 Jun 2026 19:33:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/06/28/25d43921bb2244eeaff5650a0ab32e2a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/06/28/25d43921bb2244eeaff5650a0ab32e2a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/06/28/25d43921bb2244eeaff5650a0ab32e2a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
