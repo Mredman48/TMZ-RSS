@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 15:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 17:48:10 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Harry Styles&#039; Collapse on Stage Caused by Choking, Not Heatwave]]></title>
+            <link>https://www.tmz.com/2026/06/28/harry-styles-collapsed-on-stage-because-he-choked/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/harry-styles-collapsed-on-stage-because-he-choked/</guid>
+            <pubDate>Sun, 28 Jun 2026 17:15:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/15/16by9/2026/06/28/1596ff72aea443c0ae3ed9a48956ba9a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/15/16by9/2026/06/28/1596ff72aea443c0ae3ed9a48956ba9a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/06/28/1596ff72aea443c0ae3ed9a48956ba9a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Rapper Twista Faces 5 Years in Prison After Failing To Pay Income Taxes]]></title>
+            <link>https://www.tmz.com/2026/06/28/twista-facing-five-years-in-prison/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/twista-facing-five-years-in-prison/</guid>
+            <pubDate>Sun, 28 Jun 2026 17:00:44 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/06/28/8ce768c7e7c1402bb8eaedea1bb3e07d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/06/28/8ce768c7e7c1402bb8eaedea1bb3e07d_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/06/28/8ce768c7e7c1402bb8eaedea1bb3e07d_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Boat Captain Carrying Missing Marly Kinney Charged with BUI]]></title>
+            <link>https://www.tmz.com/2026/06/28/marly-kinney-boat-captain-cameron-conley-charged-with-bui/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/marly-kinney-boat-captain-cameron-conley-charged-with-bui/</guid>
+            <pubDate>Sun, 28 Jun 2026 16:15:12 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/06/28/71c4744e608747ff896927ca18d28e72_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/06/28/71c4744e608747ff896927ca18d28e72_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/06/28/71c4744e608747ff896927ca18d28e72_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[A$AP Rocky Shouts Out Son Riot Onstage as Rihanna Watches in Crowd]]></title>
             <link>https://www.tmz.com/2026/06/28/rihanna-seen-at-asap-rocky-concert/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[&#039;Love Island&#039; Star Alannah Keyser Speaks Out After Sudden Removal From Show]]></title>
-            <link>https://www.tmz.com/2026/06/28/alannah-keyser-opens-up-about-being-removed-from-love-island/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/alannah-keyser-opens-up-about-being-removed-from-love-island/</guid>
-            <pubDate>Sun, 28 Jun 2026 14:36:16 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/9b/16by9/2026/06/28/9b927319d91f4f6c9333e1dfc16b4b84_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/9b/16by9/2026/06/28/9b927319d91f4f6c9333e1dfc16b4b84_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/9b/16by9/2026/06/28/9b927319d91f4f6c9333e1dfc16b4b84_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Noah Kahan Urges Fans Not to Poop in Seats After Video Goes Viral]]></title>
-            <link>https://www.tmz.com/2026/06/28/noah-kahan-asks-fans-to-not-poop-at-his-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/noah-kahan-asks-fans-to-not-poop-at-his-concert/</guid>
-            <pubDate>Sun, 28 Jun 2026 14:19:37 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/06/27/bbb300e4071140a5bea3a038f57e2b82_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/06/27/bbb300e4071140a5bea3a038f57e2b82_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/06/27/bbb300e4071140a5bea3a038f57e2b82_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift Seemingly Gets Boo&#039;d During Surprise Appearance at Alan Jackson Show]]></title>
-            <link>https://www.tmz.com/2026/06/28/taylor-swift-sounds-like-she-got-bood-at-alan-jackson-show/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/taylor-swift-sounds-like-she-got-bood-at-alan-jackson-show/</guid>
-            <pubDate>Sun, 28 Jun 2026 14:00:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
