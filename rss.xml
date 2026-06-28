@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 12:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 14:25:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Noah Kahan Urges Fans Not to Poop in Seats After Video Goes Viral]]></title>
+            <link>https://www.tmz.com/2026/06/28/noah-kahan-asks-fans-to-not-poop-at-his-concert/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/noah-kahan-asks-fans-to-not-poop-at-his-concert/</guid>
+            <pubDate>Sun, 28 Jun 2026 14:19:37 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bb/16by9/2026/06/27/bbb300e4071140a5bea3a038f57e2b82_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bb/16by9/2026/06/27/bbb300e4071140a5bea3a038f57e2b82_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bb/16by9/2026/06/27/bbb300e4071140a5bea3a038f57e2b82_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift Seemingly Gets Boo&#039;d During Surprise Appearance at Alan Jackson Show]]></title>
+            <link>https://www.tmz.com/2026/06/28/taylor-swift-sounds-like-she-got-bood-at-alan-jackson-show/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/taylor-swift-sounds-like-she-got-bood-at-alan-jackson-show/</guid>
+            <pubDate>Sun, 28 Jun 2026 14:00:47 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6c/16by9/2026/06/28/6c09ab7ec46242d89d41299aa1a09f8a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Joe Biden Calls Trump a &#039;Loser&#039; While Firing Shots At Reflecting Pool]]></title>
+            <link>https://www.tmz.com/2026/06/28/joe-biden-calls-donald-trump-a-loser/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/joe-biden-calls-donald-trump-a-loser/</guid>
+            <pubDate>Sun, 28 Jun 2026 13:03:17 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0f/16by9/2026/06/28/0f4c0697103a47a59053aef745fbac66_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0f/16by9/2026/06/28/0f4c0697103a47a59053aef745fbac66_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0f/16by9/2026/06/28/0f4c0697103a47a59053aef745fbac66_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Carries Out 10 Strikes On Iran As Ceasefire Hangs On By A Thread]]></title>
+            <link>https://www.tmz.com/2026/06/28/united-states-strikes-iran-on-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/united-states-strikes-iran-on-video/</guid>
+            <pubDate>Sun, 28 Jun 2026 12:19:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f9/16by9/2026/06/28/f9030ecee6af4c7982c334c1e0c2d663_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/f9/16by9/2026/06/28/f9030ecee6af4c7982c334c1e0c2d663_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f9/16by9/2026/06/28/f9030ecee6af4c7982c334c1e0c2d663_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Cardi B Set to Stun on Stage at BET Awards, Celebrate with Her Hot Shots]]></title>
             <link>https://www.tmz.com/2026/06/28/cardi-b-hot-shots/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/03/16by9/2026/06/23/03ed7953b5bc4d29ad8d790f91418862_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/03/16by9/2026/06/23/03ed7953b5bc4d29ad8d790f91418862_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[TLC&#039;s Deon Derrico Sues Business Partner Over Real Estate Deal]]></title>
-            <link>https://www.tmz.com/2026/06/28/deon-derrico-sues-business-partner/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/deon-derrico-sues-business-partner/</guid>
-            <pubDate>Sun, 28 Jun 2026 08:00:23 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/b8/16by9/2026/06/26/b8f9e33d6d9b4d249813c6b652fa07ee_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/b8/16by9/2026/06/26/b8f9e33d6d9b4d249813c6b652fa07ee_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/b8/16by9/2026/06/26/b8f9e33d6d9b4d249813c6b652fa07ee_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Kehlani Then And Now -- Good Genes or Good Docs?!]]></title>
-            <link>https://www.tmz.com/2026/06/28/kehlani-good-genes-or-good-docs/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/kehlani-good-genes-or-good-docs/</guid>
-            <pubDate>Sun, 28 Jun 2026 07:30:49 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ed/16by9/2026/06/26/ed6f05b393524d8da5fa0c23e6d5f122_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ed/16by9/2026/06/26/ed6f05b393524d8da5fa0c23e6d5f122_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ed/16by9/2026/06/26/ed6f05b393524d8da5fa0c23e6d5f122_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Katie Morgan Goes From Porn To Poker, Playing In WSOP]]></title>
-            <link>https://www.tmz.com/2026/06/28/katie-morgan-playing-world-series-of-poker/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/katie-morgan-playing-world-series-of-poker/</guid>
-            <pubDate>Sun, 28 Jun 2026 07:15:32 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/06/25/325d7e5d4b1241dbbd8c5ad9d18545ee_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/06/25/325d7e5d4b1241dbbd8c5ad9d18545ee_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/06/25/325d7e5d4b1241dbbd8c5ad9d18545ee_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Love Island Shirts and Games Every Fan Should Add to Cart]]></title>
-            <link>https://www.tmz.com/2026/06/28/love-island-party-supplies/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/love-island-party-supplies/</guid>
-            <pubDate>Sun, 28 Jun 2026 07:05:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/65/16by9/2026/06/23/656bd27d8a3a4b7ba52f751e20569fda_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/65/16by9/2026/06/23/656bd27d8a3a4b7ba52f751e20569fda_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/65/16by9/2026/06/23/656bd27d8a3a4b7ba52f751e20569fda_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
