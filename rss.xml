@@ -4,9 +4,53 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 17:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 19:57:21 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Bianca Censori and Ye Go Full Masquerade Mode at Versailles for Birthday Celebration]]></title>
+            <link>https://www.tmz.com/2026/06/28/kanye-west-and-bianca-censori-sexy-masquerade-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/kanye-west-and-bianca-censori-sexy-masquerade-pictures/</guid>
+            <pubDate>Sun, 28 Jun 2026 19:56:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/00/16by9/2026/06/28/00bd367a7baf4996bc666b72ed1b73e9_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Adele Has The Time Of Her Life At Bad Bunny&#039;s London Concert Amid Her Hiatus]]></title>
+            <link>https://www.tmz.com/2026/06/28/adele-dancing-at-bad-bunnys-london-concert/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/adele-dancing-at-bad-bunnys-london-concert/</guid>
+            <pubDate>Sun, 28 Jun 2026 19:33:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/25/16by9/2026/06/28/25d43921bb2244eeaff5650a0ab32e2a_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/25/16by9/2026/06/28/25d43921bb2244eeaff5650a0ab32e2a_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/25/16by9/2026/06/28/25d43921bb2244eeaff5650a0ab32e2a_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Jennifer Lopez Crashes Prime Video Fan Event With Surprise Appearance]]></title>
+            <link>https://www.tmz.com/2026/06/28/jennifer-lopez-pops-up-at-prime-video-fan-fest/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/jennifer-lopez-pops-up-at-prime-video-fan-fest/</guid>
+            <pubDate>Sun, 28 Jun 2026 18:29:51 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/9d/16by9/2026/06/28/9da50d5026634252a809480e94a64dd4_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/9d/16by9/2026/06/28/9da50d5026634252a809480e94a64dd4_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/9d/16by9/2026/06/28/9da50d5026634252a809480e94a64dd4_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[T-Pain Debuts Unreleased Oliver Tree Song, Recorded Prior to Sudden Death]]></title>
+            <link>https://www.tmz.com/2026/06/28/oliver-tree-song-recorded-prior-to-death-released/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/oliver-tree-song-recorded-prior-to-death-released/</guid>
+            <pubDate>Sun, 28 Jun 2026 17:49:40 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/30/16by9/2026/06/28/308228f70c2345db8e8291012451341f_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/30/16by9/2026/06/28/308228f70c2345db8e8291012451341f_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/30/16by9/2026/06/28/308228f70c2345db8e8291012451341f_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Harry Styles&#039; Collapse on Stage Caused by Choking, Not Heatwave]]></title>
             <link>https://www.tmz.com/2026/06/28/harry-styles-collapsed-on-stage-because-he-choked/</link>
@@ -16,50 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/15/16by9/2026/06/28/1596ff72aea443c0ae3ed9a48956ba9a_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/15/16by9/2026/06/28/1596ff72aea443c0ae3ed9a48956ba9a_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Rapper Twista Faces 5 Years in Prison After Failing To Pay Income Taxes]]></title>
-            <link>https://www.tmz.com/2026/06/28/twista-facing-five-years-in-prison/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/twista-facing-five-years-in-prison/</guid>
-            <pubDate>Sun, 28 Jun 2026 17:00:44 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/8c/16by9/2026/06/28/8ce768c7e7c1402bb8eaedea1bb3e07d_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/8c/16by9/2026/06/28/8ce768c7e7c1402bb8eaedea1bb3e07d_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/8c/16by9/2026/06/28/8ce768c7e7c1402bb8eaedea1bb3e07d_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Boat Captain Carrying Missing Marly Kinney Charged with BUI]]></title>
-            <link>https://www.tmz.com/2026/06/28/marly-kinney-boat-captain-cameron-conley-charged-with-bui/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/marly-kinney-boat-captain-cameron-conley-charged-with-bui/</guid>
-            <pubDate>Sun, 28 Jun 2026 16:15:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/71/16by9/2026/06/28/71c4744e608747ff896927ca18d28e72_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/71/16by9/2026/06/28/71c4744e608747ff896927ca18d28e72_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/71/16by9/2026/06/28/71c4744e608747ff896927ca18d28e72_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[A$AP Rocky Shouts Out Son Riot Onstage as Rihanna Watches in Crowd]]></title>
-            <link>https://www.tmz.com/2026/06/28/rihanna-seen-at-asap-rocky-concert/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/rihanna-seen-at-asap-rocky-concert/</guid>
-            <pubDate>Sun, 28 Jun 2026 15:45:05 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/58/16by9/2026/06/28/58374221745546d79bb6160ba83d2b9b_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/58/16by9/2026/06/28/58374221745546d79bb6160ba83d2b9b_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/58/16by9/2026/06/28/58374221745546d79bb6160ba83d2b9b_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Katy Perry’s Festival Set Canceled Over Dangerous Weather Conditions]]></title>
-            <link>https://www.tmz.com/2026/06/28/katy-perry-concert-canceled/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/28/katy-perry-concert-canceled/</guid>
-            <pubDate>Sun, 28 Jun 2026 15:16:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/69/16by9/2026/06/28/693ca5c9aef9439eb4fd48dca96bb6f0_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
