@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 23:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 01:49:53 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Taylor Swift & Travis Kelce&#039;s Guests Reportedly Don&#039;t Know Where Wedding Will Happen]]></title>
+            <link>https://www.tmz.com/2026/06/27/taylor-swift-travis-kelce-wedding-guests-unsure-about-venue/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/taylor-swift-travis-kelce-wedding-guests-unsure-about-venue/</guid>
+            <pubDate>Sun, 28 Jun 2026 00:47:32 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/be/16by9/2026/06/27/be341e7ebfaf4951aaceb19e278bccb1_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/be/16by9/2026/06/27/be341e7ebfaf4951aaceb19e278bccb1_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/be/16by9/2026/06/27/be341e7ebfaf4951aaceb19e278bccb1_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Tom Sandoval&#039;s Ex Screams She &#039;F***ing Hates&#039; Him During Tense Encounter at House, Video]]></title>
+            <link>https://www.tmz.com/2026/06/27/tom-sandovals-ex-screams-at-him-video/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/tom-sandovals-ex-screams-at-him-video/</guid>
+            <pubDate>Sun, 28 Jun 2026 00:25:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/6f/16by9/2026/06/28/6f4d322ec90e4b2192e3f5e5ebebb881_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/6f/16by9/2026/06/28/6f4d322ec90e4b2192e3f5e5ebebb881_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/6f/16by9/2026/06/28/6f4d322ec90e4b2192e3f5e5ebebb881_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Tom Sandoval&#039;s Ex Victoria&#039;s Grandfather Was in Hospice Before Fire Pit Fight]]></title>
             <link>https://www.tmz.com/2026/06/27/victoria-robinson-grandfather-in-hospice-before-tom-sandoval-fight/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/8f/16by9/2026/06/27/8f1d2f15e8b04e7cb5f1478dd398a036_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/8f/16by9/2026/06/27/8f1d2f15e8b04e7cb5f1478dd398a036_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Nation of Islam Leader Louis Farrakhan&#039;s Wife, Khadijah, Dead at 90]]></title>
-            <link>https://www.tmz.com/2026/06/27/khadijah-farrakhan-dead/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/khadijah-farrakhan-dead/</guid>
-            <pubDate>Sat, 27 Jun 2026 21:13:38 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/fa/16by9/2026/06/27/fa512eb6bffb40afb817d7a08b86f437_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/fa/16by9/2026/06/27/fa512eb6bffb40afb817d7a08b86f437_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/fa/16by9/2026/06/27/fa512eb6bffb40afb817d7a08b86f437_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Alessandra Ambrosio Strips Down to Tiny Bikini During Fun-Filled Beach Day]]></title>
-            <link>https://www.tmz.com/2026/06/27/alessandra-ambrosio-in-bikini-on-beach/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/27/alessandra-ambrosio-in-bikini-on-beach/</guid>
-            <pubDate>Sat, 27 Jun 2026 21:00:01 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/da/16by9/2026/06/27/da8f61bee4fe4036b5179594b76c4029_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/da/16by9/2026/06/27/da8f61bee4fe4036b5179594b76c4029_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/da/16by9/2026/06/27/da8f61bee4fe4036b5179594b76c4029_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
