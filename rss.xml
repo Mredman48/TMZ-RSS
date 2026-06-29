@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 21:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 22:39:46 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Taylor Swift Serving Her Go-To Restaurant Favorites at Wedding Feast]]></title>
-            <link>https://www.tmz.com/2026/06/29/taylor-swift-wedding-celebration-food-revealed/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/taylor-swift-wedding-celebration-food-revealed/</guid>
-            <pubDate>Mon, 29 Jun 2026 20:30:50 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/98/16by9/2026/06/29/980df05259444d368d7a2bdc4fd79f8f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/98/16by9/2026/06/29/980df05259444d368d7a2bdc4fd79f8f_xl.jpg" medium="image">
+            <title><![CDATA[Kevin Spacey Says He Always Felt Attacked By Gay Community]]></title>
+            <link>https://www.tmz.com/2026/06/29/kevin-spacey-discusses-sexuality-on-podcast/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/kevin-spacey-discusses-sexuality-on-podcast/</guid>
+            <pubDate>Mon, 29 Jun 2026 22:31:48 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/59/16by9/2026/06/29/5993346c9cd7459caa3a3581eee3bd40_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/59/16by9/2026/06/29/5993346c9cd7459caa3a3581eee3bd40_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/98/16by9/2026/06/29/980df05259444d368d7a2bdc4fd79f8f_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/59/16by9/2026/06/29/5993346c9cd7459caa3a3581eee3bd40_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Terrion Arnold Released By Lions Amid Kidnapping, Robbery Case]]></title>
-            <link>https://www.tmz.com/2026/06/29/lions-release-terrion-arnold/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/lions-release-terrion-arnold/</guid>
-            <pubDate>Mon, 29 Jun 2026 20:19:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/c2/16by9/2026/06/29/c27ae3b6d26f460d8ee96d89e3aaf8eb_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/c2/16by9/2026/06/29/c27ae3b6d26f460d8ee96d89e3aaf8eb_xl.jpg" medium="image">
+            <title><![CDATA[Smiling Texas Sisters Knew Stabbing Victim, Attack Wasn&#039;t Random, Police Chief Says]]></title>
+            <link>https://www.tmz.com/2026/06/29/texas-sisters-smiling-in-murder-mug-shots-knew-stabbing-victim/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/texas-sisters-smiling-in-murder-mug-shots-knew-stabbing-victim/</guid>
+            <pubDate>Mon, 29 Jun 2026 22:25:02 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/32/16by9/2026/06/29/32e9110ae868443a8d82a9fd10b9377c_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/32/16by9/2026/06/29/32e9110ae868443a8d82a9fd10b9377c_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/c2/16by9/2026/06/29/c27ae3b6d26f460d8ee96d89e3aaf8eb_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/06/29/32e9110ae868443a8d82a9fd10b9377c_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Justin Bieber Not Going On Tour Despite Speculation]]></title>
-            <link>https://www.tmz.com/2026/06/29/justin-bieber-not-going-on-tour/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/justin-bieber-not-going-on-tour/</guid>
-            <pubDate>Mon, 29 Jun 2026 20:15:24 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/a0/16by9/2026/06/29/a0d32a10316042ee960dbfae67c028e6_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/a0/16by9/2026/06/29/a0d32a10316042ee960dbfae67c028e6_xl.png" medium="image">
+            <title><![CDATA[Oliver Tree Shared Strange Premonition About His Death in Final Interview]]></title>
+            <link>https://www.tmz.com/2026/06/29/oliver-tree-talks-death-in-final-interview/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/oliver-tree-talks-death-in-final-interview/</guid>
+            <pubDate>Mon, 29 Jun 2026 21:53:33 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/06/29/1d82c93e2f8c4bc69f55bbc07442c984_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/06/29/1d82c93e2f8c4bc69f55bbc07442c984_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/a0/16by9/2026/06/29/a0d32a10316042ee960dbfae67c028e6_xl.png">
+            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/06/29/1d82c93e2f8c4bc69f55bbc07442c984_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Dr. Oz Says Great American State Fair Crowd Is Huge, But Camera Pan Shows Otherwise]]></title>
-            <link>https://www.tmz.com/2026/06/29/dr-oz-great-american-state-fair-crowd-claim-doesnt-match-up-to-video/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/dr-oz-great-american-state-fair-crowd-claim-doesnt-match-up-to-video/</guid>
-            <pubDate>Mon, 29 Jun 2026 20:12:15 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/3e/16by9/2026/06/29/3e2ba8b4e9e04df79608b0116fcfc28a_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/3e/16by9/2026/06/29/3e2ba8b4e9e04df79608b0116fcfc28a_xl.jpg" medium="image">
+            <title><![CDATA[Taylor Frankie Paul&#039;s Ex Dakota Mortensen Calls Cops On Her Over Kids]]></title>
+            <link>https://www.tmz.com/2026/06/29/taylor-frankie-paul-says-cops-called-on-her/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/taylor-frankie-paul-says-cops-called-on-her/</guid>
+            <pubDate>Mon, 29 Jun 2026 21:30:31 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/92/16by9/2026/06/29/92173cc226234486ac1f8c97717537ce_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/92/16by9/2026/06/29/92173cc226234486ac1f8c97717537ce_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/3e/16by9/2026/06/29/3e2ba8b4e9e04df79608b0116fcfc28a_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/92/16by9/2026/06/29/92173cc226234486ac1f8c97717537ce_xl.png">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[College Football Player Mekhi Nelson Arrested After Alleged Altercation With Pregnant GF]]></title>
-            <link>https://www.tmz.com/2026/06/29/mekhi-nelson-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/mekhi-nelson-arrested/</guid>
-            <pubDate>Mon, 29 Jun 2026 20:01:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ff/16by9/2026/06/29/ff2ec21afca74253884d00abd8fb6f89_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ff/16by9/2026/06/29/ff2ec21afca74253884d00abd8fb6f89_xl.jpg" medium="image">
+            <title><![CDATA[Eva Marcille Supports Tyra Banks in Netflix Lawsuit, &#039;Get Your Money, Black Woman&#039;]]></title>
+            <link>https://www.tmz.com/2026/06/29/eva-marcille-comments-on-tyra-banks-lawsuit/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/eva-marcille-comments-on-tyra-banks-lawsuit/</guid>
+            <pubDate>Mon, 29 Jun 2026 21:20:43 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/06/29/27c842716fd445e0bac9bf05eaa88ae9_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/06/29/27c842716fd445e0bac9bf05eaa88ae9_xl.png" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ff/16by9/2026/06/29/ff2ec21afca74253884d00abd8fb6f89_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/06/29/27c842716fd445e0bac9bf05eaa88ae9_xl.png">
             </media:thumbnail>
         </item>
     </channel>
