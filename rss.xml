@@ -4,9 +4,42 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 22:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 23:39:27 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Noah Kahan Fan Poop Incident Not Being Investigated by Police]]></title>
+            <link>https://www.tmz.com/2026/06/29/noah-kahan-concert-poop-no-investigation/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/noah-kahan-concert-poop-no-investigation/</guid>
+            <pubDate>Mon, 29 Jun 2026 23:30:10 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/c4/16by9/2026/06/29/c41d6d2d088e44019ff289c172ceeb50_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/c4/16by9/2026/06/29/c41d6d2d088e44019ff289c172ceeb50_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/c4/16by9/2026/06/29/c41d6d2d088e44019ff289c172ceeb50_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Suspected Murderer Dies of Heart Attack While Dumping Victim&#039;s Body, Cops Say]]></title>
+            <link>https://www.tmz.com/2026/06/29/suspected-murderer-dies-while-disposing-dead-body/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/suspected-murderer-dies-while-disposing-dead-body/</guid>
+            <pubDate>Mon, 29 Jun 2026 23:02:19 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/0e/16by9/2026/06/29/0e3f2ab6b51749b1926ee66c29902b84_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/0e/16by9/2026/06/29/0e3f2ab6b51749b1926ee66c29902b84_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/0e/16by9/2026/06/29/0e3f2ab6b51749b1926ee66c29902b84_xl.png">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Apolo Ohno Sues Ex For Refusing to Return Olympic Memorabilia]]></title>
+            <link>https://www.tmz.com/2026/06/29/apolo-ohno-sues-ex-over-olympic-memorabilia/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/apolo-ohno-sues-ex-over-olympic-memorabilia/</guid>
+            <pubDate>Mon, 29 Jun 2026 22:55:09 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/7e/16by9/2026/06/29/7ece61082b564236aaabfa5fa27b5bae_xl.png" length="0" type="image/png"/>
+            <media:content url="https://imagez.tmz.com/image/7e/16by9/2026/06/29/7ece61082b564236aaabfa5fa27b5bae_xl.png" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/7e/16by9/2026/06/29/7ece61082b564236aaabfa5fa27b5bae_xl.png">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[Kevin Spacey Says He Always Felt Attacked By Gay Community]]></title>
             <link>https://www.tmz.com/2026/06/29/kevin-spacey-discusses-sexuality-on-podcast/</link>
@@ -27,39 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/32/16by9/2026/06/29/32e9110ae868443a8d82a9fd10b9377c_xl.png" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/32/16by9/2026/06/29/32e9110ae868443a8d82a9fd10b9377c_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Tree Shared Strange Premonition About His Death in Final Interview]]></title>
-            <link>https://www.tmz.com/2026/06/29/oliver-tree-talks-death-in-final-interview/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/oliver-tree-talks-death-in-final-interview/</guid>
-            <pubDate>Mon, 29 Jun 2026 21:53:33 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/06/29/1d82c93e2f8c4bc69f55bbc07442c984_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/06/29/1d82c93e2f8c4bc69f55bbc07442c984_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/1d/16by9/2026/06/29/1d82c93e2f8c4bc69f55bbc07442c984_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Frankie Paul&#039;s Ex Dakota Mortensen Calls Cops On Her Over Kids]]></title>
-            <link>https://www.tmz.com/2026/06/29/taylor-frankie-paul-says-cops-called-on-her/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/taylor-frankie-paul-says-cops-called-on-her/</guid>
-            <pubDate>Mon, 29 Jun 2026 21:30:31 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/92/16by9/2026/06/29/92173cc226234486ac1f8c97717537ce_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/92/16by9/2026/06/29/92173cc226234486ac1f8c97717537ce_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/92/16by9/2026/06/29/92173cc226234486ac1f8c97717537ce_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Eva Marcille Supports Tyra Banks in Netflix Lawsuit, &#039;Get Your Money, Black Woman&#039;]]></title>
-            <link>https://www.tmz.com/2026/06/29/eva-marcille-comments-on-tyra-banks-lawsuit/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/29/eva-marcille-comments-on-tyra-banks-lawsuit/</guid>
-            <pubDate>Mon, 29 Jun 2026 21:20:43 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/27/16by9/2026/06/29/27c842716fd445e0bac9bf05eaa88ae9_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/27/16by9/2026/06/29/27c842716fd445e0bac9bf05eaa88ae9_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/27/16by9/2026/06/29/27c842716fd445e0bac9bf05eaa88ae9_xl.png">
             </media:thumbnail>
         </item>
     </channel>
