@@ -4,11 +4,11 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 10:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 12:31:07 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Bad Bunny&#039;s Label Reportedly Gave $4,000 Concert Tickets to Justice Sonia Sotomayor]]></title>
+            <title><![CDATA[Bad Bunny&#039;s Label Gifted Over $4,000 in Concert Tickets to Justice Sonia Sotomayor]]></title>
             <link>https://www.tmz.com/2026/06/30/bad-bunnys-label-gave-4000-dollar-plus-concert-tickets-to-justice-sonia-sotomayor/</link>
             <guid isPermaLink="false">https://www.tmz.com/2026/06/30/bad-bunnys-label-gave-4000-dollar-plus-concert-tickets-to-justice-sonia-sotomayor/</guid>
             <pubDate>Tue, 30 Jun 2026 09:33:26 GMT</pubDate>
@@ -19,9 +19,9 @@
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Dianna Russini Caught on Bodycam Video Lying Her Way Out of Traffic Ticket]]></title>
-            <link>https://www.tmz.com/2026/06/30/dianna-russini-is-caught-on-bodycam-video-lying-her-way-out-of-traffic-ticket/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/dianna-russini-is-caught-on-bodycam-video-lying-her-way-out-of-traffic-ticket/</guid>
+            <title><![CDATA[Dianna Russini Body Cam Video Shows She Never FaceTimed Vikings Head Coach]]></title>
+            <link>https://www.tmz.com/2026/06/30/dianna-russini-body-camera-video-tells-different-story-about-vikings-coach/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/dianna-russini-body-camera-video-tells-different-story-about-vikings-coach/</guid>
             <pubDate>Tue, 30 Jun 2026 08:46:31 GMT</pubDate>
             <enclosure url="https://imagez.tmz.com/image/3d/16by9/2026/05/08/3d31dc720e7440acb8d4a02fe0c38621_xl.jpg" length="0" type="image/jpeg"/>
             <media:content url="https://imagez.tmz.com/image/3d/16by9/2026/05/08/3d31dc720e7440acb8d4a02fe0c38621_xl.jpg" medium="image">
