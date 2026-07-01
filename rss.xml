@@ -4,62 +4,62 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 06:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 10:56:04 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
         <item>
-            <title><![CDATA[Chris Brown Ordered to Pay $13M Over Dog Attack]]></title>
-            <link>https://www.tmz.com/2026/06/30/chris-brown-ordered-to-pay-13-million-for-dog-attack/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/chris-brown-ordered-to-pay-13-million-for-dog-attack/</guid>
-            <pubDate>Wed, 01 Jul 2026 02:02:03 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/07/01/f247281e0d52435d8d909d6afc8cc7da_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/07/01/f247281e0d52435d8d909d6afc8cc7da_xl.jpg" medium="image">
+            <title><![CDATA[Village People Frontman Victor Willis Dead at 74]]></title>
+            <link>https://www.tmz.com/2026/07/01/village-people-frontman-victor-willis-dead-at-74/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/07/01/village-people-frontman-victor-willis-dead-at-74/</guid>
+            <pubDate>Wed, 01 Jul 2026 10:29:15 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/a5/16by9/2014/04/29/a5da786b57c151f98c50b7fcdc09f229_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/a5/16by9/2014/04/29/a5da786b57c151f98c50b7fcdc09f229_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/07/01/f247281e0d52435d8d909d6afc8cc7da_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/a5/16by9/2014/04/29/a5da786b57c151f98c50b7fcdc09f229_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift&#039;s MSG Wedding: Expensive Police Presence Revealed]]></title>
-            <link>https://www.tmz.com/2026/06/30/police-presence-at-msg-taylor-swift-wedding/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/police-presence-at-msg-taylor-swift-wedding/</guid>
-            <pubDate>Wed, 01 Jul 2026 02:00:29 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/bd/16by9/2026/06/30/bd28925036fc4524ae8b3c12dcf397b9_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/bd/16by9/2026/06/30/bd28925036fc4524ae8b3c12dcf397b9_xl.jpg" medium="image">
+            <title><![CDATA[Harvey Weinstein Suffers Heart Failure at Rikers Island, Sources Say]]></title>
+            <link>https://www.tmz.com/2026/07/01/harvey-weinstein-suffers-heart-failure-at-rikers-island/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/07/01/harvey-weinstein-suffers-heart-failure-at-rikers-island/</guid>
+            <pubDate>Wed, 01 Jul 2026 08:12:21 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/d7/16by9/2026/03/10/d7c6986b5ed44bc0bbb3d8d53c676950_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/d7/16by9/2026/03/10/d7c6986b5ed44bc0bbb3d8d53c676950_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/bd/16by9/2026/06/30/bd28925036fc4524ae8b3c12dcf397b9_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/d7/16by9/2026/03/10/d7c6986b5ed44bc0bbb3d8d53c676950_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Vanderpump Rules&#039; Alum James Kennedy Engaged to Jordan Meyers]]></title>
-            <link>https://www.tmz.com/2026/06/30/vanderpump-rules-alum-james-kennedy-engaged-to-jordan-meyers/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/vanderpump-rules-alum-james-kennedy-engaged-to-jordan-meyers/</guid>
-            <pubDate>Wed, 01 Jul 2026 01:32:12 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/38/16by9/2026/07/01/38e2888aaa0546ff88c09c3d862ab4f7_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/38/16by9/2026/07/01/38e2888aaa0546ff88c09c3d862ab4f7_xl.jpg" medium="image">
+            <title><![CDATA[&#039;Maternal Instinct&#039; Taylor Parker Claims She Was Told to Take Baby Out of Victim]]></title>
+            <link>https://www.tmz.com/2026/07/01/taylor-parker-says-she-was-told-to-cut-baby-out-of-victim/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/07/01/taylor-parker-says-she-was-told-to-cut-baby-out-of-victim/</guid>
+            <pubDate>Wed, 01 Jul 2026 08:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/48/16by9/2026/06/30/4816bfd4a11a4212b29b298011e5fa6d_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/48/16by9/2026/06/30/4816bfd4a11a4212b29b298011e5fa6d_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/38/16by9/2026/07/01/38e2888aaa0546ff88c09c3d862ab4f7_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/48/16by9/2026/06/30/4816bfd4a11a4212b29b298011e5fa6d_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[Rob Kardashian Flashes Huge Smile in Rare Family Photos]]></title>
-            <link>https://www.tmz.com/2026/06/30/rob-kardashian-seen-in-new-family-photos/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/rob-kardashian-seen-in-new-family-photos/</guid>
-            <pubDate>Wed, 01 Jul 2026 01:22:47 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/72/16by9/2026/07/01/72fbbf8a65264985aa92aaf2ee6a577e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/72/16by9/2026/07/01/72fbbf8a65264985aa92aaf2ee6a577e_xl.jpg" medium="image">
+            <title><![CDATA[Chix On Netflix ... Guess The Szallin&#039; Star!]]></title>
+            <link>https://www.tmz.com/2026/07/01/sza-hot-pictures/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/07/01/sza-hot-pictures/</guid>
+            <pubDate>Wed, 01 Jul 2026 07:45:50 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/dc/16by9/2026/06/30/dca969e8677a47b4ab2e794c286deb09_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/dc/16by9/2026/06/30/dca969e8677a47b4ab2e794c286deb09_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/72/16by9/2026/07/01/72fbbf8a65264985aa92aaf2ee6a577e_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/dc/16by9/2026/06/30/dca969e8677a47b4ab2e794c286deb09_xl.jpg">
             </media:thumbnail>
         </item>
         <item>
-            <title><![CDATA[&#039;Love Island&#039; Bombshell Alannah Keyser Addresses Backlash From N-Word Video on Podcast]]></title>
-            <link>https://www.tmz.com/2026/06/30/alannah-keyser-from-love-island-addresses-racial-slur-backlash/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/alannah-keyser-from-love-island-addresses-racial-slur-backlash/</guid>
-            <pubDate>Wed, 01 Jul 2026 01:01:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/ac/16by9/2026/07/01/acc8567de059471eaf342eb797af325f_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/07/01/acc8567de059471eaf342eb797af325f_xl.jpg" medium="image">
+            <title><![CDATA[Jose Reyes Wants Carlos Beltran To Manage New York Mets]]></title>
+            <link>https://www.tmz.com/2026/07/01/jose-reyes-weighs-in-on-mets-manager-vacancy/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/07/01/jose-reyes-weighs-in-on-mets-manager-vacancy/</guid>
+            <pubDate>Wed, 01 Jul 2026 07:30:06 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/17/16by9/2026/06/29/17e02925a4d94952997eb1103a5e9a16_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/17/16by9/2026/06/29/17e02925a4d94952997eb1103a5e9a16_xl.jpg" medium="image">
             </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/07/01/acc8567de059471eaf342eb797af325f_xl.jpg">
+            <media:thumbnail url="https://imagez.tmz.com/image/17/16by9/2026/06/29/17e02925a4d94952997eb1103a5e9a16_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
