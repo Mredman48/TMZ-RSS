@@ -4,9 +4,31 @@
         <description><![CDATA[Top 5 TMZ items (title + link + photo) built from TMZ news sitemap + OG images.]]></description>
         <link>https://www.tmz.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 01:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 06:54:56 GMT</lastBuildDate>
         <language><![CDATA[en]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[Chris Brown Ordered to Pay $13M Over Dog Attack]]></title>
+            <link>https://www.tmz.com/2026/06/30/chris-brown-ordered-to-pay-13-million-for-dog-attack/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/chris-brown-ordered-to-pay-13-million-for-dog-attack/</guid>
+            <pubDate>Wed, 01 Jul 2026 02:02:03 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/f2/16by9/2026/07/01/f247281e0d52435d8d909d6afc8cc7da_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/f2/16by9/2026/07/01/f247281e0d52435d8d909d6afc8cc7da_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/f2/16by9/2026/07/01/f247281e0d52435d8d909d6afc8cc7da_xl.jpg">
+            </media:thumbnail>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift&#039;s MSG Wedding: Expensive Police Presence Revealed]]></title>
+            <link>https://www.tmz.com/2026/06/30/police-presence-at-msg-taylor-swift-wedding/</link>
+            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/police-presence-at-msg-taylor-swift-wedding/</guid>
+            <pubDate>Wed, 01 Jul 2026 02:00:29 GMT</pubDate>
+            <enclosure url="https://imagez.tmz.com/image/bd/16by9/2026/06/30/bd28925036fc4524ae8b3c12dcf397b9_xl.jpg" length="0" type="image/jpeg"/>
+            <media:content url="https://imagez.tmz.com/image/bd/16by9/2026/06/30/bd28925036fc4524ae8b3c12dcf397b9_xl.jpg" medium="image">
+            </media:content>
+            <media:thumbnail url="https://imagez.tmz.com/image/bd/16by9/2026/06/30/bd28925036fc4524ae8b3c12dcf397b9_xl.jpg">
+            </media:thumbnail>
+        </item>
         <item>
             <title><![CDATA[&#039;Vanderpump Rules&#039; Alum James Kennedy Engaged to Jordan Meyers]]></title>
             <link>https://www.tmz.com/2026/06/30/vanderpump-rules-alum-james-kennedy-engaged-to-jordan-meyers/</link>
@@ -38,28 +60,6 @@
             <media:content url="https://imagez.tmz.com/image/ac/16by9/2026/07/01/acc8567de059471eaf342eb797af325f_xl.jpg" medium="image">
             </media:content>
             <media:thumbnail url="https://imagez.tmz.com/image/ac/16by9/2026/07/01/acc8567de059471eaf342eb797af325f_xl.jpg">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Bachelorette’s DeAnna Pappas Awarded 5-Figure Sum From Ex in Divorce]]></title>
-            <link>https://www.tmz.com/2026/06/30/deanna-pappas-wins-5-figure-sum-in-divorce/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/deanna-pappas-wins-5-figure-sum-in-divorce/</guid>
-            <pubDate>Wed, 01 Jul 2026 00:13:04 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/89/16by9/2026/06/30/892f3ea1fb9d4421a6e6f0df46e1697a_xl.png" length="0" type="image/png"/>
-            <media:content url="https://imagez.tmz.com/image/89/16by9/2026/06/30/892f3ea1fb9d4421a6e6f0df46e1697a_xl.png" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/89/16by9/2026/06/30/892f3ea1fb9d4421a6e6f0df46e1697a_xl.png">
-            </media:thumbnail>
-        </item>
-        <item>
-            <title><![CDATA[Man Named &#039;Santa Claus&#039; Arrested For Allegedly Trying to Meet Up with Teenager For Sex]]></title>
-            <link>https://www.tmz.com/2026/06/30/santa-claus-arrested/</link>
-            <guid isPermaLink="false">https://www.tmz.com/2026/06/30/santa-claus-arrested/</guid>
-            <pubDate>Wed, 01 Jul 2026 00:05:02 GMT</pubDate>
-            <enclosure url="https://imagez.tmz.com/image/e0/16by9/2026/06/30/e0c984863de04d03a0f30e26cce5686e_xl.jpg" length="0" type="image/jpeg"/>
-            <media:content url="https://imagez.tmz.com/image/e0/16by9/2026/06/30/e0c984863de04d03a0f30e26cce5686e_xl.jpg" medium="image">
-            </media:content>
-            <media:thumbnail url="https://imagez.tmz.com/image/e0/16by9/2026/06/30/e0c984863de04d03a0f30e26cce5686e_xl.jpg">
             </media:thumbnail>
         </item>
     </channel>
